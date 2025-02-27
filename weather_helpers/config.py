@@ -72,7 +72,7 @@ class WeatherConfig:
         skill_setting = self.settings.get("units", "default")
         core_setting = self.core_config["system_unit"]
 
-        system = skill_setting if skill_setting is not "default" \
+        system = skill_setting if skill_setting != "default" \
             else core_setting
 
         if system not in (METRIC, IMPERIAL):

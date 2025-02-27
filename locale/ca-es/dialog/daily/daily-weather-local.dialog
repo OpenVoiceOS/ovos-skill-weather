@@ -1,0 +1,5 @@
+Es preveu {condition}, amb una màxima de {high_temperature} i una mínima de {low_temperature} el {day}
+La previsió del {day} es {condition} amb una màxima de {high_temperature} i una minima de {low_temperature}
+{day} es preveu {condition} amb una màxima de {high_temperature} i una mínima de {low_temperature}
+{day} es preveu {condition}, amb una màxima de {high_temperature} i una mínima de {low_temperature}
+{day} la màxima serà de {high_temperature} graus i la mínima de {low_temperature}, amb {condition}

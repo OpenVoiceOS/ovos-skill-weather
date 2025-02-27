@@ -1,0 +1,252 @@
+{
+  "/vocabulary/location.voc": [
+    "Barcelona",
+    "Castelló València|Castelló|Castelló de la Plana",
+    "Mollerusa Lleida",
+    "Andorra la Vella|Andorra",
+    "Badalona",
+    "Tarragona",
+    "València",
+    "Lleida",
+    "Palma",
+    "Sant Feliu",
+    "Manresa",
+    "Girona",
+    "Lleida",
+    "Brussel·les",
+    "Perpinyà"
+  ],
+  "/vocabulary/sunrise.voc": [
+    "sortida del sol\nsortida de sol",
+    "eixida del sol\neixida de sol",
+    "alba",
+    "alba",
+    "albada"
+  ],
+  "/vocabulary/forecast.voc": [
+    "previsió"
+  ],
+  "/vocabulary/outside.voc": [
+    "fora\nexterior",
+    "fora\nexterior"
+  ],
+  "/vocabulary/sunset.voc": [
+    "posta de sol",
+    "posta de sol",
+    "capvespre\nhorabaixa\nhora baixa"
+  ],
+  "/vocabulary/weather.voc": [
+    "temps"
+  ],
+  "/vocabulary/unit/unit.voc": [
+    "fahrenheit",
+    "celsius\ncentígrads"
+  ],
+  "/vocabulary/unit/fahrenheit.voc": [
+    "fahrenheit"
+  ],
+  "/vocabulary/query/how.voc": [
+    "com"
+  ],
+  "/vocabulary/query/when.voc": [
+    "quan",
+    "quan és",
+    "quan serà",
+    "quan és",
+    "a quina hora\na quin hora"
+  ],
+  "/vocabulary/query/query.voc": [
+    "com",
+    "què és",
+    "què és",
+    "què serà\nquè farà",
+    "(parla|explica)('m|'ns) (sobre|de|)",
+    "dóna'm",
+    "què"
+  ],
+  "/vocabulary/query/confirm-query.voc": [
+    "és",
+    "serà",
+    "hi ha",
+    "hi haurà",
+    "existeix",
+    "existiran",
+    "[UNUSED]",
+    "hi haurà"
+  ],
+  "/vocabulary/query/confirm-query-current.voc": [
+    "és",
+    "hi ha"
+  ],
+  "/vocabulary/query/confirm-query-future.voc": [
+    "va a",
+    "serà",
+    "aconseguirà",
+    "aconseguirà",
+    "ho serà",
+    "ho aconseguirà",
+    "hi haurà",
+    "hi hauran"
+  ],
+  "/vocabulary/date-time/number-days.voc": [
+    "2 dies",
+    "dos dies",
+    "els propers 2 dies\nels 2 dies següents",
+    "els propers dos dies\nels dos dies següents",
+    "els propers dies\nel proper parell de dies\nen uns dies",
+    "els propers dies",
+    "3 dies",
+    "tres dies",
+    "els propers 3 dies",
+    "els pròxims 3 dies",
+    "els propers dies",
+    "4 dies",
+    "quatre dies",
+    "els propers 4 dies",
+    "els pròxims 4 dies",
+    "5 dies",
+    "cinc dies",
+    "els propers 5 dies",
+    "els pròxims 5 dies",
+    "6 dies",
+    "sis dies",
+    "els propers 6 dies",
+    "els pròxims 6 dies"
+  ],
+  "/vocabulary/date-time/today.voc": [
+    "avui\nhui",
+    "avui"
+  ],
+  "/vocabulary/date-time/few.voc": [
+    "pocs\npoques\npròxims\npropers"
+  ],
+  "/vocabulary/date-time/now.voc": [
+    "actual",
+    "ara"
+  ],
+  "/vocabulary/date-time/later.voc": [
+    "(pròxima|propera|següent|vinent|que ven|) hora (pròxima|propera|següent|vinent|que ve|)",
+    "hores (següents|pròximes|properes|vinents|que venen)",
+    "poques hores",
+    "(següents|pròximes|properes) hores",
+    "(un parell d'|dues )hores",
+    "dues (següents|pròximes|properes|) hores (següents|pròximes|properes|vinents|que venen|)",
+    "després\nmés tard"
+  ],
+  "/vocabulary/date-time/week.voc": [
+    "setmana",
+    "setmanalment"
+  ],
+  "/vocabulary/date-time/weekend.voc": [
+    "cap de setmana"
+  ],
+  "/vocabulary/date-time/couple.voc": [
+    "parell\nparella"
+  ],
+  "/vocabulary/date-time/next.voc": [
+    "següent",
+    "altra vegada\naltre cop\naltre colp"
+  ],
+  "/vocabulary/date-time/relative-time.voc": [
+    "matí",
+    "migdia",
+    "tarda",
+    "vespre",
+    "nit",
+    "aquesta nit",
+    "mitjanit"
+  ],
+  "/vocabulary/date-time/relative-day.voc": [
+    "demà",
+    "demà",
+    "ahir",
+    "ahir",
+    "dilluns",
+    "dilluns",
+    "dimarts",
+    "dimarts",
+    "dimecres",
+    "dimecres",
+    "dijous",
+    "dijous",
+    "divendres",
+    "divendres",
+    "dissabte",
+    "dissabte",
+    "diumenge",
+    "diumenge",
+    "dies"
+  ],
+  "/vocabulary/temperature/cold.voc": [
+    "fred",
+    "fresc",
+    "congelant",
+    "fred"
+  ],
+  "/vocabulary/temperature/temperature.voc": [
+    "temperatura",
+    "temperatura"
+  ],
+  "/vocabulary/temperature/low.voc": [
+    "baix\nbaixa",
+    "la més baixa",
+    "mínima",
+    "mínim\nmínima"
+  ],
+  "/vocabulary/temperature/high.voc": [
+    "alt\nalta",
+    "la més alta",
+    "màxima",
+    "màxim\nmàxima"
+  ],
+  "/vocabulary/temperature/hot.voc": [
+    "(templat|templada)",
+    "(calor|calent|calenta)"
+  ],
+  "/vocabulary/condition/fog.voc": [
+    "boira",
+    "boirós",
+    "broma",
+    "bromós"
+  ],
+  "/vocabulary/condition/precipitation.voc": [
+    "pluja",
+    "neu",
+    "precipitació",
+    "plujós",
+    "nevós",
+    "plovent",
+    "nevant",
+    "plugim"
+  ],
+  "/vocabulary/condition/humidity.voc": [
+    "humit\nhumida",
+    "humitat",
+    "vapor"
+  ],
+  "/vocabulary/condition/snow.voc": [
+    "(neu|nevant|aiguaneu)"
+  ],
+  "/vocabulary/condition/clear.voc": [
+    "(clar|assolellat|solejat|sol)",
+    "bon temps"
+  ],
+  "/vocabulary/condition/rain.voc": [
+    "(pluja fina|pluja|plujós|plugim|precipitació)"
+  ],
+  "/vocabulary/condition/clouds.voc": [
+    "(ennuvolat|núvol|núvols|núvols dispersos)"
+  ],
+  "/vocabulary/condition/thunderstorm.voc": [
+    "(tempesta|tempestós|tempestuós|tempestívol)"
+  ],
+  "/vocabulary/condition/windy.voc": [
+    "vent",
+    "(ventoler|ventós|airós)",
+    "vents",
+    "velocitat del vent",
+    "(brisa|ventim|ventijol)",
+    "(ràfegues|ratxes) de vent",
+    "(airós|ventoler|ventós)"
+  ]
+}

@@ -70,68 +70,68 @@
     "No, a {location} es preveu {condition}  el {day}"
   ],
   "/dialog/daily/daily-condition-expected-local.dialog": [
-    null,
-    null
+    "Sí, es preveu {condition} el {day}",
+    "Sí, la previsió és de {condition} el {day}"
   ],
   "/dialog/daily/daily-temperature-low-location.dialog": [
-    null,
-    null
+    "{day} les temperatures baixaran a  {temperature} graus a {location}",
+    "{day}, a {location} la temperatura baixarà a {temperature} graus"
   ],
   "/dialog/daily/daily-weather-local.dialog": [
-    null,
-    null,
-    null,
-    null,
-    null
+    "{day} es preveu {condition}, amb una màxima de {high_temperature} i una mínima de {low_temperature}",
+    "Es preveu {condition}, amb una màxima de {high_temperature} i una mínima de {low_temperature} el {day}",
+    "{day} la màxima serà de {high_temperature} graus i la mínima de {low_temperature}, amb {condition}",
+    "{day} es preveu {condition} amb una màxima de {high_temperature} i una mínima de {low_temperature}",
+    "La previsió del {day} es {condition} amb una màxima de {high_temperature} i una minima de {low_temperature}"
   ],
   "/dialog/daily/daily-sunrise-local.dialog": [
-    null,
-    null,
-    null
+    "el sol sortirà a les {time} {day}",
+    "la sortida del sol serà a les {time} {day}",
+    "{day} el sol sortirà a les {time}"
   ],
   "/dialog/daily/daily-wind-moderate-location.dialog": [
-    null,
-    null,
-    null
+    "{day} el vent serà moderat a {location}, amb una velocitat de {speed} {speed_unit} des del {direction}",
+    "La previsió {day} es que que {location} tindrà vent moderat des del {direction} de {speed} {speed_unit}",
+    "Es preveu un vent d'aproximadament {speed} {speed_unit} a {location} el {dia}"
   ],
   "/dialog/daily/daily-temperature-high-local.dialog": [
-    null,
-    null
+    "{dia} la temperatura pujarà a {temperature}",
+    "{dia} la temperatura pujarà a {temperature} graus."
   ],
   "/dialog/daily/daily-wind-moderate-local.dialog": [
-    null,
-    null,
-    null
+    "El vent serà moderat, d'uns {speed} {speed_unit} venint de {direction} {day}",
+    "La previsió és de vent de {direction} a {speed} {speed_unit} {day}",
+    "Es preveu un vent moderat d'uns {speed} {speed_unit} {day}"
   ],
   "/dialog/daily/daily-wind-strong-location.dialog": [
-    null,
-    null
+    "Hi haurà vents forts de {direction} a {speed} {speed_unit} a {location} {day}",
+    "Hi haurà vents de fins a {speed} {speed_unit} a {location} {day}"
   ],
   "/dialog/daily/daily-wind-strong-local.dialog": [
-    null,
-    null
+    "Hi haurà forts vents de {direction} a {speed} {speed_unit} {day}",
+    "Hi haurà vents de fins a {speed} {speed_unit} {day}"
   ],
   "/dialog/daily/daily-temperature-location.dialog": [
-    null,
-    null
+    "{day} farà {temperature} graus a {location}",
+    "{day}, {location} tindrà una temperatura de {temperature} graus."
   ],
   "/dialog/daily/daily-precipitation-next-none-location.dialog": [
-    null,
-    null
+    "No es preveu cap precipitació per als propers set dies a {location}",
+    "A {location} no hi ha previsió."
   ],
   "/dialog/daily/daily-humidity-location.dialog": [
-    null,
-    null
+    "{day}, la humitat a {location} serà de {percent}",
+    "{day} la previsió {location} és d'un {percent} humitat."
   ],
   "/dialog/daily/daily-wind-light-local.dialog": [
-    null,
-    null
+    "Hi haurà un vent suau des de {direction} a {speed} {speed_unit} {day}",
+    "No hi haurà gaire vent {day}"
   ],
   "/dialog/daily/daily-temperature-high-low-local.dialog": [
-    null
+    "La previsió d'avui és d'una màxima de {high_temperature} i una mínima de {low_temperature}."
   ],
   "/dialog/daily/daily-wind-light-location.dialog": [
-    null,
+    " {day} hi haurà un vent suau de  {direction} a {location} a {speed} {speed_unit}",
     "No farà gaire vent a {location} el {day}"
   ],
   "/dialog/unit/celsius.dialog": [
@@ -156,277 +156,277 @@
     "mil·límetre"
   ],
   "/dialog/current/current-humidity-local.dialog": [
-    null
+    "En aquests moment la humitat és de {percent}"
   ],
   "/dialog/current/current-sunrise-future-location.dialog": [
-    null,
-    null
+    "El sol ha sortit avui a {time} a {location}",
+    "Avui a {location} el sol s'ha post a  {time}."
   ],
   "/dialog/current/current-humidity-location.dialog": [
-    null
+    "Ara mateix, la humitat en {location} és {percent}"
   ],
   "/dialog/current/current-temperature-location.dialog": [
-    null,
-    null,
-    null
+    "Ara mateix, tenim {temperature} graus {temperature_unit} en {location}.",
+    "Ara mateix tenim {temperature} graus en {location}.",
+    "En aquests moments, hi ha {temperature} graus a {location}."
   ],
   "/dialog/current/current-sunset-past-location.dialog": [
-    null,
-    null,
-    null
+    "el sol es s'ha post avui a les {time} en {location}",
+    "en {location} el sol s'ha post avui a les {time}",
+    "avui la posta de sol ha estat a les {time} a {location}"
   ],
   "/dialog/current/current-sunset-future-location.dialog": [
-    null,
-    null,
-    null
+    "el sol es pondrà avui a les {time} a {location}",
+    "en {location} el sol es pondrà avui a les {time}",
+    "la posta de sol serà avui a les {time} en {location}"
   ],
   "/dialog/current/current-weather-local.dialog": [
-    null,
-    null,
-    null
+    "Actualment hi ha {condition} i {temperature} graus {temperature_unit}.",
+    "Ara mateix hi ha {condition} i {temperature} graus.",
+    "Ara mateix, tenim {condition} i {temperature} graus."
   ],
   "/dialog/current/current-condition-expected-location.dialog": [
-    null,
-    null
+    "Sí, serà {condition} en {location}",
+    "En {location}, sembla que avui hi haurà {condition}"
   ],
   "/dialog/current/current-sunset-future-local.dialog": [
-    null,
-    null,
-    null
+    "avui el sol es pondrà a les {time}",
+    "avui el sol es pondrà a les {time}",
+    "avui la posta de sol serà a les {time}"
   ],
   "/dialog/current/current-condition-expected-local.dialog": [
-    null,
-    null
+    "Sí, avui serà un dia {condition}",
+    "Sembla que avui serà {condition}"
   ],
   "/dialog/current/current-wind-strong-location.dialog": [
-    null,
-    null,
-    null
+    "En aquests moments, el vent és de direcció {direction} a {speed} {speed_unit} en {location}, un bon dia per a quedar-se a cobert",
+    "Avui el vent és força fort en direcció {direction} en {location}, {speed} {speed_unit}",
+    "{location} tindrà vents forts avui, {speed} {speed_unit}"
   ],
   "/dialog/current/current-sunrise-future-local.dialog": [
-    null,
-    null
+    "Avui el sol sortirà a les {time}",
+    "Avui l'albada serà a les {time}"
   ],
   "/dialog/current/current-condition-not-expected-local.dialog": [
-    null,
-    null
+    "No, les previsions meteorològiques per a avui indiquen un dia {condition}",
+    "No, avui s'espera un dia {condition}"
   ],
   "/dialog/current/current-sunset-past-local.dialog": [
-    null,
-    null,
-    null
+    "avui, la sortida del sol és a les {time}",
+    "avui el sol s'ha post a les {time}",
+    "avui la posta de sol era a les {time}"
   ],
   "/dialog/current/current-weather-location.dialog": [
-    null,
-    null,
-    null
+    "Ara mateix hi ha {condition} i {temperature} graus {temperature_unit} en {location}.",
+    "Ara mateix, tenim {condition} i {temperature} graus en {location}.",
+    "En {location} tenim un dia {condition} i actualment té una temperatura de {temperatura} graus."
   ],
   "/dialog/current/current-wind-moderate-location.dialog": [
-    null,
-    null
+    "En aquests moments, en {location}, el vent és moderat, {speed} {speed_unit}, amb component {direction}",
+    "Avui fa una mica de vent a {location}, ara mateix bufa a {speed} {speed_unit}"
   ],
   "/dialog/current/current-wind-moderate-local.dialog": [
-    null,
-    null
+    "En aquests moments, el vent és moderat, {speed} {speed_unit} des del {direction}",
+    "Avui fa una mica de vent, ara mateix {speed} {speed_unit}"
   ],
   "/dialog/current/current-condition-not-expected-location.dialog": [
-    null,
-    null
+    "No, avui la previsió indica {condition} en {location}",
+    "No, en {location} avui s'espera un dia {condition}"
   ],
   "/dialog/current/current-sunrise-past-location.dialog": [
-    null,
-    null
+    "avui el sol ha sortit a les {time} en {location}",
+    "avui la sortida del sol ha estat a les {time} en {location}"
   ],
   "/dialog/current/current-wind-strong-local.dialog": [
-    null,
-    null,
-    null
+    "Ara mateix, el vent és de component {direction} a {speed} {speed_unit}, avui pot ser bona idea quedar-se a cobert",
+    "Avui el vent és molt fort del {direction}, {speed} {speed_unit}",
+    "Avui el vent que bufa des del {direction} és molt fort, {speed} {speed_unit}"
   ],
   "/dialog/current/currrent-clouds-alternative-local.dialog": [
-    null,
-    null,
-    null
+    "No, avui la previsió indica {condition}",
+    "No hauria d'estar ennuvolat, sembla que avui hi haurà {condition}",
+    "No ho sembla, és probable que avui sigui {condition}"
   ],
   "/dialog/current/current-wind-light-local.dialog": [
-    null,
-    null
+    "El vent és suau, a {speed} {speed_unit} des del {direction}",
+    "Avui hi ha vent suau del {direction} a {speed} {speed_unit}"
   ],
   "/dialog/current/current-wind-light-location.dialog": [
-    null,
-    null
+    "En {location}, el vent bufa fluix a {speed} {speed_unit} des del {direction}",
+    "A {location} avui hi ha vent de {direction} fluix a {speed} {speed_unit}"
   ],
   "/dialog/current/current-sunrise-past-local.dialog": [
-    null,
-    null
+    "avui el sol ha sortit a les {time}",
+    "Avui la sortida del sol ha estat a les {time}"
   ],
   "/dialog/current/current-temperature-local.dialog": [
-    null,
-    null,
-    null
+    "En aquests moments hi ha {temperature} graus {temperature_unit}.",
+    "Ara mateix hi ha {temperature} graus.",
+    "Ara mateix, hi ha {temperatura} graus."
   ],
   "/dialog/weekly/weekly-condition.dialog": [
-    null,
-    null
+    "La previsió indica {condition} els {days}",
+    "Els {days} espereu {condition}"
   ],
   "/dialog/weekly/weekly-temperature.dialog": [
-    null
+    "Les mínimes seran entre {low_min} i {low_max}, amb màximes entre {high_min} i {high_max}"
   ],
   "/dialog/date-time/afternoon.dialog": [
-    null
+    "tarda"
   ],
   "/dialog/date-time/morning.dialog": [
-    null
+    "matí"
   ],
   "/dialog/date-time/evening.dialog": [
-    null
+    "vespre"
   ],
   "/dialog/date-time/early morning.dialog": [
-    null
+    "matinada"
   ],
   "/dialog/date-time/overnight.dialog": [
-    null
+    "nit"
   ],
   "/dialog/condition/drizzle-dense-intensity.dialog": [
-    null
+    "Plugim, intensitat alta"
   ],
   "/dialog/condition/drizzle-moderate-intensity.dialog": [
-    null
+    "Plugim, intensitat moderada"
   ],
   "/dialog/condition/thunderstorm.dialog": [
-    null
+    "Tempesta"
   ],
   "/dialog/condition/moderate-rain.dialog": [
-    null
+    "Pluja moderada"
   ],
   "/dialog/condition/heavy-rain.dialog": [
-    null
+    "Xàfec"
   ],
   "/dialog/condition/haze.dialog": [
-    null
+    "Calitja"
   ],
   "/dialog/condition/rain.dialog": [
-    null
+    "Pluja"
   ],
   "/dialog/condition/moderate-rain-showers.dialog": [
-    null
+    "Xàfecs moderats"
   ],
   "/dialog/condition/slight-rain.dialog": [
-    null
+    "Pluja fina"
   ],
   "/dialog/condition/humidity.dialog": [
-    null
+    "humitat"
   ],
   "/dialog/condition/mist.dialog": [
-    null
+    "boira"
   ],
   "/dialog/condition/slight-snow-showers.dialog": [
-    null
+    "Ruixats de neu lleus"
   ],
   "/dialog/condition/freezing-drizzle-dense-intensity.dialog": [
-    null
+    "Plugim gelant, intensitat alta"
   ],
   "/dialog/condition/drizzle.dialog": [
-    null
+    "Plugim"
   ],
   "/dialog/condition/heavy-snow-fall.dialog": [
-    null
+    "Neu forta"
   ],
   "/dialog/condition/freezing-rain-light-intensity.dialog": [
-    null
+    "Pluja gelant, poca intensitat"
   ],
   "/dialog/condition/snow-grains.dialog": [
-    null
+    "Flocs de neu"
   ],
   "/dialog/condition/dust.dialog": [
-    null
+    "Pols"
   ],
   "/dialog/condition/squall.dialog": [
-    null
+    "borrasca"
   ],
   "/dialog/condition/thunderstorm-with-slight-hail.dialog": [
-    null
+    "Tempesta amb pedra lleugera"
   ],
   "/dialog/condition/freezing-drizzle-light-intensity.dialog": [
-    null
+    "Plugim gelant, poca intensitat"
   ],
   "/dialog/condition/slight-rain-showers.dialog": [
-    null
+    "Xàfecs lleugers"
   ],
   "/dialog/condition/heavy-snow-showers.dialog": [
-    null
+    "Xàfecs forts"
   ],
   "/dialog/condition/clear.dialog": [
-    null
+    "un cel serè"
   ],
   "/dialog/condition/thunderstorm-with-heavy-hail.dialog": [
-    null
+    "Tempesta amb pedra forta"
   ],
   "/dialog/condition/partly-cloudy.dialog": [
-    null
+    "parcialment ennuvolat"
   ],
   "/dialog/condition/drizzle-light-intensity.dialog": [
-    null
+    "Plugim, poca intensitat"
   ],
   "/dialog/condition/violent-rain-showers.dialog": [
-    null
+    "Xàfecs molt forts"
   ],
   "/dialog/condition/fog.dialog": [
-    null
+    "boira"
   ],
   "/dialog/condition/smoke.dialog": [
-    null
+    "fum"
   ],
   "/dialog/condition/slight-snow-fall.dialog": [
-    null
+    "Nevada lleugera"
   ],
   "/dialog/condition/mainly-clear.dialog": [
-    null
+    "Cel serè"
   ],
   "/dialog/condition/depositing-rime-fog.dialog": [
-    null
+    "boira gebradora"
   ],
   "/dialog/condition/snow.dialog": [
-    null
+    "neu"
   ],
   "/dialog/condition/clouds.dialog": [
-    null
+    "núvols"
   ],
   "/dialog/condition/tornado.dialog": [
-    null
+    "tornado"
   ],
   "/dialog/condition/freezing-rain-dense-intensity.dialog": [
-    null
+    "Pluja gelant, intensitat alta"
   ],
   "/dialog/condition/moderate-snow-fall.dialog": [
-    null
+    "Nevada moderada"
   ],
   "/dialog/condition/overcast.dialog": [
-    null
+    "cel cobert"
   ],
   "/dialog/condition/ash.dialog": [
-    null
+    "cendra"
   ],
   "/dialog/condition/clear-sky.dialog": [
     "cel clar"
   ],
   "/dialog/error/location-not-found.dialog": [
-    null,
-    null
+    "No puc trobar cap ciutat anomenada {location}. Torneu-ho a provar",
+    "La ciutat de {location} no és a la base de dades. Torneu-ho a provar"
   ],
   "/dialog/error/forty-eight-hours-available.dialog": [
-    null
+    "Només tinc les dades de 48 hores  de previsió meteorològica"
   ],
   "/dialog/error/no-forecast.dialog": [
-    null,
-    null
+    "No conec la previsió {day}",
+    "No tinc una previsió per {day}"
   ],
   "/dialog/error/cant-get-forecast.dialog": [
-    null,
-    null
+    "Ara mateix no puc accedir a la previsió meteorològica.",
+    "Els informes meteorològics ara mateix no són disponibles."
   ],
   "/dialog/error/seven-days-available.dialog": [
-    null,
-    null
+    "Tinc disponibles set dies de previsions meteorològiques.",
+    "Puc indicar-vos la previsió meteorològica dels pròxims set dies."
   ],
   "/dialog/direction/northeast.dialog": [
     "nord-est"
@@ -453,37 +453,37 @@
     "oest"
   ],
   "/dialog/hourly/hourly-weather-local.dialog": [
-    null,
-    null,
-    null,
-    null
+    "Serà {condition}, amb temperatures al voltant de {temperature}",
+    "Després tindrem {condition} i al volant de {temperature} graus",
+    "Després tindrem {condition} i {temperature} graus",
+    "Al voltant de {temperature} graus amb {condition}"
   ],
   "/dialog/hourly/hourly-precipitation-next-local.dialog": [
-    null,
-    null
+    "Hi ha una probabilitat del {percent} de {precipitation} a les {time}",
+    "La predicció meteorològica indica un {percent} de probabilitat de {precipitation} a les {time}"
   ],
   "/dialog/hourly/hourly-condition-expected-local.dialog": [
-    null
+    "Sí, la previsió meteorològica de les {time} indica {condition}"
   ],
   "/dialog/hourly/hourly-weather-location.dialog": [
-    null,
-    null,
-    null,
-    null
+    "El temps en {location} de les pròximes hores serà {condition} amb una temperatura de  {temperature} graus",
+    "Després serà {condition} en {location}, amb temperatures al voltant de {temperature}",
+    "{location} tindrà al voltant de {temperature} graus amb {condition}",
+    "{location} tindrà uns {temperature} graus i {condition}"
   ],
   "/dialog/hourly/hourly-temperature-location.dialog": [
-    null,
-    null
+    "En {location} hi haurà {temperature} graus de temperatura a les {time}",
+    "A les {time}, tindrem una temperatura de {temperature} graus en {location}"
   ],
   "/dialog/hourly/hourly-precipitation-next-location.dialog": [
-    null,
-    null
+    "En {location} hi ha {percent} de probabilitat de {precipitation} a les {time}",
+    "La predicció meteorològica indica una probabilitat de {percent} de {precipitation} en {location} a les {time}"
   ],
   "/dialog/hourly/hourly-temperature-local.dialog": [
-    null,
-    null
+    "Tindrem una temperatura de {temperature} graus a les {time}",
+    "A les {time}, hi haurà {temperature} graus de temperatura"
   ],
   "/dialog/hourly/hourly-condition-expected-location.dialog": [
-    null
+    "Sí, serà {condition} a les {time}"
   ]
 }

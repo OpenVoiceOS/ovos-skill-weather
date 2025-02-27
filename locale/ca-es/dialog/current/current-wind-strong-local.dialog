@@ -1,0 +1,3 @@
+Ara mateix, el vent és de component {direction} a {speed} {speed_unit}, avui pot ser bona idea quedar-se a cobert
+Avui el vent que bufa des del {direction} és molt fort, {speed} {speed_unit}
+Avui el vent és molt fort del {direction}, {speed} {speed_unit}

@@ -1,0 +1,3 @@
+Avui el vent és força fort en direcció {direction} en {location}, {speed} {speed_unit}
+En aquests moments, el vent és de direcció {direction} a {speed} {speed_unit} en {location}, un bon dia per a quedar-se a cobert
+{location} tindrà vents forts avui, {speed} {speed_unit}

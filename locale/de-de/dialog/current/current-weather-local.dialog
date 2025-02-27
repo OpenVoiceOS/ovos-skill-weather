@@ -1,2 +1,3 @@
 Es ist im Moment {condition} bei {temperature} Grad {temperature_unit}.
+Im Moment sind es {condition} und {temperature} Grad.
 Momentan {condition} bei {temperature} Grad.

@@ -1,0 +1,3 @@
+Ara mateix tenim {temperature} graus en {location}.
+Ara mateix, tenim {temperature} graus {temperature_unit} en {location}.
+En aquests moments, hi ha {temperature} graus a {location}.

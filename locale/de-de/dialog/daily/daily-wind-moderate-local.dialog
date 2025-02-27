@@ -1,2 +1,3 @@
 Es ist {day} etwas windig, {speed} {speed_unit} von {direction}.
+es ist ein moderater wind mit einer windgeschwindigkeit von  {speed} {speed_unit} {day} zu erwarten
 {day} ist mit leichtem Wind mit {speed} {speed_unit} von {direction} zu erwarten.

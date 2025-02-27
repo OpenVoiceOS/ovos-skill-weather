@@ -1,2 +1,3 @@
-sonnenuntergang ist in {location} um {time} {day}
+der sonnenuntergang ist in {location} um {time} {day}
 {day} geht die sonne in {location} um {time} unter
+{day} wird die sonne um {time} in {location} untergehen

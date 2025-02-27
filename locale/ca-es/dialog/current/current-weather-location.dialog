@@ -1,0 +1,3 @@
+Ara mateix hi ha {condition} i {temperature} graus {temperature_unit} en {location}.
+Ara mateix, tenim {condition} i {temperature} graus en {location}.
+En {location} tenim un dia {condition} i actualment té una temperatura de {temperatura} graus.

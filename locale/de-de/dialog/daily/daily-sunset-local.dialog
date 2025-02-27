@@ -1,2 +1,4 @@
+der sonnenuntergang wird um {time} {day} sein
 sonnenuntergang ist um {time} {day}
 {day} geht die sonne um {time} unter
+{day} ist der sonnenuntergang um {time}

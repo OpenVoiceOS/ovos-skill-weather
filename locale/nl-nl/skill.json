@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-weather",
+  "name": "Weer",
+  "description": "Ontvang de weersvoorspellingen, verwachte neerslag en meer! Je kunt ook vragen naar het weerbeeld in andere steden over de hele wereld. Huidige weergegevens en voorspellingen komen van OpenMeteo",
+  "examples": [
+    "Wat is het weer?",
+    "Hoe warm is het?",
+    "Wat is de weersverwachting voor morgen?",
+    "Hoe is het weer in Houston?",
+    "Wat is de temperatuur morgen in Parijs in Celsius?",
+    "Hoe warm wordt het morgen?",
+    "Wanneer is de zonsondergang?",
+    "Gaat het sneeuwen in Baltimore?",
+    "Gaat het sneeuwen?",
+    "Hoe wordt het weer dinsdag?",
+    "Hoe is het weer de komende drie dagen?",
+    "Hoe hoog is de luchtvochtigheid?",
+    "Hoe is het weer dit weekend?",
+    "Wat is de weersverwachting voor morgen in Londen?",
+    "Staat er veel wind?",
+    "Wanneer gaat het weer regenen?",
+    "Wordt het koud op dinsdag?",
+    "regent het?"
+  ],
+  "tags": [
+    "weer",
+    "weersvoorspelling",
+    "regen",
+    "vochtigheid",
+    "sneeuw",
+    "temperatuur"
+  ]
+}
