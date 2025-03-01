@@ -36,7 +36,8 @@
         "dusk"
     ],
     "/vocabulary/weather.voc": [
-        "weather"
+        "weather",
+        "metereology"
     ],
     "/vocabulary/unit/unit.voc": [
         "fahrenheit",

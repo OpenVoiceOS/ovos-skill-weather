@@ -36,7 +36,8 @@
     "capvespre\nhorabaixa\nhora baixa"
   ],
   "/vocabulary/weather.voc": [
-    "temps"
+    "temps",
+    "metereologia"
   ],
   "/vocabulary/unit/unit.voc": [
     "fahrenheit",
