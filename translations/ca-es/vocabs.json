@@ -24,11 +24,11 @@
     "albada"
   ],
   "/vocabulary/forecast.voc": [
-    "previsió"
+    "(previsió|condicions)"
   ],
   "/vocabulary/outside.voc": [
-    "fora\nexterior",
-    "fora\nexterior"
+    "fora",
+    "exterior"
   ],
   "/vocabulary/sunset.voc": [
     "posta de sol",
@@ -36,7 +36,8 @@
     "capvespre\nhorabaixa\nhora baixa"
   ],
   "/vocabulary/weather.voc": [
-    "temps"
+    "temps",
+    "(metereologia|meteorològiques)"
   ],
   "/vocabulary/unit/unit.voc": [
     "fahrenheit",
@@ -58,7 +59,7 @@
   "/vocabulary/query/query.voc": [
     "com",
     "què és",
-    "què és",
+    "(quin|quina|quines)",
     "què serà\nquè farà",
     "(parla|explica)('m|'ns) (sobre|de|)",
     "dóna'm",
