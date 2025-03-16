@@ -1,9 +1,9 @@
 {
   "/vocabulary/location.voc": [
     "Seattle",
-    "Los Angeles Kalifornien|Los Angeles|la",
+    "(Los Angeles Kalifornien|Los Angeles|L A)",
     "Lawrence kansas",
-    "Portland, Oregon|Portland",
+    "(Portland, Oregon|Portland)",
     "Spokane",
     "New York",
     "Chicago",
@@ -36,7 +36,8 @@
     "Sonnenuntergang\nAbenddämmerung"
   ],
   "/vocabulary/weather.voc": [
-    "Wetter"
+    "Wetter",
+    "Meteorologie"
   ],
   "/vocabulary/unit/unit.voc": [
     "Fahrenheit",
@@ -53,7 +54,7 @@
     "wann wird (es|)",
     "wann ist (es|)",
     "wann war (es|)",
-    "wie viel Uhr\num wie viel uhr"
+    "(wie viel Uhr|um wie viel uhr)"
   ],
   "/vocabulary/query/query.voc": [
     "wie",
@@ -109,7 +110,7 @@
     "fünf Tage",
     "in den nächsten fünf tagen",
     "in den nächsten 6 tagen",
-    "sechs Tage|",
+    "(sechs Tage|)",
     "nächsten 6 Tage",
     "nächsten sechs Tage"
   ],
@@ -125,11 +126,11 @@
     "jetzt"
   ],
   "/vocabulary/date-time/later.voc": [
-    "nächste(n) Stunde",
+    "(nächste|nächsten) Stunde",
     "nächsten Stunden",
-    "einige(n) Stunden",
+    "(einige|einigen) Stunden",
     "nächsten paar Stunden",
-    "einige Stunden\nein paar stunden",
+    "(einige Stunden|ein paar stunden)",
     "nächsten Stunden",
     "später"
   ],
@@ -197,7 +198,7 @@
     "Höchstwert",
     "Höchsttemperatur",
     "hoch",
-    "höchste(n|r|s)"
+    "(höchste|höchsten|höchster|höchstes)"
   ],
   "/vocabulary/temperature/hot.voc": [
     "warm",
