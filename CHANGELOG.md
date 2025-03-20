@@ -1,15 +1,12 @@
 # Changelog
 
-## [0.1.16a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.16a1) (2025-03-20)
+## [0.1.17a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.17a1) (2025-03-20)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.15...0.1.16a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.16...0.1.17a1)
 
 **Merged pull requests:**
 
-- feat: improve intents [\#123](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/123) ([JarbasAl](https://github.com/JarbasAl))
-- updating German translation [\#122](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/122) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-- Extend vocab [\#121](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/121) ([JarbasAl](https://github.com/JarbasAl))
-- added italian [\#91](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/91) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- Translations [\#125](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/125) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
