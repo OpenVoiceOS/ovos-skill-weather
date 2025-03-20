@@ -1,2 +1,6 @@
-{day}(|e)an tenperatura {temperature} gradukoa izango da.
-{day}(|e)an {temperature}(|e)ko tenperatura izango da
+{day}an tenperatura {temperature} gradukoa izango da.
+{day}an {temperature}eko tenperatura izango da
+{day}an {temperature}ko tenperatura izango da
+{day}ean tenperatura {temperature} gradukoa izango da.
+{day}ean {temperature}eko tenperatura izango da
+{day}ean {temperature}ko tenperatura izango da

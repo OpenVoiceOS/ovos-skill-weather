@@ -1,2 +1,8 @@
-Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {location}(|e)n {day}(|e)an
-Haizea bizia izango da, {speed} {speed_unit}, {location}(|e)n {day}(|e)an
+Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {location}en {day}an
+Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {location}en {day}ean
+Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {location}n {day}an
+Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {location}n {day}ean
+Haizea bizia izango da, {speed} {speed_unit}, {location}en {day}an
+Haizea bizia izango da, {speed} {speed_unit}, {location}en {day}ean
+Haizea bizia izango da, {speed} {speed_unit}, {location}n {day}an
+Haizea bizia izango da, {speed} {speed_unit}, {location}n {day}ean

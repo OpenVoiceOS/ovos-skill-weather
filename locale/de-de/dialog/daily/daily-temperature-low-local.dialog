@@ -1,2 +1,3 @@
-{day} beträgt die {temperature} grad (celsius | )
+{day} beträgt die {temperature} grad
+{day} beträgt die {temperature} grad celsius
 {day} wird eine Tiefsttemperatur von {temperature} Grad erreicht.

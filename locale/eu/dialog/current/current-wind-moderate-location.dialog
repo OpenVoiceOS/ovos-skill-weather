@@ -1,2 +1,4 @@
-Haize pixka bat dabil gaur {location}(|e)n, orain {speed} {speed_unit}
-Orain haizea moderatua da, {speed} {speed_unit}, {direction}tik, {location}(|e)n
+Haize pixka bat dabil gaur {location}en, orain {speed} {speed_unit}
+Haize pixka bat dabil gaur {location}n, orain {speed} {speed_unit}
+Orain haizea moderatua da, {speed} {speed_unit}, {direction}tik, {location}en
+Orain haizea moderatua da, {speed} {speed_unit}, {direction}tik, {location}n

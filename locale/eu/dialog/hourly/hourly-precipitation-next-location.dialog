@@ -1,2 +1,32 @@
-Iragarpenak {precipitation} izateko {percent}(|e)ko aukera eman du {location}(|e)n {time}(|e)(|t)an
-{location}(|e)n {precipitation} izateko {percent}(|e)ko aukera dago {time}(|e)(|t)an
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}en {time}an
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}en {time}ean
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}en {time}etan
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}en {time}tan
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}n {time}an
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}n {time}ean
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}n {time}etan
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}n {time}tan
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}en {time}an
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}en {time}ean
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}en {time}etan
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}en {time}tan
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}n {time}an
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}n {time}ean
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}n {time}etan
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}n {time}tan
+{location}en {precipitation} izateko {percent}eko aukera dago {time}an
+{location}en {precipitation} izateko {percent}eko aukera dago {time}ean
+{location}en {precipitation} izateko {percent}eko aukera dago {time}etan
+{location}en {precipitation} izateko {percent}eko aukera dago {time}tan
+{location}en {precipitation} izateko {percent}ko aukera dago {time}an
+{location}en {precipitation} izateko {percent}ko aukera dago {time}ean
+{location}en {precipitation} izateko {percent}ko aukera dago {time}etan
+{location}en {precipitation} izateko {percent}ko aukera dago {time}tan
+{location}n {precipitation} izateko {percent}eko aukera dago {time}an
+{location}n {precipitation} izateko {percent}eko aukera dago {time}ean
+{location}n {precipitation} izateko {percent}eko aukera dago {time}etan
+{location}n {precipitation} izateko {percent}eko aukera dago {time}tan
+{location}n {precipitation} izateko {percent}ko aukera dago {time}an
+{location}n {precipitation} izateko {percent}ko aukera dago {time}ean
+{location}n {precipitation} izateko {percent}ko aukera dago {time}etan
+{location}n {precipitation} izateko {percent}ko aukera dago {time}tan

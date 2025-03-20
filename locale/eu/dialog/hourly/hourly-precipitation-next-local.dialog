@@ -1,2 +1,16 @@
-Iragarpenak {precipitation} izateko {percent}(|e)ko aukera eman du {time}(|e)(|t)an
-{precipitation} izateko {percent}(|e)ko aukera dago {time}(|e)(|t)an
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {time}an
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {time}ean
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {time}etan
+Iragarpenak {precipitation} izateko {percent}eko aukera eman du {time}tan
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {time}an
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {time}ean
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {time}etan
+Iragarpenak {precipitation} izateko {percent}ko aukera eman du {time}tan
+{precipitation} izateko {percent}eko aukera dago {time}an
+{precipitation} izateko {percent}eko aukera dago {time}ean
+{precipitation} izateko {percent}eko aukera dago {time}etan
+{precipitation} izateko {percent}eko aukera dago {time}tan
+{precipitation} izateko {percent}ko aukera dago {time}an
+{precipitation} izateko {percent}ko aukera dago {time}ean
+{precipitation} izateko {percent}ko aukera dago {time}etan
+{precipitation} izateko {percent}ko aukera dago {time}tan

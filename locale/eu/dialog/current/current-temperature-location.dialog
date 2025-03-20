@@ -1,3 +1,6 @@
-Orain {temperature} gradu daude {location}(|e)n.
-Orain {temperature} gradu {temperature_unit} daude {location}(|e)n.
-Une honetan {temperature} gradu daude {location}(|e)n.
+Orain {temperature} gradu daude {location}en.
+Orain {temperature} gradu daude {location}n.
+Orain {temperature} gradu {temperature_unit} daude {location}en.
+Orain {temperature} gradu {temperature_unit} daude {location}n.
+Une honetan {temperature} gradu daude {location}en.
+Une honetan {temperature} gradu daude {location}n.
