@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.17a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.17a2) (2025-03-20)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.17a1...0.1.17a2)
+
+**Merged pull requests:**
+
+- fix: translations [\#127](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/127) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.17a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.17a1) (2025-03-20)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.16...0.1.17a1)
