@@ -1,4 +1,2 @@
-Haizea arina da {location}en, {speed} {speed_unit}, {direction}tik
-Haizea arina da {location}n, {speed} {speed_unit}, {direction}tik
-{location}en haize arina dabil gaur {direction}tik, {speed} {speed_unit}
-{location}n haize arina dabil gaur {direction}tik, {speed} {speed_unit}
+Haizea arina da {location}, {speed} {speed_unit}, {direction}tik
+{location} haize arina dabil gaur {direction}tik, {speed} {speed_unit}

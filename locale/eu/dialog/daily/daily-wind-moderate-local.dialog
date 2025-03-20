@@ -1,6 +1,3 @@
-Haize moderatua espero dezakezu, {speed} {speed_unit} ingurukoa, {day}an
-Haize moderatua espero dezakezu, {speed} {speed_unit} ingurukoa, {day}ean
-Haizea moderatua izango da, {speed} {speed_unit} ingurukoa, {direction}tik {day}an
-Haizea moderatua izango da, {speed} {speed_unit} ingurukoa, {direction}tik {day}ean
-Iragarpenak haize moderatua eman du {direction}tik, {speed} {speed_unit}, {day}an
-Iragarpenak haize moderatua eman du {direction}tik, {speed} {speed_unit}, {day}ean
+Haize moderatua espero dezakezu, {speed} {speed_unit} ingurukoa, {day}
+Haizea moderatua izango da, {speed} {speed_unit} ingurukoa, {direction}tik {day}
+Iragarpenak haize moderatua eman du {direction}tik, {speed} {speed_unit}, {day}

@@ -1,8 +1,2 @@
-Iragarpenak {precipitation} izateko {percent}eko aukera eman du {day}an
-Iragarpenak {precipitation} izateko {percent}eko aukera eman du {day}ean
-Iragarpenak {precipitation} izateko {percent}ko aukera eman du {day}an
-Iragarpenak {precipitation} izateko {percent}ko aukera eman du {day}ean
-{precipitation} izateko {percent}eko aukera dago {day}an
-{precipitation} izateko {percent}eko aukera dago {day}ean
-{precipitation} izateko {percent}ko aukera dago {day}an
-{precipitation} izateko {percent}ko aukera dago {day}ean
+Iragarpenak {precipitation} izateko {percent} aukera eman du {day}
+{precipitation} izateko {percent} aukera dago {day}

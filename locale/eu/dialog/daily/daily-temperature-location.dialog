@@ -1,8 +1,2 @@
-{day}an {temperature} gradu izango dira {location}en
-{day}an {temperature} gradu izango dira {location}n
-{day}an. {location}en {temperature} graduko tenperatura izango da
-{day}an. {location}n {temperature} graduko tenperatura izango da
-{day}ean {temperature} gradu izango dira {location}en
-{day}ean {temperature} gradu izango dira {location}n
-{day}ean. {location}en {temperature} graduko tenperatura izango da
-{day}ean. {location}n {temperature} graduko tenperatura izango da
+{day} {temperature} gradu izango dira {location}
+{day}. {location} {temperature} graduko tenperatura izango da

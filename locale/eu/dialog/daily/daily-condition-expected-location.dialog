@@ -1,8 +1,2 @@
-Bai, {condition} espero da {location}en {day}an
-Bai, {condition} espero da {location}en {day}ean
-Bai, {condition} espero da {location}n {day}an
-Bai, {condition} espero da {location}n {day}ean
-Bai. Iragarpenak {condition} eman du {location}en {day}an
-Bai. Iragarpenak {condition} eman du {location}en {day}ean
-Bai. Iragarpenak {condition} eman du {location}n {day}an
-Bai. Iragarpenak {condition} eman du {location}n {day}ean
+Bai, {condition} espero da {location} {day}
+Bai. Iragarpenak {condition} eman du {location} {day}
