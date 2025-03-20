@@ -1,1 +1,1 @@
-(op|in) (P<Location>.*)
+(op|in) (?P<Location>.*)
