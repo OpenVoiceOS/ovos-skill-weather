@@ -1,1 +1,1 @@
-.*\b(en) (?P<Location>(?!\bcelsius\b|\bfahrenheit\b) *.+)
+.*\b(en) (P<Location>(!\bcelsius\b|\bfahrenheit\b) *.+)
