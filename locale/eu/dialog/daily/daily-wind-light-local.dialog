@@ -1,2 +1,4 @@
-Ez da haize handia ibiliko {day}(|e)an
-Haize arina etorriko da {direction}tik {day}(|e)an, {speed} {speed_unit}
+Ez da haize handia ibiliko {day}an
+Ez da haize handia ibiliko {day}ean
+Haize arina etorriko da {direction}tik {day}an, {speed} {speed_unit}
+Haize arina etorriko da {direction}tik {day}ean, {speed} {speed_unit}

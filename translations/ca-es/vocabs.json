@@ -24,11 +24,11 @@
     "albada"
   ],
   "/vocabulary/forecast.voc": [
-    "previsió"
+    "(previsió|condicions)"
   ],
   "/vocabulary/outside.voc": [
-    "fora\nexterior",
-    "fora\nexterior"
+    "fora",
+    "exterior"
   ],
   "/vocabulary/sunset.voc": [
     "posta de sol",
@@ -36,7 +36,8 @@
     "capvespre\nhorabaixa\nhora baixa"
   ],
   "/vocabulary/weather.voc": [
-    "temps"
+    "temps",
+    "(metereologia|meteorològiques)"
   ],
   "/vocabulary/unit/unit.voc": [
     "fahrenheit",
@@ -58,7 +59,7 @@
   "/vocabulary/query/query.voc": [
     "com",
     "què és",
-    "què és",
+    "(quin|quina|quines)",
     "què serà\nquè farà",
     "(parla|explica)('m|'ns) (sobre|de|)",
     "dóna'm",
@@ -181,11 +182,11 @@
     "fred",
     "fresc",
     "congelant",
-    "fred"
+    "(gèlid|glacial|refredat|frígid|desgel)"
   ],
   "/vocabulary/temperature/temperature.voc": [
     "temperatura",
-    "temperatura"
+    "(termòmetre|graus)"
   ],
   "/vocabulary/temperature/low.voc": [
     "baix\nbaixa",
@@ -200,14 +201,14 @@
     "màxim\nmàxima"
   ],
   "/vocabulary/temperature/hot.voc": [
-    "(templat|templada)",
-    "(calor|calent|calenta)"
+    "(templat|templada|temperatura alta|altes temperatures)",
+    "(calor|calent|calenta|calentó|xafogor|molt calor|calor sufocant|onada de calor)"
   ],
   "/vocabulary/condition/fog.voc": [
-    "boira",
-    "boirós",
-    "broma",
-    "bromós"
+    "(boira|boirós)",
+    "neblina",
+    "(broma|bromós)",
+    "(boirat|boirós)"
   ],
   "/vocabulary/condition/precipitation.voc": [
     "pluja",
@@ -220,33 +221,33 @@
     "plugim"
   ],
   "/vocabulary/condition/humidity.voc": [
-    "humit\nhumida",
-    "humitat",
-    "vapor"
+    "(humit|humida|humitat|humedat)",
+    "condensació",
+    "(vapor|mugró)"
   ],
   "/vocabulary/condition/snow.voc": [
-    "(neu|nevant|aiguaneu)"
+    "(neu|nevant|nevatge|nevat|aiguaneu)"
   ],
   "/vocabulary/condition/clear.voc": [
     "(clar|assolellat|solejat|sol)",
-    "bon temps"
+    "(bon temps|temps assolellat|temps net|cel net)"
   ],
   "/vocabulary/condition/rain.voc": [
-    "(pluja fina|pluja|plujós|plugim|precipitació)"
+    "(pluja fina|pluja|plujós|plugim|ploure|plourà|plouria|està plovent|plovent|ha plogut|va ploure|plourà|plouria)"
   ],
   "/vocabulary/condition/clouds.voc": [
-    "(ennuvolat|núvol|núvols|núvols dispersos)"
+    "(ennuvolat|núvol|núvols|núvols dispersos|núvols mitjans|núvols alts|cel ennuvolat|cel tapat)"
   ],
   "/vocabulary/condition/thunderstorm.voc": [
-    "(tempesta|tempestós|tempestuós|tempestívol)"
+    "(tempesta|tempestós|tempestuós|tempestívol|tronada|relamp|trons|tempesta elèctrica)"
   ],
   "/vocabulary/condition/windy.voc": [
-    "vent",
+    "(vent|vents)",
     "(ventoler|ventós|airós)",
-    "vents",
+    "vent (fort|suau|moderat|variable)",
     "velocitat del vent",
     "(brisa|ventim|ventijol)",
     "(ràfegues|ratxes) de vent",
-    "(airós|ventoler|ventós)"
+    "(ventatge|aire fresc)"
   ]
 }

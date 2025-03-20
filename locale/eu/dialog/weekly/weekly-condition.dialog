@@ -1,2 +1,4 @@
-Iragarpenak {condition} eman du {day}(|e)tan
-{days}(|e)tan {condition} espero da
+Iragarpenak {condition} eman du {day}etan
+Iragarpenak {condition} eman du {day}tan
+{days}etan {condition} espero da
+{days}tan {condition} espero da

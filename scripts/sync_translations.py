@@ -1,7 +1,8 @@
 """this script should run in every PR originated from @gitlocalize-app
 TODO - before PR merge
 """
-
+from ovos_utils.list_utils import flatten_list, deduplicate_list
+from ovos_utils.bracket_expansion import expand_template
 import json
 from os.path import dirname
 import os
@@ -21,8 +22,8 @@ for lang in os.listdir(tx):
             data = json.load(f)
         for fid, samples in data.items():
             if samples:
-                samples = list(set([s.strip() for s in samples
-                           if s and s.strip() != "[UNUSED]"]))  # s may be None
+                samples = flatten_list([expand_template(s) for s in samples if s and s.strip() != "[UNUSED]"])
+                samples = deduplicate_list([s.strip() for s in samples if s])  # s may be None
                 if fid.startswith("/"):
                     p = f"{locale}/{lang.lower()}{fid}"
                 else:
@@ -36,8 +37,8 @@ for lang in os.listdir(tx):
             data = json.load(f)
         for fid, samples in data.items():
             if samples:
-                samples = list(set([s.strip() for s in samples
-                           if s and s.strip() != "[UNUSED]"]))  # s may be None
+                samples = flatten_list([expand_template(s) for s in samples if s and s.strip() != "[UNUSED]"])
+                samples = deduplicate_list([s.strip() for s in samples if s])  # s may be None
                 if fid.startswith("/"):
                     p = f"{locale}/{lang.lower()}{fid}"
                 else:
@@ -51,8 +52,8 @@ for lang in os.listdir(tx):
             data = json.load(f)
         for fid, samples in data.items():
             if samples:
-                samples = list(set([s.strip() for s in samples
-                           if s and s.strip() != "[UNUSED]"]))  # s may be None
+                samples = flatten_list([expand_template(s) for s in samples if s and s.strip() != "[UNUSED]"])
+                samples = deduplicate_list([s.strip() for s in samples if s])  # s may be None
                 if fid.startswith("/"):
                     p = f"{locale}/{lang.lower()}{fid}"
                 else:

@@ -1,22 +1,15 @@
 # Changelog
 
-## [0.1.15a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.15a2) (2025-02-16)
+## [0.1.16a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.16a1) (2025-03-20)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.15a1...0.1.15a2)
-
-**Merged pull requests:**
-
-- nl-nl translations [\#118](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/118) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-- fix automations [\#117](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/117) ([JarbasAl](https://github.com/JarbasAl))
-- Add Catalan translation [\#114](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/114) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-
-## [0.1.15a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.15a1) (2024-12-29)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.14...0.1.15a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.15...0.1.16a1)
 
 **Merged pull requests:**
 
-- Add Catalans strings [\#113](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/113) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- feat: improve intents [\#123](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/123) ([JarbasAl](https://github.com/JarbasAl))
+- updating German translation [\#122](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/122) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- Extend vocab [\#121](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/121) ([JarbasAl](https://github.com/JarbasAl))
+- added italian [\#91](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/91) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 
 
