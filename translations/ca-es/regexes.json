@@ -1,5 +1,5 @@
 {
   "/regex/location.rx": [
-    ".*\\b(a|en) (P<Location>(!\\bcentígrads\\b|\\bcelsius\\b|\\bfahrenheit\\b) *.+)"
+    ".*\\b(a|en) (?P<Location>(?!\\bcentígrads\\b|\\bcelsius\\b|\\bfahrenheit\\b) *.+)"
   ]
 }
