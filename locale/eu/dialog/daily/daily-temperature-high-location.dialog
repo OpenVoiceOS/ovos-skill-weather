@@ -1,8 +1,2 @@
-Tenperatura altua izango da {location}en {day}an: {temperature} gradu
-Tenperatura altua izango da {location}en {day}ean: {temperature} gradu
-Tenperatura altua izango da {location}n {day}an: {temperature} gradu
-Tenperatura altua izango da {location}n {day}ean: {temperature} gradu
-{location}en {temperature} graduko maximoa izango da {day}an
-{location}en {temperature} graduko maximoa izango da {day}ean
-{location}n {temperature} graduko maximoa izango da {day}an
-{location}n {temperature} graduko maximoa izango da {day}ean
+Tenperatura altua izango da {location} {day}: {temperature} gradu
+{location} {temperature} graduko maximoa izango da {day}

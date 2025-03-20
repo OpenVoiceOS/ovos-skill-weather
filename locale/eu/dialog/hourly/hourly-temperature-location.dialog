@@ -1,16 +1,2 @@
-{location}en {temperature} gradu inguru izango dira {time}an
-{location}en {temperature} gradu inguru izango dira {time}ean
-{location}en {temperature} gradu inguru izango dira {time}etan
-{location}en {temperature} gradu inguru izango dira {time}tan
-{location}n {temperature} gradu inguru izango dira {time}an
-{location}n {temperature} gradu inguru izango dira {time}ean
-{location}n {temperature} gradu inguru izango dira {time}etan
-{location}n {temperature} gradu inguru izango dira {time}tan
-{time}an,{temperature} gradu izango dira {location}en
-{time}an,{temperature} gradu izango dira {location}n
-{time}ean,{temperature} gradu izango dira {location}en
-{time}ean,{temperature} gradu izango dira {location}n
-{time}etan,{temperature} gradu izango dira {location}en
-{time}etan,{temperature} gradu izango dira {location}n
-{time}tan,{temperature} gradu izango dira {location}en
-{time}tan,{temperature} gradu izango dira {location}n
+{location} {temperature} gradu inguru izango dira {time}
+{time},{temperature} gradu izango dira {location}

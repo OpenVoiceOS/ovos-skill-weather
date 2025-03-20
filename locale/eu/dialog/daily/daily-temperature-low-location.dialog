@@ -1,8 +1,2 @@
-{day}an tenperatura baxua izango da {location}en: {temperature} gradu
-{day}an tenperatura baxua izango da {location}n: {temperature} gradu
-{day}an. {location}en tenperatura baxua izango da: {temperature} gradu
-{day}an. {location}n tenperatura baxua izango da: {temperature} gradu
-{day}ean tenperatura baxua izango da {location}en: {temperature} gradu
-{day}ean tenperatura baxua izango da {location}n: {temperature} gradu
-{day}ean. {location}en tenperatura baxua izango da: {temperature} gradu
-{day}ean. {location}n tenperatura baxua izango da: {temperature} gradu
+{day} tenperatura baxua izango da {location}: {temperature} gradu
+{day}. {location} tenperatura baxua izango da: {temperature} gradu

@@ -1,12 +1,2 @@
-Hezetasuna {percent} izango da {location}en {day}an
-Hezetasuna {percent} izango da {location}en {day}ean
-Hezetasuna {percent} izango da {location}n {day}an
-Hezetasuna {percent} izango da {location}n {day}ean
-{day}an iragarpenak {percent}eko hezetasuna eman du {location}en
-{day}an iragarpenak {percent}eko hezetasuna eman du {location}n
-{day}an iragarpenak {percent}ko hezetasuna eman du {location}en
-{day}an iragarpenak {percent}ko hezetasuna eman du {location}n
-{day}ean iragarpenak {percent}eko hezetasuna eman du {location}en
-{day}ean iragarpenak {percent}eko hezetasuna eman du {location}n
-{day}ean iragarpenak {percent}ko hezetasuna eman du {location}en
-{day}ean iragarpenak {percent}ko hezetasuna eman du {location}n
+Hezetasuna {percent} izango da {location} {day}
+{day} iragarpenak {percent} hezetasuna eman du {location}

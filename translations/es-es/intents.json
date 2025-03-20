@@ -1,8 +1,8 @@
 {
     "/vocabulary/condition/do-i-need-an-umbrella.intent": [
-        "\u00bfdebo llevar un chubasquero?",
-        "\u00bfdebo llevar un paraguas?",
-        "\u00bfnecesito un chubasquero?",
-        "\u00bfnecesito un paraguas?"
+        "\u00bfdebo llevar un chubasquero",
+        "\u00bfdebo llevar un paraguas",
+        "\u00bfnecesito un chubasquero",
+        "\u00bfnecesito un paraguas"
     ]
 }

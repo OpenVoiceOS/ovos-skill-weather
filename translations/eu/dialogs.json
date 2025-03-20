@@ -6,133 +6,133 @@
         "ehuneko {number}"
     ],
     "/dialog/daily/daily-precipitation-next-local.dialog": [
-        "Iragarpenak {precipitation} izateko {percent}(|e)ko aukera eman du {day}(|e)an",
-        "{precipitation} izateko {percent}(|e)ko aukera dago {day}(|e)an"
+        "Iragarpenak {precipitation} izateko {percent} aukera eman du {day}",
+        "{precipitation} izateko {percent} aukera dago {day}"
     ],
     "/dialog/daily/daily-precipitation-next-none-local.dialog": [
         "Iragarpenak ez du prezipitaziorik aurreikusi datozen 7 egunetarako",
         "Iragarpenak ez du ezer aurreikusi datozen 7 egunetan."
     ],
     "/dialog/daily/daily-temperature-high-location.dialog": [
-        "Tenperatura altua izango da {location}(|e)n {day}(|e)an: {temperature} gradu",
-        "{location}(|e)n {temperature} graduko maximoa izango da {day}(|e)an"
+        "Tenperatura altua izango da {location} {day}: {temperature} gradu",
+        "{location} {temperature} graduko maximoa izango da {day}"
     ],
     "/dialog/daily/daily-sunrise-location.dialog": [
-        "{location}(|e)n egunsentia {time}(|e)(|t)an izango da {day}(|e)an",
-        "eguzkia {time}(|e)(|t)an aterako da {day}(|e)an {location}(|e)n",
-        "{day}(|e)an eguzkia {time}(|e)(|t)an aterako da {location}(|e)n"
+        "{location} egunsentia {time} izango da {day}",
+        "eguzkia {time} aterako da {day} {location}",
+        "{day} eguzkia {time} aterako da {location}"
     ],
     "/dialog/daily/daily-precipitation-next-location.dialog": [
-        "{precipitation} izateko {percent}(|e)ko aukera dago {day}(|e)an {location}(|e)n",
-        "Iragarpenak {precipitation} izateko {percent}(|e)ko aukera eman du {location}(|e)n {day}(|e)an"
+        "{precipitation} izateko {percent} aukera dago {day} {location}",
+        "Iragarpenak {precipitation} izateko {percent} aukera eman du {location} {day}"
     ],
     "/dialog/daily/daily-humidity-local.dialog": [
-        "Hezetasuna {percent} izango da {day}(|e)an",
-        "{day}(|e)an iragarpenak {percent}(|e)ko hezetasuna eman du"
+        "Hezetasuna {percent} izango da {day}",
+        "{day} iragarpenak {percent} hezetasuna eman du"
     ],
     "/dialog/daily/daily-sunset-location.dialog": [
-        "{location}(|e)n ilunabarra {time}(|e)(|t)an izango da {day}(|e)an",
-        "eguzkia {time}(|e)(|t)an gordeko da {day}(|e)an {location}(|e)n",
-        "{day}(|e)an eguzkia {time}(|e)(|t)an gordeko da {location}(|e)n"
+        "{location} ilunabarra {time} izango da {day}",
+        "eguzkia {time} gordeko da {day} {location}",
+        "{day} eguzkia {time} gordeko da {location}"
     ],
     "/dialog/daily/daily-weather-location.dialog": [
-        "{day}(|e)an iragarpenak {high_temperature}(|e)ko maximoa eta {low_temperature}(|e)ko minimoa eman ditu {location}(|e)n",
-        "{day}(|e)an {condition} izango da, {high_temperature}(|e)ko maximoarekin eta {low_temperature}(|e)ko minimoarekin {location}(|e)n",
-        "{day}(|e)an. {location}(|e)n {high_temperature}(|e)ko maximoa eta {low_temperature}(|e)ko minimoa izango dira, eta {condition} izango da"
+        "{day} iragarpenak {high_temperature} maximoa eta {low_temperature} minimoa eman ditu {location}",
+        "{day} {condition} izango da, {high_temperature} maximoarekin eta {low_temperature} minimoarekin {location}",
+        "{day}. {location} {high_temperature} maximoa eta {low_temperature} minimoa izango dira, eta {condition} izango da"
     ],
     "/dialog/daily/daily-temperature-high-low-location.dialog": [
-        "Gaurko iragarpenak {high_temperature}(|e)ko maximoa eta {low_temperature}(|e)ko minimoa eman ditu {location}(|e)n."
+        "Gaurko iragarpenak {high_temperature} maximoa eta {low_temperature} minimoa eman ditu {location}."
     ],
     "/dialog/daily/daily-condition-not-expected-local.dialog": [
-        "Ez. {condition} espero da {day}(|e)an",
-        "Ez. {day}(|e)an iragarpenak {condition} eman du"
+        "Ez. {condition} espero da {day}",
+        "Ez. {day} iragarpenak {condition} eman du"
     ],
     "/dialog/daily/daily-condition-expected-location.dialog": [
-        "Bai, {condition} espero da {location}(|e)n {day}(|e)an",
-        "Bai. Iragarpenak {condition} eman du {location}(|e)n {day}(|e)an"
+        "Bai, {condition} espero da {location} {day}",
+        "Bai. Iragarpenak {condition} eman du {location} {day}"
     ],
     "/dialog/daily/daily-sunset-local.dialog": [
-        "ilunabarra {time}(|e)(|t)an izango da {day}(|e)an",
-        "eguzkia {time}(|e)(|t)an sartuko da {day}(|e)an",
-        "eguzkia {time}(|e)(|t)an gordeko da {day}(|e)an",
-        "{day}(|e)an eguzkia {time}(|e)(|t)an gordeko da"
+        "ilunabarra {time} izango da {day}",
+        "eguzkia {time} sartuko da {day}",
+        "eguzkia {time} gordeko da {day}",
+        "{day} eguzkia {time} gordeko da"
     ],
     "/dialog/daily/daily-temperature-low-local.dialog": [
-        "{day}(|e)an tenperatura baxua izango da: {temperature}",
-        "{day}(|e)an tenperatura baxua izango da: {temperature} gradu."
+        "{day} tenperatura baxua izango da {temperature}",
+        "{day} tenperatura baxua izango da {temperature} gradu."
     ],
     "/dialog/daily/daily-temperature-local.dialog": [
-        "{day}(|e)an {temperature}(|e)ko tenperatura izango da",
-        "{day}(|e)an tenperatura {temperature} gradukoa izango da."
+        "{day} {temperature} tenperatura izango da",
+        "{day} tenperatura {temperature} gradukoa izango da."
     ],
     "/dialog/daily/daily-condition-not-expected-location.dialog": [
-        "Ez. {location}(|e)n {condition} espero da {day}(|e)an",
-        "Ez. {day}(|e)an iragarpenak {condition} eman du {location}(|e)n"
+        "Ez. {location} {condition} espero da {day}",
+        "Ez. {day} iragarpenak {condition} eman du {location}"
     ],
     "/dialog/daily/daily-condition-expected-local.dialog": [
-        "Bai, {day}(|e)an {condition} espero da",
-        "Bai. Iragarpenak {condition} eman du {day}(|e)an"
+        "Bai, {day} {condition} espero da",
+        "Bai. Iragarpenak {condition} eman du {day}"
     ],
     "/dialog/daily/daily-temperature-low-location.dialog": [
-        "{day}(|e)an tenperatura baxua izango da {location}(|e)n: {temperature} gradu",
-        "{day}(|e)an. {location}(|e)n tenperatura baxua izango da: {temperature} gradu"
+        "{day} tenperatura baxua izango da {location}: {temperature} gradu",
+        "{day}. {location} tenperatura baxua izango da: {temperature} gradu"
     ],
     "/dialog/daily/daily-weather-local.dialog": [
-        "{condition} espero da, {high_temperature}(|e)ko maximoarekin eta {low_temperature}(|e)ko minimoarekin {day}(|e)an",
-        "{day}(|e)an iragarpenak {condition} eman du, {high_temperature}(|e)ko maximoarekin eta {low_temperature}(|e)ko minimoarekin",
-        "{day}(|e)an {condition} espero da, {high_temperature}(|e)ko maximoarekin eta {low_temperature}(|e)ko minimoarekin",
-        "{day}(|e)an {condition} izango da, {high_temperature}(|e)ko maximoarekin eta {low_temperature}(|e)ko minimoarekin",
-        "{day}(|e)an {high_temperature}(|e)ko maximoa eta {low_temperature}(|e)ko minimoa izango dira, eta {condition} izango da"
+        "{condition} espero da, {high_temperature} maximoarekin eta {low_temperature} minimoarekin {day}",
+        "{day} iragarpenak {condition} eman du, {high_temperature} maximoarekin eta {low_temperature} minimoarekin",
+        "{day} {condition} espero da, {high_temperature} maximoarekin eta {low_temperature} minimoarekin",
+        "{day} {condition} izango da, {high_temperature} maximoarekin eta {low_temperature} minimoarekin",
+        "{day} {high_temperature} maximoa eta {low_temperature} minimoa izango dira, eta {condition} izango da"
     ],
     "/dialog/daily/daily-sunrise-local.dialog": [
-        "egunsentia {time}(|e)(|t)an izango da {day}(|e)an",
-        "eguzkia {time}(|e)(|t)an aterako da {day}(|e)an",
-        "{day}(|e)an eguzkia {time}(|e)(|t)an aterako da"
+        "egunsentia {time} izango da {day}",
+        "eguzkia {time} aterako da {day}",
+        "{day} eguzkia {time} aterako da"
     ],
     "/dialog/daily/daily-wind-moderate-location.dialog": [
-        "{day}(|e)an iragarpenak haize moderatua iragarri du {location}(|e)n {direction}tik, {speed} {speed_unit}",
-        "Haizea moderatua izango da {location}(|e)n {day}(|e)an, {speed} {speed_unit} ingurukoa, {direction}tik",
-        "Haize moderatua espero dezakezu, {speed} {speed_unit} ingurukoa, {location}(|e)n {day}(|e)an"
+        "{day} iragarpenak haize moderatua iragarri du {location} {direction}tik, {speed} {speed_unit}",
+        "Haizea moderatua izango da {location} {day}, {speed} {speed_unit} ingurukoa, {direction}tik",
+        "Haize moderatua espero dezakezu, {speed} {speed_unit} ingurukoa, {location} {day}"
     ],
     "/dialog/daily/daily-temperature-high-local.dialog": [
-        "{day}(|e)an tenperatura altua izango da: {temperature}",
-        "{day}(|e)an tenperatura altua izango da: {temperature} gradu."
+        "{day} tenperatura altua izango da: {temperature}",
+        "{day} tenperatura altua izango da: {temperature} gradu."
     ],
     "/dialog/daily/daily-wind-moderate-local.dialog": [
-        "Iragarpenak haize moderatua eman du {direction}tik, {speed} {speed_unit}, {day}(|e)an",
-        "Haizea moderatua izango da, {speed} {speed_unit} ingurukoa, {direction}tik {day}(|e)an",
-        "Haize moderatua espero dezakezu, {speed} {speed_unit} ingurukoa, {day}(|e)an"
+        "Iragarpenak haize moderatua eman du {direction}tik, {speed} {speed_unit}, {day}",
+        "Haizea moderatua izango da, {speed} {speed_unit} ingurukoa, {direction}tik {day}",
+        "Haize moderatua espero dezakezu, {speed} {speed_unit} ingurukoa, {day}"
     ],
     "/dialog/daily/daily-wind-strong-location.dialog": [
-        "Haizea bizia izango da, {speed} {speed_unit}, {location}(|e)n {day}(|e)an",
-        "Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {location}(|e)n {day}(|e)an"
+        "Haizea bizia izango da, {speed} {speed_unit}, {location} {day}",
+        "Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {location} {day}"
     ],
     "/dialog/daily/daily-wind-strong-local.dialog": [
-        "Haizea bizia izango da, {speed} {speed_unit}, {day}(|e)an",
-        "Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {day}(|e)an"
+        "Haizea bizia izango da, {speed} {speed_unit}, {day}",
+        "Haize bizia ibiliko da {direction}tik, {speed} {speed_unit}, {day}"
     ],
     "/dialog/daily/daily-temperature-location.dialog": [
-        "{day}(|e)an {temperature} gradu izango dira {location}(|e)n",
-        "{day}(|e)an. {location}(|e)n {temperature} graduko tenperatura izango da"
+        "{day} {temperature} gradu izango dira {location}",
+        "{day}. {location} {temperature} graduko tenperatura izango da"
     ],
     "/dialog/daily/daily-precipitation-next-none-location.dialog": [
-        "Iragarpenak ez du ezer aurreikusi {location}(|e)n",
-        "Iragarpenak ez du prezipitaziorik aurreikusi datozen zazpi egunetarako {location}(|e)n"
+        "Iragarpenak ez du ezer aurreikusi {location}",
+        "Iragarpenak ez du prezipitaziorik aurreikusi datozen zazpi egunetarako {location}"
     ],
     "/dialog/daily/daily-humidity-location.dialog": [
-        "Hezetasuna {percent} izango da {location}(|e)n {day}(|e)an",
-        "{day}(|e)an iragarpenak {percent}(|e)ko hezetasuna eman du {location}(|e)n"
+        "Hezetasuna {percent} izango da {location} {day}",
+        "{day} iragarpenak {percent} hezetasuna eman du {location}"
     ],
     "/dialog/daily/daily-wind-light-local.dialog": [
-        "Ez da haize handia ibiliko {day}(|e)an",
-        "Haize arina etorriko da {direction}tik {day}(|e)an, {speed} {speed_unit}"
+        "Ez da haize handia ibiliko {day}",
+        "Haize arina etorriko da {direction}tik {day}, {speed} {speed_unit}"
     ],
     "/dialog/daily/daily-temperature-high-low-local.dialog": [
-        "Gaurko iragarpenak {high_temperature}(|e)ko maximoa eta {low_temperature}(|e)ko minimoa eman ditu."
+        "Gaurko iragarpenak {high_temperature} maximoa eta {low_temperature} minimoa eman ditu."
     ],
     "/dialog/daily/daily-wind-light-location.dialog": [
-        "Ez da haize handia ibiliko {location}(|e)n {day}(|e)an",
-        "Haize arina etorriko da {direction}tik {location}(|e)n {day}(|e)an, {speed} {speed_unit}"
+        "Ez da haize handia ibiliko {location} {day}",
+        "Haize arina etorriko da {direction}tik {location} {day}, {speed} {speed_unit}"
     ],
     "/dialog/unit/celsius.dialog": [
         "celsius"
@@ -159,26 +159,26 @@
         "Orain, hezetasuna {percent} da"
     ],
     "/dialog/current/current-sunrise-future-location.dialog": [
-        "egunsentia {time}(|e)(|t)an izan da gaur {location}(|e)n",
-        "eguzkia {time}(|e)(|t)an atera da gaur {location}(|e)n"
+        "egunsentia {time} izan da gaur {location}",
+        "eguzkia {time} atera da gaur {location}"
     ],
     "/dialog/current/current-humidity-location.dialog": [
-        "Orain, hezetasuna {percent} da {location}(|e)n"
+        "Orain, hezetasuna {percent} da {location}"
     ],
     "/dialog/current/current-temperature-location.dialog": [
-        "Orain {temperature} gradu daude {location}(|e)n.",
-        "Orain {temperature} gradu {temperature_unit} daude {location}(|e)n.",
-        "Une honetan {temperature} gradu daude {location}(|e)n."
+        "Orain {temperature} gradu daude {location}.",
+        "Orain {temperature} gradu {temperature_unit} daude {location}.",
+        "Une honetan {temperature} gradu daude {location}."
     ],
     "/dialog/current/current-sunset-past-location.dialog": [
-        "eguzkia {time}(|e)(|t)an sartu da gaur {location}(|e)n",
-        "ilunabarra {time}(|e)(|t)an izan da gaur {location}(|e)n",
-        "eguzkia {time}(|e)(|t)an gorde da gaur {location}(|e)n"
+        "eguzkia {time} sartu da gaur {location}",
+        "ilunabarra {time} izan da gaur {location}",
+        "eguzkia {time} gorde da gaur {location}"
     ],
     "/dialog/current/current-sunset-future-location.dialog": [
-        "eguzkia {time}(|e)(|t)an sartuko da gaur {location}(|e)n",
-        "ilunabarra {time}(|e)(|t)an izango da gaur {location}(|e)n",
-        "eguzkia {time}(|e)(|t)an gordeko da gaur {location}(|e)n"
+        "eguzkia {time} sartuko da gaur {location}",
+        "ilunabarra {time} izango da gaur {location}",
+        "eguzkia {time} gordeko da gaur {location}"
     ],
     "/dialog/current/current-weather-local.dialog": [
         "Orain {condition} dago eta {temperature} gradu {temperature_unit} daude.",
@@ -186,13 +186,13 @@
         "Une honetan {condition} dago eta {temperature} gradu daude."
     ],
     "/dialog/current/current-condition-expected-location.dialog": [
-        "{location}(|e)n, ematen du {condition} egingo duela gaur",
-        "Bai. {condition} izango dugu gaur {location}(|e)n"
+        "{location}, ematen du {condition} egingo duela gaur",
+        "Bai. {condition} izango dugu gaur {location}"
     ],
     "/dialog/current/current-sunset-future-local.dialog": [
-        "ilunabarra {time}(|e)(|t)an izango da gaur",
-        "eguzkia {time}(|e)(|t)an sartuko da gaur",
-        "eguzkia {time}(|e)(|t)an gordeko da gaur"
+        "ilunabarra {time} izango da gaur",
+        "eguzkia {time} sartuko da gaur",
+        "eguzkia {time} gordeko da gaur"
     ],
     "/dialog/current/current-condition-expected-local.dialog": [
         "Ematen du {condition} egingo duela gaur",
@@ -200,42 +200,42 @@
     ],
     "/dialog/current/current-wind-strong-location.dialog": [
         "Orain, haizea {direction}tik dator, {speed} {speed_unit}. Egun ona barruan geratzeko",
-        "Haize oso bizia dabil gaur {direction}tik {location}(|e)n. {speed} {speed_unit}",
-        "Haize oso bizia ibiliko da gaur {location}(|e)n. {speed} {speed_unit}"
+        "Haize oso bizia dabil gaur {direction}tik {location}. {speed} {speed_unit}",
+        "Haize oso bizia ibiliko da gaur {location}. {speed} {speed_unit}"
     ],
     "/dialog/current/current-sunrise-future-local.dialog": [
-        "egunsentia {time}(|e)(|t)an izango da gaur",
-        "eguzkia {time}(|e)(|t)an aterako da gaur"
+        "egunsentia {time} izango da gaur",
+        "eguzkia {time} aterako da gaur"
     ],
     "/dialog/current/current-condition-not-expected-local.dialog": [
         "Ez. Iragarpenak {condition} eman du gaurko",
         "Ez. {condition} espero da gaur"
     ],
     "/dialog/current/current-sunset-past-local.dialog": [
-        "ilunabarra {time}(|e)(|t)an izan da gaur",
-        "eguzkia {time}(|e)(|t)an gorde da gaur",
-        "eguzkia {time}(|e)(|t)an sartu da gaur"
+        "ilunabarra {time} izan da gaur",
+        "eguzkia {time} gorde da gaur",
+        "eguzkia {time} sartu da gaur"
     ],
     "/dialog/current/current-weather-location.dialog": [
-        "Orain {condition} dago eta {temperature} gradu {temperature_unit} daude {location}(|e)n.",
-        "Une honetan {condition} dago eta {temperature} gradu daude {location}(|e)n.",
-        "{location}(|e)n {condition} dago eta orain {temperature} gradu daude."
+        "Orain {condition} dago eta {temperature} gradu {temperature_unit} daude {location}.",
+        "Une honetan {condition} dago eta {temperature} gradu daude {location}.",
+        "{location} {condition} dago eta orain {temperature} gradu daude."
     ],
     "/dialog/current/current-wind-moderate-location.dialog": [
-        "Orain haizea moderatua da, {speed} {speed_unit}, {direction}tik, {location}(|e)n",
-        "Haize pixka bat dabil gaur {location}(|e)n, orain {speed} {speed_unit}"
+        "Orain haizea moderatua da, {speed} {speed_unit}, {direction}tik, {location}",
+        "Haize pixka bat dabil gaur {location}, orain {speed} {speed_unit}"
     ],
     "/dialog/current/current-wind-moderate-local.dialog": [
         "Orain haizea moderatua da, {speed} {speed_unit}, {direction}tik",
         "Haize pixka bat dabil gaur, orain {speed} {speed_unit}"
     ],
     "/dialog/current/current-condition-not-expected-location.dialog": [
-        "Ez. {condition} espero da gaur {location}(|e)n",
-        "Ez. Iragarpenak {condition} eman du gaurko {location}(|e)n"
+        "Ez. {condition} espero da gaur {location}",
+        "Ez. Iragarpenak {condition} eman du gaurko {location}"
     ],
     "/dialog/current/current-sunrise-past-location.dialog": [
-        "egunsentia {time}(|e)(|t)an izan da gaur {location}(|e)n",
-        "eguzkia {time}(|e)(|t)an atera da gaur {location}(|e)n"
+        "egunsentia {time} izan da gaur {location}",
+        "eguzkia {time} atera da gaur {location}"
     ],
     "/dialog/current/current-wind-strong-local.dialog": [
         "Orain, haizea {direction}tik dator, {speed} {speed_unit}. Agian komeni da gaur barruan geratzea",
@@ -252,12 +252,12 @@
         "Haize arina dabil gaur {direction}tik, {speed} {speed_unit}"
     ],
     "/dialog/current/current-wind-light-location.dialog": [
-        "{location}(|e)n haize arina dabil gaur {direction}tik, {speed} {speed_unit}",
-        "Haizea arina da {location}(|e)n, {speed} {speed_unit}, {direction}tik"
+        "{location} haize arina dabil gaur {direction}tik, {speed} {speed_unit}",
+        "Haizea arina da {location}, {speed} {speed_unit}, {direction}tik"
     ],
     "/dialog/current/current-sunrise-past-local.dialog": [
-        "egunsentia {time}(|e)(|t)an izan da gaur",
-        "eguzkia {time}(|e)(|t)an atera da gaur"
+        "egunsentia {time} izan da gaur",
+        "eguzkia {time} atera da gaur"
     ],
     "/dialog/current/current-temperature-local.dialog": [
         "Orain {temperature} gradu {temperature_unit} daude.",
@@ -265,8 +265,8 @@
         "Une honetan {temperature} gradu daude."
     ],
     "/dialog/weekly/weekly-condition.dialog": [
-        "{days}(|e)tan {condition} espero da",
-        "Iragarpenak {condition} eman du {day}(|e)tan"
+        "{days} {condition} espero da",
+        "Iragarpenak {condition} eman du {day}"
     ],
     "/dialog/weekly/weekly-temperature.dialog": [
         "minimoak {low_min} eta {low_max} bitarte, eta maximoak {high_min} eta {high_max} bitarte izango dira"
@@ -459,31 +459,31 @@
         "Geroago {condition} izango da, eta {temperature} gradu"
     ],
     "/dialog/hourly/hourly-precipitation-next-local.dialog": [
-        "Iragarpenak {precipitation} izateko {percent}(|e)ko aukera eman du {time}(|e)(|t)an",
-        "{precipitation} izateko {percent}(|e)ko aukera dago {time}(|e)(|t)an"
+        "Iragarpenak {precipitation} izateko {percent} aukera eman du {time}",
+        "{precipitation} izateko {percent} aukera dago {time}"
     ],
     "/dialog/hourly/hourly-condition-expected-local.dialog": [
-        "Bai. {time}(|e)(|t)arako {condition} iragarrita dago"
+        "Bai. {time} {condition} iragarrita dago"
     ],
     "/dialog/hourly/hourly-weather-location.dialog": [
-        "Geroago {condition} izango da {location}(|e)n, {temperature} inguruko tenperaturekin",
-        "{location}(|e)n hurrengo ordutarako eguraldia {condition} izango da, eta {temperature} gradu",
-        "{location}(|e)n {temperature} gradu inguru izango dira, eta {condition}",
+        "Geroago {condition} izango da {location}, {temperature} inguruko tenperaturekin",
+        "{location} hurrengo ordutarako eguraldia {condition} izango da, eta {temperature} gradu",
+        "{location} {temperature} gradu inguru izango dira, eta {condition}",
         "{location} will be around {temperature} with {condition}"
     ],
     "/dialog/hourly/hourly-temperature-location.dialog": [
-        "{time}(|e)(|t)an,{temperature} gradu izango dira {location}(|e)n",
-        "{location}(|e)n {temperature} gradu inguru izango dira {time}(|e)(|t)an"
+        "{time},{temperature} gradu izango dira {location}",
+        "{location} {temperature} gradu inguru izango dira {time}"
     ],
     "/dialog/hourly/hourly-precipitation-next-location.dialog": [
-        "{location}(|e)n {precipitation} izateko {percent}(|e)ko aukera dago {time}(|e)(|t)an",
-        "Iragarpenak {precipitation} izateko {percent}(|e)ko aukera eman du {location}(|e)n {time}(|e)(|t)an"
+        "{location} {precipitation} izateko {percent} aukera dago {time}",
+        "Iragarpenak {precipitation} izateko {percent} aukera eman du {location} {time}"
     ],
     "/dialog/hourly/hourly-temperature-local.dialog": [
-        "{time}(|e)(|t)an,{temperature} gradu izango dira",
-        "{temperature} gradu inguru izango dira {time}(|e)(|t)an"
+        "{time},{temperature} gradu izango dira",
+        "{temperature} gradu inguru izango dira {time}"
     ],
     "/dialog/hourly/hourly-condition-expected-location.dialog": [
-        "Bai. {condition} izango dugu {time}(|e)(|t)an"
+        "Bai. {condition} izango dugu {time}"
     ]
 }

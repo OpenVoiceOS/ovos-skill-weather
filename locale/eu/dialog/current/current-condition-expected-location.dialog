@@ -1,4 +1,2 @@
-Bai. {condition} izango dugu gaur {location}en
-Bai. {condition} izango dugu gaur {location}n
-{location}en, ematen du {condition} egingo duela gaur
-{location}n, ematen du {condition} egingo duela gaur
+Bai. {condition} izango dugu gaur {location}
+{location}, ematen du {condition} egingo duela gaur
