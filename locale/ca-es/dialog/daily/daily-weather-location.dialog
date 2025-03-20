@@ -1,3 +1,3 @@
-La previsió pel {dia} és de {high_temperature} de màxima i de {low_temperature} a {location}
+La previsió pel {day} és de {high_temperature} de màxima i de {low_temperature} a {location}
 el {day} serà {condition}, amb una màxima de {high_temperature} i una mínima de {low_temperature} a {location}
 el {day}, {location} tindrà una màxima de {high_temperature} i una mínima de {low_temperature}, amb {condition}
