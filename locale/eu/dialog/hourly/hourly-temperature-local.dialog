@@ -1,8 +1,2 @@
-{temperature} gradu inguru izango dira {time}an
-{temperature} gradu inguru izango dira {time}ean
-{temperature} gradu inguru izango dira {time}etan
-{temperature} gradu inguru izango dira {time}tan
-{time}an,{temperature} gradu izango dira
-{time}ean,{temperature} gradu izango dira
-{time}etan,{temperature} gradu izango dira
-{time}tan,{temperature} gradu izango dira
+{temperature} gradu inguru izango dira {time}
+{time},{temperature} gradu izango dira

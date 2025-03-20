@@ -1,8 +1,2 @@
-Ez. {day}an iragarpenak {condition} eman du {location}en
-Ez. {day}an iragarpenak {condition} eman du {location}n
-Ez. {day}ean iragarpenak {condition} eman du {location}en
-Ez. {day}ean iragarpenak {condition} eman du {location}n
-Ez. {location}en {condition} espero da {day}an
-Ez. {location}en {condition} espero da {day}ean
-Ez. {location}n {condition} espero da {day}an
-Ez. {location}n {condition} espero da {day}ean
+Ez. {day} iragarpenak {condition} eman du {location}
+Ez. {location} {condition} espero da {day}

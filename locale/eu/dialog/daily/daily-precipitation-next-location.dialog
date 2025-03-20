@@ -1,16 +1,2 @@
-Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}en {day}an
-Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}en {day}ean
-Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}n {day}an
-Iragarpenak {precipitation} izateko {percent}eko aukera eman du {location}n {day}ean
-Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}en {day}an
-Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}en {day}ean
-Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}n {day}an
-Iragarpenak {precipitation} izateko {percent}ko aukera eman du {location}n {day}ean
-{precipitation} izateko {percent}eko aukera dago {day}an {location}en
-{precipitation} izateko {percent}eko aukera dago {day}an {location}n
-{precipitation} izateko {percent}eko aukera dago {day}ean {location}en
-{precipitation} izateko {percent}eko aukera dago {day}ean {location}n
-{precipitation} izateko {percent}ko aukera dago {day}an {location}en
-{precipitation} izateko {percent}ko aukera dago {day}an {location}n
-{precipitation} izateko {percent}ko aukera dago {day}ean {location}en
-{precipitation} izateko {percent}ko aukera dago {day}ean {location}n
+Iragarpenak {precipitation} izateko {percent} aukera eman du {location} {day}
+{precipitation} izateko {percent} aukera dago {day} {location}

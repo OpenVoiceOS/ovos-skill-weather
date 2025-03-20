@@ -58,9 +58,9 @@
   ],
   "/vocabulary/query/query.voc": [
     "com",
-    "què és",
+    "què [és]",
     "(quin|quina|quines)",
-    "què serà\nquè farà",
+    "què (serà|farà)",
     "(parla|explica)('m|'ns) (sobre|de|)",
     "dóna'm",
     "què"
@@ -72,7 +72,7 @@
     "hi haurà",
     "existeix",
     "existiran",
-    "[UNUSED]",
+    "està",
     "hi haurà"
   ],
   "/vocabulary/query/confirm-query-current.voc": [
