@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-weather",
+  "name": "Temps",
+  "description": "Información sobre las condiciones meteorológicas, las previsiones, las precipitaciones y mucho más. También puedes preguntar sobre otras ciudades del mundo. Las condiciones actuales y las previsiones provienen de OpenMeteo",
+  "examples": [
+	"¿Qué tiempo hace?",
+	"¿Qué temperatura hace?",
+	"¿Cuál es la previsión para mañana?",
+	"¿Qué tiempo hace en Houston?",
+	"¿Qué temperatura hará mañana en París en grados Celsios?",
+	"¿Qué temperatura máxima hará mañana?",
+	"¿A qué hora es el crepúsculo?",
+	"¿Nevará en Baltimore?",
+	"¿Nevará?",
+	"¿Qué tiempo hará el martes?",
+	"¿Cómo será el tiempo los próximos tres días?",
+	"¿Qué humedad hace?",
+	"¿Qué tiempo hará el fin de semana?",
+	"¿Cuál es la previsión de Londres para mañana?",
+	"¿Hace viento?",
+	"¿Cuándo volverá a llover?",
+	"¿Hará frío el martes?",
+	"¿Está lloviendo?"
+  ],
+  "tags": [
+	"meteorología",
+	"previsión",
+	"lluvia",
+	"humedad",
+	"nieve",
+	"temperatura"
+  ]
+}
