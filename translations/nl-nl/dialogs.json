@@ -37,7 +37,7 @@
   ],
   "/dialog/daily/daily-weather-location.dialog": [
     "De voorspelling {day} is {high_temperature} voor een hoog en {low_temperature} voor een laag in {location}",
-    "{day} het zal {condition} zijn, met een high van {high_temperature} en een low van {low_temperature} in {location}",
+    "{day} het zal {condition} zijn, met een maximum van {high_temperature} en een minimum van {low_temperature} in {location}",
     "{day}, {location} zal een maximum hebben van {high_temperature} en een minimum van {low_temperature}, met {condition}"
   ],
   "/dialog/daily/daily-temperature-high-low-location.dialog": [
@@ -45,17 +45,17 @@
   ],
   "/dialog/daily/daily-condition-not-expected-local.dialog": [
     "Nee, {day} de voorspelling vraagt om {condition}",
-    "Nee, {condition} wordt verwacht {day}"
+    "Nee, {condition} wordt {day} verwacht"
   ],
   "/dialog/daily/daily-condition-expected-location.dialog": [
-    "Ja, verwacht {condition} in {location} {day}",
-    "Ja, de voorspelling vraagt om {condition} in {location} {day}"
+    "Ja, verwacht {condition} in {location} op {day}",
+    "Ja, de voorspelling geeft {condition} in {location} aan op {day}"
   ],
   "/dialog/daily/daily-sunset-local.dialog": [
     "de zon gaat onder op {time} {day}",
     "de zon zal ondergaan op {time} {day}",
-    "{day} de zon gaat onder om {time}",
-    "zonsondergang zal zijn op {time} {day}"
+    "de zon gaat onder om {time} op {day} ",
+    "zonsondergang zal zijn op {time} op {day}"
   ],
   "/dialog/daily/daily-temperature-low-local.dialog": [
     "{day} het zal zo laag zijn als {temperature}",

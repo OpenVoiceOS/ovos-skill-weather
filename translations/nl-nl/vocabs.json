@@ -36,7 +36,8 @@
     "schemer"
   ],
   "/vocabulary/weather.voc": [
-    "weer"
+    "weer",
+    "temperatuur"
   ],
   "/vocabulary/unit/unit.voc": [
     "celsius",
