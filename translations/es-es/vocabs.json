@@ -1,257 +1,253 @@
 {
-    "/vocabulary/location.voc": [
-        "Lawrence, Kansas",
-        "san francisco",
-        "boston",
-        "chicago",
-        "atlanta",
-        "san jose",
-        "portland oregon",
-        "berl\u00edn",
-        "Los Angeles california",
-        "kansas city",
-        "houston",
-        "los angeles",
-        "la",
-        "Seattle",
-        "austin",
-        "spokane",
-        "portland",
-        "san diego"
-    ],
-    "/vocabulary/sunrise.voc": [
-        "pausa del d\u00eda",
-        "amanecer"
-    ],
-    "/vocabulary/forecast.voc": [
-        "previsi\u00f3n"
-    ],
-    "/vocabulary/outside.voc": [
-        "fuera",
-        "fuera de"
-    ],
-    "/vocabulary/sunset.voc": [
-        "crep\u00fasculo",
-        "puesta de sol"
-    ],
-    "/vocabulary/weather.voc": [
-        "tiempo"
-    ],
-    "/vocabulary/unit/unit.voc": [
-        "celsius",
-        "fahrenheit"
-    ],
-    "/vocabulary/unit/fahrenheit.voc": [
-        "fahrenheit"
-    ],
-    "/vocabulary/query/how.voc": [
-        "c\u00f3mo"
-    ],
-    "/vocabulary/query/when.voc": [
-        "cu\u00e1ndo",
-        "cuando",
-        "a qu\u00e9 hora",
-        "cu\u00e1ndo es"
-    ],
-    "/vocabulary/query/query.voc": [
-        "qu\u00e9",
-        "qu\u00e9 har\u00e1",
-        "qu\u00e9 es",
-        "dinos",
-        "cu\u00e9ntenos",
-        "dime",
-        "dame",
-        "H\u00e1blame de",
-        "c\u00f3mo"
-    ],
-    "/vocabulary/query/confirm-query.voc": [
-        "lo haremos",
-        "va a ser",
-        "es",
-        "\u00bftienen",
-        "existe",
-        "lo har\u00e1",
-        "yendo a",
-        "habr\u00e1"
-    ],
-    "/vocabulary/query/confirm-query-current.voc": [
-        "es",
-        "existe"
-    ],
-    "/vocabulary/query/confirm-query-future.voc": [
-        "\u00bfva a",
-        "va a ser",
-        "va a conseguir",
-        "\u00bfconseguir\u00e1",
-        "lo har\u00e1",
-        "ser\u00e1",
-        "habr\u00e1",
-        "\u00bfhabr\u00e1"
-    ],
-    "/vocabulary/date-time/number-days.voc": [
-        "de 2 d\u00edas",
-        "de dos d\u00edas",
-        "pr\u00f3ximos 2 d\u00edas",
-        "pr\u00f3ximo par de d\u00edas",
-        "pr\u00f3ximo par de d\u00edas",
-        "de 3 d\u00edas",
-        "de tres d\u00edas",
-        "pr\u00f3ximos 3 d\u00edas",
-        "pr\u00f3ximos tres d\u00edas",
-        "pr\u00f3ximos d\u00edas",
-        "de 4 d\u00edas",
-        "de cuatro d\u00edas",
-        "pr\u00f3ximos 4 d\u00edas",
-        "pr\u00f3ximos cuatro d\u00edas",
-        "de 5 d\u00edas",
-        "de cinco d\u00edas",
-        "pr\u00f3ximos 5 d\u00edas",
-        "pr\u00f3ximos cinco d\u00edas",
-        "de 6 dias",
-        "de seis d\u00edas",
-        "pr\u00f3ximos 6 d\u00edas",
-        "proximos seis d\u00edas"
-    ],
-    "/vocabulary/date-time/today.voc": [
-        "hoy",
-        "de hoy"
-    ],
-    "/vocabulary/date-time/few.voc": [
-        "algunos"
-    ],
-    "/vocabulary/date-time/now.voc": [
-        "actual",
-        "ahora"
-    ],
-    "/vocabulary/date-time/later.voc": [
-        "pr\u00f3xima hora",
-        "pr\u00f3ximas horas",
-        "pocas horas",
-        "pr\u00f3ximas pocas horas",
-        "un par de horas",
-        "siguiente par de horas",
-        "m\u00e1s tarde"
-    ],
-    "/vocabulary/date-time/week.voc": [
-        "semana",
-        "semanal"
-    ],
-    "/vocabulary/date-time/weekend.voc": [
-        "fin de semana"
-    ],
-    "/vocabulary/date-time/couple.voc": [
-        "par"
-    ],
-    "/vocabulary/date-time/next.voc": [
-        "siguiente",
-        "de nuevo"
-    ],
-    "/vocabulary/date-time/relative-time.voc": [
-        "ma\u00f1ana",
-        "por la tarde",
-        "por la tarde noche",
-        "noche",
-        "esta noche",
-        "durante la noche"
-    ],
-    "/vocabulary/date-time/relative-day.voc": [
-        "ma\u00f1ana",
-        "de ma\u00f1ana",
-        "ayer",
-        "de ayer",
-        "lunes",
-        "el lunes",
-        "martes",
-        "el martes",
-        "mi\u00e9rcoles",
-        "el mi\u00e9rcoles",
-        "jueves",
-        "el jueves",
-        "viernes",
-        "el viernes",
-        "s\u00e1bado",
-        "el s\u00e1bado",
-        "domingo",
-        "el domingo",
-        "d\u00edas"
-    ],
-    "/vocabulary/temperature/cold.voc": [
-        "congelaci\u00f3n",
-        "fr\u00edo",
-        "fresco"
-    ],
-    "/vocabulary/temperature/temperature.voc": [
-        "temperatura",
-        "temp"
-    ],
-    "/vocabulary/temperature/low.voc": [
-        "bajo",
-        "m\u00e1s bajo",
-        "min",
-        "m\u00ednimo"
-    ],
-    "/vocabulary/temperature/high.voc": [
-        "alta",
-        "m\u00e1s alto",
-        "max",
-        "m\u00e1ximo"
-    ],
-    "/vocabulary/temperature/hot.voc": [
-        "caliente"
-    ],
-    "/vocabulary/condition/fog.voc": [
-        "brumoso",
-        "niebla"
-    ],
-    "/vocabulary/condition/precipitation.voc": [
-        "llovizna",
-        "lluvioso",
-        "lluvia",
-        "nevando",
-        "nieve",
-        "lloviendo",
-        "nevado",
-        "precipitaciones"
-    ],
-    "/vocabulary/condition/humidity.voc": [
-        "vaporoso",
-        "humedad",
-        "h\u00famedo"
-    ],
-    "/vocabulary/condition/snow.voc": [
-        "aguanieve",
-        "nieve",
-        "nevando"
-    ],
-    "/vocabulary/condition/clear.voc": [
-        "soleado",
-        "sol",
-        "buen tiempo"
-    ],
-    "/vocabulary/condition/rain.voc": [
-        "llovizna",
-        "lluvioso",
-        "lluvia",
-        "lloviendo",
-        "precipitaciones",
-        "lluvia ligera"
-    ],
-    "/vocabulary/condition/clouds.voc": [
-        "nublado",
-        "nubes dispersas",
-        "nubes",
-        "pocas nubes"
-    ],
-    "/vocabulary/condition/thunderstorm.voc": [
-        "tormenta",
-        "tormentoso"
-    ],
-    "/vocabulary/condition/windy.voc": [
-        "racheado",
-        "viento",
-        "vientos",
-        "ventoso",
-        "soplando",
-        "velocidad del viento"
-    ]
+  "/vocabulary/location.voc": [
+    "Seattle",
+    "Los Ángeles, California|los ángeles|la",
+    "Lawrence, Kansas",
+    "Portland, Oregón | Portland",
+    "Spokane",
+    "Chicago",
+    "Houston",
+    "Austin",
+    "San Diego",
+    "San Francisco",
+    "San José",
+    "Boston",
+    "Kansas City",
+    "Atlanta",
+    "Berlín"
+  ],
+  "/vocabulary/sunrise.voc": [
+    "amanecer",
+    "[UNUSED]",
+    "alba",
+    "madrugada",
+    "[UNUSED]"
+  ],
+  "/vocabulary/forecast.voc": [
+    "previsión"
+  ],
+  "/vocabulary/outside.voc": [
+    "fuera",
+    "fuera de"
+  ],
+  "/vocabulary/sunset.voc": [
+    "crepúsculo",
+    "puesta de sol",
+    "anochecer"
+  ],
+  "/vocabulary/weather.voc": [
+    "tiempo",
+    "meteorología"
+  ],
+  "/vocabulary/unit/unit.voc": [
+    "Fahrenheit",
+    "Celsius"
+  ],
+  "/vocabulary/unit/fahrenheit.voc": [
+    "Fahrenheit"
+  ],
+  "/vocabulary/query/how.voc": [
+    "cómo"
+  ],
+  "/vocabulary/query/when.voc": [
+    "cuándo",
+    "cuándo",
+    "En qué momento",
+    "cuándo es",
+    "a qué hora"
+  ],
+  "/vocabulary/query/query.voc": [
+    "cómo",
+    "qué es",
+    "[UNUSED]",
+    "Qué",
+    "(Dime|Dinos|Cuéntame|Cuéntanos) (sobre|)",
+    "Dame",
+    "Qué"
+  ],
+  "/vocabulary/query/confirm-query.voc": [
+    "es",
+    "será",
+    "hay",
+    "habrá",
+    "habrá",
+    "[UNUSED]",
+    "[UNUSED]",
+    "tienen"
+  ],
+  "/vocabulary/query/confirm-query-current.voc": [
+    "es",
+    "(existe|hay)"
+  ],
+  "/vocabulary/query/confirm-query-future.voc": [
+    "¿va a",
+    "¿va a ser",
+    "(¿será|se hará)",
+    "(¿será|se hará)",
+    "(será|se hará)",
+    "(será|se hará)",
+    "habrá",
+    "¿habrá"
+  ],
+  "/vocabulary/date-time/number-days.voc": [
+    "2 días",
+    "dos días",
+    "los próximos 2 días",
+    "los próximos dos días",
+    "el próximo par de días",
+    "los próximos días",
+    "3 días",
+    "tres días",
+    "los próximos 3 días",
+    "los próximos tres días",
+    "los próximos días",
+    "4 días",
+    "cuatro días",
+    "los próximos 4 días",
+    "los próximos cuatro días",
+    "5 días",
+    "cinco días",
+    "los próximos 5 días",
+    "los próximos cinco días",
+    "6 días",
+    "seis días",
+    "los próximos 6 días",
+    "los próximos seis días"
+  ],
+  "/vocabulary/date-time/today.voc": [
+    "hoy",
+    "de hoy"
+  ],
+  "/vocabulary/date-time/few.voc": [
+    "algunos"
+  ],
+  "/vocabulary/date-time/now.voc": [
+    "actual",
+    "ahora"
+  ],
+  "/vocabulary/date-time/later.voc": [
+    "la próxima hora",
+    "las próximas horas",
+    "pocas horas",
+    "las próximas pocas horas",
+    "un par de horas",
+    "el próximo par de horas",
+    "más tarde"
+  ],
+  "/vocabulary/date-time/week.voc": [
+    "semana",
+    "semanal"
+  ],
+  "/vocabulary/date-time/weekend.voc": [
+    "fin de semana"
+  ],
+  "/vocabulary/date-time/couple.voc": [
+    "par"
+  ],
+  "/vocabulary/date-time/next.voc": [
+    "siguiente",
+    "de nuevo\notra vez"
+  ],
+  "/vocabulary/date-time/relative-time.voc": [
+    "mañana",
+    "mediodía",
+    "tarde",
+    "tarde",
+    "noche",
+    "esta noche",
+    "medianoche"
+  ],
+  "/vocabulary/date-time/relative-day.voc": [
+    "mañana",
+    "de mañana",
+    "ayer",
+    "de ayer",
+    "lunes",
+    "el lunes",
+    "martes",
+    "el martes",
+    "miércoles",
+    "el miércoles",
+    "jueves",
+    "el jueves",
+    "viernes",
+    "el viernes",
+    "sábado",
+    "el sábado",
+    "domingo",
+    "el domingo",
+    "días"
+  ],
+  "/vocabulary/temperature/cold.voc": [
+    "frío",
+    "fresco",
+    "helado",
+    "fresco"
+  ],
+  "/vocabulary/temperature/temperature.voc": [
+    "temperatura",
+    "temp"
+  ],
+  "/vocabulary/temperature/low.voc": [
+    "baja",
+    "más baja",
+    "min",
+    "mínima"
+  ],
+  "/vocabulary/temperature/high.voc": [
+    "alta",
+    "más alta",
+    "max",
+    "máxima"
+  ],
+  "/vocabulary/temperature/hot.voc": [
+    "cálido",
+    "caliente"
+  ],
+  "/vocabulary/condition/fog.voc": [
+    "niebla",
+    "neblinoso",
+    "neblina",
+    "neblinoso"
+  ],
+  "/vocabulary/condition/precipitation.voc": [
+    "lluvia",
+    "nieve",
+    "precipitación",
+    "lluvioso",
+    "de nieve",
+    "lloviendo",
+    "nevando",
+    "llovizna"
+  ],
+  "/vocabulary/condition/humidity.voc": [
+    "húmedo",
+    "humedad",
+    "húmedo"
+  ],
+  "/vocabulary/condition/snow.voc": [
+    "(nieve|nevando|aguanieve|cayendo aguanieve)"
+  ],
+  "/vocabulary/condition/clear.voc": [
+    "(despejado|soleado|sol)",
+    "buen tiempo\ntiempo agradable"
+  ],
+  "/vocabulary/condition/rain.voc": [
+    "(llovizna|lluvia|lloviendo|lluvioso|precipitación)"
+  ],
+  "/vocabulary/condition/clouds.voc": [
+    "(nublado|nube|nubes|nubes dispersas)"
+  ],
+  "/vocabulary/condition/thunderstorm.voc": [
+    "tormenta"
+  ],
+  "/vocabulary/condition/windy.voc": [
+    "viento",
+    "viento",
+    "vientos",
+    "velocidad del viento",
+    "(ventoso|con brisa)",
+    "(rachas de viento|ráfagas)",
+    "viento fuerte"
+  ]
 }

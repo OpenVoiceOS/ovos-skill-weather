@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/skill-ovos-weather",
+  "name": "O tempo",
+  "description": "Obtén as condicións meteorolóxicas, previsións, precipitacións esperadas e moito máis! Tamén podes consultar o tempo noutras cidades do mundo. As condicións actuais e as previsións meteorolóxicas proveñen de OpenMeteo",
+  "examples": [
+    "Que tempo vai?",
+    "Cal é a temperatura?",
+    "Cal é a previsión para mañá?",
+    "Que tempo vai en Ourense?",
+    "Cal será a temperatura en París mañá en graos Celsius?",
+    "Cal será a temperatura máxima de mañá?",
+    "Cando se pon o sol?",
+    "Vai nevar en Manzaneda?",
+    "Vai nevar?",
+    "Como será o tempo o martes?",
+    "Como será o tempo nos próximos tres días?",
+    "Que humidade hai?",
+    "Como será o tempo esta fin de semana?",
+    "Cal é a previsión para Londres mañá?",
+    "Vai moito vento?",
+    "Cando volverá chover?",
+    "Irá frío o martes?",
+    "(está a chover?|está chovendo?)"
+  ],
+  "tags": [
+    "tempo",
+    "previsión",
+    "(chuvia|choiva)",
+    "humidade",
+    "neve",
+    "temperatura"
+  ]
+}
