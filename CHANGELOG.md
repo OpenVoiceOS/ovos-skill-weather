@@ -1,20 +1,15 @@
 # Changelog
 
-## [0.1.17a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.17a2) (2025-03-20)
+## [0.1.18a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.18a1) (2025-04-08)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.17a1...0.1.17a2)
-
-**Merged pull requests:**
-
-- fix: translations [\#127](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/127) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.1.17a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.17a1) (2025-03-20)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.16...0.1.17a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.17...0.1.18a1)
 
 **Merged pull requests:**
 
-- Translations [\#125](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/125) ([JarbasAl](https://github.com/JarbasAl))
+- nl-nl/translate [\#132](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/132) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- gl/translate [\#131](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/131) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- es-es/translate [\#130](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/130) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- Create skill.json [\#129](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/129) ([c-armentano](https://github.com/c-armentano))
 
 
 
