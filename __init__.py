@@ -83,18 +83,19 @@ class WeatherSkill(OVOSSkill):
 
     @property
     def use_24h(self) -> bool:
+        """
+        Returns True if the time format is set to 24-hour mode.
+        
+        The method checks if the user's preferred time format is set to "full" (24-hour format).
+        """
         return self.time_format == "full"
 
     @intent_handler("current_weather.intent")
     def handle_current_weather(self, message):
         """
-        Handle current weather requests such as:
-
-            what's it like outside?
-            "What's the weather like?"
-
-        Args:
-            message: Message Bus event information from the intent parser
+        Handles user requests for current weather conditions.
+        
+        Parses the user's intent from the message and reports the current weather for the specified or default location.
         """
         intent = self._get_intent_data(message)
         self._report_current_weather(intent)
@@ -102,12 +103,9 @@ class WeatherSkill(OVOSSkill):
     @intent_handler("hourly_forecast.intent")
     def handle_hourly_weather(self, message):
         """
-        Handle weather requests for a specific time such as:
-
-            What's the forecast for friday 9 pm?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        Handles requests for the weather forecast at a specific hour.
+        
+        Retrieves intent data from the message and reports the hourly weather forecast for the requested time.
         """
         intent = self._get_intent_data(message)
         self._report_hourly_weather(intent)
@@ -115,13 +113,9 @@ class WeatherSkill(OVOSSkill):
     @intent_handler("daily_forecast.intent")
     def handle_daily_weather(self, message):
         """
-        Handle weather requests for a specific day such as:
-
-            How's the weather tomorrow
-            "what's tomorrow's forecast in Seattle?"
-
-        Args:
-            message: Message Bus event information from the intent parser
+        Handles weather forecast requests for a specific day.
+        
+        Processes user queries about the weather on a particular day (e.g., "How's the weather tomorrow?") and reports the daily forecast based on parsed intent data.
         """
         intent = self._get_intent_data(message)
         self._report_one_day_forecast(intent)
@@ -137,17 +131,9 @@ class WeatherSkill(OVOSSkill):
         .optionally("unit"))
     def handle_weather(self, message: Message):
         """
-        Handle weather requests of various timeframes.
-        The intents gets routed accordingly
-
-        Examples:
-            "What's the weather like?" (current)
-            "How's the weather tomorrow?" (daily)
-            "What's the forecast for friday 9 pm?" (hourly)
-            "what's tomorrow's forecast in Seattle?"
-
-        Args:
-            message: Message Bus event information from the intent parser
+        Handles general weather queries and routes them to the appropriate forecast handler.
+        
+        Determines whether the user is requesting current, daily, or hourly weather information and responds accordingly.
         """
         intent = self._get_intent_data(message)
         if intent.timeframe == DAILY:
@@ -160,13 +146,10 @@ class WeatherSkill(OVOSSkill):
 
     @intent_handler("N_days_forecast.intent")
     def handle_number_days_forecast(self, message: Message):
-        """Handle multiple day forecast without specified location.
-
-        Examples:
-            "What is the 3 day forecast?"
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user requests for a multi-day weather forecast when no location is specified.
+        
+        Determines the number of days to forecast based on keywords or numbers in the user's utterance. If no specific number is found, provides a summary of the week's weather instead.
         """
         utt = message.data["utterance"]
         days = None
@@ -189,63 +172,49 @@ class WeatherSkill(OVOSSkill):
 
     @intent_handler("weekend_forecast.intent")
     def handle_weekend_forecast(self, message: Message):
-        """Handle requests for the weekend forecast.
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user requests for the weekend weather forecast.
+        
+        Retrieves and reports the weather forecast for the upcoming weekend based on the user's intent.
         """
         self._report_weekend_forecast(message)
 
 
     @intent_handler("current_temperature.intent")
     def handle_current_temperature(self, message: Message):
-        """Handle requests for current temperature.
-
-        Examples:
-            "What is the temperature in Celsius?"
-            "What is the temperature in Baltimore now?"
-
+        """
+        Handles user requests for the current temperature at a specified location.
+        
         Args:
-            message: Message Bus event information from the intent parser
+            message: Contains intent data, including location and unit preferences.
         """
         self._report_temperature(message, temperature_type="current")
 
     @intent_handler("hourly_temperature.intent")
     def handle_hourly_temperature(self, message: Message):
-        """Handle requests for current temperature at a relative time.
-
-        Examples:
-            "What is the temperature tonight?"
-            "What is the temperature tomorrow morning?"
-
+        """
+        Handles user requests for the temperature at a specific future time, such as tonight or tomorrow morning.
+        
         Args:
-            message: Message Bus event information from the intent parser
+            message: Message Bus event containing intent data specifying the relative time.
         """
         self._report_temperature(message)
 
     @intent_handler("high_temperature.intent")
     def handle_high_temperature(self, message: Message):
-        """Handle a request for the high temperature.
-
-        Examples:
-            "What is the high temperature tomorrow?"
-            "What is the high temperature in London on Tuesday?"
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user requests for the high temperature forecast.
+        
+        Responds to queries about the expected high temperature for a specific day or location.
         """
         self._report_temperature(message, temperature_type="high")
 
     @intent_handler("low_temperature.intent")
     def handle_low_temperature(self, message: Message):
-        """Handle a request for the high temperature.
-
-        Examples:
-            "What is the high temperature tomorrow?"
-            "What is the high temperature in London on Tuesday?"
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles a request for the low temperature forecast.
+        
+        Responds to user queries about the expected low temperature for a specified time or location.
         """
         self._report_temperature(message, temperature_type="low")
 
@@ -259,10 +228,10 @@ class WeatherSkill(OVOSSkill):
         .optionally("today")
     )
     def handle_is_it_hot_or_cold(self, message: Message):
-        """Handler for temperature requests such as: is it going to be hot today?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user queries about whether it will be hot or cold.
+        
+        Determines if the user is asking about hot or cold conditions and reports the corresponding high or low temperature.
         """
         utterance = message.data["utterance"]
         temperature_type = "high" if self.voc_match(utterance, "hot") else "low"
@@ -270,28 +239,26 @@ class WeatherSkill(OVOSSkill):
 
     @intent_handler("is_wind.intent")
     def handle_is_it_windy(self, message: Message):
-        """Handler for weather requests such as: is it windy today?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user queries about current wind conditions and reports wind information.
         """
         self._report_wind(message)
 
     @intent_handler("is_snow.intent")
     def handle_is_it_snowing(self, message: Message):
-        """Handler for weather requests such as: is it snowing today?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user queries about whether it is snowing.
+        
+        Responds to intent requests asking if it is currently snowing or expected to snow, using weather data to provide an answer.
         """
         self._report_weather_condition(message, "snow")
 
     @intent_handler("is_clear.intent")
     def handle_is_it_clear(self, message: Message):
-        """Handler for weather requests such as: is the sky clear today?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user queries about whether the sky is clear.
+        
+        Invokes weather reporting for clear sky conditions based on the user's request.
         """
         self._report_weather_condition(message, condition="clear")
 
@@ -303,47 +270,48 @@ class WeatherSkill(OVOSSkill):
         .optionally("relative-time")
     )
     def handle_is_it_cloudy(self, message: Message):
-        """Handler for weather requests such as: is it cloudy today?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user queries about whether it is cloudy.
+        
+        Responds to requests such as "Is it cloudy today?" by reporting current or forecasted cloud conditions.
         """
         self._report_weather_condition(message, "clouds")
 
     @intent_handler("is_fog.intent")
     def handle_is_it_foggy(self, message: Message):
-        """Handler for weather requests such as: is it foggy today?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user queries about foggy weather conditions.
+        
+        Responds to requests asking if it is foggy by reporting current or forecasted fog conditions.
         """
         self._report_weather_condition(message, "fog")
 
     @intent_handler("is_rain.intent")
     def handle_is_it_raining(self, message: Message):
-        """Handler for weather requests such as: is it raining today?
-
+        """
+        Handles user queries about whether it is currently raining.
+        
         Args:
-            message: Message Bus event information from the intent parser
+            message: Message Bus event containing intent data.
         """
         self._report_weather_condition(message, "rain")
 
 
     @intent_handler("is_stormy.intent")
     def handle_is_it_storming(self, message: Message):
-        """Handler for weather requests such as:  is it storming today?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user queries about the presence of thunderstorms.
+        
+        Reports whether a thunderstorm is expected based on the user's intent and current forecast data.
         """
         self._report_weather_condition(message, "thunderstorm")
 
     @intent_handler("next_rain.intent")
     def handle_next_precipitation(self, message: Message):
-        """Handler for weather requests such as: when will it rain next?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user requests about the timing of the next precipitation event.
+        
+        Retrieves weather data and informs the user when the next rain, snow, or similar precipitation is expected based on the parsed intent.
         """
         intent_data = self._get_intent_data(message)
         weather = self._get_weather(intent_data)
@@ -356,10 +324,10 @@ class WeatherSkill(OVOSSkill):
 
     @intent_handler("humidity.intent")
     def handle_humidity(self, message: Message):
-        """Handler for weather requests such as: how humid is it?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user requests for current humidity levels and reports the result.
+        
+        Retrieves weather data based on the user's intent and responds with the current humidity information.
         """
         intent_data = self._get_intent_data(message)
         weather = self._get_weather(intent_data)
@@ -371,10 +339,10 @@ class WeatherSkill(OVOSSkill):
 
     @intent_handler("sunrise.intent")
     def handle_sunrise(self, message: Message):
-        """Handler for weather requests such as: when is the sunrise?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user requests for sunrise time by retrieving and reporting the sunrise for the specified location and date.
+        
+        Displays sunrise and sunset information on the GUI and speaks the sunrise time to the user.
         """
         intent_data = self._get_intent_data(message)
         intent_data.timeframe = DAILY
@@ -388,10 +356,10 @@ class WeatherSkill(OVOSSkill):
 
     @intent_handler("sunset.intent")
     def handle_sunset(self, message: Message):
-        """Handler for weather requests such as: when is the sunset?
-
-        Args:
-            message: Message Bus event information from the intent parser
+        """
+        Handles user requests for sunset time and displays sunset information.
+        
+        Retrieves the sunset time for the requested location and date, displays sunrise and sunset details on the GUI, and speaks the sunset information to the user.
         """
         intent_data = self._get_intent_data(message)
         intent_data.timeframe = DAILY
