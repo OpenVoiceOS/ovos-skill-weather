@@ -35,41 +35,23 @@ how is the weather  tuesday in {location}
 how is the weather  wednesday
 how is the weather  wednesday in {location}
 how is the weather in {location}   tomorrow
-how is the weather in {location}   tomorrow in {location}
 how is the weather in {location}  after tomorrow
-how is the weather in {location}  after tomorrow in {location}
 how is the weather in {location}  friday
-how is the weather in {location}  friday in {location}
 how is the weather in {location}  monday
-how is the weather in {location}  monday in {location}
 how is the weather in {location}  saturday
-how is the weather in {location}  saturday in {location}
 how is the weather in {location}  sunday
-how is the weather in {location}  sunday in {location}
 how is the weather in {location}  thursday
-how is the weather in {location}  thursday in {location}
 how is the weather in {location}  tuesday
-how is the weather in {location}  tuesday in {location}
 how is the weather in {location}  wednesday
-how is the weather in {location}  wednesday in {location}
 how is the weather in {location} like  tomorrow
-how is the weather in {location} like  tomorrow in {location}
 how is the weather in {location} like after tomorrow
-how is the weather in {location} like after tomorrow in {location}
 how is the weather in {location} like friday
-how is the weather in {location} like friday in {location}
 how is the weather in {location} like monday
-how is the weather in {location} like monday in {location}
 how is the weather in {location} like saturday
-how is the weather in {location} like saturday in {location}
 how is the weather in {location} like sunday
-how is the weather in {location} like sunday in {location}
 how is the weather in {location} like thursday
-how is the weather in {location} like thursday in {location}
 how is the weather in {location} like tuesday
-how is the weather in {location} like tuesday in {location}
 how is the weather in {location} like wednesday
-how is the weather in {location} like wednesday in {location}
 how is the weather like  tomorrow
 how is the weather like  tomorrow in {location}
 how is the weather like after tomorrow
@@ -143,41 +125,23 @@ what is the weather  tuesday in {location}
 what is the weather  wednesday
 what is the weather  wednesday in {location}
 what is the weather in {location}   tomorrow
-what is the weather in {location}   tomorrow in {location}
 what is the weather in {location}  after tomorrow
-what is the weather in {location}  after tomorrow in {location}
 what is the weather in {location}  friday
-what is the weather in {location}  friday in {location}
 what is the weather in {location}  monday
-what is the weather in {location}  monday in {location}
 what is the weather in {location}  saturday
-what is the weather in {location}  saturday in {location}
 what is the weather in {location}  sunday
-what is the weather in {location}  sunday in {location}
 what is the weather in {location}  thursday
-what is the weather in {location}  thursday in {location}
 what is the weather in {location}  tuesday
-what is the weather in {location}  tuesday in {location}
 what is the weather in {location}  wednesday
-what is the weather in {location}  wednesday in {location}
 what is the weather in {location} like  tomorrow
-what is the weather in {location} like  tomorrow in {location}
 what is the weather in {location} like after tomorrow
-what is the weather in {location} like after tomorrow in {location}
 what is the weather in {location} like friday
-what is the weather in {location} like friday in {location}
 what is the weather in {location} like monday
-what is the weather in {location} like monday in {location}
 what is the weather in {location} like saturday
-what is the weather in {location} like saturday in {location}
 what is the weather in {location} like sunday
-what is the weather in {location} like sunday in {location}
 what is the weather in {location} like thursday
-what is the weather in {location} like thursday in {location}
 what is the weather in {location} like tuesday
-what is the weather in {location} like tuesday in {location}
 what is the weather in {location} like wednesday
-what is the weather in {location} like wednesday in {location}
 what is the weather like  tomorrow
 what is the weather like  tomorrow in {location}
 what is the weather like after tomorrow

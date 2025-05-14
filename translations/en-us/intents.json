@@ -48,7 +48,7 @@
   ],
   "/intents/daily_forecast.intent": [
     "(how|what) is the weather [like] ([after] tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) [in {location}]",
-    "(how|what) is the weather in {location} [like] ([after] tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) [in {location}]",
+    "(how|what) is the weather in {location} [like] ([after] tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)",
     "what's the forecast for ([after] tomorrow|monday|tuesday|tuesday|wednesday|thursday|friday|saturday|sunday) [in {location}]",
     "how's the weather going to be ([after] tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) [in {location}]",
     "what should I expect ([after] tomorrow|on monday|tuesday|wednesday|thursday|friday|saturday|sunday) [in {location}]",
@@ -60,7 +60,7 @@
   "/intents/hourly_forecast.intent": [
     "What's the forecast for (tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm) [in {location}]",
     "(how|what) is the weather [like] (tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) (morning|evening|noon) [in {location}]",
-    "(how|what) is the weather in {location} [like] (tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) (morning|evening|noon) [in {location}]",
+    "(how|what) is the weather in {location} [like] (tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) (morning|evening|noon)",
     "tell me the weather (tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) (morning|evening) [in {location}]",
     "forecast for (tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) at (noon|night) [in {location}]",
     "forecast for (tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm) [in {location}]",
