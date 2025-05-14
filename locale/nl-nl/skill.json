@@ -1,6 +1,6 @@
 {
   "skill_id": "ovos-skill-weather.openvoiceos",
-  "source": "https://github.com/OpenVoiceOS/skill-ovos-weather",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
   "name": "Weer",
   "description": "Ontvang de weersvoorspellingen, verwachte neerslag en meer! Je kunt ook vragen naar het weerbeeld in andere steden over de hele wereld. Huidige weergegevens en voorspellingen komen van OpenMeteo",
   "examples": [
