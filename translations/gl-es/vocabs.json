@@ -18,10 +18,10 @@
   ],
   "/vocabulary/sunrise.voc": [
     "amencer",
-    "abrir o día",
-    "abrir o día",
     "amencer",
-    "amencer"
+    "amencer",
+    "abrir o día",
+    "abrir o día"
   ],
   "/vocabulary/forecast.voc": [
     "previsión"
@@ -52,9 +52,9 @@
   "/vocabulary/query/when.voc": [
     "cando",
     "cando é",
-    "cando vai",
+    "cando será",
     "cando é",
-    "cando"
+    "que hora"
   ],
   "/vocabulary/query/query.voc": [
     "como",
@@ -82,9 +82,9 @@
   "/vocabulary/query/confirm-query-future.voc": [
     "vai",
     "vai estar",
+    "porase",
     "vai poñerse",
-    "fará",
-    "estará",
+    "vai estar",
     "porase",
     "haberá",
     "haberá"
@@ -244,10 +244,10 @@
   "/vocabulary/condition/windy.voc": [
     "vento",
     "ventoso",
-    "refachos",
+    "ventos",
     "velocidade do vento",
     "con airexa",
-    "ventando",
+    "con refachos",
     "soprando"
   ]
 }
