@@ -208,6 +208,8 @@ What is the top temperature tuesday morning
 What is the top temperature tuesday night
 What is the top temperature wednesday morning
 What is the top temperature wednesday night
+how hot will it get
+how hot will it get  in {location}
 how hot will it get friday
 how hot will it get friday in {location}
 how hot will it get monday
@@ -235,6 +237,7 @@ peak temperature for today
 peak temperature for tomorrow
 peak temperature for tuesday
 peak temperature for wednesday
+what's the highest temp expected
 what's the highest temp expected friday
 what's the highest temp expected monday
 what's the highest temp expected saturday

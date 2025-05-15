@@ -34,6 +34,34 @@ any weather warnings for tuesday
 any weather warnings for tuesday in {location}
 any weather warnings for wednesday
 any weather warnings for wednesday in {location}
+forecast next friday
+forecast next friday in {location}
+forecast next monday
+forecast next monday in {location}
+forecast next saturday
+forecast next saturday in {location}
+forecast next sunday
+forecast next sunday in {location}
+forecast next thursday
+forecast next thursday in {location}
+forecast next tuesday
+forecast next tuesday in {location}
+forecast next wednesday
+forecast next wednesday in {location}
+how is the forecast next friday
+how is the forecast next friday in {location}
+how is the forecast next monday
+how is the forecast next monday in {location}
+how is the forecast next saturday
+how is the forecast next saturday in {location}
+how is the forecast next sunday
+how is the forecast next sunday in {location}
+how is the forecast next thursday
+how is the forecast next thursday in {location}
+how is the forecast next tuesday
+how is the forecast next tuesday in {location}
+how is the forecast next wednesday
+how is the forecast next wednesday in {location}
 how is the weather   tomorrow
 how is the weather   tomorrow in {location}
 how is the weather  after tomorrow
@@ -88,6 +116,20 @@ how is the weather like tuesday
 how is the weather like tuesday in {location}
 how is the weather like wednesday
 how is the weather like wednesday in {location}
+how is the weather next friday
+how is the weather next friday in {location}
+how is the weather next monday
+how is the weather next monday in {location}
+how is the weather next saturday
+how is the weather next saturday in {location}
+how is the weather next sunday
+how is the weather next sunday in {location}
+how is the weather next thursday
+how is the weather next thursday in {location}
+how is the weather next tuesday
+how is the weather next tuesday in {location}
+how is the weather next wednesday
+how is the weather next wednesday in {location}
 how's the weather going to be  tomorrow
 how's the weather going to be  tomorrow in {location}
 how's the weather going to be after tomorrow
@@ -178,6 +220,62 @@ is it going to be warm on tuesday
 is it going to be warm on tuesday in {location}
 is it going to be warm on wednesday
 is it going to be warm on wednesday in {location}
+tell me the forecast next friday
+tell me the forecast next friday in {location}
+tell me the forecast next monday
+tell me the forecast next monday in {location}
+tell me the forecast next saturday
+tell me the forecast next saturday in {location}
+tell me the forecast next sunday
+tell me the forecast next sunday in {location}
+tell me the forecast next thursday
+tell me the forecast next thursday in {location}
+tell me the forecast next tuesday
+tell me the forecast next tuesday in {location}
+tell me the forecast next wednesday
+tell me the forecast next wednesday in {location}
+tell me the weather next friday
+tell me the weather next friday in {location}
+tell me the weather next monday
+tell me the weather next monday in {location}
+tell me the weather next saturday
+tell me the weather next saturday in {location}
+tell me the weather next sunday
+tell me the weather next sunday in {location}
+tell me the weather next thursday
+tell me the weather next thursday in {location}
+tell me the weather next tuesday
+tell me the weather next tuesday in {location}
+tell me the weather next wednesday
+tell me the weather next wednesday in {location}
+weather next friday
+weather next friday in {location}
+weather next monday
+weather next monday in {location}
+weather next saturday
+weather next saturday in {location}
+weather next sunday
+weather next sunday in {location}
+weather next thursday
+weather next thursday in {location}
+weather next tuesday
+weather next tuesday in {location}
+weather next wednesday
+weather next wednesday in {location}
+what is the forecast next friday
+what is the forecast next friday in {location}
+what is the forecast next monday
+what is the forecast next monday in {location}
+what is the forecast next saturday
+what is the forecast next saturday in {location}
+what is the forecast next sunday
+what is the forecast next sunday in {location}
+what is the forecast next thursday
+what is the forecast next thursday in {location}
+what is the forecast next tuesday
+what is the forecast next tuesday in {location}
+what is the forecast next wednesday
+what is the forecast next wednesday in {location}
 what is the weather   tomorrow
 what is the weather   tomorrow in {location}
 what is the weather  after tomorrow
@@ -232,6 +330,20 @@ what is the weather like tuesday
 what is the weather like tuesday in {location}
 what is the weather like wednesday
 what is the weather like wednesday in {location}
+what is the weather next friday
+what is the weather next friday in {location}
+what is the weather next monday
+what is the weather next monday in {location}
+what is the weather next saturday
+what is the weather next saturday in {location}
+what is the weather next sunday
+what is the weather next sunday in {location}
+what is the weather next thursday
+what is the weather next thursday in {location}
+what is the weather next tuesday
+what is the weather next tuesday in {location}
+what is the weather next wednesday
+what is the weather next wednesday in {location}
 what should I expect  tomorrow
 what should I expect  tomorrow in {location}
 what should I expect after tomorrow

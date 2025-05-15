@@ -382,6 +382,54 @@ What's the forecast for wednesday at 9 am
 What's the forecast for wednesday at 9 am in {location}
 What's the forecast for wednesday at 9 pm
 What's the forecast for wednesday at 9 pm in {location}
+forecast at 1 am
+forecast at 1 am in {location}
+forecast at 1 pm
+forecast at 1 pm in {location}
+forecast at 10 am
+forecast at 10 am in {location}
+forecast at 10 pm
+forecast at 10 pm in {location}
+forecast at 11 am
+forecast at 11 am in {location}
+forecast at 11 pm
+forecast at 11 pm in {location}
+forecast at 12 am
+forecast at 12 am in {location}
+forecast at 12 pm
+forecast at 12 pm in {location}
+forecast at 2 am
+forecast at 2 am in {location}
+forecast at 2 pm
+forecast at 2 pm in {location}
+forecast at 3 am
+forecast at 3 am in {location}
+forecast at 3 pm
+forecast at 3 pm in {location}
+forecast at 4 am
+forecast at 4 am in {location}
+forecast at 4 pm
+forecast at 4 pm in {location}
+forecast at 5 am
+forecast at 5 am in {location}
+forecast at 5 pm
+forecast at 5 pm in {location}
+forecast at 6 am
+forecast at 6 am in {location}
+forecast at 6 pm
+forecast at 6 pm in {location}
+forecast at 7 am
+forecast at 7 am in {location}
+forecast at 7 pm
+forecast at 7 pm in {location}
+forecast at 8 am
+forecast at 8 am in {location}
+forecast at 8 pm
+forecast at 8 pm in {location}
+forecast at 9 am
+forecast at 9 am in {location}
+forecast at 9 pm
+forecast at 9 pm in {location}
 forecast for friday at 1 am
 forecast for friday at 1 am in {location}
 forecast for friday at 1 pm
@@ -830,6 +878,54 @@ hourly forecast for tuesday
 hourly forecast for tuesday in {location}
 hourly forecast for wednesday
 hourly forecast for wednesday in {location}
+how is the forecast at 1 am
+how is the forecast at 1 am in {location}
+how is the forecast at 1 pm
+how is the forecast at 1 pm in {location}
+how is the forecast at 10 am
+how is the forecast at 10 am in {location}
+how is the forecast at 10 pm
+how is the forecast at 10 pm in {location}
+how is the forecast at 11 am
+how is the forecast at 11 am in {location}
+how is the forecast at 11 pm
+how is the forecast at 11 pm in {location}
+how is the forecast at 12 am
+how is the forecast at 12 am in {location}
+how is the forecast at 12 pm
+how is the forecast at 12 pm in {location}
+how is the forecast at 2 am
+how is the forecast at 2 am in {location}
+how is the forecast at 2 pm
+how is the forecast at 2 pm in {location}
+how is the forecast at 3 am
+how is the forecast at 3 am in {location}
+how is the forecast at 3 pm
+how is the forecast at 3 pm in {location}
+how is the forecast at 4 am
+how is the forecast at 4 am in {location}
+how is the forecast at 4 pm
+how is the forecast at 4 pm in {location}
+how is the forecast at 5 am
+how is the forecast at 5 am in {location}
+how is the forecast at 5 pm
+how is the forecast at 5 pm in {location}
+how is the forecast at 6 am
+how is the forecast at 6 am in {location}
+how is the forecast at 6 pm
+how is the forecast at 6 pm in {location}
+how is the forecast at 7 am
+how is the forecast at 7 am in {location}
+how is the forecast at 7 pm
+how is the forecast at 7 pm in {location}
+how is the forecast at 8 am
+how is the forecast at 8 am in {location}
+how is the forecast at 8 pm
+how is the forecast at 8 pm in {location}
+how is the forecast at 9 am
+how is the forecast at 9 am in {location}
+how is the forecast at 9 pm
+how is the forecast at 9 pm in {location}
 how is the weather  friday evening
 how is the weather  friday evening in {location}
 how is the weather  friday morning
@@ -878,6 +974,54 @@ how is the weather  wednesday morning
 how is the weather  wednesday morning in {location}
 how is the weather  wednesday noon
 how is the weather  wednesday noon in {location}
+how is the weather at 1 am
+how is the weather at 1 am in {location}
+how is the weather at 1 pm
+how is the weather at 1 pm in {location}
+how is the weather at 10 am
+how is the weather at 10 am in {location}
+how is the weather at 10 pm
+how is the weather at 10 pm in {location}
+how is the weather at 11 am
+how is the weather at 11 am in {location}
+how is the weather at 11 pm
+how is the weather at 11 pm in {location}
+how is the weather at 12 am
+how is the weather at 12 am in {location}
+how is the weather at 12 pm
+how is the weather at 12 pm in {location}
+how is the weather at 2 am
+how is the weather at 2 am in {location}
+how is the weather at 2 pm
+how is the weather at 2 pm in {location}
+how is the weather at 3 am
+how is the weather at 3 am in {location}
+how is the weather at 3 pm
+how is the weather at 3 pm in {location}
+how is the weather at 4 am
+how is the weather at 4 am in {location}
+how is the weather at 4 pm
+how is the weather at 4 pm in {location}
+how is the weather at 5 am
+how is the weather at 5 am in {location}
+how is the weather at 5 pm
+how is the weather at 5 pm in {location}
+how is the weather at 6 am
+how is the weather at 6 am in {location}
+how is the weather at 6 pm
+how is the weather at 6 pm in {location}
+how is the weather at 7 am
+how is the weather at 7 am in {location}
+how is the weather at 7 pm
+how is the weather at 7 pm in {location}
+how is the weather at 8 am
+how is the weather at 8 am in {location}
+how is the weather at 8 pm
+how is the weather at 8 pm in {location}
+how is the weather at 9 am
+how is the weather at 9 am in {location}
+how is the weather at 9 pm
+how is the weather at 9 pm in {location}
 how is the weather in {location}  friday evening
 how is the weather in {location}  friday morning
 how is the weather in {location}  friday noon
@@ -974,6 +1118,102 @@ how is the weather like wednesday morning
 how is the weather like wednesday morning in {location}
 how is the weather like wednesday noon
 how is the weather like wednesday noon in {location}
+tell me the forecast at 1 am
+tell me the forecast at 1 am in {location}
+tell me the forecast at 1 pm
+tell me the forecast at 1 pm in {location}
+tell me the forecast at 10 am
+tell me the forecast at 10 am in {location}
+tell me the forecast at 10 pm
+tell me the forecast at 10 pm in {location}
+tell me the forecast at 11 am
+tell me the forecast at 11 am in {location}
+tell me the forecast at 11 pm
+tell me the forecast at 11 pm in {location}
+tell me the forecast at 12 am
+tell me the forecast at 12 am in {location}
+tell me the forecast at 12 pm
+tell me the forecast at 12 pm in {location}
+tell me the forecast at 2 am
+tell me the forecast at 2 am in {location}
+tell me the forecast at 2 pm
+tell me the forecast at 2 pm in {location}
+tell me the forecast at 3 am
+tell me the forecast at 3 am in {location}
+tell me the forecast at 3 pm
+tell me the forecast at 3 pm in {location}
+tell me the forecast at 4 am
+tell me the forecast at 4 am in {location}
+tell me the forecast at 4 pm
+tell me the forecast at 4 pm in {location}
+tell me the forecast at 5 am
+tell me the forecast at 5 am in {location}
+tell me the forecast at 5 pm
+tell me the forecast at 5 pm in {location}
+tell me the forecast at 6 am
+tell me the forecast at 6 am in {location}
+tell me the forecast at 6 pm
+tell me the forecast at 6 pm in {location}
+tell me the forecast at 7 am
+tell me the forecast at 7 am in {location}
+tell me the forecast at 7 pm
+tell me the forecast at 7 pm in {location}
+tell me the forecast at 8 am
+tell me the forecast at 8 am in {location}
+tell me the forecast at 8 pm
+tell me the forecast at 8 pm in {location}
+tell me the forecast at 9 am
+tell me the forecast at 9 am in {location}
+tell me the forecast at 9 pm
+tell me the forecast at 9 pm in {location}
+tell me the weather at 1 am
+tell me the weather at 1 am in {location}
+tell me the weather at 1 pm
+tell me the weather at 1 pm in {location}
+tell me the weather at 10 am
+tell me the weather at 10 am in {location}
+tell me the weather at 10 pm
+tell me the weather at 10 pm in {location}
+tell me the weather at 11 am
+tell me the weather at 11 am in {location}
+tell me the weather at 11 pm
+tell me the weather at 11 pm in {location}
+tell me the weather at 12 am
+tell me the weather at 12 am in {location}
+tell me the weather at 12 pm
+tell me the weather at 12 pm in {location}
+tell me the weather at 2 am
+tell me the weather at 2 am in {location}
+tell me the weather at 2 pm
+tell me the weather at 2 pm in {location}
+tell me the weather at 3 am
+tell me the weather at 3 am in {location}
+tell me the weather at 3 pm
+tell me the weather at 3 pm in {location}
+tell me the weather at 4 am
+tell me the weather at 4 am in {location}
+tell me the weather at 4 pm
+tell me the weather at 4 pm in {location}
+tell me the weather at 5 am
+tell me the weather at 5 am in {location}
+tell me the weather at 5 pm
+tell me the weather at 5 pm in {location}
+tell me the weather at 6 am
+tell me the weather at 6 am in {location}
+tell me the weather at 6 pm
+tell me the weather at 6 pm in {location}
+tell me the weather at 7 am
+tell me the weather at 7 am in {location}
+tell me the weather at 7 pm
+tell me the weather at 7 pm in {location}
+tell me the weather at 8 am
+tell me the weather at 8 am in {location}
+tell me the weather at 8 pm
+tell me the weather at 8 pm in {location}
+tell me the weather at 9 am
+tell me the weather at 9 am in {location}
+tell me the weather at 9 pm
+tell me the weather at 9 pm in {location}
 tell me the weather friday evening
 tell me the weather friday evening in {location}
 tell me the weather friday morning
@@ -1022,6 +1262,102 @@ tell me the weather wednesday morning
 tell me the weather wednesday morning in {location}
 tell me the weather wednesday night
 tell me the weather wednesday night in {location}
+weather at 1 am
+weather at 1 am in {location}
+weather at 1 pm
+weather at 1 pm in {location}
+weather at 10 am
+weather at 10 am in {location}
+weather at 10 pm
+weather at 10 pm in {location}
+weather at 11 am
+weather at 11 am in {location}
+weather at 11 pm
+weather at 11 pm in {location}
+weather at 12 am
+weather at 12 am in {location}
+weather at 12 pm
+weather at 12 pm in {location}
+weather at 2 am
+weather at 2 am in {location}
+weather at 2 pm
+weather at 2 pm in {location}
+weather at 3 am
+weather at 3 am in {location}
+weather at 3 pm
+weather at 3 pm in {location}
+weather at 4 am
+weather at 4 am in {location}
+weather at 4 pm
+weather at 4 pm in {location}
+weather at 5 am
+weather at 5 am in {location}
+weather at 5 pm
+weather at 5 pm in {location}
+weather at 6 am
+weather at 6 am in {location}
+weather at 6 pm
+weather at 6 pm in {location}
+weather at 7 am
+weather at 7 am in {location}
+weather at 7 pm
+weather at 7 pm in {location}
+weather at 8 am
+weather at 8 am in {location}
+weather at 8 pm
+weather at 8 pm in {location}
+weather at 9 am
+weather at 9 am in {location}
+weather at 9 pm
+weather at 9 pm in {location}
+what is the forecast at 1 am
+what is the forecast at 1 am in {location}
+what is the forecast at 1 pm
+what is the forecast at 1 pm in {location}
+what is the forecast at 10 am
+what is the forecast at 10 am in {location}
+what is the forecast at 10 pm
+what is the forecast at 10 pm in {location}
+what is the forecast at 11 am
+what is the forecast at 11 am in {location}
+what is the forecast at 11 pm
+what is the forecast at 11 pm in {location}
+what is the forecast at 12 am
+what is the forecast at 12 am in {location}
+what is the forecast at 12 pm
+what is the forecast at 12 pm in {location}
+what is the forecast at 2 am
+what is the forecast at 2 am in {location}
+what is the forecast at 2 pm
+what is the forecast at 2 pm in {location}
+what is the forecast at 3 am
+what is the forecast at 3 am in {location}
+what is the forecast at 3 pm
+what is the forecast at 3 pm in {location}
+what is the forecast at 4 am
+what is the forecast at 4 am in {location}
+what is the forecast at 4 pm
+what is the forecast at 4 pm in {location}
+what is the forecast at 5 am
+what is the forecast at 5 am in {location}
+what is the forecast at 5 pm
+what is the forecast at 5 pm in {location}
+what is the forecast at 6 am
+what is the forecast at 6 am in {location}
+what is the forecast at 6 pm
+what is the forecast at 6 pm in {location}
+what is the forecast at 7 am
+what is the forecast at 7 am in {location}
+what is the forecast at 7 pm
+what is the forecast at 7 pm in {location}
+what is the forecast at 8 am
+what is the forecast at 8 am in {location}
+what is the forecast at 8 pm
+what is the forecast at 8 pm in {location}
+what is the forecast at 9 am
+what is the forecast at 9 am in {location}
+what is the forecast at 9 pm
+what is the forecast at 9 pm in {location}
 what is the weather  friday evening
 what is the weather  friday evening in {location}
 what is the weather  friday morning
@@ -1070,6 +1406,54 @@ what is the weather  wednesday morning
 what is the weather  wednesday morning in {location}
 what is the weather  wednesday noon
 what is the weather  wednesday noon in {location}
+what is the weather at 1 am
+what is the weather at 1 am in {location}
+what is the weather at 1 pm
+what is the weather at 1 pm in {location}
+what is the weather at 10 am
+what is the weather at 10 am in {location}
+what is the weather at 10 pm
+what is the weather at 10 pm in {location}
+what is the weather at 11 am
+what is the weather at 11 am in {location}
+what is the weather at 11 pm
+what is the weather at 11 pm in {location}
+what is the weather at 12 am
+what is the weather at 12 am in {location}
+what is the weather at 12 pm
+what is the weather at 12 pm in {location}
+what is the weather at 2 am
+what is the weather at 2 am in {location}
+what is the weather at 2 pm
+what is the weather at 2 pm in {location}
+what is the weather at 3 am
+what is the weather at 3 am in {location}
+what is the weather at 3 pm
+what is the weather at 3 pm in {location}
+what is the weather at 4 am
+what is the weather at 4 am in {location}
+what is the weather at 4 pm
+what is the weather at 4 pm in {location}
+what is the weather at 5 am
+what is the weather at 5 am in {location}
+what is the weather at 5 pm
+what is the weather at 5 pm in {location}
+what is the weather at 6 am
+what is the weather at 6 am in {location}
+what is the weather at 6 pm
+what is the weather at 6 pm in {location}
+what is the weather at 7 am
+what is the weather at 7 am in {location}
+what is the weather at 7 pm
+what is the weather at 7 pm in {location}
+what is the weather at 8 am
+what is the weather at 8 am in {location}
+what is the weather at 8 pm
+what is the weather at 8 pm in {location}
+what is the weather at 9 am
+what is the weather at 9 am in {location}
+what is the weather at 9 pm
+what is the weather at 9 pm in {location}
 what is the weather in {location}  friday evening
 what is the weather in {location}  friday morning
 what is the weather in {location}  friday noon
