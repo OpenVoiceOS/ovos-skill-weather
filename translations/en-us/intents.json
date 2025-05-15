@@ -131,7 +131,7 @@
     "how (warm|chilly|hot|cold|hot or cold) is it [in {location}] [right now]",
     "what's the temp [in {location}] [now]",
     "current temperature update",
-    "is it (hot|cold!warm) outside [in {location}]",
+    "is it (hot|cold|warm) outside [in {location}]",
     "do I need a (jacket|coat) [today] [in {location}]"
   ],
   "/intents/hourly_temperature.intent": [
