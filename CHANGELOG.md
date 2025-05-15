@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.0a1) (2025-05-15)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.19a1...1.0.0a1)
+
+**Breaking changes:**
+
+- refactor!:move to padatious [\#137](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/137) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.19a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.19a1) (2025-05-14)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.18...0.1.19a1)
