@@ -51,10 +51,12 @@ how warm is it
 how warm is it  right now
 how warm is it in {location}
 how warm is it in {location} right now
-is it cold!warm outside
-is it cold!warm outside in {location}
+is it cold outside
+is it cold outside in {location}
 is it hot outside
 is it hot outside in {location}
+is it warm outside
+is it warm outside in {location}
 tell me the temperature  now
 tell me the temperature in {location} now
 what's the temp
