@@ -1,3 +1,21 @@
+any weather alerts for  tomorrow
+any weather alerts for  tomorrow in {location}
+any weather alerts for after tomorrow
+any weather alerts for after tomorrow in {location}
+any weather alerts for friday
+any weather alerts for friday in {location}
+any weather alerts for monday
+any weather alerts for monday in {location}
+any weather alerts for saturday
+any weather alerts for saturday in {location}
+any weather alerts for sunday
+any weather alerts for sunday in {location}
+any weather alerts for thursday
+any weather alerts for thursday in {location}
+any weather alerts for tuesday
+any weather alerts for tuesday in {location}
+any weather alerts for wednesday
+any weather alerts for wednesday in {location}
 any weather warnings for  tomorrow
 any weather warnings for  tomorrow in {location}
 any weather warnings for after tomorrow
@@ -88,6 +106,42 @@ how's the weather going to be tuesday
 how's the weather going to be tuesday in {location}
 how's the weather going to be wednesday
 how's the weather going to be wednesday in {location}
+how's the weather looking  tomorrow
+how's the weather looking  tomorrow in {location}
+how's the weather looking after tomorrow
+how's the weather looking after tomorrow in {location}
+how's the weather looking friday
+how's the weather looking friday in {location}
+how's the weather looking monday
+how's the weather looking monday in {location}
+how's the weather looking saturday
+how's the weather looking saturday in {location}
+how's the weather looking sunday
+how's the weather looking sunday in {location}
+how's the weather looking thursday
+how's the weather looking thursday in {location}
+how's the weather looking tuesday
+how's the weather looking tuesday in {location}
+how's the weather looking wednesday
+how's the weather looking wednesday in {location}
+is it going to be cold on  tomorrow
+is it going to be cold on  tomorrow in {location}
+is it going to be cold on after tomorrow
+is it going to be cold on after tomorrow in {location}
+is it going to be cold on friday
+is it going to be cold on friday in {location}
+is it going to be cold on monday
+is it going to be cold on monday in {location}
+is it going to be cold on saturday
+is it going to be cold on saturday in {location}
+is it going to be cold on sunday
+is it going to be cold on sunday in {location}
+is it going to be cold on thursday
+is it going to be cold on thursday in {location}
+is it going to be cold on tuesday
+is it going to be cold on tuesday in {location}
+is it going to be cold on wednesday
+is it going to be cold on wednesday in {location}
 is it going to be hot on  tomorrow
 is it going to be hot on  tomorrow in {location}
 is it going to be hot on after tomorrow
@@ -106,6 +160,24 @@ is it going to be hot on tuesday
 is it going to be hot on tuesday in {location}
 is it going to be hot on wednesday
 is it going to be hot on wednesday in {location}
+is it going to be warm on  tomorrow
+is it going to be warm on  tomorrow in {location}
+is it going to be warm on after tomorrow
+is it going to be warm on after tomorrow in {location}
+is it going to be warm on friday
+is it going to be warm on friday in {location}
+is it going to be warm on monday
+is it going to be warm on monday in {location}
+is it going to be warm on saturday
+is it going to be warm on saturday in {location}
+is it going to be warm on sunday
+is it going to be warm on sunday in {location}
+is it going to be warm on thursday
+is it going to be warm on thursday in {location}
+is it going to be warm on tuesday
+is it going to be warm on tuesday in {location}
+is it going to be warm on wednesday
+is it going to be warm on wednesday in {location}
 what is the weather   tomorrow
 what is the weather   tomorrow in {location}
 what is the weather  after tomorrow
@@ -232,3 +304,39 @@ will it rain on tuesday
 will it rain on tuesday in {location}
 will it rain on wednesday
 will it rain on wednesday in {location}
+will it snow on  tomorrow
+will it snow on  tomorrow in {location}
+will it snow on after tomorrow
+will it snow on after tomorrow in {location}
+will it snow on friday
+will it snow on friday in {location}
+will it snow on monday
+will it snow on monday in {location}
+will it snow on saturday
+will it snow on saturday in {location}
+will it snow on sunday
+will it snow on sunday in {location}
+will it snow on thursday
+will it snow on thursday in {location}
+will it snow on tuesday
+will it snow on tuesday in {location}
+will it snow on wednesday
+will it snow on wednesday in {location}
+will it storm on  tomorrow
+will it storm on  tomorrow in {location}
+will it storm on after tomorrow
+will it storm on after tomorrow in {location}
+will it storm on friday
+will it storm on friday in {location}
+will it storm on monday
+will it storm on monday in {location}
+will it storm on saturday
+will it storm on saturday in {location}
+will it storm on sunday
+will it storm on sunday in {location}
+will it storm on thursday
+will it storm on thursday in {location}
+will it storm on tuesday
+will it storm on tuesday in {location}
+will it storm on wednesday
+will it storm on wednesday in {location}
