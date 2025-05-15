@@ -85,6 +85,47 @@ class WeatherSkill(OVOSSkill):
     def use_24h(self) -> bool:
         return self.time_format == "full"
 
+    @intent_handler("current_weather.intent")
+    def handle_current_weather(self, message):
+        """
+        Handle current weather requests such as:
+
+            what's it like outside?
+            "What's the weather like?"
+
+        Args:
+            message: Message Bus event information from the intent parser
+        """
+        intent = self._get_intent_data(message)
+        self._report_current_weather(intent)
+
+    @intent_handler("hourly_forecast.intent")
+    def handle_hourly_weather(self, message):
+        """
+        Handle weather requests for a specific time such as:
+
+            What's the forecast for friday 9 pm?
+
+        Args:
+            message: Message Bus event information from the intent parser
+        """
+        intent = self._get_intent_data(message)
+        self._report_hourly_weather(intent)
+
+    @intent_handler("daily_forecast.intent")
+    def handle_daily_weather(self, message):
+        """
+        Handle weather requests for a specific day such as:
+
+            How's the weather tomorrow
+            "what's tomorrow's forecast in Seattle?"
+
+        Args:
+            message: Message Bus event information from the intent parser
+        """
+        intent = self._get_intent_data(message)
+        self._report_one_day_forecast(intent)
+
     @intent_handler(
         IntentBuilder("weather")
         .optionally("query")
@@ -116,57 +157,37 @@ class WeatherSkill(OVOSSkill):
         else:
             self._report_current_weather(intent)
 
-    @intent_handler(
-        IntentBuilder("outside")
-        .require("query")
-        .require("outside")
-        .optionally("location")
-        .optionally("unit")
-    )
-    def handle_outside(self, message: Message):
-        """
-        Handle current weather requests such as: what's it like outside?
 
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        intent = self._get_intent_data(message)
-        self._report_current_weather(intent)
-
-    @intent_handler(
-        IntentBuilder("N_days_forecast")
-        .optionally("query")
-        .one_of("weather", "forecast")
-        .require("number-days")
-        .optionally("location")
-        .optionally("unit")
-    )
+    @intent_handler("N_days_forecast.intent")
     def handle_number_days_forecast(self, message: Message):
         """Handle multiple day forecast without specified location.
 
         Examples:
             "What is the 3 day forecast?"
-            "What is the weather forecast?"
 
         Args:
             message: Message Bus event information from the intent parser
         """
-        if self.voc_match(message.data["utterance"], "couple"):
+        utt = message.data["utterance"]
+        days = None
+        if self.voc_match(utt, "week"):
+            days = 7
+        elif self.voc_match(utt, "couple"):
             days = 2
-        elif self.voc_match(message.data["utterance"], "few"):
+        elif self.voc_match(utt, "few"):
             days = 3
         else:
-            days = int(extract_number(message.data["utterance"], lang=self.lang))
-        self._report_multi_day_forecast(message, days)
+            try:
+                days = int(extract_number(message.data["utterance"], lang=self.lang))
+            except:
+                pass
 
-    @intent_handler(
-        IntentBuilder("weekend_forecast")
-        .require("query")
-        .one_of("weather", "forecast")
-        .require("weekend")
-        .optionally("location")
-        .optionally("unit")
-    )
+        if not days:
+            self._report_week_summary(message)
+        else:
+            self._report_multi_day_forecast(message, days)
+
+    @intent_handler("weekend_forecast.intent")
     def handle_weekend_forecast(self, message: Message):
         """Handle requests for the weekend forecast.
 
@@ -175,31 +196,8 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_weekend_forecast(message)
 
-    @intent_handler(
-        IntentBuilder("week_weather")
-        .optionally("query")
-        .one_of("weather", "forecast")
-        .require("week")
-        .optionally("location")
-        .optionally("unit")
-    )
-    def handle_week_weather(self, message: Message):
-        """Handle weather for week (i.e. seven days).
 
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        self._report_week_summary(message)
-
-    @intent_handler(
-        IntentBuilder("current_temperature")
-        .optionally("query")
-        .require("temperature")
-        .optionally("location")
-        .optionally("unit")
-        .optionally("today")
-        .optionally("now")
-    )
+    @intent_handler("current_temperature.intent")
     def handle_current_temperature(self, message: Message):
         """Handle requests for current temperature.
 
@@ -212,33 +210,7 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_temperature(message, temperature_type="current")
 
-    @intent_handler(
-        IntentBuilder("daily_temperature")
-        .optionally("query")
-        .require("temperature")
-        .require("relative-day")
-        .optionally("location")
-        .optionally("unit")
-    )
-    def handle_daily_temperature(self, message: Message):
-        """Handle simple requests for current temperature.
-
-        Examples: "What is the temperature?"
-
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        self._report_temperature(message)
-
-    @intent_handler(
-        IntentBuilder("hourly_temperature")
-        .optionally("query")
-        .require("temperature")
-        .require("relative-time")
-        .optionally("relative-day")
-        .optionally("location")
-        .optionally("unit")
-    )
+    @intent_handler("hourly_temperature.intent")
     def handle_hourly_temperature(self, message: Message):
         """Handle requests for current temperature at a relative time.
 
@@ -251,18 +223,7 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_temperature(message)
 
-    # TODO high low teperatures really only make sense if tied to a daytime
-    @intent_handler(
-        IntentBuilder("high_temperature")
-        .optionally("query")
-        .require("high")
-        .require("temperature")
-        .optionally("location")
-        .optionally("unit")
-        .optionally("relative-day")
-        .optionally("now")
-        .optionally("today")
-    )
+    @intent_handler("high_temperature.intent")
     def handle_high_temperature(self, message: Message):
         """Handle a request for the high temperature.
 
@@ -275,17 +236,7 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_temperature(message, temperature_type="high")
 
-    @intent_handler(
-        IntentBuilder("low_temperature")
-        .optionally("query")
-        .require("low")
-        .require("temperature")
-        .optionally("location")
-        .optionally("unit")
-        .optionally("relative-day")
-        .optionally("now")
-        .optionally("today")
-    )
+    @intent_handler("low_temperature.intent")
     def handle_low_temperature(self, message: Message):
         """Handle a request for the high temperature.
 
@@ -300,9 +251,11 @@ class WeatherSkill(OVOSSkill):
 
     @intent_handler(
         IntentBuilder("is_hot_cold")
-        .require("confirm-query-current")
+        .one_of("confirm-query-current", "confirm-query")
         .one_of("hot", "cold")
+        .optionally("query")
         .optionally("location")
+        .optionally("relative-day")
         .optionally("today")
     )
     def handle_is_it_hot_or_cold(self, message: Message):
@@ -315,32 +268,7 @@ class WeatherSkill(OVOSSkill):
         temperature_type = "high" if self.voc_match(utterance, "hot") else "low"
         self._report_temperature(message, temperature_type)
 
-    @intent_handler(
-        IntentBuilder("how_hot_or_cold")
-        .optionally("query")
-        .one_of("hot", "cold")
-        .require("confirm-query")
-        .optionally("location")
-        .optionally("relative-day")
-        .optionally("today")
-    )
-    def handle_how_hot_or_cold(self, message):
-        """Handler for temperature requests such as: how cold will it be today?
-
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        utterance = message.data["utterance"]
-        temperature_type = "high" if self.voc_match(utterance, "hot") else "low"
-        self._report_temperature(message, temperature_type)
-
-    @intent_handler(
-        IntentBuilder("is_wind")
-        .require("confirm-query")
-        .require("windy")
-        .optionally("location")
-        .optionally("relative-day")
-    )
+    @intent_handler("is_wind.intent")
     def handle_is_it_windy(self, message: Message):
         """Handler for weather requests such as: is it windy today?
 
@@ -349,28 +277,7 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_wind(message)
 
-    @intent_handler(
-        IntentBuilder("current_wind")
-        .require("how")
-        .require("windy")
-        .optionally("confirm-query")
-        .optionally("relative-day")
-        .optionally("location")
-    )
-    def handle_windy(self, message):
-        """Handler for weather requests such as: how windy is it?
-
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        self._report_wind(message)
-
-    @intent_handler(
-        IntentBuilder("is_snow")
-        .require("confirm-query")
-        .require("snow")
-        .optionally("location")
-    )
+    @intent_handler("is_snow.intent")
     def handle_is_it_snowing(self, message: Message):
         """Handler for weather requests such as: is it snowing today?
 
@@ -379,12 +286,7 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_weather_condition(message, "snow")
 
-    @intent_handler(
-        IntentBuilder("is_clear")
-        .require("confirm-query")
-        .require("clear")
-        .optionally("location")
-    )
+    @intent_handler("is_clear.intent")
     def handle_is_it_clear(self, message: Message):
         """Handler for weather requests such as: is the sky clear today?
 
@@ -408,12 +310,7 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_weather_condition(message, "clouds")
 
-    @intent_handler(
-        IntentBuilder("is_fog")
-        .require("confirm-query")
-        .require("fog")
-        .optionally("location")
-    )
+    @intent_handler("is_fog.intent")
     def handle_is_it_foggy(self, message: Message):
         """Handler for weather requests such as: is it foggy today?
 
@@ -422,35 +319,17 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_weather_condition(message, "fog")
 
-    @intent_handler(
-        IntentBuilder("is_rain")
-        .require("confirm-query")
-        .require("rain")
-        .optionally("location")
-    )
+    @intent_handler("is_rain.intent")
     def handle_is_it_raining(self, message: Message):
         """Handler for weather requests such as: is it raining today?
-
-        Args:
-            message: Message Bus event information from the intent parser
-0]       """
-        self._report_weather_condition(message, "rain")
-
-    @intent_handler("do-i-need-an-umbrella.intent")
-    def handle_need_umbrella(self, message: Message):
-        """Handler for weather requests such as: will I need an umbrella today?
 
         Args:
             message: Message Bus event information from the intent parser
         """
         self._report_weather_condition(message, "rain")
 
-    @intent_handler(
-        IntentBuilder("is_stormy")
-        .require("confirm-query")
-        .require("thunderstorm")
-        .optionally("location")
-    )
+
+    @intent_handler("is_stormy.intent")
     def handle_is_it_storming(self, message: Message):
         """Handler for weather requests such as:  is it storming today?
 
@@ -459,13 +338,7 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_weather_condition(message, "thunderstorm")
 
-    @intent_handler(
-        IntentBuilder("next_rain")
-        .require("when")
-        .optionally("next")
-        .one_of("rain", "precipitation")
-        .optionally("location")
-    )
+    @intent_handler("next_rain.intent")
     def handle_next_precipitation(self, message: Message):
         """Handler for weather requests such as: when will it rain next?
 
@@ -481,13 +354,7 @@ class WeatherSkill(OVOSSkill):
             dialog.build_next_precipitation_dialog()
             self._speak_weather(dialog)
 
-    @intent_handler(
-        IntentBuilder("humidity")
-        .require("query")
-        .require("humidity")
-        .optionally("relative-day")
-        .optionally("location")
-    )
+    @intent_handler("humidity.intent")
     def handle_humidity(self, message: Message):
         """Handler for weather requests such as: how humid is it?
 
@@ -502,14 +369,7 @@ class WeatherSkill(OVOSSkill):
             dialog.build_humidity_dialog()
             self._speak_weather(dialog)
 
-    @intent_handler(
-        IntentBuilder("sunrise")  # TODO - this should be in other skill
-        .require("when")
-        .optionally("location")
-        .require("sunrise")
-        .optionally("today")
-        .optionally("relative-day")
-    )
+    @intent_handler("sunrise.intent")
     def handle_sunrise(self, message: Message):
         """Handler for weather requests such as: when is the sunrise?
 
@@ -526,14 +386,7 @@ class WeatherSkill(OVOSSkill):
             self._display_sunrise_sunset(intent_weather, intent_data.display_location)
             self._speak_weather(dialog)
 
-    @intent_handler(
-        IntentBuilder("sunset")  # TODO - this should be in other skill
-        .require("when")
-        .require("sunset")
-        .optionally("location")
-        .optionally("today")
-        .optionally("relative-day")
-    )
+    @intent_handler("sunset.intent")
     def handle_sunset(self, message: Message):
         """Handler for weather requests such as: when is the sunset?
 

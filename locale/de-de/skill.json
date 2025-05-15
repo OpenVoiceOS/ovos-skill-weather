@@ -1,6 +1,6 @@
 {
   "skill_id": "ovos-skill-weather.openvoiceos",
-  "source": "https://github.com/OpenVoiceOS/skill-ovos-weather",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
   "name": "Wetter",
   "description": "Erhalte Wetterbedingungen, Prognosen, erwartete Niederschläge und mehr! Du kannst auch nach anderen Städten auf der ganzen Welt fragen. Aktuelle Bedingungen und Wettervorhersagen stammen von OpenMeteo",
   "examples": [

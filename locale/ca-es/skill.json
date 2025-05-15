@@ -1,6 +1,6 @@
 {
   "skill_id": "ovos-skill-weather.openvoiceos",
-  "source": "https://github.com/OpenVoiceOS/skill-ovos-weather",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
   "name": "Temps",
   "description": "Obteniu les condicions meteorològiques, les previsions, les precipitacions esperades i molt més! També podeu demanar per altres ciutats del món. Les condicions actuals i les previsions meteorològiques provenen d'OpenMeteo",
   "examples": [

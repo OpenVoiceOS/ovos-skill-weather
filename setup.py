@@ -4,7 +4,7 @@ import os
 from os import walk, path
 
 
-URL = "https://github.com/OpenVoiceOS/skill-ovos-weather"
+URL = "https://github.com/OpenVoiceOS/ovos-skill-weather"
 SKILL_CLAZZ = "WeatherSkill"  # needs to match __init__.py class name
 PYPI_NAME = "ovos-skill-weather"  # pip install PYPI_NAME
 

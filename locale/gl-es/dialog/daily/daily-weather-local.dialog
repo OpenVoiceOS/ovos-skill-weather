@@ -1,5 +1,5 @@
 A previsión para {day} é {condition} cunha máxima de {high_temperature} e unha mínima de {low_temperature}
-Prevese {condition}. cunha máxima de {high_temperature} e unha mínima de {low_temperature} {day}
-{day} a máxima será de {high_temperature} e a mínima de {low_temperature}. estará {condition}
+Prevese {condition} cunha máxima de {high_temperature} e unha mínima de {low_temperature} {day}
+Prevese {condition}, cunha máxima de {high_temperature} e unha mínima de {low_temperature} {day}
+{day} a máxima será de {high_temperature} e a mínima de {low_temperature}. Estará {condition}
 {day} estará {condition} cunha máxima de {high_temperature} e unha mínima de {low_temperature}
-{day} prevese {condition}. cunha máxima de {high_temperature} e unha mínima de {low_temperature}

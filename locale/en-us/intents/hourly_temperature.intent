@@ -1,0 +1,428 @@
+What is the temperature friday morning
+What is the temperature friday night
+What is the temperature monday morning
+What is the temperature monday night
+What is the temperature saturday morning
+What is the temperature saturday night
+What is the temperature sunday morning
+What is the temperature sunday night
+What is the temperature thursday morning
+What is the temperature thursday night
+What is the temperature tomorrow morning
+What is the temperature tomorrow night
+What is the temperature tonight
+What is the temperature tonight in {location}
+What is the temperature tuesday morning
+What is the temperature tuesday night
+What is the temperature wednesday morning
+What is the temperature wednesday night
+how cold will it be
+how cold will it be this evening
+how cold will it be today
+how cold will it be tonight
+how hot will it be
+how hot will it be this evening
+how hot will it be today
+how hot will it be tonight
+how warm will it be this morning
+how warm will it be this morning in {location}
+how warm will it be tonight
+how warm will it be tonight in {location}
+is it expected to be scorching tomorrow afternoon
+is it expected to be scorching tomorrow afternoon in {location}
+is it going to be cold
+is it going to be cold this evening
+is it going to be cold today
+is it going to be cold tonight
+is it going to be hot
+is it going to be hot this evening
+is it going to be hot today
+is it going to be hot tonight
+temperature forecast for tomorrow morning
+temperature forecast for tonight
+what's the temperature at 1 am friday
+what's the temperature at 1 am friday in {location}
+what's the temperature at 1 am monday
+what's the temperature at 1 am monday in {location}
+what's the temperature at 1 am saturday
+what's the temperature at 1 am saturday in {location}
+what's the temperature at 1 am sunday
+what's the temperature at 1 am sunday in {location}
+what's the temperature at 1 am thursday
+what's the temperature at 1 am thursday in {location}
+what's the temperature at 1 am tomorrow
+what's the temperature at 1 am tomorrow in {location}
+what's the temperature at 1 am tuesday
+what's the temperature at 1 am tuesday in {location}
+what's the temperature at 1 am wednesday
+what's the temperature at 1 am wednesday in {location}
+what's the temperature at 1 pm friday
+what's the temperature at 1 pm friday in {location}
+what's the temperature at 1 pm monday
+what's the temperature at 1 pm monday in {location}
+what's the temperature at 1 pm saturday
+what's the temperature at 1 pm saturday in {location}
+what's the temperature at 1 pm sunday
+what's the temperature at 1 pm sunday in {location}
+what's the temperature at 1 pm thursday
+what's the temperature at 1 pm thursday in {location}
+what's the temperature at 1 pm tomorrow
+what's the temperature at 1 pm tomorrow in {location}
+what's the temperature at 1 pm tuesday
+what's the temperature at 1 pm tuesday in {location}
+what's the temperature at 1 pm wednesday
+what's the temperature at 1 pm wednesday in {location}
+what's the temperature at 10 am friday
+what's the temperature at 10 am friday in {location}
+what's the temperature at 10 am monday
+what's the temperature at 10 am monday in {location}
+what's the temperature at 10 am saturday
+what's the temperature at 10 am saturday in {location}
+what's the temperature at 10 am sunday
+what's the temperature at 10 am sunday in {location}
+what's the temperature at 10 am thursday
+what's the temperature at 10 am thursday in {location}
+what's the temperature at 10 am tomorrow
+what's the temperature at 10 am tomorrow in {location}
+what's the temperature at 10 am tuesday
+what's the temperature at 10 am tuesday in {location}
+what's the temperature at 10 am wednesday
+what's the temperature at 10 am wednesday in {location}
+what's the temperature at 10 pm friday
+what's the temperature at 10 pm friday in {location}
+what's the temperature at 10 pm monday
+what's the temperature at 10 pm monday in {location}
+what's the temperature at 10 pm saturday
+what's the temperature at 10 pm saturday in {location}
+what's the temperature at 10 pm sunday
+what's the temperature at 10 pm sunday in {location}
+what's the temperature at 10 pm thursday
+what's the temperature at 10 pm thursday in {location}
+what's the temperature at 10 pm tomorrow
+what's the temperature at 10 pm tomorrow in {location}
+what's the temperature at 10 pm tuesday
+what's the temperature at 10 pm tuesday in {location}
+what's the temperature at 10 pm wednesday
+what's the temperature at 10 pm wednesday in {location}
+what's the temperature at 11 am friday
+what's the temperature at 11 am friday in {location}
+what's the temperature at 11 am monday
+what's the temperature at 11 am monday in {location}
+what's the temperature at 11 am saturday
+what's the temperature at 11 am saturday in {location}
+what's the temperature at 11 am sunday
+what's the temperature at 11 am sunday in {location}
+what's the temperature at 11 am thursday
+what's the temperature at 11 am thursday in {location}
+what's the temperature at 11 am tomorrow
+what's the temperature at 11 am tomorrow in {location}
+what's the temperature at 11 am tuesday
+what's the temperature at 11 am tuesday in {location}
+what's the temperature at 11 am wednesday
+what's the temperature at 11 am wednesday in {location}
+what's the temperature at 11 pm friday
+what's the temperature at 11 pm friday in {location}
+what's the temperature at 11 pm monday
+what's the temperature at 11 pm monday in {location}
+what's the temperature at 11 pm saturday
+what's the temperature at 11 pm saturday in {location}
+what's the temperature at 11 pm sunday
+what's the temperature at 11 pm sunday in {location}
+what's the temperature at 11 pm thursday
+what's the temperature at 11 pm thursday in {location}
+what's the temperature at 11 pm tomorrow
+what's the temperature at 11 pm tomorrow in {location}
+what's the temperature at 11 pm tuesday
+what's the temperature at 11 pm tuesday in {location}
+what's the temperature at 11 pm wednesday
+what's the temperature at 11 pm wednesday in {location}
+what's the temperature at 12 am friday
+what's the temperature at 12 am friday in {location}
+what's the temperature at 12 am monday
+what's the temperature at 12 am monday in {location}
+what's the temperature at 12 am saturday
+what's the temperature at 12 am saturday in {location}
+what's the temperature at 12 am sunday
+what's the temperature at 12 am sunday in {location}
+what's the temperature at 12 am thursday
+what's the temperature at 12 am thursday in {location}
+what's the temperature at 12 am tomorrow
+what's the temperature at 12 am tomorrow in {location}
+what's the temperature at 12 am tuesday
+what's the temperature at 12 am tuesday in {location}
+what's the temperature at 12 am wednesday
+what's the temperature at 12 am wednesday in {location}
+what's the temperature at 12 pm friday
+what's the temperature at 12 pm friday in {location}
+what's the temperature at 12 pm monday
+what's the temperature at 12 pm monday in {location}
+what's the temperature at 12 pm saturday
+what's the temperature at 12 pm saturday in {location}
+what's the temperature at 12 pm sunday
+what's the temperature at 12 pm sunday in {location}
+what's the temperature at 12 pm thursday
+what's the temperature at 12 pm thursday in {location}
+what's the temperature at 12 pm tomorrow
+what's the temperature at 12 pm tomorrow in {location}
+what's the temperature at 12 pm tuesday
+what's the temperature at 12 pm tuesday in {location}
+what's the temperature at 12 pm wednesday
+what's the temperature at 12 pm wednesday in {location}
+what's the temperature at 2 am friday
+what's the temperature at 2 am friday in {location}
+what's the temperature at 2 am monday
+what's the temperature at 2 am monday in {location}
+what's the temperature at 2 am saturday
+what's the temperature at 2 am saturday in {location}
+what's the temperature at 2 am sunday
+what's the temperature at 2 am sunday in {location}
+what's the temperature at 2 am thursday
+what's the temperature at 2 am thursday in {location}
+what's the temperature at 2 am tomorrow
+what's the temperature at 2 am tomorrow in {location}
+what's the temperature at 2 am tuesday
+what's the temperature at 2 am tuesday in {location}
+what's the temperature at 2 am wednesday
+what's the temperature at 2 am wednesday in {location}
+what's the temperature at 2 pm friday
+what's the temperature at 2 pm friday in {location}
+what's the temperature at 2 pm monday
+what's the temperature at 2 pm monday in {location}
+what's the temperature at 2 pm saturday
+what's the temperature at 2 pm saturday in {location}
+what's the temperature at 2 pm sunday
+what's the temperature at 2 pm sunday in {location}
+what's the temperature at 2 pm thursday
+what's the temperature at 2 pm thursday in {location}
+what's the temperature at 2 pm tomorrow
+what's the temperature at 2 pm tomorrow in {location}
+what's the temperature at 2 pm tuesday
+what's the temperature at 2 pm tuesday in {location}
+what's the temperature at 2 pm wednesday
+what's the temperature at 2 pm wednesday in {location}
+what's the temperature at 3 am friday
+what's the temperature at 3 am friday in {location}
+what's the temperature at 3 am monday
+what's the temperature at 3 am monday in {location}
+what's the temperature at 3 am saturday
+what's the temperature at 3 am saturday in {location}
+what's the temperature at 3 am sunday
+what's the temperature at 3 am sunday in {location}
+what's the temperature at 3 am thursday
+what's the temperature at 3 am thursday in {location}
+what's the temperature at 3 am tomorrow
+what's the temperature at 3 am tomorrow in {location}
+what's the temperature at 3 am tuesday
+what's the temperature at 3 am tuesday in {location}
+what's the temperature at 3 am wednesday
+what's the temperature at 3 am wednesday in {location}
+what's the temperature at 3 pm friday
+what's the temperature at 3 pm friday in {location}
+what's the temperature at 3 pm monday
+what's the temperature at 3 pm monday in {location}
+what's the temperature at 3 pm saturday
+what's the temperature at 3 pm saturday in {location}
+what's the temperature at 3 pm sunday
+what's the temperature at 3 pm sunday in {location}
+what's the temperature at 3 pm thursday
+what's the temperature at 3 pm thursday in {location}
+what's the temperature at 3 pm tomorrow
+what's the temperature at 3 pm tomorrow in {location}
+what's the temperature at 3 pm tuesday
+what's the temperature at 3 pm tuesday in {location}
+what's the temperature at 3 pm wednesday
+what's the temperature at 3 pm wednesday in {location}
+what's the temperature at 4 am friday
+what's the temperature at 4 am friday in {location}
+what's the temperature at 4 am monday
+what's the temperature at 4 am monday in {location}
+what's the temperature at 4 am saturday
+what's the temperature at 4 am saturday in {location}
+what's the temperature at 4 am sunday
+what's the temperature at 4 am sunday in {location}
+what's the temperature at 4 am thursday
+what's the temperature at 4 am thursday in {location}
+what's the temperature at 4 am tomorrow
+what's the temperature at 4 am tomorrow in {location}
+what's the temperature at 4 am tuesday
+what's the temperature at 4 am tuesday in {location}
+what's the temperature at 4 am wednesday
+what's the temperature at 4 am wednesday in {location}
+what's the temperature at 4 pm friday
+what's the temperature at 4 pm friday in {location}
+what's the temperature at 4 pm monday
+what's the temperature at 4 pm monday in {location}
+what's the temperature at 4 pm saturday
+what's the temperature at 4 pm saturday in {location}
+what's the temperature at 4 pm sunday
+what's the temperature at 4 pm sunday in {location}
+what's the temperature at 4 pm thursday
+what's the temperature at 4 pm thursday in {location}
+what's the temperature at 4 pm tomorrow
+what's the temperature at 4 pm tomorrow in {location}
+what's the temperature at 4 pm tuesday
+what's the temperature at 4 pm tuesday in {location}
+what's the temperature at 4 pm wednesday
+what's the temperature at 4 pm wednesday in {location}
+what's the temperature at 5 am friday
+what's the temperature at 5 am friday in {location}
+what's the temperature at 5 am monday
+what's the temperature at 5 am monday in {location}
+what's the temperature at 5 am saturday
+what's the temperature at 5 am saturday in {location}
+what's the temperature at 5 am sunday
+what's the temperature at 5 am sunday in {location}
+what's the temperature at 5 am thursday
+what's the temperature at 5 am thursday in {location}
+what's the temperature at 5 am tomorrow
+what's the temperature at 5 am tomorrow in {location}
+what's the temperature at 5 am tuesday
+what's the temperature at 5 am tuesday in {location}
+what's the temperature at 5 am wednesday
+what's the temperature at 5 am wednesday in {location}
+what's the temperature at 5 pm friday
+what's the temperature at 5 pm friday in {location}
+what's the temperature at 5 pm monday
+what's the temperature at 5 pm monday in {location}
+what's the temperature at 5 pm saturday
+what's the temperature at 5 pm saturday in {location}
+what's the temperature at 5 pm sunday
+what's the temperature at 5 pm sunday in {location}
+what's the temperature at 5 pm thursday
+what's the temperature at 5 pm thursday in {location}
+what's the temperature at 5 pm tomorrow
+what's the temperature at 5 pm tomorrow in {location}
+what's the temperature at 5 pm tuesday
+what's the temperature at 5 pm tuesday in {location}
+what's the temperature at 5 pm wednesday
+what's the temperature at 5 pm wednesday in {location}
+what's the temperature at 6 am friday
+what's the temperature at 6 am friday in {location}
+what's the temperature at 6 am monday
+what's the temperature at 6 am monday in {location}
+what's the temperature at 6 am saturday
+what's the temperature at 6 am saturday in {location}
+what's the temperature at 6 am sunday
+what's the temperature at 6 am sunday in {location}
+what's the temperature at 6 am thursday
+what's the temperature at 6 am thursday in {location}
+what's the temperature at 6 am tomorrow
+what's the temperature at 6 am tomorrow in {location}
+what's the temperature at 6 am tuesday
+what's the temperature at 6 am tuesday in {location}
+what's the temperature at 6 am wednesday
+what's the temperature at 6 am wednesday in {location}
+what's the temperature at 6 pm friday
+what's the temperature at 6 pm friday in {location}
+what's the temperature at 6 pm monday
+what's the temperature at 6 pm monday in {location}
+what's the temperature at 6 pm saturday
+what's the temperature at 6 pm saturday in {location}
+what's the temperature at 6 pm sunday
+what's the temperature at 6 pm sunday in {location}
+what's the temperature at 6 pm thursday
+what's the temperature at 6 pm thursday in {location}
+what's the temperature at 6 pm tomorrow
+what's the temperature at 6 pm tomorrow in {location}
+what's the temperature at 6 pm tuesday
+what's the temperature at 6 pm tuesday in {location}
+what's the temperature at 6 pm wednesday
+what's the temperature at 6 pm wednesday in {location}
+what's the temperature at 7 am friday
+what's the temperature at 7 am friday in {location}
+what's the temperature at 7 am monday
+what's the temperature at 7 am monday in {location}
+what's the temperature at 7 am saturday
+what's the temperature at 7 am saturday in {location}
+what's the temperature at 7 am sunday
+what's the temperature at 7 am sunday in {location}
+what's the temperature at 7 am thursday
+what's the temperature at 7 am thursday in {location}
+what's the temperature at 7 am tomorrow
+what's the temperature at 7 am tomorrow in {location}
+what's the temperature at 7 am tuesday
+what's the temperature at 7 am tuesday in {location}
+what's the temperature at 7 am wednesday
+what's the temperature at 7 am wednesday in {location}
+what's the temperature at 7 pm friday
+what's the temperature at 7 pm friday in {location}
+what's the temperature at 7 pm monday
+what's the temperature at 7 pm monday in {location}
+what's the temperature at 7 pm saturday
+what's the temperature at 7 pm saturday in {location}
+what's the temperature at 7 pm sunday
+what's the temperature at 7 pm sunday in {location}
+what's the temperature at 7 pm thursday
+what's the temperature at 7 pm thursday in {location}
+what's the temperature at 7 pm tomorrow
+what's the temperature at 7 pm tomorrow in {location}
+what's the temperature at 7 pm tuesday
+what's the temperature at 7 pm tuesday in {location}
+what's the temperature at 7 pm wednesday
+what's the temperature at 7 pm wednesday in {location}
+what's the temperature at 8 am friday
+what's the temperature at 8 am friday in {location}
+what's the temperature at 8 am monday
+what's the temperature at 8 am monday in {location}
+what's the temperature at 8 am saturday
+what's the temperature at 8 am saturday in {location}
+what's the temperature at 8 am sunday
+what's the temperature at 8 am sunday in {location}
+what's the temperature at 8 am thursday
+what's the temperature at 8 am thursday in {location}
+what's the temperature at 8 am tomorrow
+what's the temperature at 8 am tomorrow in {location}
+what's the temperature at 8 am tuesday
+what's the temperature at 8 am tuesday in {location}
+what's the temperature at 8 am wednesday
+what's the temperature at 8 am wednesday in {location}
+what's the temperature at 8 pm friday
+what's the temperature at 8 pm friday in {location}
+what's the temperature at 8 pm monday
+what's the temperature at 8 pm monday in {location}
+what's the temperature at 8 pm saturday
+what's the temperature at 8 pm saturday in {location}
+what's the temperature at 8 pm sunday
+what's the temperature at 8 pm sunday in {location}
+what's the temperature at 8 pm thursday
+what's the temperature at 8 pm thursday in {location}
+what's the temperature at 8 pm tomorrow
+what's the temperature at 8 pm tomorrow in {location}
+what's the temperature at 8 pm tuesday
+what's the temperature at 8 pm tuesday in {location}
+what's the temperature at 8 pm wednesday
+what's the temperature at 8 pm wednesday in {location}
+what's the temperature at 9 am friday
+what's the temperature at 9 am friday in {location}
+what's the temperature at 9 am monday
+what's the temperature at 9 am monday in {location}
+what's the temperature at 9 am saturday
+what's the temperature at 9 am saturday in {location}
+what's the temperature at 9 am sunday
+what's the temperature at 9 am sunday in {location}
+what's the temperature at 9 am thursday
+what's the temperature at 9 am thursday in {location}
+what's the temperature at 9 am tomorrow
+what's the temperature at 9 am tomorrow in {location}
+what's the temperature at 9 am tuesday
+what's the temperature at 9 am tuesday in {location}
+what's the temperature at 9 am wednesday
+what's the temperature at 9 am wednesday in {location}
+what's the temperature at 9 pm friday
+what's the temperature at 9 pm friday in {location}
+what's the temperature at 9 pm monday
+what's the temperature at 9 pm monday in {location}
+what's the temperature at 9 pm saturday
+what's the temperature at 9 pm saturday in {location}
+what's the temperature at 9 pm sunday
+what's the temperature at 9 pm sunday in {location}
+what's the temperature at 9 pm thursday
+what's the temperature at 9 pm thursday in {location}
+what's the temperature at 9 pm tomorrow
+what's the temperature at 9 pm tomorrow in {location}
+what's the temperature at 9 pm tuesday
+what's the temperature at 9 pm tuesday in {location}
+what's the temperature at 9 pm wednesday
+what's the temperature at 9 pm wednesday in {location}
+will it be chilly this evening
+will it be chilly this evening in {location}
