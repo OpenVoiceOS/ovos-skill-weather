@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.1a1) (2025-05-15)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.0a1...1.0.1a1)
+
+**Merged pull requests:**
+
+- fix: standardize [\#140](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/140) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.0a1) (2025-05-15)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.19a1...1.0.0a1)
