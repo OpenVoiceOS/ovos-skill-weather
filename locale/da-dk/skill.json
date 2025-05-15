@@ -1,6 +1,6 @@
 {
   "skill_id": "ovos-skill-weather.openvoiceos",
-  "source": "https://github.com/OpenVoiceOS/skill-ovos-weather",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
   "name": "Vejr",
   "description": "Få vejrforhold, prognoser, forventet nedbør og meget mere! Du kan også spørge efter andre byer rundt om i verden. Aktuelle forhold og vejrudsigter kommer fra OpenMeteo",
   "examples": [

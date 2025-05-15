@@ -1,6 +1,6 @@
 {
   "skill_id": "ovos-skill-weather.openvoiceos",
-  "source": "https://github.com/OpenVoiceOS/skill-ovos-weather",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
   "name": "O tempo",
   "description": "Obtén as condicións meteorolóxicas, previsións, precipitacións esperadas e moito máis! Tamén podes consultar o tempo noutras cidades do mundo. As condicións actuais e as previsións meteorolóxicas proveñen de OpenMeteo",
   "examples": [
