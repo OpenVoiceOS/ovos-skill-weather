@@ -48,7 +48,7 @@
   ],
   "/intents/daily_forecast.intent": [
     "(wie|wie) (wird|ist) das Wetter ([nach] morgen|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag) [in {location}]",
-    null,
+    "(wie ist der/die/das|was ist der/die/das|sag mir den/die/das|) (Vorhersage|Wetter) nächsten (Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag) [in {Ort}]",
     "(wie|was) ist das Wetter in {location} ([nach] morgen|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag)",
     "wie ist die Vorhersage für ([nach] morgen|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag) [(in|für) {location}]",
     "wie wird das Wetter ([nach] morgen|Montag|Dienstag|Mittwoch|Donnerstag|Freitag|Samstag|Sonntag) [(in|für) {Ort}]",
