@@ -1,28 +1,14 @@
 # Changelog
 
-## [1.0.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.1a1) (2025-05-15)
+## [1.0.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.2a1) (2025-05-18)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.0a1...1.0.1a1)
-
-**Merged pull requests:**
-
-- fix: standardize [\#140](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/140) ([JarbasAl](https://github.com/JarbasAl))
-
-## [1.0.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.0a1) (2025-05-15)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.19a1...1.0.0a1)
-
-**Breaking changes:**
-
-- refactor!:move to padatious [\#137](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/137) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.1.19a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.19a1) (2025-05-14)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.18...0.1.19a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.1...1.0.2a1)
 
 **Merged pull requests:**
 
-- gl/translate [\#135](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/135) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- german translation of new intents [\#145](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/145) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- Update intents.json [\#143](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/143) ([adina-v](https://github.com/adina-v))
+- Update intents.json NL-nl [\#142](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/142) ([timonvanhasselt](https://github.com/timonvanhasselt))
 
 
 
