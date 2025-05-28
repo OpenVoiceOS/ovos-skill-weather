@@ -15,10 +15,10 @@
   ],
   "/intents/N_days_forecast.intent": [
     "Wie ist die (2|3|4|5|6|7) Tage Vorhersage [in {location}]\nWie ist (Wettervorhersage|Vorhersage) [in {location}] für die nächsten (2|3|4|5|6|7) Tage ",
-    "Wetter (für|während) (die|der Woche [in {location}]",
+    "Wetter (für|während) (die|der) Woche [in {location}]",
     "das Wetter (in|) (diese|dieser) Woche [in {location}]",
     "Wetter in den (nächsten|kommenden) (wenigen|paar|2|3|4|5|6|7) Tagen [in {location}]",
-    "wie ist die Wettervorhersage|Wetterprognose|Vorhersage|Prognose) für die (kommenden|nächsten) Tage [in {location}]",
+    "wie ist die (Wettervorhersage|Vorhersage|Prognose) für die (kommenden|nächsten) Tage [in {location}]",
     "zeig mir die (wöchentliche|7-Tage-)Vorhersage [für {location}]",
     "Sag mir die (Vorhersage | Wettervorhersage) für diese Woche [in {location}]",
     "wie ist das Wetter (voraussichtlich | vorhergesagt) diese Woche [in {location}]",
