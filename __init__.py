@@ -958,9 +958,8 @@ class WeatherSkill(OVOSSkill):
     def can_stop(self, message: Message) -> bool:
         return False
 
-    def stop_session(self, session: Session) -> bool:
+    def stop(self):
         # called during global stop only
+        session = SessionManager.get()
         if session.session_id == "default":
             self.gui.release()
-            return True
-        return False
