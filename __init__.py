@@ -383,7 +383,8 @@ class WeatherSkill(OVOSSkill):
             intent_weather = weather.get_weather_for_intent(intent_data)
             dialog = get_dialog_for_timeframe(intent_data, intent_weather)
             dialog.build_sunrise_dialog()
-            self._display_sunrise_sunset(intent_weather, intent_data.display_location)
+            if SessionManager.get().session_id == "default":
+                self._display_sunrise_sunset(intent_weather, intent_data.display_location)
             self._speak_weather(dialog)
 
     @intent_handler("sunset.intent")
@@ -400,7 +401,8 @@ class WeatherSkill(OVOSSkill):
             intent_weather = weather.get_weather_for_intent(intent_data)
             dialog = get_dialog_for_timeframe(intent_data, intent_weather)
             dialog.build_sunset_dialog()
-            self._display_sunrise_sunset(intent_weather, intent_data.display_location)
+            if SessionManager.get().session_id == "default":
+                self._display_sunrise_sunset(intent_weather, intent_data.display_location)
             self._speak_weather(dialog)
 
     def _display_sunrise_sunset(self, forecast: Weather, weather_location: str):
@@ -425,21 +427,25 @@ class WeatherSkill(OVOSSkill):
         """
         weather = self._get_weather(intent_data)
         if weather is not None:
-            self._display_current_conditions(weather, intent_data.display_location)
+
+            if SessionManager.get().session_id == "default":
+                self._display_current_conditions(weather, intent_data.display_location)
+
             dialog = CurrentDialog(intent_data,  weather.current)
             dialog.build_weather_dialog()
             self._speak_weather(dialog)
             dialog = CurrentDialog(intent_data, weather.current)
             dialog.build_humidity_dialog()
             self._speak_weather(dialog)
-            if self.gui.connected:
-                sleep(7)
-                self._display_hourly_forecast(weather.hourly, intent_data.display_location)
-                sleep(7)
-                four_day_forecast = weather.daily[1:5]
-                self._display_multi_day_forecast(four_day_forecast, intent_data)
-            else:
-                sleep(5)
+            if SessionManager.get().session_id == "default":
+                if self.gui.connected:
+                    sleep(7)
+                    self._display_hourly_forecast(weather.hourly, intent_data.display_location)
+                    sleep(7)
+                    four_day_forecast = weather.daily[1:5]
+                    self._display_multi_day_forecast(four_day_forecast, intent_data)
+                else:
+                    sleep(5)
             # reset mk1 faceplate
             self.enclosure.eyes_blink("b")
             self.enclosure.mouth_reset()
@@ -489,7 +495,8 @@ class WeatherSkill(OVOSSkill):
             else:
                 dialog = HourlyDialog(intent_data, forecast[0])
                 dialog.build_weather_dialog()
-                self._display_hourly_forecast(forecast, intent_data.display_location)
+                if SessionManager.get().session_id == "default":
+                    self._display_hourly_forecast(forecast, intent_data.display_location)
                 self._speak_weather(dialog)
 
     def _display_hourly_forecast(self, weather: List[Weather], weather_location: str):
@@ -538,7 +545,7 @@ class WeatherSkill(OVOSSkill):
         if weather is not None:
             forecast = weather.get_forecast_for_date(intent_data)
             dialogs = self._build_forecast_dialogs([forecast], intent_data)
-            if self.gui.connected:
+            if SessionManager.get().session_id == "default" and self.gui.connected:
                 self._display_one_day(forecast, intent_data)
             for dialog in dialogs:
                 self._speak_weather(dialog, wait=True)
@@ -585,7 +592,8 @@ class WeatherSkill(OVOSSkill):
                 self.speak_dialog("seven-days-available")
                 forecast = weather.get_forecast_for_multiple_days(7)
             dialogs = self._build_forecast_dialogs(forecast, intent_data)
-            self._display_multi_day_forecast(forecast, intent_data)
+            if SessionManager.get().session_id == "default":
+                self._display_multi_day_forecast(forecast, intent_data)
             for dialog in dialogs:
                 self._speak_weather(dialog, wait=True)
 
@@ -600,7 +608,8 @@ class WeatherSkill(OVOSSkill):
         if weather is not None:
             forecast = weather.get_weekend_forecast()
             dialogs = self._build_forecast_dialogs(forecast, intent_data)
-            self._display_multi_day_forecast(forecast, intent_data)
+            if SessionManager.get().session_id == "default":
+                self._display_multi_day_forecast(forecast, intent_data)
             for dialog in dialogs:
                 self._speak_weather(dialog, wait=True)
 
@@ -636,7 +645,8 @@ class WeatherSkill(OVOSSkill):
             forecast = weather.get_forecast_for_multiple_days(7)
             dialogs = self._build_weekly_condition_dialogs(forecast, intent_data)
             dialogs.append(self._build_weekly_temperature_dialog(forecast, intent_data))
-            self._display_multi_day_forecast(forecast, intent_data)
+            if SessionManager.get().session_id == "default":
+                self._display_multi_day_forecast(forecast, intent_data)
             for dialog in dialogs:
                 self._speak_weather(dialog)
 
@@ -681,7 +691,8 @@ class WeatherSkill(OVOSSkill):
             forecast: daily forecasts to display
             intent_data: Parsed intent data
         """
-        self._display_multi_day_scalable(forecast)
+        if SessionManager.get().session_id == "default":
+            self._display_multi_day_scalable(forecast)
 
     def _display_multi_day_scalable(self, forecast: List[Weather]):
         """Display daily forecast data on GUI devices other than the Mark II.
@@ -944,5 +955,12 @@ class WeatherSkill(OVOSSkill):
         except Exception:
             LOG.exception("Unexpected error getting weather for skill API.")
 
-    def stop(self):
-        self.gui.release()
+    def can_stop(self, message: Message) -> bool:
+        return False
+
+    def stop_session(self, session: Session) -> bool:
+        # called during global stop only
+        if session.session_id == "default":
+            self.gui.release()
+            return True
+        return False
