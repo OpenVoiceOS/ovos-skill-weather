@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.3a1) (2025-06-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.2a3...1.0.3a1)
+
+**Merged pull requests:**
+
+- fix: workshop 6.0.0 compat + better gui session handlinh [\#149](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/149) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.2a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.2a3) (2025-05-28)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.2a1...1.0.2a3)
