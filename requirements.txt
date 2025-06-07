@@ -1,7 +1,7 @@
 requests>=2.31.0
 pytz
 ovos-utils>=0.4.0,<1.0.0
-ovos-workshop>=2.2.0,<4.0.0
+ovos-workshop>=2.2.0,<7.0.0
 ovos-number-parser>=0.0.1,<1.0.0
 ovos-date-parser>=0.0.2,<1.0.0
 ovos-utterance-normalizer>=0.0.1,<1.0.0
