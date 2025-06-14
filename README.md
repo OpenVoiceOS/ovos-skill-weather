@@ -1,3 +1,5 @@
+[![gitlocalized ](https://gitlocalize.com/repo/9611/whole_project/badge.svg)](https://gitlocalize.com/repo/9662?utm_source=badge) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/OpenVoiceOS/ovos-skill-weather)
+
 # <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/svgs/solid/sun.svg' card_color='#FEE255' width='50' height='50' style='vertical-align:bottom'/> Weather
 Weather conditions and forecasts
 
