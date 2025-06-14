@@ -2,16 +2,16 @@
   "/intents/current_weather.intent": [
     "cómo (está|es) [el pronóstico de] el tiempo",
     "cómo (está|es) [el pronóstico de] el tiempo en {location}",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "¿Cómo está afuera?",
+    "Cuéntame [sobre] el [pronóstico del] tiempo [en {ubicación}]",
+    "condiciones meteorológicas actuales [en {ubicación}]",
+    "¿Qué está pasando con el clima [ahora mismo|hoy] [en {ubicación}]?",
+    "¿Puedes decirme [sobre] el clima [ahora|actualmente] [en {ubicación}]?",
+    "¿Qué tiempo hace?",
+    "Dame la actualización meteorológica (más reciente|actual) [en {ubicación}]",
+    "¿Qué tiempo hace (ahora|actualmente)?",
+    "¿Cómo está el tiempo [en {ubicación}]?",
+    "¿Hace buen tiempo afuera?"
   ],
   "/intents/N_days_forecast.intent": [
     null,
