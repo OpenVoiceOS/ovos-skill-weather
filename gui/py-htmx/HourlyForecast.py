@@ -87,26 +87,26 @@ class HourlyForecastWidget(Widget):
     @staticmethod
     def get_weather_animation(weather_code: int) -> str:
         animations = {
-            0: "/assets/animations/sun.json",
-            1: "/assets/animations/night.json",
-            2: "/assets/animations/partial_clouds.json",
-            3: "/assets/animations/partial_clouds.json",
-            4: "/assets/animations/clouds.json",
-            5: "/assets/animations/clouds.json",
-            6: "/assets/animations/partial_clouds.json",
-            7: "/assets/animations/partial_clouds.json",
-            8: "/assets/animations/rain.json",
-            9: "/assets/animations/rain.json",
-            10: "/assets/animations/rain.json",
-            11: "/assets/animations/rain.json",
-            12: "/assets/animations/storm.json",
-            13: "/assets/animations/storm.json",
-            14: "/assets/animations/snow.json",
-            15: "/assets/animations/snow.json",
-            16: "/assets/animations/fog.json",
-            17: "/assets/animations/fog.json",
+            0: "assets/animations/sun.json",
+            1: "assets/animations/night.json",
+            2: "assets/animations/partial_clouds.json",
+            3: "assets/animations/partial_clouds.json",
+            4: "assets/animations/clouds.json",
+            5: "assets/animations/clouds.json",
+            6: "assets/animations/partial_clouds.json",
+            7: "assets/animations/partial_clouds.json",
+            8: "assets/animations/rain.json",
+            9: "assets/animations/rain.json",
+            10: "assets/animations/rain.json",
+            11: "assets/animations/rain.json",
+            12: "assets/animations/storm.json",
+            13: "assets/animations/storm.json",
+            14: "assets/animations/snow.json",
+            15: "assets/animations/snow.json",
+            16: "assets/animations/fog.json",
+            17: "assets/animations/fog.json",
         }
-        return animations.get(weather_code, "/assets/animations/default_weather.json")
+        return animations.get(weather_code, "assets/animations/default_weather.json")
 
 
 class HourlyForecastPage(Page):
