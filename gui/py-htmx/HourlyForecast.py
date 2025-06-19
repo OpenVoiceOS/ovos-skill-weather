@@ -2,10 +2,10 @@ from __future__ import annotations
 from pyhtmx.html_tag import HTMLTag
 from pyhtmx import Div
 from pyhtmx_gui.kit import Widget, Page, SessionItem
-from typing import Any, Dict, Optional, List
+from typing import Any, Dict, Optional
 
 
-CACHE_SUBDIR = "/cache/ovos-skill-weather.openvoiceos/py-htmx"
+CACHE_DIR = "/cache/ovos-skill-weather.openvoiceos/py-htmx"
 
 
 class HourlyForecastWidget(Widget):
@@ -90,26 +90,26 @@ class HourlyForecastWidget(Widget):
     @staticmethod
     def get_weather_animation(weather_code: int) -> str:
         animations = {
-            0: f"{CACHE_SUBDIR}/animations/sun.json",
-            1: f"{CACHE_SUBDIR}/animations/night.json",
-            2: f"{CACHE_SUBDIR}/animations/partial_clouds.json",
-            3: f"{CACHE_SUBDIR}/animations/partial_clouds.json",
-            4: f"{CACHE_SUBDIR}/animations/clouds.json",
-            5: f"{CACHE_SUBDIR}/animations/clouds.json",
-            6: f"{CACHE_SUBDIR}/animations/partial_clouds.json",
-            7: f"{CACHE_SUBDIR}/animations/partial_clouds.json",
-            8: f"{CACHE_SUBDIR}/animations/rain.json",
-            9: f"{CACHE_SUBDIR}/animations/rain.json",
-            10: f"{CACHE_SUBDIR}/animations/rain.json",
-            11: f"{CACHE_SUBDIR}/animations/rain.json",
-            12: f"{CACHE_SUBDIR}/animations/storm.json",
-            13: f"{CACHE_SUBDIR}/animations/storm.json",
-            14: f"{CACHE_SUBDIR}/animations/snow.json",
-            15: f"{CACHE_SUBDIR}/animations/snow.json",
-            16: f"{CACHE_SUBDIR}/animations/fog.json",
-            17: f"{CACHE_SUBDIR}/animations/fog.json",
+            0: f"{CACHE_DIR}/animations/sun.json",
+            1: f"{CACHE_DIR}/animations/night.json",
+            2: f"{CACHE_DIR}/animations/partial_clouds.json",
+            3: f"{CACHE_DIR}/animations/partial_clouds.json",
+            4: f"{CACHE_DIR}/animations/clouds.json",
+            5: f"{CACHE_DIR}/animations/clouds.json",
+            6: f"{CACHE_DIR}/animations/partial_clouds.json",
+            7: f"{CACHE_DIR}/animations/partial_clouds.json",
+            8: f"{CACHE_DIR}/animations/rain.json",
+            9: f"{CACHE_DIR}/animations/rain.json",
+            10: f"{CACHE_DIR}/animations/rain.json",
+            11: f"{CACHE_DIR}/animations/rain.json",
+            12: f"{CACHE_DIR}/animations/storm.json",
+            13: f"{CACHE_DIR}/animations/storm.json",
+            14: f"{CACHE_DIR}/animations/snow.json",
+            15: f"{CACHE_DIR}/animations/snow.json",
+            16: f"{CACHE_DIR}/animations/fog.json",
+            17: f"{CACHE_DIR}/animations/fog.json",
         }
-        return animations.get(weather_code, f"{CACHE_SUBDIR}/animations/default_weather.json")
+        return animations.get(weather_code, f"{CACHE_DIR}/animations/default_weather.json")
 
 
 class HourlyForecastPage(Page):
