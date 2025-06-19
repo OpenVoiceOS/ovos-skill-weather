@@ -5,6 +5,9 @@ from pyhtmx_gui.kit import Widget, SessionItem, Page
 from pyhtmx.html_tag import HTMLTag
 
 
+CACHE_SUBDIR = "/cache/ovos-skill-weather.openvoiceos/py-htmx"
+
+
 class WeatherWidget(Widget):
     _parameters = (
         "weatherCode",
@@ -116,26 +119,26 @@ class WeatherWidget(Widget):
     @staticmethod
     def get_weather_animation(weather_code: int) -> str:
         animations = {
-            0: "assets/animations/sun.json",
-            1: "assets/animations/night.json",
-            2: "assets/animations/partial_clouds.json",
-            3: "assets/animations/partial_clouds.json",
-            4: "assets/animations/clouds.json",
-            5: "assets/animations/clouds.json",
-            6: "assets/animations/partial_clouds.json",
-            7: "assets/animations/partial_clouds.json",
-            8: "assets/animations/rain.json",
-            9: "assets/animations/rain.json",
-            10: "assets/animations/rain.json",
-            11: "assets/animations/rain.json",
-            12: "assets/animations/storm.json",
-            13: "assets/animations/storm.json",
-            14: "assets/animations/snow.json",
-            15: "assets/animations/snow.json",
-            16: "assets/animations/fog.json",
-            17: "assets/animations/fog.json",
+            0: "{CACHE_SUBDIR}/animations/sun.json",
+            1: "{CACHE_SUBDIR}/animations/night.json",
+            2: "{CACHE_SUBDIR}/animations/partial_clouds.json",
+            3: "{CACHE_SUBDIR}/animations/partial_clouds.json",
+            4: "{CACHE_SUBDIR}/animations/clouds.json",
+            5: "{CACHE_SUBDIR}/animations/clouds.json",
+            6: "{CACHE_SUBDIR}/animations/partial_clouds.json",
+            7: "{CACHE_SUBDIR}/animations/partial_clouds.json",
+            8: "{CACHE_SUBDIR}/animations/rain.json",
+            9: "{CACHE_SUBDIR}/animations/rain.json",
+            10: "{CACHE_SUBDIR}/animations/rain.json",
+            11: "{CACHE_SUBDIR}/animations/rain.json",
+            12: "{CACHE_SUBDIR}/animations/storm.json",
+            13: "{CACHE_SUBDIR}/animations/storm.json",
+            14: "{CACHE_SUBDIR}/animations/snow.json",
+            15: "{CACHE_SUBDIR}/animations/snow.json",
+            16: "{CACHE_SUBDIR}/animations/fog.json",
+            17: "{CACHE_SUBDIR}/animations/fog.json",
         }
-        return animations.get(weather_code, "assets/animations/default_weather.json")
+        return animations.get(weather_code, "{CACHE_SUBDIR}/animations/default_weather.json")
 
 
 class WeatherPage(Page):
