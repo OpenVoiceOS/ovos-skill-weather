@@ -1,6 +1,6 @@
 from __future__ import annotations
 from typing import Any, Optional, Dict
-from pyhtmx import Div
+from pyhtmx import Div, Img
 from pyhtmx_gui.kit import Widget, SessionItem, Page
 from pyhtmx.html_tag import HTMLTag
 
