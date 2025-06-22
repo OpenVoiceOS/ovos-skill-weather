@@ -1,9 +1,8 @@
 from __future__ import annotations
 from typing import Any, Optional, Dict
-from pyhtmx import Div, Img
+from pyhtmx import Div
 from pyhtmx_gui.kit import Widget, SessionItem, Page
 from pyhtmx.html_tag import HTMLTag
-
 
 CACHE_DIR = "/cache/ovos-skill-weather.openvoiceos/py-htmx"
 
@@ -106,14 +105,20 @@ class WeatherWidget(Widget):
             ],
             _id="weather-widget",
             _class=[
-                "p-[1vw]",
+                "p-[2vw]",
                 "flex",
-                "grow",
                 "flex-col",
                 "justify-center",
                 "items-center",
-                "bg-blue-100",
+                "rounded-2xl",
+                "shadow-xl",
+                "bg-blue-100",  # Effen achtergrondkleur
             ],
+            style={
+                "width": "80vw",
+                "height": "80vh",
+                # geen achtergrond gradient hier!
+            },
         )
 
     @staticmethod
@@ -146,10 +151,26 @@ class WeatherPage(Page):
         super().__init__(name="weather-page", session_data=session_data)
 
         weather_widget = WeatherWidget(session_data=session_data)
-        self.add_component(weather_widget)
+
+        background_container = Div(
+            [weather_widget._widget],
+            _id="weather-bg",
+            _class=[
+                "h-full",
+                "w-full",
+                "flex",
+                "flex-col",
+                "items-center",
+                "justify-center",
+            ],
+            style={
+                "background": "linear-gradient(to right, rgb(59, 130, 246), rgb(255, 182, 193))",
+                "transition": "background 0.5s ease",
+            },
+        )
 
         self._page: Div = Div(
-            [weather_widget._widget],
+            [background_container],
             _id="weather-page",
             _class="flex flex-col",
             style={"width": "100vw", "height": "100vh"},
