@@ -6,40 +6,40 @@
         "{number} porcento"
     ],
     "/dialog/daily/daily-weather-location.dialog": [
-        "{day} teremos {condition}, com m\u00e1xima de {temp_max} e m\u00ednima de {temp_min} em {location}",
-        "{day}, {location} ter\u00e1 uma m\u00e1xima de {temp_max} e uma m\u00ednima de {temp_min}, com {condition}",
-        "A previs\u00e3o para {day} \u00e9 {temp_max} para m\u00e1xima e {temp_min} para a m\u00ednima em {location}"
+        "{day} teremos {condition}, com m\u00e1xima de {high_temperature} e m\u00ednima de {low_temperature} em {location}",
+        "{day}, {location} ter\u00e1 uma m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature}, com {condition}",
+        "A previs\u00e3o para {day} \u00e9 {high_temperature} para m\u00e1xima e {low_temperature} para a m\u00ednima em {location}"
     ],
     "/dialog/daily/daily-condition-expected-location.dialog": [
         "Sim, espere {condition} em {location} {day}",
         "Sim, a previs\u00e3o indica {condition} em {location}{day}"
     ],
     "/dialog/daily/daily-temperature-low-local.dialog": [
-        "{day} ter\u00e1 m\u00ednima de {temp_min}",
-        "{day} a temperatura alcan\u00e7ar\u00e1 uma m\u00ednima de {temp_min} graus."
+        "{day} ter\u00e1 m\u00ednima de {low_temperature}",
+        "{day} a temperatura alcan\u00e7ar\u00e1 uma m\u00ednima de {low_temperature} graus."
     ],
     "/dialog/daily/daily-temperature-local.dialog": [
         "{day} vai fazer {temp}",
         "{day} a temperatura ser\u00e1 de {temp} graus."
     ],
     "/dialog/daily/daily-temperature-high.dialog": [
-        "Chegar\u00e1 a {temp_max} graus em {location} {day}",
-        "{location} ter\u00e1 uma m\u00e1xima de {temp_max} graus {day}"
+        "Chegar\u00e1 a {high_temperature} graus em {location} {day}",
+        "{location} ter\u00e1 uma m\u00e1xima de {high_temperature} graus {day}"
     ],
     "/dialog/daily/daily-condition-expected-local.dialog": [
         "Sim, esperamos {condition}",
         "Sim, a previs\u00e3o indica {condition}"
     ],
     "/dialog/daily/daily-temperature-low-location.dialog": [
-        "{day} a m\u00ednima ser\u00e1 de {temp_min} graus em {location}",
+        "{day} a m\u00ednima ser\u00e1 de {low_temperature} graus em {location}",
         "{day}, {location} ter\u00e1 uma m\u00ednima de {temp} graus"
     ],
     "/dialog/daily/daily-weather-local.dialog": [
-        "{day} espera-se {condition}, com uma m\u00e1xima de {temp_max} e uma m\u00ednima de {temp_min}",
-        "{day} espera {condition}, com uma m\u00e1xima de {temp_max} e uma m\u00ednima de {temp_min}",
-        "{day} a m\u00e1xima ser\u00e1 de {temp_max} e a m\u00ednima {temp_min}, com {condition}",
-        "{day} estar\u00e1 {condition}, com uma m\u00e1xima de {temp_max} e uma m\u00ednima de {temp_min}",
-        "A previs\u00e3o para {day} \u00e9 m\u00e1xima de {temp_max} e m\u00ednima de {temp_min}."
+        "{day} espera-se {condition}, com uma m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature}",
+        "{day} espera {condition}, com uma m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature}",
+        "{day} a m\u00e1xima ser\u00e1 de {high_temperature} e a m\u00ednima {low_temperature}, com {condition}",
+        "{day} estar\u00e1 {condition}, com uma m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature}",
+        "A previs\u00e3o para {day} \u00e9 m\u00e1xima de {high_temperature} e m\u00ednima de {low_temperature}."
     ],
     "/dialog/daily/daily-wind-moderate-location.dialog": [
         "Os ventos n\u00e3o ser\u00e3o t\u00e3o ruins em {location}, aproximadamente {wind} {wind_unit} {day}",
@@ -47,8 +47,8 @@
         "Voc\u00ea pode esperar um vento de cerca de {wind} {wind_unit} em {location}{day}"
     ],
     "/dialog/daily/daily-temperature-high-local.dialog": [
-        "{day} ter\u00e1 m\u00e1xima de {temp_max}",
-        "{day} a temperatura alcan\u00e7ar\u00e1 uma m\u00e1xima de {temp_max} graus."
+        "{day} ter\u00e1 m\u00e1xima de {high_temperature}",
+        "{day} a temperatura alcan\u00e7ar\u00e1 uma m\u00e1xima de {high_temperature} graus."
     ],
     "/dialog/daily/daily-wind-moderate-local.dialog": [
         "Os ventos n\u00e3o estar\u00e3o t\u00e3o ruins, em torno de {wind} {wind_unit} {day}",
@@ -88,15 +88,15 @@
         "Fahrenheit"
     ],
     "/dialog/current/current-temperature-high-local.dialog": [
-        "Uma m\u00e1xima de {temp_max} graus {scale} \u00e9 esperada. ",
-        "Uma m\u00e1xima de {temp_max} graus pode ser esperada.",
-        "Hoje a temperatura alcan\u00e7ar\u00e1 uma m\u00e1xima de {temp_max} graus."
+        "Uma m\u00e1xima de {high_temperature} graus {scale} \u00e9 esperada. ",
+        "Uma m\u00e1xima de {high_temperature} graus pode ser esperada.",
+        "Hoje a temperatura alcan\u00e7ar\u00e1 uma m\u00e1xima de {high_temperature} graus."
     ],
     "/dialog/current/current-humidity-location.dialog": [
         "umidade"
     ],
     "/dialog/current/current-temperature-high-low.dialog": [
-        "A previs\u00e3o para hoje \u00e9 m\u00e1xima de {temp_max} e m\u00ednima de {temp_min}."
+        "A previs\u00e3o para hoje \u00e9 m\u00e1xima de {high_temperature} e m\u00ednima de {low_temperature}."
     ],
     "/dialog/current/current-temperature-location.dialog": [
         "Atualmente faz {temp} graus {scale} em {location}.",
@@ -104,9 +104,9 @@
         "No momento, faz {temp} graus em {location}."
     ],
     "/dialog/current/current-temperature-high-location.dialog": [
-        "Uma m\u00e1xima de {temp_max} graus {scale} \u00e9 esperada em {location}.",
-        "Uma m\u00e1xima de {temp_max} graus pode ser esperada em {location}.",
-        "Hoje a temperatura m\u00e1xima atingir\u00e1 {temp_max} graus em {location}."
+        "Uma m\u00e1xima de {high_temperature} graus {scale} \u00e9 esperada em {location}.",
+        "Uma m\u00e1xima de {high_temperature} graus pode ser esperada em {location}.",
+        "Hoje a temperatura m\u00e1xima atingir\u00e1 {high_temperature} graus em {location}."
     ],
     "/dialog/current/current-weather-local.dialog": [
         "No momento est\u00e1 {condition} e faz {temp} graus {scale}.",
@@ -125,9 +125,9 @@
         "{location} ter\u00e1 ventos bastante fortes hoje, {wind} {wind_unit}"
     ],
     "/dialog/current/current-weather-location.dialog": [
-        "Atualmente, est\u00e1 {condition} e faz {temp} graus {scale} em {location}. A previs\u00e3o para hoje \u00e9 m\u00e1xima de {temp_max} graus e m\u00ednima de {temp_min} graus.",
-        "No momento, est\u00e1 {condition} e faz {temp} graus, com m\u00e1xima de {temp_max} e uma m\u00ednima de {temp_min} em {location}.",
-        "Com m\u00e1xima de {temp_max} e m\u00ednima de {temp_min}, {location} tem {condition} e no momento faz {temp} graus."
+        "Atualmente, est\u00e1 {condition} e faz {temp} graus {scale} em {location}. A previs\u00e3o para hoje \u00e9 m\u00e1xima de {high_temperature} graus e m\u00ednima de {low_temperature} graus.",
+        "No momento, est\u00e1 {condition} e faz {temp} graus, com m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature} em {location}.",
+        "Com m\u00e1xima de {high_temperature} e m\u00ednima de {low_temperature}, {location} tem {condition} e no momento faz {temp} graus."
     ],
     "/dialog/current/current-wind-moderate-location.dialog": [
         "Atualmente {wind} {wind_unit} em {location}, ent\u00e3o est\u00e1 ventando um pouco hoje",
@@ -138,13 +138,13 @@
         "Est\u00e1 ventando um pouco hoje, atualmente {wind} {wind_unit}"
     ],
     "/dialog/current/current-temperature-low-local.dialog": [
-        "Uma m\u00ednima de {temp_min} graus {scale} \u00e9 esperada. ",
-        "Uma m\u00ednima de {temp_min} graus pode ser esperada.",
-        "Hoje a m\u00ednima ser\u00e1 de {temp_min} graus."
+        "Uma m\u00ednima de {low_temperature} graus {scale} \u00e9 esperada. ",
+        "Uma m\u00ednima de {low_temperature} graus pode ser esperada.",
+        "Hoje a m\u00ednima ser\u00e1 de {low_temperature} graus."
     ],
     "/dialog/current/current-temperature-low-location.dialog": [
-        "Hoje a temperatura m\u00ednima ser\u00e1 {temp_min} graus {scale} em {location}.",
-        "As temperaturas podem chegar \u00e0 uma m\u00ednima de {temp_min} graus em {location}."
+        "Hoje a temperatura m\u00ednima ser\u00e1 {low_temperature} graus {scale} em {location}.",
+        "As temperaturas podem chegar \u00e0 uma m\u00ednima de {low_temperature} graus em {location}."
     ],
     "/dialog/current/current-wind-strong-local.dialog": [
         "Est\u00e1 {wind} {wind_unit}, pode ser bom ficar em casa hoje",

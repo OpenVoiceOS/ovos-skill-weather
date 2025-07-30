@@ -1,2 +1,2 @@
-As temperaturas poden chegar a unha mínima de {temp_min} graos en {location}.
-Hoxe a temperatura mínima será de {temp_min} graos {scale} en {location}.
+As temperaturas poden chegar a unha mínima de {low_temperature} graos en {location}.
+Hoxe a temperatura mínima será de {low_temperature} graos {scale} en {location}.

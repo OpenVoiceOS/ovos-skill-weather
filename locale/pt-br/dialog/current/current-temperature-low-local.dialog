@@ -1,3 +1,3 @@
-Hoje a mínima será de {temp_min} graus.
-Uma mínima de {temp_min} graus pode ser esperada.
-Uma mínima de {temp_min} graus {scale} é esperada.
+Hoje a mínima será de {low_temperature} graus.
+Uma mínima de {low_temperature} graus pode ser esperada.
+Uma mínima de {low_temperature} graus {scale} é esperada.
