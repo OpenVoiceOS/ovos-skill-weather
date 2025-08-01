@@ -8,6 +8,7 @@
 
 - Update pt-BR [\#159](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/159) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 - Update [\#158](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/158) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
+- Update pt-BR [\#157](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/157) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 
 
