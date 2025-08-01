@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Clima",
+  "description": "Veja as condições climáticas, previsões, precipitação esperada e muito mais! Você também pode perguntar sobre outras cidades ao redor do mundo. As condições atuais e as previsões meteorológicas vêm do OpenMeteo.",
+  "examples": [
+    "Como está o tempo?",
+    "Qual é a temperatura?",
+    "Qual é a previsão para amanhã?",
+    "Como é o clima em Houston?",
+    "Qual é a temperatura em Paris amanhã em graus Celsius?",
+    "Qual é a temperatura máxima amanhã?",
+    "Quando é o pôr do sol?",
+    "Vai nevar em Baltimore?",
+    "Vai nevar?",
+    "Como estará o tempo na terça-feira?",
+    "Como estará o tempo nos próximos três dias?",
+    "Qual é a umidade?",
+    "Como está o clima neste fim de semana?",
+    "Qual é a previsão do tempo para amanhã em Londres?",
+    "Está muito ventoso?",
+    "Quando choverá novamente?",
+    "Vai fazer frio na terça-feira?",
+    "está chovendo?"
+  ],
+  "tags": [
+    "clima",
+    "previsão",
+    "chuva",
+    "umidade",
+    "neve",
+    "temperatura"
+  ]
+}

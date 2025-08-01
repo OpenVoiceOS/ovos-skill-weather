@@ -1,2 +1,2 @@
-{day} a temperatura será de {temp} graus.
-{day} vai fazer {temp}
+No {day}, a temperatura será de {temperature} graus.
+No {day}, vai fazer {temperature}

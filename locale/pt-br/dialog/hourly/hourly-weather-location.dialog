@@ -1,4 +1,4 @@
-Mais tarde haverá {condition} em {location}, com temperaturas em torno de {temp}
-o tempo em {location} nas próximas horas será de {condition} com {temp} graus
-{location} estará por volta de {temp} com {condition}
-{location} estará por volta de {temp} graus com {condition}
+Mais tarde será {condition} em {location}, com temperaturas em torno de {temperature}
+O clima nas próximas horas será de {condition} e {temperature} graus
+{location} terá em torno de {temperature} com {condition}
+{location} terá em torno de {temperature} graus com {condition}
