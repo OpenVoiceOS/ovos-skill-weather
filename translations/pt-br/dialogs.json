@@ -1,278 +1,489 @@
 {
-    "/dialog/and.dialog": [
-        ", e"
-    ],
-    "/dialog/percentage-number.dialog": [
-        "{number} porcento"
-    ],
-    "/dialog/daily/daily-weather-location.dialog": [
-        "{day} teremos {condition}, com m\u00e1xima de {high_temperature} e m\u00ednima de {low_temperature} em {location}",
-        "{day}, {location} ter\u00e1 uma m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature}, com {condition}",
-        "A previs\u00e3o para {day} \u00e9 {high_temperature} para m\u00e1xima e {low_temperature} para a m\u00ednima em {location}"
-    ],
-    "/dialog/daily/daily-condition-expected-location.dialog": [
-        "Sim, espere {condition} em {location} {day}",
-        "Sim, a previs\u00e3o indica {condition} em {location}{day}"
-    ],
-    "/dialog/daily/daily-temperature-low-local.dialog": [
-        "{day} ter\u00e1 m\u00ednima de {low_temperature}",
-        "{day} a temperatura alcan\u00e7ar\u00e1 uma m\u00ednima de {low_temperature} graus."
-    ],
-    "/dialog/daily/daily-temperature-local.dialog": [
-        "{day} vai fazer {temp}",
-        "{day} a temperatura ser\u00e1 de {temp} graus."
-    ],
-    "/dialog/daily/daily-temperature-high.dialog": [
-        "Chegar\u00e1 a {high_temperature} graus em {location} {day}",
-        "{location} ter\u00e1 uma m\u00e1xima de {high_temperature} graus {day}"
-    ],
-    "/dialog/daily/daily-condition-expected-local.dialog": [
-        "Sim, esperamos {condition}",
-        "Sim, a previs\u00e3o indica {condition}"
-    ],
-    "/dialog/daily/daily-temperature-low-location.dialog": [
-        "{day} a m\u00ednima ser\u00e1 de {low_temperature} graus em {location}",
-        "{day}, {location} ter\u00e1 uma m\u00ednima de {temp} graus"
-    ],
-    "/dialog/daily/daily-weather-local.dialog": [
-        "{day} espera-se {condition}, com uma m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature}",
-        "{day} espera {condition}, com uma m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature}",
-        "{day} a m\u00e1xima ser\u00e1 de {high_temperature} e a m\u00ednima {low_temperature}, com {condition}",
-        "{day} estar\u00e1 {condition}, com uma m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature}",
-        "A previs\u00e3o para {day} \u00e9 m\u00e1xima de {high_temperature} e m\u00ednima de {low_temperature}."
-    ],
-    "/dialog/daily/daily-wind-moderate-location.dialog": [
-        "Os ventos n\u00e3o ser\u00e3o t\u00e3o ruins em {location}, aproximadamente {wind} {wind_unit} {day}",
-        "A previs\u00e3o para {day} diz que {location} ter\u00e1 {wind} {wind_unit}, nada mau",
-        "Voc\u00ea pode esperar um vento de cerca de {wind} {wind_unit} em {location}{day}"
-    ],
-    "/dialog/daily/daily-temperature-high-local.dialog": [
-        "{day} ter\u00e1 m\u00e1xima de {high_temperature}",
-        "{day} a temperatura alcan\u00e7ar\u00e1 uma m\u00e1xima de {high_temperature} graus."
-    ],
-    "/dialog/daily/daily-wind-moderate-local.dialog": [
-        "Os ventos n\u00e3o estar\u00e3o t\u00e3o ruins, em torno de {wind} {wind_unit} {day}",
-        "A previs\u00e3o diz {wind} {wind_unit} {day}, n\u00e3o t\u00e3o mal assim",
-        "Voc\u00ea pode esperar um vento de cerca de {wind} {wind_unit} {day}"
-    ],
-    "/dialog/daily/daily-wind-strong-location.dialog": [
-        "Vai estar {wind} {wind_unit} em {location} {day}",
-        "O vento vai estar t\u00e3o forte quanto {wind} {wind_unit} em {location} {day}"
-    ],
-    "/dialog/daily/daily-wind-strong-local.dialog": [
-        "Os ventos estar\u00e3o {wind} {wind_unit} {day}",
-        "Os ventos estar\u00e3o fortes como {wind} {wind_unit} {day}"
-    ],
-    "/dialog/daily/daily-temperature-location.dialog": [
-        "{day} far\u00e1 {temp} graus em {location}",
-        "{day}, {location} ter\u00e1 uma temperatura de {temp} graus"
-    ],
-    "/dialog/daily/daily-wind-light-local.dialog": [
-        "N\u00e3o ventar\u00e1 muito {day}",
-        "N\u00e3o haver\u00e1 vento sequer para subir uma pipa {day}"
-    ],
-    "/dialog/daily/daily-wind-light-location.dialog": [
-        "{day} n\u00e3o ser\u00e1 um dia com muitos ventos em {location}",
-        "Em {location} {day} n\u00e3o haver\u00e1 vento algum"
-    ],
-    "/dialog/unit/celsius.dialog": [
-        "celsius"
-    ],
-    "/dialog/unit/miles per hour.dialog": [
-        "milhas por hora"
-    ],
-    "/dialog/unit/meter per second.dialog": [
-        "metros por segundo"
-    ],
-    "/dialog/unit/fahrenheit.dialog": [
-        "Fahrenheit"
-    ],
-    "/dialog/current/current-temperature-high-local.dialog": [
-        "Uma m\u00e1xima de {high_temperature} graus {scale} \u00e9 esperada. ",
-        "Uma m\u00e1xima de {high_temperature} graus pode ser esperada.",
-        "Hoje a temperatura alcan\u00e7ar\u00e1 uma m\u00e1xima de {high_temperature} graus."
-    ],
-    "/dialog/current/current-humidity-location.dialog": [
-        "umidade"
-    ],
-    "/dialog/current/current-temperature-high-low.dialog": [
-        "A previs\u00e3o para hoje \u00e9 m\u00e1xima de {high_temperature} e m\u00ednima de {low_temperature}."
-    ],
-    "/dialog/current/current-temperature-location.dialog": [
-        "Atualmente faz {temp} graus {scale} em {location}.",
-        "No momento faz {temp} graus em {location}.",
-        "No momento, faz {temp} graus em {location}."
-    ],
-    "/dialog/current/current-temperature-high-location.dialog": [
-        "Uma m\u00e1xima de {high_temperature} graus {scale} \u00e9 esperada em {location}.",
-        "Uma m\u00e1xima de {high_temperature} graus pode ser esperada em {location}.",
-        "Hoje a temperatura m\u00e1xima atingir\u00e1 {high_temperature} graus em {location}."
-    ],
-    "/dialog/current/current-weather-local.dialog": [
-        "No momento est\u00e1 {condition} e faz {temp} graus {scale}.",
-        "Atualmente, est\u00e1 {condition} e faz {temp} graus.",
-        "No momento, est\u00e1 {condition} e faz {temp} graus."
-    ],
-    "/dialog/current/current-condition-expected-location.dialog": [
-        "Sim, vai estar {condition} em {location}"
-    ],
-    "/dialog/current/current-condition-expected-local.dialog": [
-        "Sim, haver\u00e1 {condition} hoje"
-    ],
-    "/dialog/current/current-wind-strong-location.dialog": [
-        "Est\u00e1 {wind} {wind_unit} em {location}, um boa dia para ficar em casa",
-        "Os ventos ser\u00e3o fortes hoje em {location}, {wind} {wind_unit}",
-        "{location} ter\u00e1 ventos bastante fortes hoje, {wind} {wind_unit}"
-    ],
-    "/dialog/current/current-weather-location.dialog": [
-        "Atualmente, est\u00e1 {condition} e faz {temp} graus {scale} em {location}. A previs\u00e3o para hoje \u00e9 m\u00e1xima de {high_temperature} graus e m\u00ednima de {low_temperature} graus.",
-        "No momento, est\u00e1 {condition} e faz {temp} graus, com m\u00e1xima de {high_temperature} e uma m\u00ednima de {low_temperature} em {location}.",
-        "Com m\u00e1xima de {high_temperature} e m\u00ednima de {low_temperature}, {location} tem {condition} e no momento faz {temp} graus."
-    ],
-    "/dialog/current/current-wind-moderate-location.dialog": [
-        "Atualmente {wind} {wind_unit} em {location}, ent\u00e3o est\u00e1 ventando um pouco hoje",
-        "Est\u00e1 ventando um pouco em {location} hoje, no momento {wind} {wind_unit}"
-    ],
-    "/dialog/current/current-wind-moderate-local.dialog": [
-        "Atualmente {wind} {wind_unit}, ent\u00e3o com um pouco de vento",
-        "Est\u00e1 ventando um pouco hoje, atualmente {wind} {wind_unit}"
-    ],
-    "/dialog/current/current-temperature-low-local.dialog": [
-        "Uma m\u00ednima de {low_temperature} graus {scale} \u00e9 esperada. ",
-        "Uma m\u00ednima de {low_temperature} graus pode ser esperada.",
-        "Hoje a m\u00ednima ser\u00e1 de {low_temperature} graus."
-    ],
-    "/dialog/current/current-temperature-low-location.dialog": [
-        "Hoje a temperatura m\u00ednima ser\u00e1 {low_temperature} graus {scale} em {location}.",
-        "As temperaturas podem chegar \u00e0 uma m\u00ednima de {low_temperature} graus em {location}."
-    ],
-    "/dialog/current/current-wind-strong-local.dialog": [
-        "Est\u00e1 {wind} {wind_unit}, pode ser bom ficar em casa hoje",
-        "Os ventos ser\u00e3o fortes hoje, {wind} {wind_unit}",
-        "Est\u00e1 ventando bem hoje, {wind} {wind_unit}"
-    ],
-    "/dialog/current/current-wind-light-local.dialog": [
-        "Hoje n\u00e3o tem nenhuma brisa para refrescar",
-        "N\u00e3o est\u00e1 ventando muito hoje de forma alguma"
-    ],
-    "/dialog/current/current-wind-light-location.dialog": [
-        "N\u00e3o h\u00e1 vento nem para uma pipa em {location}",
-        "N\u00e3o temos vento nenhum hoje em {location} "
-    ],
-    "/dialog/current/current-temperature-local.dialog": [
-        "No momento faz {temp} graus {scale}.",
-        "No momento faz {temp} graus.",
-        "Agora faz {temp} graus."
-    ],
-    "/dialog/weekly/weekly-temperature.dialog": [
-        "m\u00ednimas estar\u00e3o entre {low_min} e {low_max}, com m\u00e1ximas entre {high_min} e {high_max}"
-    ],
-    "/dialog/condition/thunderstorm.dialog": [
-        "tempestade"
-    ],
-    "/dialog/condition/haze.dialog": [
-        "nevoeiro"
-    ],
-    "/dialog/condition/rain.dialog": [
-        "chuva"
-    ],
-    "/dialog/condition/mist.dialog": [
-        "nevoeiro"
-    ],
-    "/dialog/condition/drizzle.dialog": [
-        "garoa"
-    ],
-    "/dialog/condition/dust.dialog": [
-        "p\u00f3"
-    ],
-    "/dialog/condition/squall.dialog": [
-        "borrasca"
-    ],
-    "/dialog/condition/clear.dialog": [
-        "um c\u00e9u limpo"
-    ],
-    "/dialog/condition/smoke.dialog": [
-        "nevoeiro"
-    ],
-    "/dialog/condition/snow.dialog": [
-        "neve"
-    ],
-    "/dialog/condition/clouds.dialog": [
-        "nuvem"
-    ],
-    "/dialog/condition/tornado.dialog": [
-        "tornado"
-    ],
-    "/dialog/condition/ash.dialog": [
-        "freixo"
-    ],
-    "/dialog/error/location-not-found.dialog": [
-        "Eu n\u00e3o tenho certeza onde isso \u00e9",
-        "Eu n\u00e3o conhe\u00e7o essa localidade",
-        "Eu n\u00e3o conhe\u00e7o esse lugar"
-    ],
-    "/dialog/error/cant-get-forecast.dialog": [
-        "(Sinto muito.|Desculpas.|) Eu (n\u00e3o posso|n\u00e3o consigo) (obter|acessar) as (previs\u00f5es|relat\u00f3rios) de clima (logo|justo) agora.",
-        "As (previs\u00f5es|relat\u00f3rios) sobre o tempo est\u00e3o atualmente (indispon\u00edveis|n\u00e3o dispon\u00edveis)."
-    ],
-    "/dialog/direction/northeast.dialog": [
-        "nordeste"
-    ],
-    "/dialog/direction/east.dialog": [
-        "leste"
-    ],
-    "/dialog/direction/southeast.dialog": [
-        "sudeste"
-    ],
-    "/dialog/direction/southwest.dialog": [
-        "sudoeste"
-    ],
-    "/dialog/direction/south.dialog": [
-        "sul"
-    ],
-    "/dialog/direction/northwest.dialog": [
-        "noroeste"
-    ],
-    "/dialog/direction/north.dialog": [
-        "norte"
-    ],
-    "/dialog/direction/west.dialog": [
-        "oeste"
-    ],
-    "/dialog/hourly/hourly-condition-not-expected-local.dialog": [
-        "N\u00e3o, a previs\u00e3o de {time} sugere que n\u00e3o"
-    ],
-    "/dialog/hourly/hourly-weather-local.dialog": [
-        "Teremos {condition}, com temperaturas perto de {temp}",
-        "Mais tarde teremos {condition} e cerca de {temp} graus",
-        "Mais tarde teremos {condition} e {temp} graus",
-        "Cerca de {temp} graus com {condition}"
-    ],
-    "/dialog/hourly/hourly-condition-not-expected-location.dialog": [
-        "N\u00e3o, a previs\u00e3o de {time} em {location} sugere que n\u00e3o"
-    ],
-    "/dialog/hourly/hourly-condition-expected-local.dialog": [
-        "Sim, a previs\u00e3o de {time} indica {condition}"
-    ],
-    "/dialog/hourly/hourly-condition-alternative-local.dialog": [
-        "Sim, hoje a previs\u00e3o para {time} indica {condition} ",
-        "Parece que n\u00e3o, a previs\u00e3o de {time} sugere que ser\u00e1 {condition}"
-    ],
-    "/dialog/hourly/hourly-weather-location.dialog": [
-        "o tempo em {location} nas pr\u00f3ximas horas ser\u00e1 de {condition} com {temp} graus",
-        "Mais tarde haver\u00e1 {condition} em {location}, com temperaturas em torno de {temp}",
-        "{location} estar\u00e1 por volta de {temp} com {condition}",
-        "{location} estar\u00e1 por volta de {temp} graus com {condition}"
-    ],
-    "/dialog/hourly/hourly-condition-alternative-location.dialog": [
-        "N\u00e3o, a previs\u00e3o para {time} indica {condition} em {location} ",
-        "Parece que n\u00e3o, a previs\u00e3o de {time} sugere que ser\u00e1 {condition} em {location}"
-    ],
-    "/dialog/hourly/hourly-temperature-local.dialog": [
-        "Vai fazer em torno de {temp} graus {time}",
-        "{time}, vai fazer {temp} graus"
-    ],
-    "/dialog/hourly/hourly-condition-expected-location.dialog": [
-        "Sim, a previs\u00e3o indica {condition} nesta {time}"
-    ]
+  "/dialog/and.dialog": [
+    ", e"
+  ],
+  "/dialog/percentage-number.dialog": [
+    "{number} porcento"
+  ],
+  "/dialog/daily/daily-precipitation-next-local.dialog": [
+    "Há {percent} de chance de {precipitation} no {day}",
+    "A previsão indica uma chance de {percent} de {precipitation} no {day}"
+  ],
+  "/dialog/daily/daily-precipitation-next-none-local.dialog": [
+    "Não há previsão de precipitação para os próximos 7 dias",
+    "Não há previsão de nada nos próximos 7 dias."
+  ],
+  "/dialog/daily/daily-temperature-high-location.dialog": [
+    "A temperatura poderá chegar a {temperature} graus em {location} no {day}",
+    "{location} terá uma temperatura máxima de {temperature} graus no {day}"
+  ],
+  "/dialog/daily/daily-sunrise-location.dialog": [
+    "o sol nascerá às {time} no {day} em {location}",
+    "em {location}, o nascer do sol será às {time} no {day}",
+    "No {day}, o sol nascerá às {time} em {location}"
+  ],
+  "/dialog/daily/daily-precipitation-next-location.dialog": [
+    "Em {location} há uma chance de {percent} de {precipitation} no {day}",
+    "A previsão indica uma chance de {percent} de {precipitation} em {location} no {day}"
+  ],
+  "/dialog/daily/daily-humidity-local.dialog": [
+    "A umidade no {day} será de {percent}",
+    "No {day}, a previsão é de umidade de {percent}"
+  ],
+  "/dialog/daily/daily-sunset-location.dialog": [
+    "o sol se porá às {time} no {day} em {location}",
+    "em {location} o pôr do sol será às {time} no {dia}",
+    "No {day}, o sol se porá às {time} em {location}"
+  ],
+  "/dialog/daily/daily-weather-location.dialog": [
+    "No {day}, teremos {condition}, com máxima de {high_temperature} e mínima de {low_temperature} em {location}",
+    "No {day}, {location} terá uma máxima de {high_temperature} e uma mínima de {low_temperature}, com {condition}",
+    "A previsão para {day} é {high_temperature} para uma temperatura máxima e {low_temperature} para uma temperatura mínima em {location}"
+  ],
+  "/dialog/daily/daily-temperature-high-low-location.dialog": [
+    "A previsão para hoje em {location} é de uma máxima de {high_temperature} e uma mínima de {low_temperature}."
+  ],
+  "/dialog/daily/daily-condition-not-expected-local.dialog": [
+    "Não, para o {day} a previsão é de {condition}",
+    "Não, {condition} é esperado para {day}"
+  ],
+  "/dialog/daily/daily-condition-expected-location.dialog": [
+    "Sim, espere {condition} em {location} no {day}",
+    "Sim, a previsão indica {condition} em {location} no {day}"
+  ],
+  "/dialog/daily/daily-sunset-local.dialog": [
+    "o sol se porá às {time} no {day}",
+    "o sol se porá às {time} no {day}",
+    "o pôr do sol será às {time} no {day}",
+    "No {day}, o sol se porá às {time}"
+  ],
+  "/dialog/daily/daily-temperature-low-local.dialog": [
+    "{day} terá mínima de {low_temperature}",
+    "No {day}, a temperatura será tão baixa quanto {temperature} graus."
+  ],
+  "/dialog/daily/daily-temperature-local.dialog": [
+    "No {day}, vai fazer {temperature}",
+    "No {day}, a temperatura será de {temperature} graus."
+  ],
+  "/dialog/daily/daily-condition-not-expected-location.dialog": [
+    "Não, para o {day} a previsão é de {condition} em {location}",
+    "Não, em {location} {condition} é esperado no {day}"
+  ],
+  "/dialog/daily/daily-condition-expected-local.dialog": [
+    "Sim, esperamos {condition} no {day}",
+    "Sim, a previsão indica {condition} no {day}"
+  ],
+  "/dialog/daily/daily-temperature-low-location.dialog": [
+    "{day} a mínima será de {low_temperature} graus em {location}",
+    "{day}, {location} terá uma mínima de {temperature} graus"
+  ],
+  "/dialog/daily/daily-weather-local.dialog": [
+    "No {day}, espera-se {condition}, com uma máxima de {high_temperature} e uma mínima de {low_temperature}",
+    " {day} espera {condition}, com uma máxima de {high_temperature} e uma mínima de {low_temperature}",
+    " No {day}, a máxima será de {high_temperature} e a mínima {low_temperature}, com {condition}",
+    "{day} estará {condition}, com uma máxima de {high_temperature} e uma mínima de {low_temperature}",
+    "A previsão para {day} é máxima de {high_temperature} e mínima de {low_temperature}."
+  ],
+  "/dialog/daily/daily-sunrise-local.dialog": [
+    "o sol nascerá às {time} no {day}",
+    "o nascer do sol será às {time} no {day}",
+    "No {day}, o sol nascerá às {time}"
+  ],
+  "/dialog/daily/daily-wind-moderate-location.dialog": [
+    "O vento será moderado em {location} no {day}, a cerca de {speed} {speed_unit} do {direction}",
+    "A previsão {day} prevê que {location} terá vento moderado do {direction} de {speed} {speed_unit}",
+    "Você pode esperar um vento de cerca de {speed} {speed_unit} em {location} no {day}"
+  ],
+  "/dialog/daily/daily-temperature-high-local.dialog": [
+    "{day} terá máxima de {high_temperature}",
+    "No {day} a temperatura chegará a {temperature} graus."
+  ],
+  "/dialog/daily/daily-wind-moderate-local.dialog": [
+    "O vento será moderado, cerca de {speed} {speed_unit} do {direction} no {day}",
+    "A previsão indica vento moderado do {direction} a {speed} {speed_unit} no {day}",
+    "Você pode esperar um vento moderado de cerca de {speed} {speed_unit} no {day}"
+  ],
+  "/dialog/daily/daily-wind-strong-location.dialog": [
+    "Haverá um vento forte do {direction} à velocidade de {speed} {speed_unit} em {location} no {day}",
+    "O vento será tão forte quanto {speed} {speed_unit} em {location} no {day}"
+  ],
+  "/dialog/daily/daily-wind-strong-local.dialog": [
+    "Haverá vento forte do {direction} à velocidade de {speed} {speed_unit} no {day}",
+    "O vento será tão forte quanto {speed} {speed_unit} no {day}"
+  ],
+  "/dialog/daily/daily-temperature-location.dialog": [
+    "No {day} fará {temperature} graus em {location}",
+    "No {day}, {location} terá uma temperatura de {temperature} graus"
+  ],
+  "/dialog/daily/daily-precipitation-next-none-location.dialog": [
+    "Não há previsão de precipitação para os próximos sete dias em {location}",
+    "Não há previsão para {location}"
+  ],
+  "/dialog/daily/daily-humidity-location.dialog": [
+    "A umidade em {location} no {day} será de {percent}",
+    "Para o {day}, a previsão em {location} indica uma umidade de {percent}"
+  ],
+  "/dialog/daily/daily-wind-light-local.dialog": [
+    "Haverá um vento fraco vindo do {direction} no {day}, à uma velocidade de {speed} {speed_unit}",
+    "Não haverá vento forte no {day}"
+  ],
+  "/dialog/daily/daily-temperature-high-low-local.dialog": [
+    "A previsão para hoje é de uma máxima de {high_temperature} e uma mínima de {low_temperature}."
+  ],
+  "/dialog/daily/daily-wind-light-location.dialog": [
+    "{day} não será um dia com muitos ventos em {location}",
+    "Em {location} {day} não haverá vento algum"
+  ],
+  "/dialog/unit/celsius.dialog": [
+    "celsius"
+  ],
+  "/dialog/unit/kilometer per hour.dialog": [
+    "quilômetro por hora"
+  ],
+  "/dialog/unit/miles per hour.dialog": [
+    "milhas por hora"
+  ],
+  "/dialog/unit/meter per second.dialog": [
+    "metros por segundo"
+  ],
+  "/dialog/unit/fahrenheit.dialog": [
+    "Fahrenheit"
+  ],
+  "/dialog/unit/inch.dialog": [
+    "polegada"
+  ],
+  "/dialog/unit/millimeter.dialog": [
+    "millimeter"
+  ],
+  "/dialog/current/current-humidity-local.dialog": [
+    "Agora, a umidade é de {percent}"
+  ],
+  "/dialog/current/current-sunrise-future-location.dialog": [
+    "o sol nasceu às {time} hoje em {location}",
+    "o nascer do sol foi às {time} hoje em {location}"
+  ],
+  "/dialog/current/current-humidity-location.dialog": [
+    "umidade"
+  ],
+  "/dialog/current/current-temperature-location.dialog": [
+    "Agora, faz {temperature} graus {temperature_unit} em {location}.",
+    "No momento faz {temperature} graus em {location}.",
+    "No momento, faz {temperature} graus em {location}."
+  ],
+  "/dialog/current/current-sunset-past-location.dialog": [
+    "o sol se pôs às {time} hoje em {location}",
+    "em {location} o sol se pôs às {time} hoje",
+    "o pôr do sol foi às {time} hoje em {location}"
+  ],
+  "/dialog/current/current-sunset-future-location.dialog": [
+    "o sol se porá às {time} de hoje em {location}",
+    "em {location} o sol vai se por às {time} hoje",
+    "o pôr do sol será às {time} hoje em {location}"
+  ],
+  "/dialog/current/current-weather-local.dialog": [
+    "No momento está {condition} e faz {temperature} graus {temperature_unit}.",
+    "Atualmente, está {condition} e faz {temperature} graus.",
+    "No momento, está {condition} e faz {temperature} graus."
+  ],
+  "/dialog/current/current-condition-expected-location.dialog": [
+    "Sim, vai estar {condition} em {location}",
+    "Em {location}, parece que haverá {condition} hoje"
+  ],
+  "/dialog/current/current-sunset-future-local.dialog": [
+    "o sol se porá às {time} de hoje",
+    "o sol vai se pôr às {time} hoje",
+    "o pôr do sol será às {time} hoje"
+  ],
+  "/dialog/current/current-condition-expected-local.dialog": [
+    "Sim, haverá {condition} hoje",
+    "Parece que haverá {condition} hoje"
+  ],
+  "/dialog/current/current-wind-strong-location.dialog": [
+    "Agora, o vento sopra do {direction} a {speed} {speed_unit} em {location}, um bom dia para ficar em casa",
+    "O vento vindo do {direction} está muito forte em {location} hoje, {speed} {speed_unit}",
+    "{location} terá ventos bastante fortes hoje, {speed} {speed_unit}"
+  ],
+  "/dialog/current/current-sunrise-future-local.dialog": [
+    "o sol nascerá às {time} hoje",
+    "o nascer do sol será às {time} de hoje"
+  ],
+  "/dialog/current/current-condition-not-expected-local.dialog": [
+    "Não, a previsão é de {condition} hoje",
+    "Não, {condition} é esperado hoje"
+  ],
+  "/dialog/current/current-sunset-past-local.dialog": [
+    "o sol se pôs às {time} de hoje",
+    "o sol se pôs às {time} hoje",
+    "o pôr do sol foi às {time} hoje"
+  ],
+  "/dialog/current/current-weather-location.dialog": [
+    "Atualmente está {condition} e faz {temperature} graus {temperature_unit} em {location}.",
+    "Neste momento, está {condition} com temperatura de {temperature} graus em {location}.",
+    "{location} tem {condition} e no momento uma temperatura de {temperature} graus."
+  ],
+  "/dialog/current/current-wind-moderate-location.dialog": [
+    "Atualmente o vento é moderado em {location}, de {speed} {speed_unit}, proveniente do {direction}",
+    "Está ventando um pouco em {location} hoje, no momento {speed} {speed_unit}"
+  ],
+  "/dialog/current/current-wind-moderate-local.dialog": [
+    "Atualmente o vento é moderado {speed} {speed_unit} vindo do {direction}",
+    "Está ventando um pouco hoje, no momento {speed} {speed_unit}"
+  ],
+  "/dialog/current/current-condition-not-expected-location.dialog": [
+    "Não, a previsão é de {condition} hoje em {location}",
+    "Não, em {location} {condition} é esperado hoje"
+  ],
+  "/dialog/current/current-sunrise-past-location.dialog": [
+    "o sol nasceu às {time} hoje em {location}",
+    "o nascer do sol foi às {time} hoje em {location}"
+  ],
+  "/dialog/current/current-wind-strong-local.dialog": [
+    "Atualmente, o vento sopra do {direction} a {speed} {speed_unit}, talvez seja bom ficar em casa hoje",
+    "O vento do {direction} está muito forte hoje, {speed} {speed_unit}",
+    "Está ventando bem hoje, {speed} {speed_unit}"
+  ],
+  "/dialog/current/currrent-clouds-alternative-local.dialog": [
+    "Não, a previsão é de {condition} hoje",
+    "Não deve estar nublado, parece que haverá {condition} hoje",
+    "Não parece, é provável que seja {condition} hoje"
+  ],
+  "/dialog/current/current-wind-light-local.dialog": [
+    "O vento é fraco a {speed} {speed_unit} vindo do {direction}",
+    "Hoje há vento fraco do {direction} a {speed} {speed_unit}"
+  ],
+  "/dialog/current/current-wind-light-location.dialog": [
+    "O vento é fraco em {location} à velocidade de {speed} {speed_unit} vindo do {direction}",
+    "Em {location} hoje há vento fraco do {direction} à velocidade de {speed} {speed_unit}"
+  ],
+  "/dialog/current/current-sunrise-past-local.dialog": [
+    "o sol nasceu às {time} hoje",
+    "o nascer do sol foi às {time} de hoje"
+  ],
+  "/dialog/current/current-temperature-local.dialog": [
+    "No momento faz {temp} graus {scale}.",
+    "No momento faz {temperature} graus.",
+    "Agora faz {temperature} graus."
+  ],
+  "/dialog/weekly/weekly-condition.dialog": [
+    "A previsão indica {condition} para {days}",
+    "Para {days} espere {condition}"
+  ],
+  "/dialog/weekly/weekly-temperature.dialog": [
+    "as mínimas estarão entre {low_min} e {low_max}, com as máximas entre {high_min} e {high_max}"
+  ],
+  "/dialog/date-time/afternoon.dialog": [
+    "tarde"
+  ],
+  "/dialog/date-time/morning.dialog": [
+    "manhã"
+  ],
+  "/dialog/date-time/evening.dialog": [
+    "noite"
+  ],
+  "/dialog/date-time/early morning.dialog": [
+    "de manhã cedo"
+  ],
+  "/dialog/date-time/overnight.dialog": [
+    "durante a noite"
+  ],
+  "/dialog/condition/drizzle-dense-intensity.dialog": [
+    "Chuvisco, intensidade densa"
+  ],
+  "/dialog/condition/drizzle-moderate-intensity.dialog": [
+    "Chuvisco, intensidade moderada"
+  ],
+  "/dialog/condition/thunderstorm.dialog": [
+    "tempestade"
+  ],
+  "/dialog/condition/moderate-rain.dialog": [
+    "Chuva moderada"
+  ],
+  "/dialog/condition/heavy-rain.dialog": [
+    "Chuva forte"
+  ],
+  "/dialog/condition/haze.dialog": [
+    "nevoeiro"
+  ],
+  "/dialog/condition/rain.dialog": [
+    "chuva"
+  ],
+  "/dialog/condition/moderate-rain-showers.dialog": [
+    "Chuvas moderadas"
+  ],
+  "/dialog/condition/slight-rain.dialog": [
+    "Chuva leve"
+  ],
+  "/dialog/condition/humidity.dialog": [
+    "umidade"
+  ],
+  "/dialog/condition/mist.dialog": [
+    "nevoeiro"
+  ],
+  "/dialog/condition/slight-snow-showers.dialog": [
+    "Leves quedas de neve"
+  ],
+  "/dialog/condition/freezing-drizzle-dense-intensity.dialog": [
+    "Chuva congelante, intensidade densa"
+  ],
+  "/dialog/condition/drizzle.dialog": [
+    "garoa"
+  ],
+  "/dialog/condition/heavy-snow-fall.dialog": [
+    "Queda de neve pesada"
+  ],
+  "/dialog/condition/freezing-rain-light-intensity.dialog": [
+    "Chuva congelante, intensidade leve"
+  ],
+  "/dialog/condition/snow-grains.dialog": [
+    "Grãos de neve"
+  ],
+  "/dialog/condition/dust.dialog": [
+    "pó"
+  ],
+  "/dialog/condition/squall.dialog": [
+    "borrasca"
+  ],
+  "/dialog/condition/thunderstorm-with-slight-hail.dialog": [
+    "Tempestade com leve granizo"
+  ],
+  "/dialog/condition/freezing-drizzle-light-intensity.dialog": [
+    "Chuva congelante, intensidade leve"
+  ],
+  "/dialog/condition/slight-rain-showers.dialog": [
+    "Chuvas leves"
+  ],
+  "/dialog/condition/heavy-snow-showers.dialog": [
+    "Fortes nevascas"
+  ],
+  "/dialog/condition/clear.dialog": [
+    "um céu limpo"
+  ],
+  "/dialog/condition/thunderstorm-with-heavy-hail.dialog": [
+    "Tempestade com granizo forte"
+  ],
+  "/dialog/condition/partly-cloudy.dialog": [
+    "parcialmente nublado"
+  ],
+  "/dialog/condition/drizzle-light-intensity.dialog": [
+    "Chuvisco, intensidade leve"
+  ],
+  "/dialog/condition/violent-rain-showers.dialog": [
+    "Pancadas de chuva violentas"
+  ],
+  "/dialog/condition/fog.dialog": [
+    "névoa"
+  ],
+  "/dialog/condition/smoke.dialog": [
+    "nevoeiro"
+  ],
+  "/dialog/condition/slight-snow-fall.dialog": [
+    "Queda leve de neve"
+  ],
+  "/dialog/condition/mainly-clear.dialog": [
+    "principalmente claro"
+  ],
+  "/dialog/condition/depositing-rime-fog.dialog": [
+    "depositando névoa de geada"
+  ],
+  "/dialog/condition/snow.dialog": [
+    "neve"
+  ],
+  "/dialog/condition/clouds.dialog": [
+    "nuvens"
+  ],
+  "/dialog/condition/tornado.dialog": [
+    "tornado"
+  ],
+  "/dialog/condition/freezing-rain-dense-intensity.dialog": [
+    "Chuva congelante, intensidade densa"
+  ],
+  "/dialog/condition/moderate-snow-fall.dialog": [
+    "Queda de neve moderada"
+  ],
+  "/dialog/condition/overcast.dialog": [
+    "nublado"
+  ],
+  "/dialog/condition/ash.dialog": [
+    "cinzas"
+  ],
+  "/dialog/condition/clear-sky.dialog": [
+    "céu limpo"
+  ],
+  "/dialog/error/location-not-found.dialog": [
+    "Não consigo encontrar uma cidade chamada {location}. Tente novamente.",
+    "A cidade {location} não está na minha base de dados. Tente novamente."
+  ],
+  "/dialog/error/forty-eight-hours-available.dialog": [
+    "Desculpe, só tenho 48 horas de dados de previsão horária"
+  ],
+  "/dialog/error/no-forecast.dialog": [
+    "Desculpe, não sei a previsão do tempo para {day}",
+    "Não tenho previsão para {day}"
+  ],
+  "/dialog/error/cant-get-forecast.dialog": [
+    "(Sinto muito.|Desculpas.|) Eu (não posso|não consigo) (obter|acessar) as (previsões|relatórios) de clima (logo|justo) agora.",
+    "(As previsões|Os relatórios) meteorológic(a|o)s estão atualmente (indisponíveis)."
+  ],
+  "/dialog/error/seven-days-available.dialog": [
+    "Tenho sete dias de previsão do tempo disponíveis.",
+    "Posso lhe informar a previsão para os próximos sete dias."
+  ],
+  "/dialog/direction/northeast.dialog": [
+    "nordeste"
+  ],
+  "/dialog/direction/east.dialog": [
+    "leste"
+  ],
+  "/dialog/direction/southeast.dialog": [
+    "sudeste"
+  ],
+  "/dialog/direction/southwest.dialog": [
+    "sudoeste"
+  ],
+  "/dialog/direction/south.dialog": [
+    "sul"
+  ],
+  "/dialog/direction/northwest.dialog": [
+    "noroeste"
+  ],
+  "/dialog/direction/north.dialog": [
+    "norte"
+  ],
+  "/dialog/direction/west.dialog": [
+    "oeste"
+  ],
+  "/dialog/hourly/hourly-weather-local.dialog": [
+    "Será {condition}, com temperaturas próximas de {temperature}",
+    "Mais tarde teremos {condition} e em torno de {temperature} graus",
+    "Mais tarde teremos {condition} e {temperature} graus",
+    "Em torno de {temperature} graus com {condition}"
+  ],
+  "/dialog/hourly/hourly-precipitation-next-local.dialog": [
+    "Há uma chance de {percent} de {precipitation} às {time}",
+    "A previsão indica uma chance de {percent} de {precipitation} às {time}"
+  ],
+  "/dialog/hourly/hourly-condition-expected-local.dialog": [
+    "Sim, a previsão para {time} prevê {condition}"
+  ],
+  "/dialog/hourly/hourly-weather-location.dialog": [
+    "O clima nas próximas horas será de {condition} e {temperature} graus",
+    "Mais tarde será {condition} em {location}, com temperaturas em torno de {temperature}",
+    "{location} terá em torno de {temperature} com {condition}",
+    "{location} terá em torno de {temperature} graus com {condition}"
+  ],
+  "/dialog/hourly/hourly-temperature-location.dialog": [
+    "Em {local} terá em torno de {temperature} graus em {time}",
+    "Em {time}, fará {temperature} graus em {location}"
+  ],
+  "/dialog/hourly/hourly-precipitation-next-location.dialog": [
+    "Em {location} há uma chance de {percent} de {precipitation} às {time}",
+    "A previsão indica uma chance de {percent} de {precipitation} em {location} às {time}"
+  ],
+  "/dialog/hourly/hourly-temperature-local.dialog": [
+    "Estará em torno de {temperature} graus em {time}",
+    "{time}, vai fazer {temperature} graus"
+  ],
+  "/dialog/hourly/hourly-condition-expected-location.dialog": [
+    "Sim, vai estar {condition} por volta de {time}"
+  ]
 }
