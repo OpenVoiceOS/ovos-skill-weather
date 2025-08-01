@@ -1,3 +1,2 @@
-Eu não conheço essa localidade
-Eu não conheço esse lugar
-Eu não tenho certeza onde isso é
+A cidade {location} não está na minha base de dados. Tente novamente.
+Não consigo encontrar uma cidade chamada {location}. Tente novamente.
