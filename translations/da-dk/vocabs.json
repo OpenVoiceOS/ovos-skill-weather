@@ -36,7 +36,8 @@
     "skumring  "
   ],
   "/vocabulary/weather.voc": [
-    "vejr  "
+    "vejr  ",
+    "meteorologi"
   ],
   "/vocabulary/unit/unit.voc": [
     "fahrenheit  ",
