@@ -139,42 +139,6 @@ hai algunha alerta meteorolóxica para venres
 hai algunha alerta meteorolóxica para venres en {location}
 hai algunha alerta meteorolóxica para xoves
 hai algunha alerta meteorolóxica para xoves en {location}
-hai algunha aviso meteorolóxico para  mañá
-hai algunha aviso meteorolóxico para  mañá en {location}
-hai algunha aviso meteorolóxico para domingo
-hai algunha aviso meteorolóxico para domingo en {location}
-hai algunha aviso meteorolóxico para luns
-hai algunha aviso meteorolóxico para luns en {location}
-hai algunha aviso meteorolóxico para martes
-hai algunha aviso meteorolóxico para martes en {location}
-hai algunha aviso meteorolóxico para mércores
-hai algunha aviso meteorolóxico para mércores en {location}
-hai algunha aviso meteorolóxico para pasado mañá
-hai algunha aviso meteorolóxico para pasado mañá en {location}
-hai algunha aviso meteorolóxico para sábado
-hai algunha aviso meteorolóxico para sábado en {location}
-hai algunha aviso meteorolóxico para venres
-hai algunha aviso meteorolóxico para venres en {location}
-hai algunha aviso meteorolóxico para xoves
-hai algunha aviso meteorolóxico para xoves en {location}
-hai algún alerta meteorolóxica para  mañá
-hai algún alerta meteorolóxica para  mañá en {location}
-hai algún alerta meteorolóxica para domingo
-hai algún alerta meteorolóxica para domingo en {location}
-hai algún alerta meteorolóxica para luns
-hai algún alerta meteorolóxica para luns en {location}
-hai algún alerta meteorolóxica para martes
-hai algún alerta meteorolóxica para martes en {location}
-hai algún alerta meteorolóxica para mércores
-hai algún alerta meteorolóxica para mércores en {location}
-hai algún alerta meteorolóxica para pasado mañá
-hai algún alerta meteorolóxica para pasado mañá en {location}
-hai algún alerta meteorolóxica para sábado
-hai algún alerta meteorolóxica para sábado en {location}
-hai algún alerta meteorolóxica para venres
-hai algún alerta meteorolóxica para venres en {location}
-hai algún alerta meteorolóxica para xoves
-hai algún alerta meteorolóxica para xoves en {location}
 hai algún aviso meteorolóxico para  mañá
 hai algún aviso meteorolóxico para  mañá en {location}
 hai algún aviso meteorolóxico para domingo
@@ -193,6 +157,20 @@ hai algún aviso meteorolóxico para venres
 hai algún aviso meteorolóxico para venres en {location}
 hai algún aviso meteorolóxico para xoves
 hai algún aviso meteorolóxico para xoves en {location}
+previsión para o próximo domingo
+previsión para o próximo domingo en {location}
+previsión para o próximo luns
+previsión para o próximo luns en {location}
+previsión para o próximo martes
+previsión para o próximo martes en {location}
+previsión para o próximo mércores
+previsión para o próximo mércores en {location}
+previsión para o próximo sábado
+previsión para o próximo sábado en {location}
+previsión para o próximo venres
+previsión para o próximo venres en {location}
+previsión para o próximo xoves
+previsión para o próximo xoves en {location}
 que debería esperar  mañá
 que debería esperar  mañá en {location}
 que debería esperar domingo

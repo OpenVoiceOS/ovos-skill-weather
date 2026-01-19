@@ -1,7 +1,7 @@
-cal é a información do tempo ás 1 da mañá
-cal é a información do tempo ás 1 da mañá en {location}
-cal é a información do tempo ás 1 da tarde
-cal é a información do tempo ás 1 da tarde en {location}
+cal é a información do tempo á 1 da mañá
+cal é a información do tempo á 1 da mañá en {location}
+cal é a información do tempo á 1 da tarde
+cal é a información do tempo á 1 da tarde en {location}
 cal é a información do tempo ás 10 da mañá
 cal é a información do tempo ás 10 da mañá en {location}
 cal é a información do tempo ás 10 da tarde
@@ -430,10 +430,10 @@ cal é a previsión para xoves ás 9 da mañá
 cal é a previsión para xoves ás 9 da mañá en {location}
 cal é a previsión para xoves ás 9 da tarde
 cal é a previsión para xoves ás 9 da tarde en {location}
-cal é a previsión ás 1 da mañá
-cal é a previsión ás 1 da mañá en {location}
-cal é a previsión ás 1 da tarde
-cal é a previsión ás 1 da tarde en {location}
+cal é a previsión á 1 da mañá
+cal é a previsión á 1 da mañá en {location}
+cal é a previsión á 1 da tarde
+cal é a previsión á 1 da tarde en {location}
 cal é a previsión ás 10 da mañá
 cal é a previsión ás 10 da mañá en {location}
 cal é a previsión ás 10 da tarde
@@ -478,10 +478,10 @@ cal é a previsión ás 9 da mañá
 cal é a previsión ás 9 da mañá en {location}
 cal é a previsión ás 9 da tarde
 cal é a previsión ás 9 da tarde en {location}
-como está a información do tempo ás 1 da mañá
-como está a información do tempo ás 1 da mañá en {location}
-como está a información do tempo ás 1 da tarde
-como está a información do tempo ás 1 da tarde en {location}
+como está a información do tempo á 1 da mañá
+como está a información do tempo á 1 da mañá en {location}
+como está a información do tempo á 1 da tarde
+como está a información do tempo á 1 da tarde en {location}
 como está a información do tempo ás 10 da mañá
 como está a información do tempo ás 10 da mañá en {location}
 como está a información do tempo ás 10 da tarde
@@ -526,10 +526,10 @@ como está a información do tempo ás 9 da mañá
 como está a información do tempo ás 9 da mañá en {location}
 como está a información do tempo ás 9 da tarde
 como está a información do tempo ás 9 da tarde en {location}
-como está a previsión ás 1 da mañá
-como está a previsión ás 1 da mañá en {location}
-como está a previsión ás 1 da tarde
-como está a previsión ás 1 da tarde en {location}
+como está a previsión á 1 da mañá
+como está a previsión á 1 da mañá en {location}
+como está a previsión á 1 da tarde
+como está a previsión á 1 da tarde en {location}
 como está a previsión ás 10 da mañá
 como está a previsión ás 10 da mañá en {location}
 como está a previsión ás 10 da tarde
@@ -646,10 +646,10 @@ como vai estar o tempo xoves pola mañá
 como vai estar o tempo xoves pola mañá en {location}
 como vai estar o tempo xoves pola tarde
 como vai estar o tempo xoves pola tarde en {location}
-dime a información do tempo ás 1 da mañá
-dime a información do tempo ás 1 da mañá en {location}
-dime a información do tempo ás 1 da tarde
-dime a información do tempo ás 1 da tarde en {location}
+dime a información do tempo á 1 da mañá
+dime a información do tempo á 1 da mañá en {location}
+dime a información do tempo á 1 da tarde
+dime a información do tempo á 1 da tarde en {location}
 dime a información do tempo ás 10 da mañá
 dime a información do tempo ás 10 da mañá en {location}
 dime a información do tempo ás 10 da tarde
@@ -694,10 +694,10 @@ dime a información do tempo ás 9 da mañá
 dime a información do tempo ás 9 da mañá en {location}
 dime a información do tempo ás 9 da tarde
 dime a información do tempo ás 9 da tarde en {location}
-dime a previsión ás 1 da mañá
-dime a previsión ás 1 da mañá en {location}
-dime a previsión ás 1 da tarde
-dime a previsión ás 1 da tarde en {location}
+dime a previsión á 1 da mañá
+dime a previsión á 1 da mañá en {location}
+dime a previsión á 1 da tarde
+dime a previsión á 1 da tarde en {location}
 dime a previsión ás 10 da mañá
 dime a previsión ás 10 da mañá en {location}
 dime a previsión ás 10 da tarde
@@ -742,6 +742,54 @@ dime a previsión ás 9 da mañá
 dime a previsión ás 9 da mañá en {location}
 dime a previsión ás 9 da tarde
 dime a previsión ás 9 da tarde en {location}
+información do tempo á 1 da mañá
+información do tempo á 1 da mañá en {location}
+información do tempo á 1 da tarde
+información do tempo á 1 da tarde en {location}
+información do tempo ás 10 da mañá
+información do tempo ás 10 da mañá en {location}
+información do tempo ás 10 da tarde
+información do tempo ás 10 da tarde en {location}
+información do tempo ás 11 da mañá
+información do tempo ás 11 da mañá en {location}
+información do tempo ás 11 da tarde
+información do tempo ás 11 da tarde en {location}
+información do tempo ás 12 da mañá
+información do tempo ás 12 da mañá en {location}
+información do tempo ás 12 da tarde
+información do tempo ás 12 da tarde en {location}
+información do tempo ás 2 da mañá
+información do tempo ás 2 da mañá en {location}
+información do tempo ás 2 da tarde
+información do tempo ás 2 da tarde en {location}
+información do tempo ás 3 da mañá
+información do tempo ás 3 da mañá en {location}
+información do tempo ás 3 da tarde
+información do tempo ás 3 da tarde en {location}
+información do tempo ás 4 da mañá
+información do tempo ás 4 da mañá en {location}
+información do tempo ás 4 da tarde
+información do tempo ás 4 da tarde en {location}
+información do tempo ás 5 da mañá
+información do tempo ás 5 da mañá en {location}
+información do tempo ás 5 da tarde
+información do tempo ás 5 da tarde en {location}
+información do tempo ás 6 da mañá
+información do tempo ás 6 da mañá en {location}
+información do tempo ás 6 da tarde
+información do tempo ás 6 da tarde en {location}
+información do tempo ás 7 da mañá
+información do tempo ás 7 da mañá en {location}
+información do tempo ás 7 da tarde
+información do tempo ás 7 da tarde en {location}
+información do tempo ás 8 da mañá
+información do tempo ás 8 da mañá en {location}
+información do tempo ás 8 da tarde
+información do tempo ás 8 da tarde en {location}
+información do tempo ás 9 da mañá
+información do tempo ás 9 da mañá en {location}
+información do tempo ás 9 da tarde
+información do tempo ás 9 da tarde en {location}
 infórmame do tempo domingo pola mañá
 infórmame do tempo domingo pola mañá en {location}
 infórmame do tempo domingo pola tarde
@@ -794,12 +842,12 @@ previsión para domingo ao mediodía
 previsión para domingo ao mediodía en {location}
 previsión para domingo o serán
 previsión para domingo o serán en {location}
+previsión para domingo á 1 da mañá
+previsión para domingo á 1 da mañá en {location}
+previsión para domingo á 1 da tarde
+previsión para domingo á 1 da tarde en {location}
 previsión para domingo á medianoite
 previsión para domingo á medianoite en {location}
-previsión para domingo ás 1 da mañá
-previsión para domingo ás 1 da mañá en {location}
-previsión para domingo ás 1 da tarde
-previsión para domingo ás 1 da tarde en {location}
 previsión para domingo ás 10 da mañá
 previsión para domingo ás 10 da mañá en {location}
 previsión para domingo ás 10 da tarde
@@ -848,12 +896,12 @@ previsión para luns ao mediodía
 previsión para luns ao mediodía en {location}
 previsión para luns o serán
 previsión para luns o serán en {location}
+previsión para luns á 1 da mañá
+previsión para luns á 1 da mañá en {location}
+previsión para luns á 1 da tarde
+previsión para luns á 1 da tarde en {location}
 previsión para luns á medianoite
 previsión para luns á medianoite en {location}
-previsión para luns ás 1 da mañá
-previsión para luns ás 1 da mañá en {location}
-previsión para luns ás 1 da tarde
-previsión para luns ás 1 da tarde en {location}
 previsión para luns ás 10 da mañá
 previsión para luns ás 10 da mañá en {location}
 previsión para luns ás 10 da tarde
@@ -902,12 +950,12 @@ previsión para martes ao mediodía
 previsión para martes ao mediodía en {location}
 previsión para martes o serán
 previsión para martes o serán en {location}
+previsión para martes á 1 da mañá
+previsión para martes á 1 da mañá en {location}
+previsión para martes á 1 da tarde
+previsión para martes á 1 da tarde en {location}
 previsión para martes á medianoite
 previsión para martes á medianoite en {location}
-previsión para martes ás 1 da mañá
-previsión para martes ás 1 da mañá en {location}
-previsión para martes ás 1 da tarde
-previsión para martes ás 1 da tarde en {location}
 previsión para martes ás 10 da mañá
 previsión para martes ás 10 da mañá en {location}
 previsión para martes ás 10 da tarde
@@ -956,12 +1004,12 @@ previsión para mañá ao mediodía
 previsión para mañá ao mediodía en {location}
 previsión para mañá o serán
 previsión para mañá o serán en {location}
+previsión para mañá á 1 da mañá
+previsión para mañá á 1 da mañá en {location}
+previsión para mañá á 1 da tarde
+previsión para mañá á 1 da tarde en {location}
 previsión para mañá á medianoite
 previsión para mañá á medianoite en {location}
-previsión para mañá ás 1 da mañá
-previsión para mañá ás 1 da mañá en {location}
-previsión para mañá ás 1 da tarde
-previsión para mañá ás 1 da tarde en {location}
 previsión para mañá ás 10 da mañá
 previsión para mañá ás 10 da mañá en {location}
 previsión para mañá ás 10 da tarde
@@ -1010,12 +1058,12 @@ previsión para mércores ao mediodía
 previsión para mércores ao mediodía en {location}
 previsión para mércores o serán
 previsión para mércores o serán en {location}
+previsión para mércores á 1 da mañá
+previsión para mércores á 1 da mañá en {location}
+previsión para mércores á 1 da tarde
+previsión para mércores á 1 da tarde en {location}
 previsión para mércores á medianoite
 previsión para mércores á medianoite en {location}
-previsión para mércores ás 1 da mañá
-previsión para mércores ás 1 da mañá en {location}
-previsión para mércores ás 1 da tarde
-previsión para mércores ás 1 da tarde en {location}
 previsión para mércores ás 10 da mañá
 previsión para mércores ás 10 da mañá en {location}
 previsión para mércores ás 10 da tarde
@@ -1064,12 +1112,12 @@ previsión para sábado ao mediodía
 previsión para sábado ao mediodía en {location}
 previsión para sábado o serán
 previsión para sábado o serán en {location}
+previsión para sábado á 1 da mañá
+previsión para sábado á 1 da mañá en {location}
+previsión para sábado á 1 da tarde
+previsión para sábado á 1 da tarde en {location}
 previsión para sábado á medianoite
 previsión para sábado á medianoite en {location}
-previsión para sábado ás 1 da mañá
-previsión para sábado ás 1 da mañá en {location}
-previsión para sábado ás 1 da tarde
-previsión para sábado ás 1 da tarde en {location}
 previsión para sábado ás 10 da mañá
 previsión para sábado ás 10 da mañá en {location}
 previsión para sábado ás 10 da tarde
@@ -1118,12 +1166,12 @@ previsión para venres ao mediodía
 previsión para venres ao mediodía en {location}
 previsión para venres o serán
 previsión para venres o serán en {location}
+previsión para venres á 1 da mañá
+previsión para venres á 1 da mañá en {location}
+previsión para venres á 1 da tarde
+previsión para venres á 1 da tarde en {location}
 previsión para venres á medianoite
 previsión para venres á medianoite en {location}
-previsión para venres ás 1 da mañá
-previsión para venres ás 1 da mañá en {location}
-previsión para venres ás 1 da tarde
-previsión para venres ás 1 da tarde en {location}
 previsión para venres ás 10 da mañá
 previsión para venres ás 10 da mañá en {location}
 previsión para venres ás 10 da tarde
@@ -1172,12 +1220,12 @@ previsión para xoves ao mediodía
 previsión para xoves ao mediodía en {location}
 previsión para xoves o serán
 previsión para xoves o serán en {location}
+previsión para xoves á 1 da mañá
+previsión para xoves á 1 da mañá en {location}
+previsión para xoves á 1 da tarde
+previsión para xoves á 1 da tarde en {location}
 previsión para xoves á medianoite
 previsión para xoves á medianoite en {location}
-previsión para xoves ás 1 da mañá
-previsión para xoves ás 1 da mañá en {location}
-previsión para xoves ás 1 da tarde
-previsión para xoves ás 1 da tarde en {location}
 previsión para xoves ás 10 da mañá
 previsión para xoves ás 10 da mañá en {location}
 previsión para xoves ás 10 da tarde
@@ -1238,6 +1286,54 @@ previsión por horas para venres
 previsión por horas para venres en {location}
 previsión por horas para xoves
 previsión por horas para xoves en {location}
+previsión á 1 da mañá
+previsión á 1 da mañá en {location}
+previsión á 1 da tarde
+previsión á 1 da tarde en {location}
+previsión ás 10 da mañá
+previsión ás 10 da mañá en {location}
+previsión ás 10 da tarde
+previsión ás 10 da tarde en {location}
+previsión ás 11 da mañá
+previsión ás 11 da mañá en {location}
+previsión ás 11 da tarde
+previsión ás 11 da tarde en {location}
+previsión ás 12 da mañá
+previsión ás 12 da mañá en {location}
+previsión ás 12 da tarde
+previsión ás 12 da tarde en {location}
+previsión ás 2 da mañá
+previsión ás 2 da mañá en {location}
+previsión ás 2 da tarde
+previsión ás 2 da tarde en {location}
+previsión ás 3 da mañá
+previsión ás 3 da mañá en {location}
+previsión ás 3 da tarde
+previsión ás 3 da tarde en {location}
+previsión ás 4 da mañá
+previsión ás 4 da mañá en {location}
+previsión ás 4 da tarde
+previsión ás 4 da tarde en {location}
+previsión ás 5 da mañá
+previsión ás 5 da mañá en {location}
+previsión ás 5 da tarde
+previsión ás 5 da tarde en {location}
+previsión ás 6 da mañá
+previsión ás 6 da mañá en {location}
+previsión ás 6 da tarde
+previsión ás 6 da tarde en {location}
+previsión ás 7 da mañá
+previsión ás 7 da mañá en {location}
+previsión ás 7 da tarde
+previsión ás 7 da tarde en {location}
+previsión ás 8 da mañá
+previsión ás 8 da mañá en {location}
+previsión ás 8 da tarde
+previsión ás 8 da tarde en {location}
+previsión ás 9 da mañá
+previsión ás 9 da mañá en {location}
+previsión ás 9 da tarde
+previsión ás 9 da tarde en {location}
 que tempo irá domingo ao mediodía
 que tempo irá domingo ao mediodía en {location}
 que tempo irá domingo pola mañá
