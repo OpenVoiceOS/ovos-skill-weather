@@ -48,7 +48,7 @@
   ],
   "/intents/daily_forecast.intent": [
     "como vai estar o tempo ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]",
-    "(cal é a|dime a|a) previsión para o próximo (luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]",
+    "(cal é a|dime a|a|) previsión para o próximo (luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]",
     "como vai estar o tempo en {location} ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo)",
     "cal é a previsión para ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]",
     "como pinta o tempo ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]",
@@ -56,25 +56,25 @@
     "vai (chover|nevar|haber treboada) ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]",
     "vai (ir|vir) (calor|frío|bo tempo) ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]",
     "cal é a previsión de temperatura para ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]",
-    "hai (algún|algunha) (aviso meteorolóxico|alerta meteorolóxica) para ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]"
+    "hai (algún aviso meteorolóxico|algunha alerta meteorolóxica) para ([pasado] mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]"
   ],
   "/intents/hourly_forecast.intent": [
-    "(cal é a|como está a|dime a) (previsión|información do tempo) ás (1|2|3|4|5|6|7|8|9|10|11|12) (da mañá|da tarde) [en {location}]",
+    "(cal é a|como está a|dime a|) (previsión|información do tempo) (á 1|ás 2|ás 3|ás 4|ás 5|ás 6|ás 7|ás 8|ás 9|ás 10|ás 11|ás 12) (da mañá|da tarde) [en {location}]",
     "cal é a previsión para (mañá|luns|martes|mércores|xoves|venres|sábado|domingo) ás (1|2|3|4|5|6|7|8|9|10|11|12) (da mañá|da tarde) [en {location}]",
     "(que tempo irá|que tempo vai ir|que tempo vai vir|como vai estar o tempo) (mañá|luns|martes|mércores|xoves|venres|sábado|domingo) (pola mañá|pola tarde|ao mediodía) [en {location}]",
     "(que tempo irá|que tempo vai ir|que tempo vai vir|como vai estar o tempo) en {location} (mañá|luns|martes|mércores|xoves|venres|sábado|domingo) (pola mañá|pola tarde|ao mediodía)",
     "infórmame do tempo (mañá|luns|martes|mércores|xoves|venres|sábado|domingo) (pola mañá|pola tarde|á noite) [en {location}]",
     "previsión para (mañá|luns|martes|mércores|xoves|venres|sábado|domingo) (ao mediodía|o serán|á medianoite) [en {location}]",
-    "previsión para (mañá|luns|martes|mércores|xoves|venres|sábado|domingo) ás (1|2|3|4|5|6|7|8|9|10|11|12) (da mañá|da tarde) [en {location}]",
+    "previsión para (mañá|luns|martes|mércores|xoves|venres|sábado|domingo) (á 1|ás 2|ás 3|ás 4|ás 5|ás 6|ás 7|ás 8|ás 9|ás 10|ás 11|ás 12) (da mañá|da tarde) [en {location}]",
     "previsión por horas para (mañá|luns|martes|mércores|xoves|venres|sábado|domingo) [en {location}]"
   ],
   "/intents/is_wind.intent": [
     "vai vento (hoxe|agora|) [en {location}]",
     "(canta forza ten|como de forte está) o vento [en {location}]",
-    "vai (estar ventoso|soprar o vento| ir vento) (máis tarde|esta noite|hoxe|) [en {location}]",
+    "vai (estar ventoso|soprar o vento|ir vento) (máis tarde|esta noite|hoxe|) [en {location}]",
     "vai (moito vento|vento forte) [agora mesmo] [en {location}]",
     "cal é a velocidade do vento [en {location}]",
-    "hai (algún aviso| algunha alerta) por vento [en {location}]",
+    "hai (algún aviso|algunha alerta) por vento [en {location}]",
     "debería preocuparme por vento (forte|intenso) [hoxe] [en {location}]",
     "espéranse condicións (con refachos de vento|ventosas) [en {location}]",
     "debo asegurar os obxectos no exterior por mor do vento [en {location}]"
@@ -119,7 +119,7 @@
     "espérase unha (treboada|situación meteorolóxica adversa) [en {location}]",
     "debo prepararme para unha treboada [en {location}]",
     "hai (avisos de tempo severo|alertas por tormenta) [en {location}]",
-    "é probable que haxa unha treboada [en {location}]",
+    "(é probable|está previsto) que haxa unha treboada [en {location}]",
     "debería quedar na casa por (treboadas|mal tempo) [en {location}]",
     "hai alertas por treboadas [hoxe] [en {location}]"
   ],
