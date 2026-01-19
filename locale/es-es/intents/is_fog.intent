@@ -14,6 +14,10 @@
 ¿Debo preocuparme por la niebla  en {location}?
 ¿Debo preocuparme por la niebla hoy ?
 ¿Debo preocuparme por la niebla hoy en {location}?
+¿Habrá niebla densa esta noche ?
+¿Habrá niebla densa esta noche en {location}?
+¿Habrá niebla espesa esta noche ?
+¿Habrá niebla espesa esta noche en {location}?
 ¿Habrá niebla esta mañana ?
 ¿Habrá niebla esta mañana en {location}?
 ¿Habrá niebla esta tarde ?
@@ -105,10 +109,14 @@
 ¿La niebla condicionará mi viaje diario al trabajo ?
 ¿La niebla condicionará mi viaje diario al trabajo a{location}?
 ¿Se espera niebla ?
+¿Se espera niebla densa esta noche ?
+¿Se espera niebla densa esta noche en {location}?
 ¿Se espera niebla en {location}?
-¿Se espera|Se prevé|Habrá) niebla densa esta noche ?
-¿Se espera|Se prevé|Habrá) niebla densa esta noche en {location}?
-¿Se espera|Se prevé|Habrá) niebla espesa esta noche ?
-¿Se espera|Se prevé|Habrá) niebla espesa esta noche en {location}?
+¿Se espera niebla espesa esta noche ?
+¿Se espera niebla espesa esta noche en {location}?
 ¿Se prevé niebla ?
+¿Se prevé niebla densa esta noche ?
+¿Se prevé niebla densa esta noche en {location}?
 ¿Se prevé niebla en {location}?
+¿Se prevé niebla espesa esta noche ?
+¿Se prevé niebla espesa esta noche en {location}?
