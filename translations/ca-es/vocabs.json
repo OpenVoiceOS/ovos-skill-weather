@@ -36,7 +36,7 @@
     "capvespre\nhorabaixa\nhora baixa"
   ],
   "/vocabulary/weather.voc": [
-    "temps",
+    "(temps|oratge)",
     "(metereologia|meteorològiques)"
   ],
   "/vocabulary/unit/unit.voc": [
