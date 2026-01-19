@@ -1,0 +1,150 @@
+Actualització de temperatura actual.
+Digue'm la temperatura  ara.
+Digue'm la temperatura a {location} ara.
+Digue'm la temperatura de {location} ara.
+Digues-me la temperatura  ara.
+Digues-me la temperatura a {location} ara.
+Digues-me la temperatura de {location} ara.
+Fa calor a fora .
+Fa calor a fora a {location}.
+Fa calor al carrer .
+Fa calor al carrer a {location}.
+Fa fred a fora .
+Fa fred a fora a {location}.
+Fa fred al carrer .
+Fa fred al carrer a {location}.
+Necessito l'abric  ?
+Necessito l'abric  a {location}?
+Necessito l'abric avui ?
+Necessito l'abric avui a {location}?
+Necessito l'abric hui ?
+Necessito l'abric hui a {location}?
+Necessito la jaqueta  ?
+Necessito la jaqueta  a {location}?
+Necessito la jaqueta avui ?
+Necessito la jaqueta avui a {location}?
+Necessito la jaqueta hui ?
+Necessito la jaqueta hui a {location}?
+Quantacalor fa  ?
+Quantacalor fa  ara mateix?
+Quantacalor fa  ara?
+Quantacalor fa  en aquest moment?
+Quantacalor fa  este moment?
+Quantacalor fa a {location} ?
+Quantacalor fa a {location} ara mateix?
+Quantacalor fa a {location} ara?
+Quantacalor fa a {location} en aquest moment?
+Quantacalor fa a {location} este moment?
+Quantacalor o fred fa  ?
+Quantacalor o fred fa  ara mateix?
+Quantacalor o fred fa  ara?
+Quantacalor o fred fa  en aquest moment?
+Quantacalor o fred fa  este moment?
+Quantacalor o fred fa a {location} ?
+Quantacalor o fred fa a {location} ara mateix?
+Quantacalor o fred fa a {location} ara?
+Quantacalor o fred fa a {location} en aquest moment?
+Quantacalor o fred fa a {location} este moment?
+Quantafred fa  ?
+Quantafred fa  ara mateix?
+Quantafred fa  ara?
+Quantafred fa  en aquest moment?
+Quantafred fa  este moment?
+Quantafred fa a {location} ?
+Quantafred fa a {location} ara mateix?
+Quantafred fa a {location} ara?
+Quantafred fa a {location} en aquest moment?
+Quantafred fa a {location} este moment?
+Quantafresca fa  ?
+Quantafresca fa  ara mateix?
+Quantafresca fa  ara?
+Quantafresca fa  en aquest moment?
+Quantafresca fa  este moment?
+Quantafresca fa a {location} ?
+Quantafresca fa a {location} ara mateix?
+Quantafresca fa a {location} ara?
+Quantafresca fa a {location} en aquest moment?
+Quantafresca fa a {location} este moment?
+Quantcalor fa  ?
+Quantcalor fa  ara mateix?
+Quantcalor fa  ara?
+Quantcalor fa  en aquest moment?
+Quantcalor fa  este moment?
+Quantcalor fa a {location} ?
+Quantcalor fa a {location} ara mateix?
+Quantcalor fa a {location} ara?
+Quantcalor fa a {location} en aquest moment?
+Quantcalor fa a {location} este moment?
+Quantcalor o fred fa  ?
+Quantcalor o fred fa  ara mateix?
+Quantcalor o fred fa  ara?
+Quantcalor o fred fa  en aquest moment?
+Quantcalor o fred fa  este moment?
+Quantcalor o fred fa a {location} ?
+Quantcalor o fred fa a {location} ara mateix?
+Quantcalor o fred fa a {location} ara?
+Quantcalor o fred fa a {location} en aquest moment?
+Quantcalor o fred fa a {location} este moment?
+Quantfred fa  ?
+Quantfred fa  ara mateix?
+Quantfred fa  ara?
+Quantfred fa  en aquest moment?
+Quantfred fa  este moment?
+Quantfred fa a {location} ?
+Quantfred fa a {location} ara mateix?
+Quantfred fa a {location} ara?
+Quantfred fa a {location} en aquest moment?
+Quantfred fa a {location} este moment?
+Quantfresca fa  ?
+Quantfresca fa  ara mateix?
+Quantfresca fa  ara?
+Quantfresca fa  en aquest moment?
+Quantfresca fa  este moment?
+Quantfresca fa a {location} ?
+Quantfresca fa a {location} ara mateix?
+Quantfresca fa a {location} ara?
+Quantfresca fa a {location} en aquest moment?
+Quantfresca fa a {location} este moment?
+Quina temperatura hi ha  ?
+Quina temperatura hi ha  ara mateix?
+Quina temperatura hi ha  ara?
+Quina temperatura hi ha  en aquest moment?
+Quina temperatura hi ha  este moment?
+Quina temperatura hi ha a {location} ?
+Quina temperatura hi ha a {location} ara mateix?
+Quina temperatura hi ha a {location} ara?
+Quina temperatura hi ha a {location} en aquest moment?
+Quina temperatura hi ha a {location} este moment?
+Quina és la temperatura   en graus Celsius?
+Quina és la temperatura   en graus Fahrenheit?
+Quina és la temperatura  a fora?
+Quina és la temperatura  a {location} en graus Celsius?
+Quina és la temperatura  a {location} en graus Fahrenheit?
+Quina és la temperatura  al carrer?
+Quina és la temperatura  ara mateix?
+Quina és la temperatura  ara?
+Quina és la temperatura  avui?
+Quina és la temperatura  hui?
+Quina és la temperatura a {location} a fora?
+Quina és la temperatura a {location} al carrer?
+Quina és la temperatura a {location} ara?
+Quina és la temperatura a {location} avui?
+Quina és la temperatura a {location} hui?
+Quina és la temperatura actual  en graus Celsius?
+Quina és la temperatura actual  en graus Fahrenheit?
+Quina és la temperatura actual a fora?
+Quina és la temperatura actual a {location} en graus Celsius?
+Quina és la temperatura actual a {location} en graus Fahrenheit?
+Quina és la temperatura actual al carrer?
+Quina és la temperatura actual ara mateix?
+Quina és la temperatura actual ara?
+Quina és la temperatura actual avui?
+Quina és la temperatura actual hui?
+Quina és la temperatura ara mateix  en graus Celsius?
+Quina és la temperatura ara mateix  en graus Fahrenheit?
+Quina és la temperatura ara mateix a {location} en graus Celsius?
+Quina és la temperatura ara mateix a {location} en graus Fahrenheit?
+Quina és la temperatura d'ara  en graus Celsius?
+Quina és la temperatura d'ara  en graus Fahrenheit?
+Quina és la temperatura d'ara a {location} en graus Celsius?
+Quina és la temperatura d'ara a {location} en graus Fahrenheit?
