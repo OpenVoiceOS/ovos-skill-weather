@@ -110,7 +110,7 @@
     "¿Hay visibilidad (reducida|baja) (debido a|a causa de|por) la niebla [en {location}]?",
     "¿Hay (alertas|avisos) de niebla (vigentes|funcionando) en {location}?",
     "¿La niebla (afectará|condicionará|alterará) mi (viaje|recorrido|trayecto|camino|desplazamiento) diario [al trabajo] [a{location}]?",
-    "¿Se espera|Se prevé|Habrá) niebla (densa|espesa) esta noche [en {location}]?"
+    "¿(Se espera|Se prevé|Habrá) niebla (densa|espesa) esta noche [en {location}]?"
   ],
   "/intents/is_stormy.intent": [
     "¿(Hay|Habrá|Caerá|Se producirá) [una] tormenta hoy en {location}?",
@@ -175,7 +175,7 @@
     "¿(Cuándo|A qué hora) (empieza la luz de la mañana|amanece|comienza el alba)? [en {location}]?"
   ],
   "/intents/sunset.intent": [
-    "¿(Cuándo|A qué hora) (es la puesta de sol|es el atardecer|atardece?",
+    "¿(Cuándo|A qué hora) (es la puesta de sol|es el atardecer|atardece)?",
     "¿(A qué hora|Cuándo) (se pone el sol|atardece) [en {location}]?",
     "Hora (del atardecer|de la puesta de sol) [hoy]",
     "¿(A qué hora|Cuándo) es (el atardecer|la puesta de sol) [en {location}]?",
