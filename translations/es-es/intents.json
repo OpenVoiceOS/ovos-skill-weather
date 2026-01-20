@@ -17,7 +17,7 @@
     "¿Cuál es la previsión para los próximos (2|3|4|5|6|7) días [en {location}]?",
     "(El tiempo|El clima|La meteorología) (para|durante|a lo largo de) la semana [en {location}]",
     "(El tiempo|El clima|La meteorología|Las condiciones meteorológicas) de (esta|la) semana [en {location}]",
-    "(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los (próximos|venideros) (2|3|4|5|6|7) días [en {location}]",
+    "(El tiempo|El clima|La meteorología|Las condiciones meteorológicas) en los (próximos|venideros) (2|3|4|5|6|7) días [en {location}]",
     "¿Cuál es (el pronóstico|la previsión) para los (próximos|siguientes) días [en {location}]?",
     "(Muéstrame|Enséñame) (el pronóstico|la previsión) (semanal|de los próximos siete días) [en {location}]",
     "(Dime|Muéstrame|Explícame) (el pronóstico|la previsión|el panorama) del tiempo para esta semana [en {location}]",
@@ -33,7 +33,7 @@
     "(Pronóstico|Previsión|Panorama) para el (sábado y domingo|fin de semana)",
     "(¿Lloverá|Hará sol|Hará buen tiempo) (el sábado y domingo|este fin de semana)?",
     "¿Debería planificar actividades (al aire libre|de exterior) este fin de semana?",
-    "¿Alguna alerta meteorológica|Algún aviso meteorológico) para el fin de semana?",
+    "¿(Alguna alerta meteorológica|Algún aviso meteorológico) para el fin de semana?",
     "¿(Hará sol|Estará soleado|Hará buen tiempo|Estará despejado) este fin de semana?",
     "¿Cuál es (el pronóstico|la previsión) para el [próximo] (sábado y domingo|fin de semana) en {location}?",
     "¿Cómo (está|se ve) el (tiempo|clima) (el sábado y domingo|este fin de semana) en {location}?",
@@ -120,7 +120,7 @@
     "¿Necesito prepararme para una tormenta [en {location}]?",
     "¿(Hay|Existen) (alertas por tormenta|avisos por clima severo|advertencias por condiciones meteorológicas severas) [en {location}]?",
     "¿(Es probable que haya|Se espera|Se prevé|Se pronostica|Hay pronóstico de) [una] tormenta eléctrica [en {location}]?",
-    "¿(Debo|Debería quedarme (en casa|dentro) (debido a|a causa de|por) (las tormentas|el mal tiempo) [en {location}]?",
+    "¿(Debo|Debería quedarme) (en casa|dentro) (debido a|a causa de|por) (las tormentas|el mal tiempo) [en {location}]?",
     "¿(Hay|Existe) alguna alerta (de|por) tormenta [hoy] [en {location}]?"
   ],
   "/intents/current_temperature.intent": [
