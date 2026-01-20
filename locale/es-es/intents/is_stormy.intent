@@ -22,32 +22,56 @@ Se prevé un fenómeno meteorológico severo ?
 Se prevé un fenómeno meteorológico severo en {location}?
 Se prevé una tormenta ?
 Se prevé una tormenta en {location}?
-¿(Debo|Debería quedarme dentro a causa de el mal tiempo ?
-¿(Debo|Debería quedarme dentro a causa de el mal tiempo en {location}?
-¿(Debo|Debería quedarme dentro a causa de las tormentas ?
-¿(Debo|Debería quedarme dentro a causa de las tormentas en {location}?
-¿(Debo|Debería quedarme dentro debido a el mal tiempo ?
-¿(Debo|Debería quedarme dentro debido a el mal tiempo en {location}?
-¿(Debo|Debería quedarme dentro debido a las tormentas ?
-¿(Debo|Debería quedarme dentro debido a las tormentas en {location}?
-¿(Debo|Debería quedarme dentro por el mal tiempo ?
-¿(Debo|Debería quedarme dentro por el mal tiempo en {location}?
-¿(Debo|Debería quedarme dentro por las tormentas ?
-¿(Debo|Debería quedarme dentro por las tormentas en {location}?
-¿(Debo|Debería quedarme en casa a causa de el mal tiempo ?
-¿(Debo|Debería quedarme en casa a causa de el mal tiempo en {location}?
-¿(Debo|Debería quedarme en casa a causa de las tormentas ?
-¿(Debo|Debería quedarme en casa a causa de las tormentas en {location}?
-¿(Debo|Debería quedarme en casa debido a el mal tiempo ?
-¿(Debo|Debería quedarme en casa debido a el mal tiempo en {location}?
-¿(Debo|Debería quedarme en casa debido a las tormentas ?
-¿(Debo|Debería quedarme en casa debido a las tormentas en {location}?
-¿(Debo|Debería quedarme en casa por el mal tiempo ?
-¿(Debo|Debería quedarme en casa por el mal tiempo en {location}?
-¿(Debo|Debería quedarme en casa por las tormentas ?
-¿(Debo|Debería quedarme en casa por las tormentas en {location}?
 ¿Caerá  tormenta hoy en {location}?
 ¿Caerá una tormenta hoy en {location}?
+¿Debería quedarme dentro a causa de el mal tiempo ?
+¿Debería quedarme dentro a causa de el mal tiempo en {location}?
+¿Debería quedarme dentro a causa de las tormentas ?
+¿Debería quedarme dentro a causa de las tormentas en {location}?
+¿Debería quedarme dentro debido a el mal tiempo ?
+¿Debería quedarme dentro debido a el mal tiempo en {location}?
+¿Debería quedarme dentro debido a las tormentas ?
+¿Debería quedarme dentro debido a las tormentas en {location}?
+¿Debería quedarme dentro por el mal tiempo ?
+¿Debería quedarme dentro por el mal tiempo en {location}?
+¿Debería quedarme dentro por las tormentas ?
+¿Debería quedarme dentro por las tormentas en {location}?
+¿Debería quedarme en casa a causa de el mal tiempo ?
+¿Debería quedarme en casa a causa de el mal tiempo en {location}?
+¿Debería quedarme en casa a causa de las tormentas ?
+¿Debería quedarme en casa a causa de las tormentas en {location}?
+¿Debería quedarme en casa debido a el mal tiempo ?
+¿Debería quedarme en casa debido a el mal tiempo en {location}?
+¿Debería quedarme en casa debido a las tormentas ?
+¿Debería quedarme en casa debido a las tormentas en {location}?
+¿Debería quedarme en casa por el mal tiempo ?
+¿Debería quedarme en casa por el mal tiempo en {location}?
+¿Debería quedarme en casa por las tormentas ?
+¿Debería quedarme en casa por las tormentas en {location}?
+¿Debo dentro a causa de el mal tiempo ?
+¿Debo dentro a causa de el mal tiempo en {location}?
+¿Debo dentro a causa de las tormentas ?
+¿Debo dentro a causa de las tormentas en {location}?
+¿Debo dentro debido a el mal tiempo ?
+¿Debo dentro debido a el mal tiempo en {location}?
+¿Debo dentro debido a las tormentas ?
+¿Debo dentro debido a las tormentas en {location}?
+¿Debo dentro por el mal tiempo ?
+¿Debo dentro por el mal tiempo en {location}?
+¿Debo dentro por las tormentas ?
+¿Debo dentro por las tormentas en {location}?
+¿Debo en casa a causa de el mal tiempo ?
+¿Debo en casa a causa de el mal tiempo en {location}?
+¿Debo en casa a causa de las tormentas ?
+¿Debo en casa a causa de las tormentas en {location}?
+¿Debo en casa debido a el mal tiempo ?
+¿Debo en casa debido a el mal tiempo en {location}?
+¿Debo en casa debido a las tormentas ?
+¿Debo en casa debido a las tormentas en {location}?
+¿Debo en casa por el mal tiempo ?
+¿Debo en casa por el mal tiempo en {location}?
+¿Debo en casa por las tormentas ?
+¿Debo en casa por las tormentas en {location}?
 ¿Es probable que haya  tormenta eléctrica ?
 ¿Es probable que haya  tormenta eléctrica en {location}?
 ¿Es probable que haya una tormenta eléctrica ?

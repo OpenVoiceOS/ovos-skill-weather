@@ -1,27 +1,3 @@
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 2 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 2 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 3 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 3 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 4 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 4 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 5 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 5 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 6 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 6 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 7 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los próximos 7 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 2 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 2 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 3 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 3 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 4 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 4 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 5 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 5 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 6 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 6 días en {location}
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 7 días
-(El tiempo|El clima|La meteorología|Las condiciones meteorológicas en los venideros 7 días en {location}
 Dime el panorama del tiempo para esta semana
 Dime el panorama del tiempo para esta semana en {location}
 Dime el pronóstico del tiempo para esta semana
@@ -36,6 +12,30 @@ El clima de la semana
 El clima de la semana en {location}
 El clima durante la semana
 El clima durante la semana en {location}
+El clima en los próximos 2 días
+El clima en los próximos 2 días en {location}
+El clima en los próximos 3 días
+El clima en los próximos 3 días en {location}
+El clima en los próximos 4 días
+El clima en los próximos 4 días en {location}
+El clima en los próximos 5 días
+El clima en los próximos 5 días en {location}
+El clima en los próximos 6 días
+El clima en los próximos 6 días en {location}
+El clima en los próximos 7 días
+El clima en los próximos 7 días en {location}
+El clima en los venideros 2 días
+El clima en los venideros 2 días en {location}
+El clima en los venideros 3 días
+El clima en los venideros 3 días en {location}
+El clima en los venideros 4 días
+El clima en los venideros 4 días en {location}
+El clima en los venideros 5 días
+El clima en los venideros 5 días en {location}
+El clima en los venideros 6 días
+El clima en los venideros 6 días en {location}
+El clima en los venideros 7 días
+El clima en los venideros 7 días en {location}
 El clima para la semana
 El clima para la semana en {location}
 El tiempo a lo largo de la semana
@@ -46,6 +46,30 @@ El tiempo de la semana
 El tiempo de la semana en {location}
 El tiempo durante la semana
 El tiempo durante la semana en {location}
+El tiempo en los próximos 2 días
+El tiempo en los próximos 2 días en {location}
+El tiempo en los próximos 3 días
+El tiempo en los próximos 3 días en {location}
+El tiempo en los próximos 4 días
+El tiempo en los próximos 4 días en {location}
+El tiempo en los próximos 5 días
+El tiempo en los próximos 5 días en {location}
+El tiempo en los próximos 6 días
+El tiempo en los próximos 6 días en {location}
+El tiempo en los próximos 7 días
+El tiempo en los próximos 7 días en {location}
+El tiempo en los venideros 2 días
+El tiempo en los venideros 2 días en {location}
+El tiempo en los venideros 3 días
+El tiempo en los venideros 3 días en {location}
+El tiempo en los venideros 4 días
+El tiempo en los venideros 4 días en {location}
+El tiempo en los venideros 5 días
+El tiempo en los venideros 5 días en {location}
+El tiempo en los venideros 6 días
+El tiempo en los venideros 6 días en {location}
+El tiempo en los venideros 7 días
+El tiempo en los venideros 7 días en {location}
 El tiempo para la semana
 El tiempo para la semana en {location}
 Enséñame el pronóstico de los próximos siete días
@@ -70,12 +94,60 @@ La meteorología de la semana
 La meteorología de la semana en {location}
 La meteorología durante la semana
 La meteorología durante la semana en {location}
+La meteorología en los próximos 2 días
+La meteorología en los próximos 2 días en {location}
+La meteorología en los próximos 3 días
+La meteorología en los próximos 3 días en {location}
+La meteorología en los próximos 4 días
+La meteorología en los próximos 4 días en {location}
+La meteorología en los próximos 5 días
+La meteorología en los próximos 5 días en {location}
+La meteorología en los próximos 6 días
+La meteorología en los próximos 6 días en {location}
+La meteorología en los próximos 7 días
+La meteorología en los próximos 7 días en {location}
+La meteorología en los venideros 2 días
+La meteorología en los venideros 2 días en {location}
+La meteorología en los venideros 3 días
+La meteorología en los venideros 3 días en {location}
+La meteorología en los venideros 4 días
+La meteorología en los venideros 4 días en {location}
+La meteorología en los venideros 5 días
+La meteorología en los venideros 5 días en {location}
+La meteorología en los venideros 6 días
+La meteorología en los venideros 6 días en {location}
+La meteorología en los venideros 7 días
+La meteorología en los venideros 7 días en {location}
 La meteorología para la semana
 La meteorología para la semana en {location}
 Las condiciones meteorológicas de esta semana
 Las condiciones meteorológicas de esta semana en {location}
 Las condiciones meteorológicas de la semana
 Las condiciones meteorológicas de la semana en {location}
+Las condiciones meteorológicas en los próximos 2 días
+Las condiciones meteorológicas en los próximos 2 días en {location}
+Las condiciones meteorológicas en los próximos 3 días
+Las condiciones meteorológicas en los próximos 3 días en {location}
+Las condiciones meteorológicas en los próximos 4 días
+Las condiciones meteorológicas en los próximos 4 días en {location}
+Las condiciones meteorológicas en los próximos 5 días
+Las condiciones meteorológicas en los próximos 5 días en {location}
+Las condiciones meteorológicas en los próximos 6 días
+Las condiciones meteorológicas en los próximos 6 días en {location}
+Las condiciones meteorológicas en los próximos 7 días
+Las condiciones meteorológicas en los próximos 7 días en {location}
+Las condiciones meteorológicas en los venideros 2 días
+Las condiciones meteorológicas en los venideros 2 días en {location}
+Las condiciones meteorológicas en los venideros 3 días
+Las condiciones meteorológicas en los venideros 3 días en {location}
+Las condiciones meteorológicas en los venideros 4 días
+Las condiciones meteorológicas en los venideros 4 días en {location}
+Las condiciones meteorológicas en los venideros 5 días
+Las condiciones meteorológicas en los venideros 5 días en {location}
+Las condiciones meteorológicas en los venideros 6 días
+Las condiciones meteorológicas en los venideros 6 días en {location}
+Las condiciones meteorológicas en los venideros 7 días
+Las condiciones meteorológicas en los venideros 7 días en {location}
 Muéstrame el panorama del tiempo para esta semana
 Muéstrame el panorama del tiempo para esta semana en {location}
 Muéstrame el pronóstico de los próximos siete días
