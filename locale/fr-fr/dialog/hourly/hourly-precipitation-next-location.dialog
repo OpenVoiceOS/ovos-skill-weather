@@ -1,2 +1,2 @@
-En {location}, il y a {percent} chance de {precipitation} à {time}
-Les prévisions font état de {percent} chance de {precipitation} dans {location} à {time}
+À {location}, il y a {percent} de chances de {precipitation} à {time}.
+Les prévisions annoncent {percent} de chances de {precipitation} à {location} vers {time}.
