@@ -2,3 +2,7 @@ quel temps fera-t-il dans les prochaines heures
 donne-moi la prévision heure par heure
 quelle météo est prévue cet après-midi
 quelle météo est prévue ce soir à {location}
+quelle météo est prévue ce soir en {location}
+quelle météo est prévue ce soir au {location}
+quelle météo est prévue ce soir aux {location}
+quelle météo est prévue ce soir dans {location}

@@ -1,4 +1,8 @@
 quelle sera la température minimale
 quelle sera la température minimale demain
 quel sera le minimum à {location}
+quel sera le minimum en {location}
+quel sera le minimum au {location}
+quel sera le minimum aux {location}
+quel sera le minimum dans {location}
 fera-t-il froid cette nuit

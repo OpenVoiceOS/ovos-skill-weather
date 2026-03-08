@@ -2,3 +2,7 @@ est-ce que le ciel est dégagé
 y a-t-il du soleil
 est-ce nuageux
 est-ce couvert à {location}
+est-ce couvert en {location}
+est-ce couvert au {location}
+est-ce couvert aux {location}
+est-ce couvert dans {location}

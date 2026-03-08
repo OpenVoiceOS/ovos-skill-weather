@@ -18,9 +18,9 @@
     "Elle atteindra 0 degré en 1 et 2."
   ],
   "/dialog/daily/daily-sunrise-location.dialog": [
-    "{day} le soleil se lèvera à {time} dans {location}",
-    "le soleil se lèvera à {time} {day} dans {location}",
-    "en {location} le soleil se lèvera en {time} {day}"
+    "À {location}, le soleil se lèvera à {time} {day}.",
+    "Le soleil se lèvera à {time} {day} à {location}.",
+    "{day}, le soleil se lèvera à {time} à {location}."
   ],
   "/dialog/daily/daily-precipitation-next-location.dialog": [
     "En {location}, il y a {percent} chance de {precipitation} {day}",
@@ -31,9 +31,9 @@
     "L'humidité {day} sera {percent}"
   ],
   "/dialog/daily/daily-sunset-location.dialog": [
-    "le soleil se couchera à {time} {day} dans {location}",
-    "en {location} le coucher de soleil sera à {time} {day}",
-    "{day} le soleil se couchera à {time} dans {location}"
+    "À {location}, le coucher du soleil sera à {time} {day}.",
+    "Le soleil se couchera à {time} {day} à {location}.",
+    "{day}, le soleil se couchera à {time} à {location}."
   ],
   "/dialog/daily/daily-weather-location.dialog": [
     "{day} il sera {condition}, avec un maximum de {high_temperature} et un minimum de {low_temperature} en {location}",
@@ -52,10 +52,10 @@
     "Oui, la prévision prévoit {condition} dans {location} {day}"
   ],
   "/dialog/daily/daily-sunset-local.dialog": [
-    "le soleil se couchera à {time} {day}",
-    "le coucher de soleil sera à {time} {day}",
-    "{day} le soleil se couchera à {time}",
-    "{jour}, le soleil se couchera à {heure}"
+    "Le soleil se couchera à {time} {day}.",
+    "Le coucher du soleil sera à {time} {day}.",
+    "{day}, le soleil se couchera à {time}.",
+    "Le {day}, le soleil se couchera à {time}."
   ],
   "/dialog/daily/daily-temperature-low-local.dialog": [
     "{day} il sera aussi bas que {temperature}",
@@ -159,26 +159,26 @@
     "Actuellement, l'humidité est de 0"
   ],
   "/dialog/current/current-sunrise-future-location.dialog": [
-    "le soleil s'est levé à {time} aujourd'hui à {location}",
-    "aujourd'hui le lever du soleil  à {emplacement} était à {heure} "
+    "À {location}, le soleil se lèvera à {time} aujourd'hui.",
+    "Le lever du soleil aura lieu à {time} aujourd'hui à {location}."
   ],
   "/dialog/current/current-humidity-location.dialog": [
     "Actuellement, l'humidité dans {location} est {percent}"
   ],
   "/dialog/current/current-temperature-location.dialog": [
-    "En ce moment, il fait {temperature} degré dans {location}.",
-    "Il fait actuellement {temperature} degré {temperature_unit} dans {location}.",
-    "Il fait actuellement {temperature} degré à {location}."
+    "À {location}, il fait actuellement {temperature} degrés.",
+    "Il fait actuellement {temperature} degré {temperature_unit} à {location}.",
+    "En ce moment, il fait {temperature} degrés à {location}."
   ],
   "/dialog/current/current-sunset-past-location.dialog": [
-    "le soleil s'est couché à {time} aujourd'hui à {location}",
-    "en {location} le soleil s'est couché à {time} aujourd'hui",
-    "le coucher de soleil était à {time} aujourd'hui à {location}"
+    "À {location}, le soleil s'est couché à {time} aujourd'hui.",
+    "Le coucher du soleil était à {time} aujourd'hui à {location}.",
+    "Aujourd'hui, le soleil s'est couché à {time} à {location}."
   ],
   "/dialog/current/current-sunset-future-location.dialog": [
-    "le coucher de soleil sera à {time} aujourd'hui à {location}",
-    "en {location} le soleil se couchera à {time} aujourd'hui",
-    "le soleil se couchera à {time} aujourd'hui en {location}"
+    "À {location}, le soleil se couchera à {time} aujourd'hui.",
+    "Le coucher du soleil sera à {time} aujourd'hui à {location}.",
+    "Aujourd'hui, le soleil se couchera à {time} à {location}."
   ],
   "/dialog/current/current-weather-local.dialog": [
     "Il fait actuellement {condition} et {temperature} degré.",
@@ -212,14 +212,14 @@
     "Non, les prévisions annoncent 0 aujourd'hui"
   ],
   "/dialog/current/current-sunset-past-local.dialog": [
-    "le soleil s'est couché à {time} aujourd'hui",
-    "Le coucher de soleil était à {time} aujourd'hui",
-    "aujourd'hui le coucher du soleil était à {heure}"
+    "Le coucher du soleil était à {time} aujourd'hui.",
+    "Aujourd'hui, le coucher du soleil était à {time}.",
+    "Le soleil s'est couché à {time} aujourd'hui."
   ],
   "/dialog/current/current-weather-location.dialog": [
-    "{location} a {condition} et est actuellement à {temperature} degrés.",
+    "À {location}, il fait actuellement {condition} et {temperature} degrés.",
     "Il y a actuellement {condition} et {temperature} degrés {temperature_unit} à {location}.",
-    "En ce moment, il fait {condition} et {temperature} degré en {location}."
+    "En ce moment, à {location}, il fait {condition} et {temperature} degrés."
   ],
   "/dialog/current/current-wind-moderate-location.dialog": [
     "Actuellement le vent est modéré {speed} {speed_unit} du {direction} au {location}",
@@ -234,8 +234,8 @@
     "Non, les prévisions annoncent 0 aujourd'hui et 1 aujourd'hui."
   ],
   "/dialog/current/current-sunrise-past-location.dialog": [
-    "le soleil s'est levé à {time} aujourd'hui à {location}",
-    "aujourd'hui à {emplacement} le lever du soleil était à {heure}"
+    "À {location}, le soleil s'est levé à {time} aujourd'hui.",
+    "Le lever du soleil était à {time} aujourd'hui à {location}."
   ],
   "/dialog/current/current-wind-strong-local.dialog": [
     "Le vent est très fort du {direction} aujourd'hui, {speed} {speed_unit}",

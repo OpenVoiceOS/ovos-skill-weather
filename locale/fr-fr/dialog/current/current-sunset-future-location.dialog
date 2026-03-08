@@ -1,3 +1,3 @@
-en {location} le soleil se couchera à {time} aujourd'hui
-le coucher de soleil sera à {time} aujourd'hui à {location}
-le soleil se couchera à {time} aujourd'hui en {location}
+À {location}, le soleil se couchera à {time} aujourd'hui.
+Le coucher du soleil sera à {time} aujourd'hui à {location}.
+Aujourd'hui, le soleil se couchera à {time} à {location}.

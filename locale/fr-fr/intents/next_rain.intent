@@ -2,3 +2,7 @@ quand pleuvra-t-il
 quand va-t-il pleuvoir à nouveau
 à quelle heure commencera la pluie
 quand est la prochaine pluie à {location}
+quand est la prochaine pluie en {location}
+quand est la prochaine pluie au {location}
+quand est la prochaine pluie aux {location}
+quand est la prochaine pluie dans {location}

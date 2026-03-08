@@ -1,4 +1,12 @@
 quelle sera la température maximale
 quelle sera la température maximale demain
 quelle sera la température maximale à {location}
+quelle sera la température maximale en {location}
+quelle sera la température maximale au {location}
+quelle sera la température maximale aux {location}
+quelle sera la température maximale dans {location}
 quel sera le maximum demain à {location}
+quel sera le maximum demain en {location}
+quel sera le maximum demain au {location}
+quel sera le maximum demain aux {location}
+quel sera le maximum demain dans {location}

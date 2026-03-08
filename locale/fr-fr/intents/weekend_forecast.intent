@@ -1,4 +1,8 @@
 quel temps fera-t-il ce week-end
 quelle est la prévision pour le week-end
 météo du week-end à {location}
+météo du week-end en {location}
+météo du week-end au {location}
+météo du week-end aux {location}
+météo du week-end dans {location}
 est-ce qu'il va pleuvoir ce week-end
