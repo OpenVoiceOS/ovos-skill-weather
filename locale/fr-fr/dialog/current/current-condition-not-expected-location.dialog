@@ -1,2 +1,2 @@
 Non, en {location} {condition} est attendu aujourd'hui
-Non, les prévisions annoncent 0 aujourd'hui et 1 aujourd'hui.
+Non, les prévisions annoncent {condition} aujourd'hui à {location}.

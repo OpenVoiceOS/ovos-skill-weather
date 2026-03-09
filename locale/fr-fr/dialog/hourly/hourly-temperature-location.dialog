@@ -1,2 +1,2 @@
-Dans le {time}, il s'agira de {temperature} degrés dans le {location}
-En {location}, il sera d'environ {temperature} degré en {time}
+Dans {time}, il fera {temperature} degrés à {location}.
+À {location}, il fera environ {temperature} degrés dans {time}.

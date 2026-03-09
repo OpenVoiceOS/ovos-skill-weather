@@ -1,2 +1,2 @@
-{day} il sera aussi bas que {temperature}
-{day} la température sera aussi basse que {temperature} degrés.
+{day}, la température descendra jusqu'à {temperature} degrés.
+{day}, il fera au minimum {temperature} degrés.

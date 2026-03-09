@@ -1,2 +1,2 @@
-Dans le {time}, il s'agira de {temperature} degrés
-Il fera environ 0 degré dans la zone 1.
+Dans {time}, il fera {temperature} degrés.
+À {time}, il fera environ {temperature} degrés.
