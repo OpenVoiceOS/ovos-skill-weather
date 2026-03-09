@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.8a9](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a9) (2026-03-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a8...1.0.8a9)
+
+**Merged pull requests:**
+
+- Complete French weather intent coverage [\#177](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/177) ([goldyfruit](https://github.com/goldyfruit))
+
 ## [1.0.8a8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a8) (2026-01-20)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a7...1.0.8a8)
