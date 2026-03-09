@@ -1,14 +1,15 @@
 quel temps fait-il
+quel temps fait-il en ce moment
 quel temps fait-il à {location}
 quel temps fait-il en {location}
 quel temps fait-il au {location}
 quel temps fait-il aux {location}
 quel temps fait-il dans {location}
 quelle est la météo actuelle
-donne-moi la météo actuelle
-comment est le temps
-comment est le temps à {location}
-comment est le temps en {location}
-comment est le temps au {location}
-comment est le temps aux {location}
-comment est le temps dans {location}
+quelle est la météo en ce moment
+donne-moi la météo
+donne-moi la météo à {location}
+donne-moi la météo en {location}
+donne-moi la météo au {location}
+donne-moi la météo aux {location}
+donne-moi la météo dans {location}

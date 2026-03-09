@@ -1,4 +1,4 @@
-Le temps {location} dans les prochaines heures sera {condition} et {temperature} degrés
-Plus tard, il fera {condition} dans {location}, avec des températures autour de {temperature}.
-{location} sera autour de {temperature} avec {condition}
-{location} sera d'environ {temperature} degré avec {condition}
+Dans {location}, il fera {condition} et autour de {temperature} degrés dans les prochaines heures.
+Dans {location}, on attend {condition} et environ {temperature} degrés.
+Plus tard, il fera {condition} à {location}, avec une température autour de {temperature} degrés.
+À {location}, il fera autour de {temperature} degrés avec {condition}.

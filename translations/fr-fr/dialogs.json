@@ -165,7 +165,7 @@
   ],
   "/dialog/current/current-temperature-location.dialog": [
     "À {location}, il fait actuellement {temperature} degrés.",
-    "Il fait actuellement {temperature} degré {temperature_unit} à {location}.",
+    "Il fait actuellement {temperature} degrés {temperature_unit} à {location}.",
     "En ce moment, il fait {temperature} degrés à {location}."
   ],
   "/dialog/current/current-sunset-past-location.dialog": [
@@ -179,9 +179,9 @@
     "Aujourd'hui, le soleil se couchera à {time} à {location}."
   ],
   "/dialog/current/current-weather-local.dialog": [
-    "Il fait actuellement {condition} et {temperature} degré.",
-    "En ce moment, il fait {condition} et {temperature} degré.",
-    "Il fait actuellement {condition} et {temperature} degré {temperature_unit}."
+    "Il fait actuellement {condition} et {temperature} degrés.",
+    "En ce moment, il fait {condition} et {temperature} degrés.",
+    "Il fait actuellement {condition} et {temperature} degrés {temperature_unit}."
   ],
   "/dialog/current/current-condition-expected-location.dialog": [
     "Oui, ce sera {condition} dans {location}",
@@ -257,9 +257,9 @@
     "le lever du soleil était à {time} aujourd'hui"
   ],
   "/dialog/current/current-temperature-local.dialog": [
-    "Il fait actuellement {temperature} degré {temperature_unit}.",
-    "Il fait actuellement {temperature} degré.",
-    "En ce moment, il fait {temperature} degré."
+    "Il fait actuellement {temperature} degrés {temperature_unit}.",
+    "Il fait actuellement {temperature} degrés.",
+    "En ce moment, il fait {temperature} degrés."
   ],
   "/dialog/weekly/weekly-condition.dialog": [
     "Sur {days} attendez {condition}",
@@ -408,7 +408,7 @@
   ],
   "/dialog/error/location-not-found.dialog": [
     "Je ne trouve pas de ville appelée {location}. Essayez avec une autre ville.",
-    "Je ne connais pas de ville nommée {location}. Réessayez avec une autre ville."
+    "Je ne trouve aucune ville nommée {location}. Essayez avec une autre ville."
   ],
   "/dialog/error/forty-eight-hours-available.dialog": [
     "Désolé, je n'ai que 48 heures de données de prévisions horaires."
@@ -453,7 +453,7 @@
     "Plus tard, il y aura {condition} et environ {temperature} degrés.",
     "Il fera {condition}, avec des températures proches de {temperature}",
     "Autour de {temperature} degrés avec {condition}",
-    "Plus tard, il s'agira de {condition} et {temperature} degrés."
+    "Plus tard, il fera {condition} avec {temperature} degrés."
   ],
   "/dialog/hourly/hourly-precipitation-next-local.dialog": [
     "Les prévisions font état d'un risque de {percent} à {precipitation} à {time}.",
@@ -463,10 +463,10 @@
     "Oui, la prévision {time} pour prédit {condition}"
   ],
   "/dialog/hourly/hourly-weather-location.dialog": [
-    "Plus tard, il fera {condition} dans {location}, avec des températures autour de {temperature}.",
-    "{location} sera autour de {temperature} avec {condition}",
-    "{location} sera d'environ {temperature} degré avec {condition}",
-    "Le temps {location} dans les prochaines heures sera {condition} et {temperature} degrés"
+    "Plus tard, il fera {condition} à {location}, avec une température autour de {temperature} degrés.",
+    "À {location}, il fera autour de {temperature} degrés avec {condition}.",
+    "Dans {location}, on attend {condition} et environ {temperature} degrés.",
+    "Dans {location}, il fera {condition} et autour de {temperature} degrés dans les prochaines heures."
   ],
   "/dialog/hourly/hourly-temperature-location.dialog": [
     "Dans {time}, il fera {temperature} degrés à {location}.",
