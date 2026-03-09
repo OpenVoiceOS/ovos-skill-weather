@@ -1,3 +1,3 @@
-En ce moment, il fait {condition} et {temperature} degré.
-Il fait actuellement {condition} et {temperature} degré {temperature_unit}.
-Il fait actuellement {condition} et {temperature} degré.
+En ce moment, il fait {condition} et {temperature} degrés.
+Il fait actuellement {condition} et {temperature} degrés {temperature_unit}.
+Il fait actuellement {condition} et {temperature} degrés.

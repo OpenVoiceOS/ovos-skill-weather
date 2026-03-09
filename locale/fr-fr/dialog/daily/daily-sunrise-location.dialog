@@ -1,3 +1,3 @@
-en {location} le soleil se lèvera en {time} {day}
-le soleil se lèvera à {time} {day} dans {location}
-{day} le soleil se lèvera à {time} dans {location}
+Le soleil se lèvera à {time} {day} à {location}.
+{day}, le soleil se lèvera à {time} à {location}.
+À {location}, le soleil se lèvera à {time} {day}.

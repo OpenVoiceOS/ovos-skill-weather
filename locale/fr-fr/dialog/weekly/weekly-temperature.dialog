@@ -1,1 +1,1 @@
-les minima seront compris entre 0 et 1, et les maxima entre 2 et 3
+Les minimales seront comprises entre {low_min} et {low_max}, et les maximales entre {high_min} et {high_max}.

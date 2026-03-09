@@ -1,2 +1,2 @@
-{day} il sera {temperature} degrés dans {location}
-{day}, {location} auront une température de {temperature} degrés
+{day}, il fera {temperature} degrés à {location}.
+{day}, la température sera de {temperature} degrés à {location}.

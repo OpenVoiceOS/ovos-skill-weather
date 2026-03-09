@@ -1,3 +1,2 @@
-Actuellement, le vent est du {direction} au {speed} {speed_unit} en {location}, une bonne journée pour rester à l'intérieur.
-Le vent est très fort du {direction} au {location} aujourd'hui, {speed} {speed_unit}
-{location} vents forts aujourd'hui, {speed} {speed_unit}
+En ce moment, il y a un vent fort à {location}, avec des rafales à {speed} {speed_unit} venant du {direction}.
+Le vent souffle fortement à {location}, à {speed} {speed_unit} depuis le {direction}.
