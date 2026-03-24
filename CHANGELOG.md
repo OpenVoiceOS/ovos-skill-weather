@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.10a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.10a1) (2026-03-24)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.9a1...1.0.10a1)
+
+**Merged pull requests:**
+
+- fix: rename bare lang code locale directories [\#181](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/181) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
+
 ## [1.0.9a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.9a1) (2026-03-24)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a9...1.0.9a1)
