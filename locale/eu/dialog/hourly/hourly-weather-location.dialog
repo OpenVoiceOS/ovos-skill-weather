@@ -1,0 +1,4 @@
+Geroago {condition} izango da {location}, {temperature} inguruko tenperaturekin
+{location} hurrengo ordutarako eguraldia {condition} izango da, eta {temperature} gradu
+{location} will be around {temperature} with {condition}
+{location} {temperature} gradu inguru izango dira, eta {condition}

@@ -1,0 +1,3 @@
+Haize moderatua espero dezakezu, {speed} {speed_unit} ingurukoa, {location} {day}
+Haizea moderatua izango da {location} {day}, {speed} {speed_unit} ingurukoa, {direction}tik
+{day} iragarpenak haize moderatua iragarri du {location} {direction}tik, {speed} {speed_unit}
