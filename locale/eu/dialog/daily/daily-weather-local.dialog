@@ -1,0 +1,5 @@
+{condition} espero da, {high_temperature} maximoarekin eta {low_temperature} minimoarekin {day}
+{day} iragarpenak {condition} eman du, {high_temperature} maximoarekin eta {low_temperature} minimoarekin
+{day} {condition} espero da, {high_temperature} maximoarekin eta {low_temperature} minimoarekin
+{day} {condition} izango da, {high_temperature} maximoarekin eta {low_temperature} minimoarekin
+{day} {high_temperature} maximoa eta {low_temperature} minimoa izango dira, eta {condition} izango da
