@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.10a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.10a2) (2026-04-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.10a1...1.0.10a2)
+
+**Merged pull requests:**
+
+- ci: modernize GitHub workflows [\#184](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/184) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#183](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/183) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.10a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.10a1) (2026-03-24)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.9a1...1.0.10a1)
