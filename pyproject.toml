@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ovos-skill-weather"
+dynamic = ["version"]
+description = "ovos weather skill plugin"
+readme = "README.md"
+license = {text = "Apache-2.0"}
+authors = [{name = "JarbasAi", email = "jarbasai@mailfence.com"}]
+keywords = ["ovos", "skill", "plugin"]
+dependencies = [
+    "requests>=2.31.0",
+    "pytz",
+    "ovos-utils>=0.4.0,<1.0.0",
+    "ovos-workshop>=2.2.0,<9.0.0",
+    "ovos-number-parser>=0.0.1,<1.0.0",
+    "ovos-date-parser>=0.0.2,<1.0.0",
+    "ovos-utterance-normalizer>=0.0.1,<1.0.0",
+    "timezonefinder",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+    "pytest-cov",
+    "pytest-timeout",
+    "ovos-core[skills_lgpl]>=0.0.5a28",
+    "ovos-plugin-manager",
+    "ovos-skills-manager",
+]
+
+[project.urls]
+Homepage = "https://github.com/OpenVoiceOS/ovos-skill-weather"
+
+[project.entry-points."opm.skill"]
+"ovos-skill-weather.openvoiceos" = "ovos_skill_weather:WeatherSkill"
+
+[tool.setuptools]
+include-package-data = true
+packages = ["ovos_skill_weather", "ovos_skill_weather.weather_helpers"]
+
+[tool.setuptools.package-dir]
+ovos_skill_weather = "."
+
+[tool.setuptools.package-data]
+ovos_skill_weather = ["*.json", "locale/**/*", "gui/**/*", "vocab/**/*", "dialog/**/*", "regex/**/*", "weather_helpers/**/*"]
+
+[tool.setuptools.dynamic]
+version = {attr = "ovos_skill_weather.version.__version__"}
