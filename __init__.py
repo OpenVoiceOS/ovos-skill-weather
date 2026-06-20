@@ -39,7 +39,7 @@ from ovos_workshop.decorators import intent_handler, skill_api_method
 from ovos_workshop.skills import OVOSSkill
 from requests import HTTPError
 
-from .weather_helpers import (
+from ovos_skill_weather.weather_helpers import (
     CURRENT,
     DAILY,
     HOURLY,
