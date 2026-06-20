@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.11a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.11a1) (2026-06-20)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.10a3...1.0.11a1)
+
+**Merged pull requests:**
+
+- refactor: migrate packaging to pyproject.toml [\#190](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/190) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.10a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.10a3) (2026-04-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.10a2...1.0.10a3)
