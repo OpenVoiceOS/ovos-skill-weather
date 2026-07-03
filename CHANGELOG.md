@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.12a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a1) (2026-07-03)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.11a1...1.0.12a1)
+
+**Merged pull requests:**
+
+- fix: rewrite en-US intent templates as compact grammar [\#192](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/192) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.11a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.11a1) (2026-06-20)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.10a3...1.0.11a1)
