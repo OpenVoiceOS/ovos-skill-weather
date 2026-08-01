@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.12a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a3) (2026-08-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a2...1.0.12a3)
+
+**Merged pull requests:**
+
+- docs: rewrite README in Simplified Technical English [\#198](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/198) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(da-DK\): restore {condition} and {day} placeholder names [\#197](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/197) ([andlo](https://github.com/andlo))
+
 ## [1.0.12a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a2) (2026-07-12)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a1...1.0.12a2)
