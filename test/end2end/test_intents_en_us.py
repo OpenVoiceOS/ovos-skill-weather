@@ -22,6 +22,7 @@ instead of stalling the whole job.
 This skill is MIXED: most intents are padacioso ``.intent`` files, a few use
 adapt ``IntentBuilder`` vocab rules. Both pipelines are covered.
 """
+import re
 import unittest
 from unittest.mock import patch
 
@@ -32,6 +33,26 @@ from ovoscope import CaptureSession, get_minicroft
 
 SKILL_ID = "ovos-skill-weather.openvoiceos"
 LANG = "en-US"
+
+
+def _matches_intent(msg_type: str, skill_id: str, intent_file: str) -> bool:
+    """Check whether ``msg_type`` is the matched-intent event for
+    ``intent_file`` (eg. ``current_weather.intent`` or the bare adapt
+    intent name ``weather``), tolerant of which pipeline plugin matched it.
+
+    Different pipeline plugins (adapt vs padacioso) register intents under
+    different normalizations of the ``.intent`` filename basename. Rather
+    than pin one wire format, compare case-insensitively against the
+    basename with the extension stripped from both sides.
+    """
+    prefix = f"{skill_id}:"
+    if not msg_type.startswith(prefix):
+        return False
+    observed = msg_type[len(prefix):]
+    observed_base = observed.rsplit(".", 1)[0] if observed.endswith(".intent") else observed
+    expected_base = intent_file.rsplit(".", 1)[0]
+    norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
+    return norm(observed_base) == norm(expected_base)
 
 # Per-test hard ceiling: any live-network regression or hang fails the test
 # instead of stalling until the CI job is cancelled.
@@ -100,7 +121,10 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
     def _assert_intent(self, text, intent):
         messages = self._run(text)
         types = [m.msg_type for m in messages]
-        self.assertIn(f"{SKILL_ID}:{intent}", types)
+        self.assertTrue(
+            any(_matches_intent(t, SKILL_ID, intent) for t in types),
+            f"no message routed to {SKILL_ID}:{intent} ({types})",
+        )
         self.assertTrue(any("speak" in t for t in types))
 
     # -- padacioso intents (.intent files) --------------------------------
