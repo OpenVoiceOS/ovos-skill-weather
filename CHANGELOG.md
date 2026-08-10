@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.12a4](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a4) (2026-08-10)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a3...1.0.12a4)
+
+**Merged pull requests:**
+
+- chore: add ovoscope end2end intent-routing tests [\#189](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/189) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.12a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a3) (2026-08-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a2...1.0.12a3)
