@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.12a5](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a5) (2026-08-11)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a4...1.0.12a5)
+
+**Merged pull requests:**
+
+- test: golden-utterance e2e coverage [\#201](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/201) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.12a4](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a4) (2026-08-10)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a3...1.0.12a4)
