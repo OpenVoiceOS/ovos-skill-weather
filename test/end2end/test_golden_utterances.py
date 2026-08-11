@@ -101,44 +101,23 @@ def _matches_intent(msg_type: str, skill_id: str, intent_label: str) -> bool:
 #   "forecast" token that ``IntentBuilder("weather").one_of("weather",
 #   "forecast")`` (this skill's __init__.py) mandates, so the adapt intent
 #   genuinely cannot match under the current runtime code (eg. "celsius",
-#   "today" alone). A skill-code change (not a test/template change) would
-#   be needed to make these match; out of scope for a test-only PR.
+#   "today" alone). A skill-code change (not a locale/template change) would
+#   be needed to make these match: the utterances have no word that is a
+#   genuine synonym for "weather"/"forecast" (celsius/today alone), or for
+#   the "confirm-query"/"hot"/"cold" vocab ``is_hot_cold`` mandates, so
+#   adding them to a .voc file would just make that vocab fire on unrelated
+#   utterances. Left strict-xfailed; out of scope for a locale-only PR.
 #
-# "adapt-collision": the generic adapt "weather" intent (mandatory keyword
-#   satisfied) outscores the more specific padacioso high-confidence
-#   template for the same utterance -- confirmed by isolated capture (the
-#   routed intent is the skill's own bare ``weather`` adapt intent, not
-#   another skill). NOTE: this does NOT currently reproduce in
-#   test_intents_en_us.py -- all 14 rows of that baseline suite pass on
-#   `dev` under the padacioso version this repo actually resolves
-#   (padacioso==2.2.3a1); an earlier draft of this PR claimed 3 pre-existing
-#   baseline failures on the strength of padacioso==1.0.0 behavior observed
-#   in a different sandbox, which does not hold at the pinned version. The
-#   adapt/padacioso scoring collision is still real and reproducible for the
-#   12 rows below (isolated capture confirms the wrong intent wins), it's
-#   just not currently visible in the older suite's assertions.
-#
-# "padacioso-bracket-adjacency": REMOVED as a category (0 rows). It was
-#   originally confirmed via a standalone ``padacioso.IntentContainer`` test
-#   that padacioso 1.0.0 fails to match a template when two adjacent
-#   OPTIONAL bracket groups (``[a] [b]``) are used and the first is omitted
-#   while the second is present. Re-verified against the actually-pinned
-#   padacioso==2.2.3a1 (both locally and in this PR's CI run): all 4 rows
-#   that used to hit this now route correctly, so the defect does not
-#   reproduce at the floor this repo resolves. Moved to plain passes rather
-#   than kept as a stale xfail.
-#
-# "content-gap": the intent template genuinely has no phrasing variant
-#   covering the corpus utterance (eg. no "friday morning"/"friday night"
-#   day+time-of-day combination in high_temperature.intent/
-#   low_temperature.intent, no "gusty"/"icy roads"/"sunshine"/"rain
-#   jacket"/"commute"/"event"/"humidifier"/"daylight" phrasing in the
-#   relevant .intent file). Authoring new template content is out of scope
-#   for a test-only PR; flagged as a finding for a follow-up PR.
+# "adapt-collision" and "content-gap" (the other two categories originally
+# tracked here) were both fixed in a follow-up PR that extended the en-US
+# ``.intent`` templates (day+time-of-day temperature phrasing, "for <day> at
+# <time>"/"in {location}" forecast phrasing, umbrella/rain-jacket phrasing)
+# so the specific padacioso templates now win the pipeline before the
+# skill's generic ``weather`` adapt intent gets a chance to fire. See that
+# PR's description for the per-row table. Only "adapt-no-keyword" remains.
 _XFAIL_REASONS = {
-    # adapt-no-keyword (10 rows) -- unaffected by the padacioso version drift
-    # below; the adapt IntentBuilder genuinely never sees the mandatory
-    # keyword in these utterances.
+    # adapt-no-keyword (10 rows) -- the adapt IntentBuilder genuinely never
+    # sees its mandatory keyword in these utterances; see note above.
     "celsius": "adapt-no-keyword",
     "celsius celsius": "adapt-no-keyword",
     "celsius Lawrence kansas": "adapt-no-keyword",
@@ -149,43 +128,6 @@ _XFAIL_REASONS = {
     "today days": "adapt-no-keyword",
     "today Lawrence kansas": "adapt-no-keyword",
     "today give me": "adapt-no-keyword",
-    # adapt-collision (12 of the original 19 rows -- the other 7 were
-    # re-verified to route correctly under the CI-pinned padacioso==2.2.3a1
-    # and moved to plain passes, see PR description)
-    "What's the forecast for friday at 1 am": "adapt-collision",
-    "What's the forecast for friday at 1 am in here": "adapt-collision",
-    "What's the forecast for friday at 1 pm": "adapt-collision",
-    "What's the forecast for friday at 1 pm in here": "adapt-collision",
-    "What's the forecast for friday at 10 am": "adapt-collision",
-    "any weather alerts for tomorrow in here": "adapt-collision",
-    "any weather alerts for after tomorrow": "adapt-collision",
-    "any weather alerts for after tomorrow in here": "adapt-collision",
-    "What is the 2 days forecast in here": "adapt-collision",
-    "What is the 2 day forecast in here": "adapt-collision",
-    "Saturday and Sunday weather forecast in here": "adapt-collision",
-    "Saturday and Sunday weather update in here": "adapt-collision",
-    # padacioso-bracket-adjacency: REMOVED. All 4 rows that used to be
-    # flagged here (see PR description) route correctly under the
-    # CI-pinned padacioso==2.2.3a1 -- the adjacent-optional-bracket defect
-    # was reported against padacioso 1.0.0 and does not reproduce at the
-    # floor this repo actually resolves. Moved to plain passes.
-    # content-gap (14 of the original 24 rows -- the other 10 were
-    # re-verified to route correctly under padacioso==2.2.3a1 and moved to
-    # plain passes, see PR description)
-    "What is the temperature friday morning": "content-gap",
-    "What is the temperature friday night": "content-gap",
-    "What is the temperature monday morning": "content-gap",
-    "What is the temperature monday night": "content-gap",
-    "What is the temperature saturday morning": "content-gap",
-    "What is the high temperature friday morning": "content-gap",
-    "What is the high temperature friday night": "content-gap",
-    "What is the low temperature friday morning": "content-gap",
-    "What is the low temperature friday night": "content-gap",
-    "What is the low temperature monday morning": "content-gap",
-    "What is the low temperature monday night": "content-gap",
-    "do I need an umbrella for my commute": "content-gap",
-    "do I need to bring a rain jacket": "content-gap",
-    "do I need to bring an umbrella to the event": "content-gap",
 }
 
 
