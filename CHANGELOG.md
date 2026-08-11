@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.13a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a1) (2026-08-11)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a5...1.0.13a1)
+
+**Merged pull requests:**
+
+- fix: extend en-US intent coverage for golden utterances [\#203](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/203) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.12a5](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a5) (2026-08-11)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a4...1.0.12a5)
