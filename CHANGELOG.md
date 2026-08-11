@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.13a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a2) (2026-08-11)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.13a1...1.0.13a2)
+
+**Merged pull requests:**
+
+- test: curate golden corpus rows [\#205](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/205) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.13a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a1) (2026-08-11)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a5...1.0.13a1)
