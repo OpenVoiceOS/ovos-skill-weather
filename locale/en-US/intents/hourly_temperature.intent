@@ -3,3 +3,4 @@
 how (hot|cold|warm) will it be (this morning|this afternoon|this evening|tonight|later|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm))
 is it going to be (hot|cold|chilly|scorching) (this morning|this afternoon|this evening|tonight|later)
 (what is|what's) the (temperature|temp) (tonight|this evening|later|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm)) in {location}
+(what is|what's) the (temperature|temp) (monday|tuesday|wednesday|thursday|friday|saturday|sunday) (morning|afternoon|evening|night)

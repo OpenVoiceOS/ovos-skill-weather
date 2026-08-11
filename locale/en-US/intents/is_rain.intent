@@ -8,3 +8,5 @@ is there (a chance of rain|a possibility of rain|rain in the forecast) [today|to
 should I be prepared for rain [today|tomorrow] [in {location}]
 do I need (an umbrella|a raincoat|a rain jacket) [today|tomorrow] [in {location}]
 should I (bring|carry|pack) (an umbrella|my umbrella|a raincoat|a rain jacket) [today|tomorrow] [in {location}]
+do I need (an umbrella|a raincoat|a rain jacket) for (my|the) commute [today|tomorrow] [in {location}]
+do I need to bring (an umbrella|a raincoat|a rain jacket) [to the event|today|tomorrow] [in {location}]
