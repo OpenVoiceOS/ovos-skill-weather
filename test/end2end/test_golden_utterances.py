@@ -97,38 +97,22 @@ def _matches_intent(msg_type: str, skill_id: str, intent_label: str) -> bool:
 # are ``strict=True``: a row that starts passing must fail the build. See
 # the PR description for the full investigation.
 #
-# "adapt-no-keyword": the corpus row's utterance omits the "weather"/
-#   "forecast" token that ``IntentBuilder("weather").one_of("weather",
-#   "forecast")`` (this skill's __init__.py) mandates, so the adapt intent
-#   genuinely cannot match under the current runtime code (eg. "celsius",
-#   "today" alone). A skill-code change (not a locale/template change) would
-#   be needed to make these match: the utterances have no word that is a
-#   genuine synonym for "weather"/"forecast" (celsius/today alone), or for
-#   the "confirm-query"/"hot"/"cold" vocab ``is_hot_cold`` mandates, so
-#   adding them to a .voc file would just make that vocab fire on unrelated
-#   utterances. Left strict-xfailed; out of scope for a locale-only PR.
-#
 # "adapt-collision" and "content-gap" (the other two categories originally
 # tracked here) were both fixed in a follow-up PR that extended the en-US
 # ``.intent`` templates (day+time-of-day temperature phrasing, "for <day> at
 # <time>"/"in {location}" forecast phrasing, umbrella/rain-jacket phrasing)
 # so the specific padacioso templates now win the pipeline before the
 # skill's generic ``weather`` adapt intent gets a chance to fire. See that
-# PR's description for the per-row table. Only "adapt-no-keyword" remains.
-_XFAIL_REASONS = {
-    # adapt-no-keyword (10 rows) -- the adapt IntentBuilder genuinely never
-    # sees its mandatory keyword in these utterances; see note above.
-    "celsius": "adapt-no-keyword",
-    "celsius celsius": "adapt-no-keyword",
-    "celsius Lawrence kansas": "adapt-no-keyword",
-    "celsius today": "adapt-no-keyword",
-    "celsius days": "adapt-no-keyword",
-    "today": "adapt-no-keyword",
-    "today today": "adapt-no-keyword",
-    "today days": "adapt-no-keyword",
-    "today Lawrence kansas": "adapt-no-keyword",
-    "today give me": "adapt-no-keyword",
-}
+# PR's description for the per-row table.
+#
+# The former "adapt-no-keyword" category (10 rows: "celsius", "celsius
+# celsius", "celsius Lawrence kansas", "celsius today", "celsius days",
+# "today", "today today", "today days", "today Lawrence kansas", "today
+# give me") was a corpus defect, not a skill defect: those utterances were
+# unfilled/duplicated template fragments with no intent-bearing content.
+# They have been fixed or removed at the corpus source, so this table is
+# empty -- no row in the current corpus is expected to fail.
+_XFAIL_REASONS = {}
 
 
 def _load_golden_rows():
