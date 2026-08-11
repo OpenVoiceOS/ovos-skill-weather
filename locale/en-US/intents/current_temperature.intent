@@ -1,4 +1,4 @@
-(what is|what's|tell me) the [current] (temperature|temp) [right now|now|today|outside] [in celsius|in fahrenheit] [in {location}]
+(what is|what's|tell me) the (current |)(temperature|temp) [right now|now|today|outside] [in celsius|in fahrenheit] [in {location}]
 current (temperature|temp) update [in {location}]
 how (hot|warm|cold|chilly) is it [right now|outside] [in {location}]
 how hot or cold is it [right now|outside] [in {location}]
