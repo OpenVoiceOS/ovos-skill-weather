@@ -21,6 +21,10 @@ file suffix (eg. ``"current_weather.intent"``). Both forms are used verbatim
 as the routed intent id, matching how the existing baseline suite asserts
 intent routing (``_matches_intent`` in ``test_intents_en_us.py``), so this
 suite reuses the same tolerant matcher rather than inventing a second one.
+
+Not every corpus row routes correctly today. Rows with a known, root-caused
+defect are marked ``xfail(strict=True)`` via ``_XFAIL_REASONS`` below, each
+naming the class of bug blocking it; every other row is expected to pass.
 """
 import json
 import re
@@ -88,30 +92,16 @@ def _matches_intent(msg_type: str, skill_id: str, intent_label: str) -> bool:
     return norm(observed_base) == norm(expected_base)
 
 
-# Rows that do not currently route correctly, with the root-caused reason.
-# Every reason below was confirmed by isolated investigation (bypassing the
-# bus, calling ``padacioso.IntentContainer``/the adapt ``IntentBuilder``
-# directly) AND by re-running the whole suite against the CI-pinned
-# padacioso==2.2.3a1 before being accepted as a real, out-of-scope defect
-# rather than a corpus mistake or a stale/version-drifted claim. All xfails
-# are ``strict=True``: a row that starts passing must fail the build. See
-# the PR description for the full investigation.
-#
-# "adapt-collision" and "content-gap" (the other two categories originally
-# tracked here) were both fixed in a follow-up PR that extended the en-US
-# ``.intent`` templates (day+time-of-day temperature phrasing, "for <day> at
-# <time>"/"in {location}" forecast phrasing, umbrella/rain-jacket phrasing)
-# so the specific padacioso templates now win the pipeline before the
-# skill's generic ``weather`` adapt intent gets a chance to fire. See that
-# PR's description for the per-row table.
-#
-# The former "adapt-no-keyword" category (10 rows: "celsius", "celsius
-# celsius", "celsius Lawrence kansas", "celsius today", "celsius days",
-# "today", "today today", "today days", "today Lawrence kansas", "today
-# give me") was a corpus defect, not a skill defect: those utterances were
-# unfilled/duplicated template fragments with no intent-bearing content.
-# They have been fixed or removed at the corpus source, so this table is
-# empty -- no row in the current corpus is expected to fail.
+# Rows that do not currently route correctly, keyed by their root-caused
+# reason. Every reason here was confirmed by isolated investigation
+# (bypassing the bus, calling ``padacioso.IntentContainer``/the adapt
+# ``IntentBuilder`` directly against the actually-resolved plugin versions)
+# before being accepted as a real, out-of-scope defect rather than a corpus
+# mistake. All xfails are ``strict=True``: a row that starts passing must
+# fail the build, so a fix lands with its xfail entry removed in the same PR
+# rather than accumulating silently passing exceptions. This table is
+# expected to be empty; a non-empty table means a real, tracked defect
+# remains and every entry names it.
 _XFAIL_REASONS = {}
 
 
