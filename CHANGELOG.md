@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.15a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a1) (2026-09-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.14a1...1.0.15a1)
+
+**Merged pull requests:**
+
+- fix: stop is\_clear from claiming cloudiness questions [\#211](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/211) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.14a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.14a1) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.13a3...1.0.14a1)
