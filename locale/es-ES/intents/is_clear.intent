@@ -18,8 +18,6 @@
 ¿Está el cielo feo en {location}?
 ¿Está el cielo gris ?
 ¿Está el cielo gris en {location}?
-¿Está el cielo nublado ?
-¿Está el cielo nublado en {location}?
 ¿Está el cielo sin nubes  ?
 ¿Está el cielo sin nubes  en {location}?
 ¿Está el cielo sin nubes hoy ?
@@ -40,16 +38,8 @@
 ¿Está el día feo en {location}?
 ¿Está el día gris ?
 ¿Está el día gris en {location}?
-¿Está el día nublado ?
-¿Está el día nublado en {location}?
 ¿Está el día triste ?
 ¿Está el día triste en {location}?
-¿Está nublado  ?
-¿Está nublado  en {location}?
-¿Está nublado ahora mismo ?
-¿Está nublado ahora mismo en {location}?
-¿Está nublado hoy ?
-¿Está nublado hoy en {location}?
 ¿Hace sol  ?
 ¿Hace sol  en {location}?
 ¿Hace sol hoy ?
@@ -70,5 +60,3 @@
 ¿Puedo esperar sol en {location}?
 ¿Qué tan despejado está el cielo ?
 ¿Qué tan despejado está el cielo en {location}?
-¿Qué tan nublado está el cielo ?
-¿Qué tan nublado está el cielo en {location}?

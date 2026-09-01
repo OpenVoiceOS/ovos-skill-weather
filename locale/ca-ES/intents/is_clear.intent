@@ -1,5 +1,3 @@
-Com d'ennuvolat està el cel ?
-Com d'ennuvolat està el cel a {location}?
 Com de clar està el cel ?
 Com de clar està el cel a {location}?
 Com de net està el cel ?
@@ -12,14 +10,6 @@ El cel està encapotat avui ?
 El cel està encapotat avui a {location}?
 El cel està encapotat hui ?
 El cel està encapotat hui a {location}?
-El cel està ennuvolat  ?
-El cel està ennuvolat  a {location}?
-El cel està ennuvolat ara mateix ?
-El cel està ennuvolat ara mateix a {location}?
-El cel està ennuvolat avui ?
-El cel està ennuvolat avui a {location}?
-El cel està ennuvolat hui ?
-El cel està ennuvolat hui a {location}?
 El cel està tapat  ?
 El cel està tapat  a {location}?
 El cel està tapat ara mateix ?
@@ -28,12 +18,6 @@ El cel està tapat avui ?
 El cel està tapat avui a {location}?
 El cel està tapat hui ?
 El cel està tapat hui a {location}?
-Està ennuvolat  ?
-Està ennuvolat  a {location}?
-Està ennuvolat avui ?
-Està ennuvolat avui a {location}?
-Està ennuvolat hui ?
-Està ennuvolat hui a {location}?
 Fa sol  ?
 Fa sol  a {location}?
 Fa sol avui ?
@@ -46,8 +30,6 @@ Fa un dia clar  ?
 Fa un dia clar  a {location}?
 Fa un dia clar today ?
 Fa un dia clar today a {location}?
-Fa un dia ennuvolat ?
-Fa un dia ennuvolat a {location}?
 Fa un dia gris ?
 Fa un dia gris a {location}?
 Fa un dia trist ?
