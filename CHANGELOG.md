@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.15a8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a8) (2026-09-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a7...1.0.15a8)
+
+**Merged pull requests:**
+
+- translate\(kab\): update now.voc [\#217](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/217) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
+
 ## [1.0.15a7](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a7) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a6...1.0.15a7)
@@ -600,7 +608,6 @@
 **Merged pull requests:**
 
 - fix:geolocation lang support + deprecate\_backend\_client [\#95](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/95) ([JarbasAl](https://github.com/JarbasAl))
-- added italian [\#92](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/92) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 ## [0.1.7](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.7) (2024-11-15)
 
