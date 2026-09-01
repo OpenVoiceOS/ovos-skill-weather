@@ -1,5 +1,5 @@
-is (it|the sky) (clear|sunny|cloudy|overcast|gloomy|gray) [right now|today|outside] [in {location}]
-how (clear|cloudy) is it [right now|today|outside] [in {location}]
+is (it|the sky) (clear|sunny|overcast|gloomy|gray) [right now|today|outside] [in {location}]
+how clear is it [right now|today|outside] [in {location}]
 is there (any cloud cover|sunshine) [today] [in {location}]
 can I expect (clear skies|sunshine) [today|tomorrow] [in {location}]
 will it be (sunny|clear) [today|tomorrow] [in {location}]
