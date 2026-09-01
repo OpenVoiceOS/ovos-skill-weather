@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.14a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.14a1) (2026-09-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.13a3...1.0.14a1)
+
+**Merged pull requests:**
+
+- fix: cover dropped padacioso phrasings and make golden xfails honest [\#218](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/218) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.13a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a3) (2026-08-26)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.13a2...1.0.13a3)
