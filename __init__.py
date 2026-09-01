@@ -295,13 +295,7 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_weather_condition(message, condition="clear")
 
-    @intent_handler(
-        IntentBuilder("is_cloudy")
-        .require("confirm-query")
-        .require("clouds")
-        .optionally("location")
-        .optionally("relative-time")
-    )
+    @intent_handler("is_cloudy.intent")
     def handle_is_it_cloudy(self, message: Message):
         """Handler for weather requests such as: is it cloudy today?
 
