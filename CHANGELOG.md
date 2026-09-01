@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.15a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a3) (2026-09-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a2...1.0.15a3)
+
+**Merged pull requests:**
+
+- translate\(kab\): update current-sunset-past-local.dialog [\#212](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/212) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
+
 ## [1.0.15a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a2) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a1...1.0.15a2)
