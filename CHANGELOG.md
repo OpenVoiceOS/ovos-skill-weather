@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.15a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a2) (2026-09-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a1...1.0.15a2)
+
+**Merged pull requests:**
+
+- Migrate is\_cloudy Adapt intent to a .intent file [\#210](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/210) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.15a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a1) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.14a1...1.0.15a1)
