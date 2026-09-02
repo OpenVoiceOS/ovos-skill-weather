@@ -151,19 +151,28 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         self._assert_intent("sunset time", "sunset.intent")
 
     def test_do_i_need_an_umbrella(self):
-        self._assert_intent("do I need an umbrella tomorrow", "is_rain.intent")
+        self._assert_intent("do I need an umbrella tomorrow", "weather_condition.intent")
 
     def test_roads_snowy(self):
-        self._assert_intent("are roads expected to be snowy", "is_snow.intent")
+        self._assert_intent("are roads expected to be snowy", "weather_condition.intent")
 
     def test_clear_skies(self):
-        self._assert_intent("can I expect clear skies", "is_clear.intent")
+        self._assert_intent("can I expect clear skies", "weather_condition.intent")
 
     def test_is_it_cloudy(self):
-        self._assert_intent("will it be cloudy today", "is_cloudy.intent")
+        self._assert_intent("will it be cloudy today", "weather_condition.intent")
 
     def test_is_it_cloudy_tomorrow_in_location(self):
-        self._assert_intent("will it be cloudy tomorrow in Paris", "is_cloudy.intent")
+        self._assert_intent("will it be cloudy tomorrow in Paris", "weather_condition.intent")
+
+    def test_is_it_cloudy_no_longer_ties_with_is_clear(self):
+        """``is_clear`` and ``is_cloudy`` used to be separate padacioso
+        intents whose alternatives briefly overlapped on 'cloudy', making
+        this phrase's routing unstable. Merging both into a single
+        ``weather_condition.intent`` (with the actual condition captured in
+        its ``{condition}`` slot) removes the tie entirely.
+        """
+        self._assert_intent("is it cloudy", "weather_condition.intent")
 
     # -- adapt intents (IntentBuilder vocab rules) ------------------------
 
@@ -172,23 +181,6 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
 
     def test_forecast(self):
         self._assert_intent("forecast", "weather")
-
-    @pytest.mark.xfail(
-        reason="is_clear.intent's first line still lists 'cloudy' among its "
-               "own alternatives ('is (it|the sky) (clear|sunny|cloudy|...)') "
-               "until OpenVoiceOS/ovos-skill-weather#211 removes it, so "
-               "'is it cloudy' ties between is_clear.intent and "
-               "is_cloudy.intent; padacioso's tie-break for this exact "
-               "phrase is not guaranteed stable across runs (already noted "
-               "in this commit's own message: one CI job routed it to "
-               "is_clear instead). Non-strict on purpose since either "
-               "outcome of the tie is possible pre-#211; once #211 merges "
-               "(recommended merge order: #211 before #210) 'cloudy' drops "
-               "out of is_clear.intent and this becomes a deterministic "
-               "pass.",
-    )
-    def test_is_it_cloudy_legacy_adapt_phrasing(self):
-        self._assert_intent("is it cloudy", "is_cloudy")
 
     def test_is_it_hot(self):
         self._assert_intent("is it hot", "is_hot_cold")
