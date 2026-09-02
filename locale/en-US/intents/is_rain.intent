@@ -1,4 +1,5 @@
 is it (raining|rainy) [right now|today|outside] [in {location}]
+is (raining|rainy) [right now|today|outside] [in {location}]
 is it going to (rain|be rainy) [today|tonight|tomorrow|this weekend|in the evening] [in {location}]
 will it (rain|be raining|be rainy) [today|tonight|tomorrow|heavily|this weekend] [in {location}]
 will it be a rainy day [today|tomorrow] [in {location}]

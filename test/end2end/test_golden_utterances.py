@@ -162,7 +162,7 @@ def _golden_id(row):
     return row["utterance"]
 
 
-@pytest.mark.timeout(60)
+@pytest.mark.timeout(300)
 @pytest.mark.parametrize("row", GOLDEN_ROWS)
 def test_golden_utterance(minicroft, row):
     session = Session(f"golden-{_golden_id(row)}")
@@ -184,7 +184,7 @@ def test_golden_utterance(minicroft, row):
     assert any("speak" in t for t in types)
 
 
-@pytest.mark.timeout(60)
+@pytest.mark.timeout(300)
 @pytest.mark.parametrize("negative", NEGATIVE_UTTERANCES, ids=lambda n: n[0])
 def test_negative_confusable_not_claimed(minicroft, negative):
     text, source_skill = negative

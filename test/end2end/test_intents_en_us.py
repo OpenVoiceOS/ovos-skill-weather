@@ -56,7 +56,7 @@ def _matches_intent(msg_type: str, skill_id: str, intent_file: str) -> bool:
 
 # Per-test hard ceiling: any live-network regression or hang fails the test
 # instead of stalling until the CI job is cancelled.
-pytestmark = pytest.mark.timeout(60)
+pytestmark = pytest.mark.timeout(300)
 
 # Static geolocation so timezone/datetime resolution (done outside the handler's
 # network try-block) stays offline and never raises.

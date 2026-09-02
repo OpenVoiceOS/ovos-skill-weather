@@ -1,4 +1,5 @@
 is it (snowing|snowy) [right now|today|outside] [in {location}]
+is (snowing|snowy) [right now|today|outside] [in {location}]
 will it snow [today|tonight|tomorrow|this weekend] [in {location}]
 will there be snowfall [today|tonight|tomorrow] [in {location}]
 is snow (expected|in the forecast) [today|tonight|tomorrow] [in {location}]
