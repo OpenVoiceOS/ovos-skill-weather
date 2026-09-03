@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.1.0a1) (2026-09-03)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.16a2...1.1.0a1)
+
+**Merged pull requests:**
+
+- feat: migrate is\_hot\_cold to a padacioso intent file [\#231](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/231) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.16a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.16a2) (2026-09-03)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.16a1...1.0.16a2)
@@ -599,23 +607,19 @@
 
 ## [0.1.8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a3...0.1.8)
-
-## [0.1.8a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a3) (2024-11-19)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a2...0.1.8a3)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a2...0.1.8)
 
 ## [0.1.8a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a2) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a2)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a3...0.1.8a2)
+
+## [0.1.8a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a3) (2024-11-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a3)
 
 ## [0.1.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a1) (2024-11-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.7...0.1.8a1)
-
-**Merged pull requests:**
-
-- fix:geolocation lang support + deprecate\_backend\_client [\#95](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/95) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [0.1.7](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.7) (2024-11-15)
 
