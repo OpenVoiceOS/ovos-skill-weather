@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.16a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.16a1) (2026-09-03)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a8...1.0.16a1)
+
+**Merged pull requests:**
+
+- fix: make "it" optional in en-US is-it condition intents [\#229](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/229) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.0.15a8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a8) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a7...1.0.15a8)
@@ -596,10 +604,6 @@
 ## [0.1.8a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a3) (2024-11-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a3)
-
-**Merged pull requests:**
-
-- added italian [\#93](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/93) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 ## [0.1.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a1) (2024-11-19)
 
