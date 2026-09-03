@@ -4,6 +4,5 @@
 (weather|forecast) [for] (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
 what should I expect (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
 any weather (alerts|warnings) for (today|tomorrow|after tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) [in {location}]
-is it going to be (hot|cold|warm) [on] (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
 will it (rain|snow|storm) [on] (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
 (what is|what's|how is|how's) the (weather|forecast) (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) in {location}

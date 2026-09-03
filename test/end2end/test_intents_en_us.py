@@ -119,11 +119,14 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         return capture.finish()
 
     def _assert_intent(self, text, intent):
+        self._assert_intent_any(text, [intent])
+
+    def _assert_intent_any(self, text, intents):
         messages = self._run(text)
         types = [m.msg_type for m in messages]
         self.assertTrue(
-            any(_matches_intent(t, SKILL_ID, intent) for t in types),
-            f"no message routed to {SKILL_ID}:{intent} ({types})",
+            any(_matches_intent(t, SKILL_ID, intent) for t in types for intent in intents),
+            f"no message routed to {SKILL_ID}:{intents} ({types})",
         )
         self.assertTrue(any("speak" in t for t in types))
 
@@ -174,13 +177,34 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         """
         self._assert_intent("is it cloudy", "weather_condition.intent")
 
+    def test_is_it_hot(self):
+        # This module's own pipeline order (adapt-high before
+        # padacioso-high, see _run above) means the bridge adapt intent
+        # (is_hot_cold_kw) claims it here, while the default OVOS pipeline
+        # order (padacioso-high first, see the golden suite) has the
+        # padacioso file win for en-US. Both are the same handler.
+        self._assert_intent_any("is it hot", ["is_hot.intent", "is_hot_cold_kw"])
+
+    def test_is_it_hot_or_cold_with_location(self):
+        self._assert_intent_any(
+            "is it hot today in Lawrence kansas",
+            ["is_hot.intent", "is_hot_cold_kw"],
+        )
+
+    def test_will_it_be_cold(self):
+        self._assert_intent_any(
+            "will it be cold tomorrow", ["is_cold.intent", "is_hot_cold_kw"]
+        )
+
+    def test_general_weather(self):
+        self._assert_intent_any(
+            "what is the weather forecast for today in celsius", ["weather.intent", "weather_kw"]
+        )
+
     # -- adapt intents (IntentBuilder vocab rules) ------------------------
 
     def test_weather(self):
-        self._assert_intent("weather", "weather")
+        self._assert_intent_any("weather", ["weather.intent", "weather_kw"])
 
     def test_forecast(self):
-        self._assert_intent("forecast", "weather")
-
-    def test_is_it_hot(self):
-        self._assert_intent("is it hot", "is_hot_cold")
+        self._assert_intent_any("forecast", ["weather.intent", "weather_kw"])
