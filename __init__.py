@@ -281,6 +281,11 @@ class WeatherSkill(OVOSSkill):
     def handle_is_it_snowing(self, message: Message):
         """Handler for weather requests such as: is it snowing today?
 
+        Non-en-US locales that have not yet been mechanically converted to
+        ``weather_condition.intent`` still ship this file, so the handler
+        is kept for them; en-US drops the file and routes through
+        ``handle_weather_condition`` instead.
+
         Args:
             message: Message Bus event information from the intent parser
         """
@@ -322,7 +327,6 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_weather_condition(message, "rain")
 
-
     @intent_handler("is_stormy.intent")
     def handle_is_it_storming(self, message: Message):
         """Handler for weather requests such as:  is it storming today?
@@ -331,6 +335,49 @@ class WeatherSkill(OVOSSkill):
             message: Message Bus event information from the intent parser
         """
         self._report_weather_condition(message, "thunderstorm")
+
+    @intent_handler("weather_condition.intent", voc_blacklist=["out_of_scope_condition"])
+    def handle_weather_condition(self, message: Message):
+        """Handler for weather condition requests such as: is it raining,
+        snowing, clear, cloudy, foggy or stormy today?
+
+        ``voc_blacklist`` keeps this intent out of "is it hot/cold" territory
+        (``handle_is_it_hot_or_cold``'s own turf) since the ``{condition}``
+        slot below would otherwise happily swallow those words too.
+
+        Args:
+            message: Message Bus event information from the intent parser
+        """
+        condition = self._resolve_weather_condition(message.data.get("condition", ""))
+        if condition is None:
+            self.handle_current_weather(message)
+            return
+        self._report_weather_condition(message, condition)
+
+    def _resolve_weather_condition(self, condition_phrase: str):
+        """Map the free-text ``{condition}`` slot captured by
+        ``weather_condition.intent`` onto the condition key expected by
+        ``_report_weather_condition``, the same ``voc_match`` dispatch
+        ``handle_is_it_hot_or_cold`` uses to tell "hot" from "cold".
+
+        Args:
+            condition_phrase: the raw text captured in the condition slot
+
+        Returns:
+            The condition key, or None if no vocabulary group matched.
+        """
+        condition_groups = (
+            ("rain_report", "rain"),
+            ("snow_report", "snow"),
+            ("clear_report", "clear"),
+            ("cloudy_report", "clouds"),
+            ("fog_report", "fog"),
+            ("storm_report", "thunderstorm"),
+        )
+        for voc_filename, condition in condition_groups:
+            if self.voc_match(condition_phrase, voc_filename):
+                return condition
+        return None
 
     @intent_handler("next_rain.intent")
     def handle_next_precipitation(self, message: Message):
