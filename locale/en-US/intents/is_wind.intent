@@ -1,4 +1,5 @@
 is it windy [right now|now|today|outside] [in {location}]
+is windy [right now|now|today|outside] [in {location}]
 how windy is it [right now|today|outside] [in {location}]
 how strong are the winds [right now|today] [in {location}]
 is there (a lot of wind|strong wind gusts|a wind advisory|a wind warning) [right now|today] [in {location}]

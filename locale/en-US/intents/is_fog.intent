@@ -1,4 +1,5 @@
 is it foggy [right now|today|outside] [in {location}]
+is foggy [right now|today|outside] [in {location}]
 is there fog [right now|outside|today] [in {location}]
 is [dense|thick] fog expected [today|tonight|tomorrow] [in {location}]
 will there be fog [this morning|this evening|tonight|tomorrow] [in {location}]
