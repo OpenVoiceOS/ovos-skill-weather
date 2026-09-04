@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.0a1) (2026-09-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.1.0a1...1.2.0a1)
+
+**Merged pull requests:**
+
+- feat: complete lang-agnostic migration by removing the last adapt bridges [\#235](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/235) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.1.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.1.0a1) (2026-09-03)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.16a2...1.1.0a1)
