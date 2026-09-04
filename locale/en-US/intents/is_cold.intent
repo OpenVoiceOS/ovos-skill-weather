@@ -1,4 +1,6 @@
-(is it|is it going to be|will it be|will it get|is it gonna be) (cold|cool|chilly|freezing) [right now|now|today|tonight|tomorrow|outside|later|this afternoon|this morning] [in {location}]
+(is it|is it going to be|will it be|will it get|is it gonna be) (cold|cool|chilly|freezing)
+(is it|is it going to be|will it be|will it get|is it gonna be) (cold|cool|chilly|freezing) (right now|now|today|tonight|tomorrow|outside|later|this afternoon|this morning)
+(is it|is it going to be|will it be|will it get|is it gonna be) (cold|cool|chilly|freezing) in {location}
 (is|will) there [be] (a cold snap|a frost|cold weather|a freeze) [today|tomorrow|tonight] [in {location}]
 how (cold|cool|chilly) (is it|will it be) [right now|today|tomorrow|tonight|outside] [in {location}]
 (is it|will it be|is it going to be) (cold|cool|chilly|freezing) (on|next) {day} [in {location}]

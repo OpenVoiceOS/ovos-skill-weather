@@ -2,4 +2,5 @@
 (what is|what's) the weather forecast [for today|for tomorrow] in {unit}
 (what is|what's) (tomorrow's|today's) (forecast|weather|weather forecast) [in {location}]
 (give me|show me) the (forecast|weather forecast) [in {location}]
-(weather|forecast) [in {location}]
+forecast [in {location}]
+weather in {location}
