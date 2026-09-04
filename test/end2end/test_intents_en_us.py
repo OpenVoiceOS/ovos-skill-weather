@@ -19,8 +19,8 @@ speaks, so routing is fully exercised without depending on -- or hanging on --
 live API responses. A ``pytest-timeout`` safety net fails any future hang fast
 instead of stalling the whole job.
 
-This skill is MIXED: most intents are padacioso ``.intent`` files, a few use
-adapt ``IntentBuilder`` vocab rules. Both pipelines are covered.
+Every intent here is a padacioso ``.intent`` file; the skill carries no
+adapt ``IntentBuilder`` registrations.
 """
 import re
 import unittest
@@ -37,13 +37,11 @@ LANG = "en-US"
 
 def _matches_intent(msg_type: str, skill_id: str, intent_file: str) -> bool:
     """Check whether ``msg_type`` is the matched-intent event for
-    ``intent_file`` (eg. ``current_weather.intent`` or the bare adapt
-    intent name ``weather``), tolerant of which pipeline plugin matched it.
+    ``intent_file`` (eg. ``current_weather.intent``), tolerant of which
+    pipeline tier matched it.
 
-    Different pipeline plugins (adapt vs padacioso) register intents under
-    different normalizations of the ``.intent`` filename basename. Rather
-    than pin one wire format, compare case-insensitively against the
-    basename with the extension stripped from both sides.
+    Compare case-insensitively against the basename with the ``.intent``
+    extension stripped from both sides, rather than pinning one wire format.
     """
     prefix = f"{skill_id}:"
     if not msg_type.startswith(prefix):
@@ -178,33 +176,25 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         self._assert_intent("is it cloudy", "weather_condition.intent")
 
     def test_is_it_hot(self):
-        # This module's own pipeline order (adapt-high before
-        # padacioso-high, see _run above) means the bridge adapt intent
-        # (is_hot_cold_kw) claims it here, while the default OVOS pipeline
-        # order (padacioso-high first, see the golden suite) has the
-        # padacioso file win for en-US. Both are the same handler.
-        self._assert_intent_any("is it hot", ["is_hot.intent", "is_hot_cold_kw"])
+        self._assert_intent("is it hot", "is_hot.intent")
 
     def test_is_it_hot_or_cold_with_location(self):
-        self._assert_intent_any(
-            "is it hot today in Lawrence kansas",
-            ["is_hot.intent", "is_hot_cold_kw"],
-        )
+        self._assert_intent("is it hot today in Lawrence kansas", "is_hot.intent")
 
     def test_will_it_be_cold(self):
-        self._assert_intent_any(
-            "will it be cold tomorrow", ["is_cold.intent", "is_hot_cold_kw"]
-        )
+        self._assert_intent("will it be cold tomorrow", "is_cold.intent")
 
     def test_general_weather(self):
-        self._assert_intent_any(
-            "what is the weather forecast for today in celsius", ["weather.intent", "weather_kw"]
+        self._assert_intent(
+            "what is the weather forecast for today in celsius", "weather.intent"
         )
 
-    # -- adapt intents (IntentBuilder vocab rules) ------------------------
-
     def test_weather(self):
-        self._assert_intent_any("weather", ["weather.intent", "weather_kw"])
+        # bare "weather" is claimed by current_weather.intent, not
+        # weather.intent: the latter's location-bearing templates require
+        # either "forecast" or "in {location}" so the two files never tie
+        # on this phrase.
+        self._assert_intent("weather", "current_weather.intent")
 
     def test_forecast(self):
-        self._assert_intent_any("forecast", ["weather.intent", "weather_kw"])
+        self._assert_intent("forecast", "weather.intent")

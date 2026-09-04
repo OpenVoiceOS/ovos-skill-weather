@@ -32,7 +32,6 @@ from ovos_date_parser import (
 from ovos_bus_client.message import Message
 from ovos_bus_client.session import SessionManager
 from ovos_utils import classproperty
-from ovos_workshop.intents import IntentBuilder
 from ovos_utils.log import LOG
 from ovos_utils.process_utils import RuntimeRequirements
 from ovos_workshop.decorators import intent_handler, skill_api_method
@@ -126,15 +125,6 @@ class WeatherSkill(OVOSSkill):
         intent = self._get_intent_data(message)
         self._report_one_day_forecast(intent)
 
-    @intent_handler(
-        IntentBuilder("weather_kw")
-        .optionally("query")
-        .one_of("weather", "forecast")
-        .optionally("relative-time")
-        .optionally("relative-day")
-        .optionally("today")
-        .optionally("location")
-        .optionally("unit"))
     @intent_handler("weather.intent")
     def handle_weather(self, message: Message):
         """
@@ -146,15 +136,6 @@ class WeatherSkill(OVOSSkill):
             "How's the weather tomorrow?" (daily)
             "What's the forecast for friday 9 pm?" (hourly)
             "what's tomorrow's forecast in Seattle?"
-
-        ``weather_kw`` is the old adapt vocab rule, kept alive under a
-        renamed intent (the registry rejects two registrations sharing one
-        name) as a bridge for the 19 non-en-US locales that ship the vocab
-        but no ``weather.intent`` file of their own yet. en-US traffic is
-        claimed by the padacioso file first (it sits at an earlier pipeline
-        tier), so ``weather_kw`` never fires there; retire it locale-by-
-        locale as each one gets a native ``weather.intent`` (localize
-        follow-up).
 
         Args:
             message: Message Bus event information from the intent parser
@@ -259,15 +240,6 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_temperature(message, temperature_type="low")
 
-    @intent_handler(
-        IntentBuilder("is_hot_cold_kw")
-        .one_of("confirm-query-current", "confirm-query")
-        .one_of("hot", "cold")
-        .optionally("query")
-        .optionally("location")
-        .optionally("relative-day")
-        .optionally("today")
-    )
     @intent_handler("is_hot.intent")
     @intent_handler("is_cold.intent")
     def handle_is_it_hot_or_cold(self, message: Message):
@@ -279,16 +251,6 @@ class WeatherSkill(OVOSSkill):
         without the shared file growing unbounded. Both still dispatch here
         since the handler already distinguishes them with ``voc_match``
         against the captured utterance, not the intent name.
-
-        ``is_hot_cold_kw`` is the old adapt vocab rule kept alive, under a
-        renamed intent (the registry rejects two registrations sharing one
-        name), purely as a bridge for the 19 non-en-US locales that ship
-        the vocab but no ``is_hot.intent``/``is_cold.intent`` files of their
-        own yet. en-US traffic is claimed by the padacioso files first (they
-        sit at an earlier pipeline tier), so ``is_hot_cold_kw`` never fires
-        there; it only matters for locales missing the files. Retire this
-        registration locale-by-locale as each one gets native
-        ``is_hot.intent``/``is_cold.intent`` files (localize follow-up).
 
         Args:
             message: Message Bus event information from the intent parser
