@@ -1,0 +1,8 @@
+(what is|what's|how is|how's) the (weather|forecast) [like] (this morning|this afternoon|this evening|tonight|tomorrow morning|tomorrow afternoon|tomorrow evening|later|at noon|at night|at midnight|in the morning|in the evening|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm))
+[can you] tell me the (weather|forecast) (this morning|this evening|tonight|later|at noon|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm))
+[hourly] (weather|forecast) [for] (this morning|this afternoon|this evening|tonight|later|at noon|at night|at midnight|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm))
+(what is|what's|how is|how's) the (weather|forecast) (tonight|this evening|later|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm)) in {location}
+(what is|what's|how is|how's) the (weather|forecast) for (monday|tuesday|wednesday|thursday|friday|saturday|sunday) at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm) [in {location}]
+what's the forecast for (monday|tuesday|wednesday|thursday|friday|saturday|sunday) at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm)
+what's the forecast for (monday|tuesday|wednesday|thursday|friday|saturday|sunday) at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm) in here
+what's the forecast at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm)

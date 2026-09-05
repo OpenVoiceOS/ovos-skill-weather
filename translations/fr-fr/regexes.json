@@ -1,5 +1,0 @@
-{
-    "/regex/location.rx": [
-        "(\u00e0|\u00e0) (?P<Location>.*)"
-    ]
-}

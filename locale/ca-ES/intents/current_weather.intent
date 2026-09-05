@@ -1,0 +1,335 @@
+Com està el temps  ?
+Com està el temps  a {location}?
+Com està el temps ara ?
+Com està el temps ara a {location}?
+Com està el temps ara mateix ?
+Com està el temps ara mateix a {location}?
+Com està el temps avui ?
+Com està el temps avui a {location}?
+Com està el temps hui ?
+Com està el temps hui a {location}?
+Com està l'oratge  ?
+Com està l'oratge  a {location}?
+Com està l'oratge ara ?
+Com està l'oratge ara a {location}?
+Com està l'oratge ara mateix ?
+Com està l'oratge ara mateix a {location}?
+Com està l'oratge avui ?
+Com està l'oratge avui a {location}?
+Com està l'oratge hui ?
+Com està l'oratge hui a {location}?
+Com està la meteorologia  ?
+Com està la meteorologia  a {location}?
+Com està la meteorologia ara ?
+Com està la meteorologia ara a {location}?
+Com està la meteorologia ara mateix ?
+Com està la meteorologia ara mateix a {location}?
+Com està la meteorologia avui ?
+Com està la meteorologia avui a {location}?
+Com està la meteorologia hui ?
+Com està la meteorologia hui a {location}?
+Com pinta el temps ?
+Com pinta el temps a {location}?
+Com pinta l'oratge ?
+Com pinta l'oratge a {location}?
+Com pinta la meteorologia ?
+Com pinta la meteorologia a {location}?
+Com és  horatge?
+Com és  oratge a {location}?
+Com és  oratge de {location}?
+Com és  previsió a {location}?
+Com és  previsió de {location}?
+Com és  previsió?
+Com és  temps a {location}?
+Com és  temps de {location}?
+Com és  temps?
+Com és el horatge?
+Com és el oratge a {location}?
+Com és el oratge de {location}?
+Com és el previsió a {location}?
+Com és el previsió de {location}?
+Com és el previsió?
+Com és el temps a {location}?
+Com és el temps de {location}?
+Com és el temps?
+Com és l' horatge?
+Com és l' oratge a {location}?
+Com és l' oratge de {location}?
+Com és l' previsió a {location}?
+Com és l' previsió de {location}?
+Com és l' previsió?
+Com és l' temps a {location}?
+Com és l' temps de {location}?
+Com és l' temps?
+Com és la horatge?
+Com és la oratge a {location}?
+Com és la oratge de {location}?
+Com és la previsió a {location}?
+Com és la previsió de {location}?
+Com és la previsió?
+Com és la temps a {location}?
+Com és la temps de {location}?
+Com és la temps?
+Condicions de l'oratge actual .
+Condicions de l'oratge actual a {location}.
+Condicions de l'oratge actual de {location}.
+Condicions de l'oratge ara .
+Condicions de l'oratge ara a {location}.
+Condicions de l'oratge ara de {location}.
+Condicions de l'oratge ara mateix .
+Condicions de l'oratge ara mateix a {location}.
+Condicions de l'oratge ara mateix de {location}.
+Condicions de la meteorologia actual .
+Condicions de la meteorologia actual a {location}.
+Condicions de la meteorologia actual de {location}.
+Condicions de la meteorologia ara .
+Condicions de la meteorologia ara a {location}.
+Condicions de la meteorologia ara de {location}.
+Condicions de la meteorologia ara mateix .
+Condicions de la meteorologia ara mateix a {location}.
+Condicions de la meteorologia ara mateix de {location}.
+Condicions del temps actual .
+Condicions del temps actual a {location}.
+Condicions del temps actual de {location}.
+Condicions del temps ara .
+Condicions del temps ara a {location}.
+Condicions del temps ara de {location}.
+Condicions del temps ara mateix .
+Condicions del temps ara mateix a {location}.
+Condicions del temps ara mateix de {location}.
+Dona'm l'última actualització de l'oratge .
+Dona'm l'última actualització de l'oratge a {location}.
+Dona'm l'última actualització de la meteorologia .
+Dona'm l'última actualització de la meteorologia a {location}.
+Dona'm l'última actualització del temps .
+Dona'm l'última actualització del temps a {location}.
+Dona'm la darrera actualització de l'oratge .
+Dona'm la darrera actualització de l'oratge a {location}.
+Dona'm la darrera actualització de la meteorologia .
+Dona'm la darrera actualització de la meteorologia a {location}.
+Dona'm la darrera actualització del temps .
+Dona'm la darrera actualització del temps a {location}.
+Em pots dir el temps  ?
+Em pots dir el temps  a {location}?
+Em pots dir el temps actualment ?
+Em pots dir el temps actualment a {location}?
+Em pots dir el temps ara ?
+Em pots dir el temps ara a {location}?
+Em pots dir el temps ara mateix ?
+Em pots dir el temps ara mateix a {location}?
+Em pots dir l'oratge  ?
+Em pots dir l'oratge  a {location}?
+Em pots dir l'oratge actualment ?
+Em pots dir l'oratge actualment a {location}?
+Em pots dir l'oratge ara ?
+Em pots dir l'oratge ara a {location}?
+Em pots dir l'oratge ara mateix ?
+Em pots dir l'oratge ara mateix a {location}?
+Em pots dir la meteorologia  ?
+Em pots dir la meteorologia  a {location}?
+Em pots dir la meteorologia actualment ?
+Em pots dir la meteorologia actualment a {location}?
+Em pots dir la meteorologia ara ?
+Em pots dir la meteorologia ara a {location}?
+Em pots dir la meteorologia ara mateix ?
+Em pots dir la meteorologia ara mateix a {location}?
+Estat de l'oratge actual .
+Estat de l'oratge actual a {location}.
+Estat de l'oratge actual de {location}.
+Estat de l'oratge ara .
+Estat de l'oratge ara a {location}.
+Estat de l'oratge ara de {location}.
+Estat de l'oratge ara mateix .
+Estat de l'oratge ara mateix a {location}.
+Estat de l'oratge ara mateix de {location}.
+Estat de la meteorologia actual .
+Estat de la meteorologia actual a {location}.
+Estat de la meteorologia actual de {location}.
+Estat de la meteorologia ara .
+Estat de la meteorologia ara a {location}.
+Estat de la meteorologia ara de {location}.
+Estat de la meteorologia ara mateix .
+Estat de la meteorologia ara mateix a {location}.
+Estat de la meteorologia ara mateix de {location}.
+Estat del temps actual .
+Estat del temps actual a {location}.
+Estat del temps actual de {location}.
+Estat del temps ara .
+Estat del temps ara a {location}.
+Estat del temps ara de {location}.
+Estat del temps ara mateix .
+Estat del temps ara mateix a {location}.
+Estat del temps ara mateix de {location}.
+Fa bo a fora?
+Fa bo al carrer?
+Fa bon dia a fora?
+Fa bon dia al carrer?
+Fa bon temps a fora?
+Fa bon temps al carrer?
+Parla'm 
+de l'oratge ?
+Parla'm 
+de l'oratge a {location}?
+Parla'm 
+de l'oratge de {location}?
+Parla'm 
+de la previsió ?
+Parla'm 
+de la previsió a {location}?
+Parla'm 
+de la previsió de {location}?
+Parla'm 
+del temps ?
+Parla'm 
+del temps a {location}?
+Parla'm 
+del temps de {location}?
+Quin meteorologia fa actualment?
+Quin meteorologia fa ara mateix?
+Quin meteorologia fa ara?
+Quin meteorologia hi ha actualment?
+Quin meteorologia hi ha ara mateix?
+Quin meteorologia hi ha ara?
+Quin oratge fa actualment?
+Quin oratge fa ara mateix?
+Quin oratge fa ara?
+Quin oratge fa?
+Quin oratge hi ha actualment?
+Quin oratge hi ha ara mateix?
+Quin oratge hi ha ara?
+Quin oratge hi ha?
+Quin temps fa  fora?
+Quin temps fa a fora?
+Quin temps fa actualment?
+Quin temps fa ara mateix?
+Quin temps fa ara?
+Quin temps fa?
+Quin temps hi ha actualment?
+Quin temps hi ha ara mateix?
+Quin temps hi ha ara?
+Quin temps hi ha?
+Quin és  horatge?
+Quin és  oratge a {location}?
+Quin és  oratge de {location}?
+Quin és  previsió a {location}?
+Quin és  previsió de {location}?
+Quin és  previsió?
+Quin és  temps a {location}?
+Quin és  temps de {location}?
+Quin és  temps?
+Quin és el horatge?
+Quin és el oratge a {location}?
+Quin és el oratge de {location}?
+Quin és el previsió a {location}?
+Quin és el previsió de {location}?
+Quin és el previsió?
+Quin és el temps a {location}?
+Quin és el temps de {location}?
+Quin és el temps?
+Quin és l' horatge?
+Quin és l' oratge a {location}?
+Quin és l' oratge de {location}?
+Quin és l' previsió a {location}?
+Quin és l' previsió de {location}?
+Quin és l' previsió?
+Quin és l' temps a {location}?
+Quin és l' temps de {location}?
+Quin és l' temps?
+Quin és la horatge?
+Quin és la oratge a {location}?
+Quin és la oratge de {location}?
+Quin és la previsió a {location}?
+Quin és la previsió de {location}?
+Quin és la previsió?
+Quin és la temps a {location}?
+Quin és la temps de {location}?
+Quin és la temps?
+Quina meteorologia fa actualment?
+Quina meteorologia fa ara mateix?
+Quina meteorologia fa ara?
+Quina meteorologia fa?
+Quina meteorologia hi ha actualment?
+Quina meteorologia hi ha ara mateix?
+Quina meteorologia hi ha ara?
+Quina meteorologia hi ha?
+Quina oratge fa actualment?
+Quina oratge fa ara mateix?
+Quina oratge fa ara?
+Quina oratge hi ha actualment?
+Quina oratge hi ha ara mateix?
+Quina oratge hi ha ara?
+Quina temps fa actualment?
+Quina temps fa ara mateix?
+Quina temps fa ara?
+Quina temps hi ha actualment?
+Quina temps hi ha ara mateix?
+Quina temps hi ha ara?
+Quina és  horatge?
+Quina és  oratge a {location}?
+Quina és  oratge de {location}?
+Quina és  previsió a {location}?
+Quina és  previsió de {location}?
+Quina és  previsió?
+Quina és  temps a {location}?
+Quina és  temps de {location}?
+Quina és  temps?
+Quina és el horatge?
+Quina és el oratge a {location}?
+Quina és el oratge de {location}?
+Quina és el previsió a {location}?
+Quina és el previsió de {location}?
+Quina és el previsió?
+Quina és el temps a {location}?
+Quina és el temps de {location}?
+Quina és el temps?
+Quina és l' horatge?
+Quina és l' oratge a {location}?
+Quina és l' oratge de {location}?
+Quina és l' previsió a {location}?
+Quina és l' previsió de {location}?
+Quina és l' previsió?
+Quina és l' temps a {location}?
+Quina és l' temps de {location}?
+Quina és l' temps?
+Quina és la horatge?
+Quina és la oratge a {location}?
+Quina és la oratge de {location}?
+Quina és la previsió a {location}?
+Quina és la previsió de {location}?
+Quina és la previsió?
+Quina és la temps a {location}?
+Quina és la temps de {location}?
+Quina és la temps?
+com està el temps ?
+com està el temps a {location}?
+com està l'oratge ?
+com està l'oratge a {location}?
+com està la meteorologia ?
+com està la meteorologia a {location}?
+de l'oratge actual .
+de l'oratge actual a {location}.
+de l'oratge actual de {location}.
+de l'oratge ara .
+de l'oratge ara a {location}.
+de l'oratge ara de {location}.
+de l'oratge ara mateix .
+de l'oratge ara mateix a {location}.
+de l'oratge ara mateix de {location}.
+de la meteorologia actual .
+de la meteorologia actual a {location}.
+de la meteorologia actual de {location}.
+de la meteorologia ara .
+de la meteorologia ara a {location}.
+de la meteorologia ara de {location}.
+de la meteorologia ara mateix .
+de la meteorologia ara mateix a {location}.
+de la meteorologia ara mateix de {location}.
+del temps actual .
+del temps actual a {location}.
+del temps actual de {location}.
+del temps ara .
+del temps ara a {location}.
+del temps ara de {location}.
+del temps ara mateix .
+del temps ara mateix a {location}.
+del temps ara mateix de {location}.

@@ -1,0 +1,924 @@
+Algun avís del temps  demà ?
+Algun avís del temps  demà a {location}?
+Algun avís del temps després de demà ?
+Algun avís del temps després de demà a {location}?
+Algun avís del temps dijous ?
+Algun avís del temps dijous a {location}?
+Algun avís del temps dilluns ?
+Algun avís del temps dilluns a {location}?
+Algun avís del temps dimarts ?
+Algun avís del temps dimarts a {location}?
+Algun avís del temps dimecres ?
+Algun avís del temps dimecres a {location}?
+Algun avís del temps dissabte ?
+Algun avís del temps dissabte a {location}?
+Algun avís del temps diumenge ?
+Algun avís del temps diumenge a {location}?
+Algun avís del temps divendres ?
+Algun avís del temps divendres a {location}?
+Alguna alerta del temps  demà ?
+Alguna alerta del temps  demà a {location}?
+Alguna alerta del temps després de demà ?
+Alguna alerta del temps després de demà a {location}?
+Alguna alerta del temps dijous ?
+Alguna alerta del temps dijous a {location}?
+Alguna alerta del temps dilluns ?
+Alguna alerta del temps dilluns a {location}?
+Alguna alerta del temps dimarts ?
+Alguna alerta del temps dimarts a {location}?
+Alguna alerta del temps dimecres ?
+Alguna alerta del temps dimecres a {location}?
+Alguna alerta del temps dissabte ?
+Alguna alerta del temps dissabte a {location}?
+Alguna alerta del temps diumenge ?
+Alguna alerta del temps diumenge a {location}?
+Alguna alerta del temps divendres ?
+Alguna alerta del temps divendres a {location}?
+Com estarà el temps a {location}  demà
+Com estarà el temps a {location} després de demà
+Com estarà el temps a {location} dijous
+Com estarà el temps a {location} dilluns
+Com estarà el temps a {location} dimarts
+Com estarà el temps a {location} dimecres
+Com estarà el temps a {location} dissabte
+Com estarà el temps a {location} diumenge?
+Com estarà el temps a {location} divendres
+Com està el temps el proper dijous ?
+Com està el temps el proper dijous a {location}?
+Com està el temps el proper dilluns ?
+Com està el temps el proper dilluns a {location}?
+Com està el temps el proper dimarts ?
+Com està el temps el proper dimarts a {location}?
+Com està el temps el proper dimecres ?
+Com està el temps el proper dimecres a {location}?
+Com està el temps el proper dissabte ?
+Com està el temps el proper dissabte a {location}?
+Com està el temps el proper diumenge ?
+Com està el temps el proper diumenge a {location}?
+Com està el temps el proper divendres ?
+Com està el temps el proper divendres a {location}?
+Com està el temps el pròxim dijous ?
+Com està el temps el pròxim dijous a {location}?
+Com està el temps el pròxim dilluns ?
+Com està el temps el pròxim dilluns a {location}?
+Com està el temps el pròxim dimarts ?
+Com està el temps el pròxim dimarts a {location}?
+Com està el temps el pròxim dimecres ?
+Com està el temps el pròxim dimecres a {location}?
+Com està el temps el pròxim dissabte ?
+Com està el temps el pròxim dissabte a {location}?
+Com està el temps el pròxim diumenge ?
+Com està el temps el pròxim diumenge a {location}?
+Com està el temps el pròxim divendres ?
+Com està el temps el pròxim divendres a {location}?
+Com està el temps el següent dijous ?
+Com està el temps el següent dijous a {location}?
+Com està el temps el següent dilluns ?
+Com està el temps el següent dilluns a {location}?
+Com està el temps el següent dimarts ?
+Com està el temps el següent dimarts a {location}?
+Com està el temps el següent dimecres ?
+Com està el temps el següent dimecres a {location}?
+Com està el temps el següent dissabte ?
+Com està el temps el següent dissabte a {location}?
+Com està el temps el següent diumenge ?
+Com està el temps el següent diumenge a {location}?
+Com està el temps el següent divendres ?
+Com està el temps el següent divendres a {location}?
+Com està l'oratge el proper dijous ?
+Com està l'oratge el proper dijous a {location}?
+Com està l'oratge el proper dilluns ?
+Com està l'oratge el proper dilluns a {location}?
+Com està l'oratge el proper dimarts ?
+Com està l'oratge el proper dimarts a {location}?
+Com està l'oratge el proper dimecres ?
+Com està l'oratge el proper dimecres a {location}?
+Com està l'oratge el proper dissabte ?
+Com està l'oratge el proper dissabte a {location}?
+Com està l'oratge el proper diumenge ?
+Com està l'oratge el proper diumenge a {location}?
+Com està l'oratge el proper divendres ?
+Com està l'oratge el proper divendres a {location}?
+Com està l'oratge el pròxim dijous ?
+Com està l'oratge el pròxim dijous a {location}?
+Com està l'oratge el pròxim dilluns ?
+Com està l'oratge el pròxim dilluns a {location}?
+Com està l'oratge el pròxim dimarts ?
+Com està l'oratge el pròxim dimarts a {location}?
+Com està l'oratge el pròxim dimecres ?
+Com està l'oratge el pròxim dimecres a {location}?
+Com està l'oratge el pròxim dissabte ?
+Com està l'oratge el pròxim dissabte a {location}?
+Com està l'oratge el pròxim diumenge ?
+Com està l'oratge el pròxim diumenge a {location}?
+Com està l'oratge el pròxim divendres ?
+Com està l'oratge el pròxim divendres a {location}?
+Com està l'oratge el següent dijous ?
+Com està l'oratge el següent dijous a {location}?
+Com està l'oratge el següent dilluns ?
+Com està l'oratge el següent dilluns a {location}?
+Com està l'oratge el següent dimarts ?
+Com està l'oratge el següent dimarts a {location}?
+Com està l'oratge el següent dimecres ?
+Com està l'oratge el següent dimecres a {location}?
+Com està l'oratge el següent dissabte ?
+Com està l'oratge el següent dissabte a {location}?
+Com està l'oratge el següent diumenge ?
+Com està l'oratge el següent diumenge a {location}?
+Com està l'oratge el següent divendres ?
+Com està l'oratge el següent divendres a {location}?
+Com està la meteorologia el proper dijous ?
+Com està la meteorologia el proper dijous a {location}?
+Com està la meteorologia el proper dilluns ?
+Com està la meteorologia el proper dilluns a {location}?
+Com està la meteorologia el proper dimarts ?
+Com està la meteorologia el proper dimarts a {location}?
+Com està la meteorologia el proper dimecres ?
+Com està la meteorologia el proper dimecres a {location}?
+Com està la meteorologia el proper dissabte ?
+Com està la meteorologia el proper dissabte a {location}?
+Com està la meteorologia el proper diumenge ?
+Com està la meteorologia el proper diumenge a {location}?
+Com està la meteorologia el proper divendres ?
+Com està la meteorologia el proper divendres a {location}?
+Com està la meteorologia el pròxim dijous ?
+Com està la meteorologia el pròxim dijous a {location}?
+Com està la meteorologia el pròxim dilluns ?
+Com està la meteorologia el pròxim dilluns a {location}?
+Com està la meteorologia el pròxim dimarts ?
+Com està la meteorologia el pròxim dimarts a {location}?
+Com està la meteorologia el pròxim dimecres ?
+Com està la meteorologia el pròxim dimecres a {location}?
+Com està la meteorologia el pròxim dissabte ?
+Com està la meteorologia el pròxim dissabte a {location}?
+Com està la meteorologia el pròxim diumenge ?
+Com està la meteorologia el pròxim diumenge a {location}?
+Com està la meteorologia el pròxim divendres ?
+Com està la meteorologia el pròxim divendres a {location}?
+Com està la meteorologia el següent dijous ?
+Com està la meteorologia el següent dijous a {location}?
+Com està la meteorologia el següent dilluns ?
+Com està la meteorologia el següent dilluns a {location}?
+Com està la meteorologia el següent dimarts ?
+Com està la meteorologia el següent dimarts a {location}?
+Com està la meteorologia el següent dimecres ?
+Com està la meteorologia el següent dimecres a {location}?
+Com està la meteorologia el següent dissabte ?
+Com està la meteorologia el següent dissabte a {location}?
+Com està la meteorologia el següent diumenge ?
+Com està la meteorologia el següent diumenge a {location}?
+Com està la meteorologia el següent divendres ?
+Com està la meteorologia el següent divendres a {location}?
+Com està la previsió el proper dijous ?
+Com està la previsió el proper dijous a {location}?
+Com està la previsió el proper dilluns ?
+Com està la previsió el proper dilluns a {location}?
+Com està la previsió el proper dimarts ?
+Com està la previsió el proper dimarts a {location}?
+Com està la previsió el proper dimecres ?
+Com està la previsió el proper dimecres a {location}?
+Com està la previsió el proper dissabte ?
+Com està la previsió el proper dissabte a {location}?
+Com està la previsió el proper diumenge ?
+Com està la previsió el proper diumenge a {location}?
+Com està la previsió el proper divendres ?
+Com està la previsió el proper divendres a {location}?
+Com està la previsió el pròxim dijous ?
+Com està la previsió el pròxim dijous a {location}?
+Com està la previsió el pròxim dilluns ?
+Com està la previsió el pròxim dilluns a {location}?
+Com està la previsió el pròxim dimarts ?
+Com està la previsió el pròxim dimarts a {location}?
+Com està la previsió el pròxim dimecres ?
+Com està la previsió el pròxim dimecres a {location}?
+Com està la previsió el pròxim dissabte ?
+Com està la previsió el pròxim dissabte a {location}?
+Com està la previsió el pròxim diumenge ?
+Com està la previsió el pròxim diumenge a {location}?
+Com està la previsió el pròxim divendres ?
+Com està la previsió el pròxim divendres a {location}?
+Com està la previsió el següent dijous ?
+Com està la previsió el següent dijous a {location}?
+Com està la previsió el següent dilluns ?
+Com està la previsió el següent dilluns a {location}?
+Com està la previsió el següent dimarts ?
+Com està la previsió el següent dimarts a {location}?
+Com està la previsió el següent dimecres ?
+Com està la previsió el següent dimecres a {location}?
+Com està la previsió el següent dissabte ?
+Com està la previsió el següent dissabte a {location}?
+Com està la previsió el següent diumenge ?
+Com està la previsió el següent diumenge a {location}?
+Com està la previsió el següent divendres ?
+Com està la previsió el següent divendres a {location}?
+Digues-me el temps el proper dijous ?
+Digues-me el temps el proper dijous a {location}?
+Digues-me el temps el proper dilluns ?
+Digues-me el temps el proper dilluns a {location}?
+Digues-me el temps el proper dimarts ?
+Digues-me el temps el proper dimarts a {location}?
+Digues-me el temps el proper dimecres ?
+Digues-me el temps el proper dimecres a {location}?
+Digues-me el temps el proper dissabte ?
+Digues-me el temps el proper dissabte a {location}?
+Digues-me el temps el proper diumenge ?
+Digues-me el temps el proper diumenge a {location}?
+Digues-me el temps el proper divendres ?
+Digues-me el temps el proper divendres a {location}?
+Digues-me el temps el pròxim dijous ?
+Digues-me el temps el pròxim dijous a {location}?
+Digues-me el temps el pròxim dilluns ?
+Digues-me el temps el pròxim dilluns a {location}?
+Digues-me el temps el pròxim dimarts ?
+Digues-me el temps el pròxim dimarts a {location}?
+Digues-me el temps el pròxim dimecres ?
+Digues-me el temps el pròxim dimecres a {location}?
+Digues-me el temps el pròxim dissabte ?
+Digues-me el temps el pròxim dissabte a {location}?
+Digues-me el temps el pròxim diumenge ?
+Digues-me el temps el pròxim diumenge a {location}?
+Digues-me el temps el pròxim divendres ?
+Digues-me el temps el pròxim divendres a {location}?
+Digues-me el temps el següent dijous ?
+Digues-me el temps el següent dijous a {location}?
+Digues-me el temps el següent dilluns ?
+Digues-me el temps el següent dilluns a {location}?
+Digues-me el temps el següent dimarts ?
+Digues-me el temps el següent dimarts a {location}?
+Digues-me el temps el següent dimecres ?
+Digues-me el temps el següent dimecres a {location}?
+Digues-me el temps el següent dissabte ?
+Digues-me el temps el següent dissabte a {location}?
+Digues-me el temps el següent diumenge ?
+Digues-me el temps el següent diumenge a {location}?
+Digues-me el temps el següent divendres ?
+Digues-me el temps el següent divendres a {location}?
+Digues-me l'oratge el proper dijous ?
+Digues-me l'oratge el proper dijous a {location}?
+Digues-me l'oratge el proper dilluns ?
+Digues-me l'oratge el proper dilluns a {location}?
+Digues-me l'oratge el proper dimarts ?
+Digues-me l'oratge el proper dimarts a {location}?
+Digues-me l'oratge el proper dimecres ?
+Digues-me l'oratge el proper dimecres a {location}?
+Digues-me l'oratge el proper dissabte ?
+Digues-me l'oratge el proper dissabte a {location}?
+Digues-me l'oratge el proper diumenge ?
+Digues-me l'oratge el proper diumenge a {location}?
+Digues-me l'oratge el proper divendres ?
+Digues-me l'oratge el proper divendres a {location}?
+Digues-me l'oratge el pròxim dijous ?
+Digues-me l'oratge el pròxim dijous a {location}?
+Digues-me l'oratge el pròxim dilluns ?
+Digues-me l'oratge el pròxim dilluns a {location}?
+Digues-me l'oratge el pròxim dimarts ?
+Digues-me l'oratge el pròxim dimarts a {location}?
+Digues-me l'oratge el pròxim dimecres ?
+Digues-me l'oratge el pròxim dimecres a {location}?
+Digues-me l'oratge el pròxim dissabte ?
+Digues-me l'oratge el pròxim dissabte a {location}?
+Digues-me l'oratge el pròxim diumenge ?
+Digues-me l'oratge el pròxim diumenge a {location}?
+Digues-me l'oratge el pròxim divendres ?
+Digues-me l'oratge el pròxim divendres a {location}?
+Digues-me l'oratge el següent dijous ?
+Digues-me l'oratge el següent dijous a {location}?
+Digues-me l'oratge el següent dilluns ?
+Digues-me l'oratge el següent dilluns a {location}?
+Digues-me l'oratge el següent dimarts ?
+Digues-me l'oratge el següent dimarts a {location}?
+Digues-me l'oratge el següent dimecres ?
+Digues-me l'oratge el següent dimecres a {location}?
+Digues-me l'oratge el següent dissabte ?
+Digues-me l'oratge el següent dissabte a {location}?
+Digues-me l'oratge el següent diumenge ?
+Digues-me l'oratge el següent diumenge a {location}?
+Digues-me l'oratge el següent divendres ?
+Digues-me l'oratge el següent divendres a {location}?
+Digues-me la meteorologia el proper dijous ?
+Digues-me la meteorologia el proper dijous a {location}?
+Digues-me la meteorologia el proper dilluns ?
+Digues-me la meteorologia el proper dilluns a {location}?
+Digues-me la meteorologia el proper dimarts ?
+Digues-me la meteorologia el proper dimarts a {location}?
+Digues-me la meteorologia el proper dimecres ?
+Digues-me la meteorologia el proper dimecres a {location}?
+Digues-me la meteorologia el proper dissabte ?
+Digues-me la meteorologia el proper dissabte a {location}?
+Digues-me la meteorologia el proper diumenge ?
+Digues-me la meteorologia el proper diumenge a {location}?
+Digues-me la meteorologia el proper divendres ?
+Digues-me la meteorologia el proper divendres a {location}?
+Digues-me la meteorologia el pròxim dijous ?
+Digues-me la meteorologia el pròxim dijous a {location}?
+Digues-me la meteorologia el pròxim dilluns ?
+Digues-me la meteorologia el pròxim dilluns a {location}?
+Digues-me la meteorologia el pròxim dimarts ?
+Digues-me la meteorologia el pròxim dimarts a {location}?
+Digues-me la meteorologia el pròxim dimecres ?
+Digues-me la meteorologia el pròxim dimecres a {location}?
+Digues-me la meteorologia el pròxim dissabte ?
+Digues-me la meteorologia el pròxim dissabte a {location}?
+Digues-me la meteorologia el pròxim diumenge ?
+Digues-me la meteorologia el pròxim diumenge a {location}?
+Digues-me la meteorologia el pròxim divendres ?
+Digues-me la meteorologia el pròxim divendres a {location}?
+Digues-me la meteorologia el següent dijous ?
+Digues-me la meteorologia el següent dijous a {location}?
+Digues-me la meteorologia el següent dilluns ?
+Digues-me la meteorologia el següent dilluns a {location}?
+Digues-me la meteorologia el següent dimarts ?
+Digues-me la meteorologia el següent dimarts a {location}?
+Digues-me la meteorologia el següent dimecres ?
+Digues-me la meteorologia el següent dimecres a {location}?
+Digues-me la meteorologia el següent dissabte ?
+Digues-me la meteorologia el següent dissabte a {location}?
+Digues-me la meteorologia el següent diumenge ?
+Digues-me la meteorologia el següent diumenge a {location}?
+Digues-me la meteorologia el següent divendres ?
+Digues-me la meteorologia el següent divendres a {location}?
+Digues-me la previsió el proper dijous ?
+Digues-me la previsió el proper dijous a {location}?
+Digues-me la previsió el proper dilluns ?
+Digues-me la previsió el proper dilluns a {location}?
+Digues-me la previsió el proper dimarts ?
+Digues-me la previsió el proper dimarts a {location}?
+Digues-me la previsió el proper dimecres ?
+Digues-me la previsió el proper dimecres a {location}?
+Digues-me la previsió el proper dissabte ?
+Digues-me la previsió el proper dissabte a {location}?
+Digues-me la previsió el proper diumenge ?
+Digues-me la previsió el proper diumenge a {location}?
+Digues-me la previsió el proper divendres ?
+Digues-me la previsió el proper divendres a {location}?
+Digues-me la previsió el pròxim dijous ?
+Digues-me la previsió el pròxim dijous a {location}?
+Digues-me la previsió el pròxim dilluns ?
+Digues-me la previsió el pròxim dilluns a {location}?
+Digues-me la previsió el pròxim dimarts ?
+Digues-me la previsió el pròxim dimarts a {location}?
+Digues-me la previsió el pròxim dimecres ?
+Digues-me la previsió el pròxim dimecres a {location}?
+Digues-me la previsió el pròxim dissabte ?
+Digues-me la previsió el pròxim dissabte a {location}?
+Digues-me la previsió el pròxim diumenge ?
+Digues-me la previsió el pròxim diumenge a {location}?
+Digues-me la previsió el pròxim divendres ?
+Digues-me la previsió el pròxim divendres a {location}?
+Digues-me la previsió el següent dijous ?
+Digues-me la previsió el següent dijous a {location}?
+Digues-me la previsió el següent dilluns ?
+Digues-me la previsió el següent dilluns a {location}?
+Digues-me la previsió el següent dimarts ?
+Digues-me la previsió el següent dimarts a {location}?
+Digues-me la previsió el següent dimecres ?
+Digues-me la previsió el següent dimecres a {location}?
+Digues-me la previsió el següent dissabte ?
+Digues-me la previsió el següent dissabte a {location}?
+Digues-me la previsió el següent diumenge ?
+Digues-me la previsió el següent diumenge a {location}?
+Digues-me la previsió el següent divendres ?
+Digues-me la previsió el següent divendres a {location}?
+Farà bo  demà ?
+Farà bo  demà a {location}?
+Farà bo després de demà ?
+Farà bo després de demà a {location}?
+Farà bo dijous ?
+Farà bo dijous a {location}?
+Farà bo dilluns ?
+Farà bo dilluns a {location}?
+Farà bo dimarts ?
+Farà bo dimarts a {location}?
+Farà bo dimecres ?
+Farà bo dimecres a {location}?
+Farà bo dissabte ?
+Farà bo dissabte a {location}?
+Farà bo diumenge ?
+Farà bo diumenge a {location}?
+Farà bo divendres ?
+Farà bo divendres a {location}?
+Farà calor  demà ?
+Farà calor  demà a {location}?
+Farà calor després de demà ?
+Farà calor després de demà a {location}?
+Farà calor dijous ?
+Farà calor dijous a {location}?
+Farà calor dilluns ?
+Farà calor dilluns a {location}?
+Farà calor dimarts ?
+Farà calor dimarts a {location}?
+Farà calor dimecres ?
+Farà calor dimecres a {location}?
+Farà calor dissabte ?
+Farà calor dissabte a {location}?
+Farà calor diumenge ?
+Farà calor diumenge a {location}?
+Farà calor divendres ?
+Farà calor divendres a {location}?
+Farà fred  demà ?
+Farà fred  demà a {location}?
+Farà fred després de demà ?
+Farà fred després de demà a {location}?
+Farà fred dijous ?
+Farà fred dijous a {location}?
+Farà fred dilluns ?
+Farà fred dilluns a {location}?
+Farà fred dimarts ?
+Farà fred dimarts a {location}?
+Farà fred dimecres ?
+Farà fred dimecres a {location}?
+Farà fred dissabte ?
+Farà fred dissabte a {location}?
+Farà fred diumenge ?
+Farà fred diumenge a {location}?
+Farà fred divendres ?
+Farà fred divendres a {location}?
+Hi haurà tempesta  demà ?
+Hi haurà tempesta  demà a {location}?
+Hi haurà tempesta després de demà ?
+Hi haurà tempesta després de demà a {location}?
+Hi haurà tempesta dijous ?
+Hi haurà tempesta dijous a {location}?
+Hi haurà tempesta dilluns ?
+Hi haurà tempesta dilluns a {location}?
+Hi haurà tempesta dimarts ?
+Hi haurà tempesta dimarts a {location}?
+Hi haurà tempesta dimecres ?
+Hi haurà tempesta dimecres a {location}?
+Hi haurà tempesta dissabte ?
+Hi haurà tempesta dissabte a {location}?
+Hi haurà tempesta diumenge ?
+Hi haurà tempesta diumenge a {location}?
+Hi haurà tempesta divendres ?
+Hi haurà tempesta divendres a {location}?
+Nevarà  demà ?
+Nevarà  demà a {location}?
+Nevarà després de demà ?
+Nevarà després de demà a {location}?
+Nevarà dijous ?
+Nevarà dijous a {location}?
+Nevarà dilluns ?
+Nevarà dilluns a {location}?
+Nevarà dimarts ?
+Nevarà dimarts a {location}?
+Nevarà dimecres ?
+Nevarà dimecres a {location}?
+Nevarà dissabte ?
+Nevarà dissabte a {location}?
+Nevarà diumenge ?
+Nevarà diumenge a {location}?
+Nevarà divendres ?
+Nevarà divendres a {location}?
+Plourà  demà ?
+Plourà  demà a {location}?
+Plourà després de demà ?
+Plourà després de demà a {location}?
+Plourà dijous ?
+Plourà dijous a {location}?
+Plourà dilluns ?
+Plourà dilluns a {location}?
+Plourà dimarts ?
+Plourà dimarts a {location}?
+Plourà dimecres ?
+Plourà dimecres a {location}?
+Plourà dissabte ?
+Plourà dissabte a {location}?
+Plourà diumenge ?
+Plourà diumenge a {location}?
+Plourà divendres ?
+Plourà divendres a {location}?
+Quin temps farà  demà ?
+Quin temps farà  demà a {location}?
+Quin temps farà a {location}  demà
+Quin temps farà a {location} després de demà
+Quin temps farà a {location} dijous
+Quin temps farà a {location} dilluns
+Quin temps farà a {location} dimarts
+Quin temps farà a {location} dimecres
+Quin temps farà a {location} dissabte
+Quin temps farà a {location} diumenge?
+Quin temps farà a {location} divendres
+Quin temps farà després de demà ?
+Quin temps farà després de demà a {location}?
+Quin temps farà dijous ?
+Quin temps farà dijous a {location}?
+Quin temps farà dilluns ?
+Quin temps farà dilluns a {location}?
+Quin temps farà dimarts ?
+Quin temps farà dimarts a {location}?
+Quin temps farà dimecres ?
+Quin temps farà dimecres a {location}?
+Quin temps farà dissabte ?
+Quin temps farà dissabte a {location}?
+Quin temps farà diumenge ?
+Quin temps farà diumenge a {location}?
+Quin temps farà divendres ?
+Quin temps farà divendres a {location}?
+Quin temps hi haurà  demà ?
+Quin temps hi haurà  demà a {location}?
+Quin temps hi haurà després de demà ?
+Quin temps hi haurà després de demà a {location}?
+Quin temps hi haurà dijous ?
+Quin temps hi haurà dijous a {location}?
+Quin temps hi haurà dilluns ?
+Quin temps hi haurà dilluns a {location}?
+Quin temps hi haurà dimarts ?
+Quin temps hi haurà dimarts a {location}?
+Quin temps hi haurà dimecres ?
+Quin temps hi haurà dimecres a {location}?
+Quin temps hi haurà dissabte ?
+Quin temps hi haurà dissabte a {location}?
+Quin temps hi haurà diumenge ?
+Quin temps hi haurà diumenge a {location}?
+Quin temps hi haurà divendres ?
+Quin temps hi haurà divendres a {location}?
+Quin és el temps el proper dijous ?
+Quin és el temps el proper dijous a {location}?
+Quin és el temps el proper dilluns ?
+Quin és el temps el proper dilluns a {location}?
+Quin és el temps el proper dimarts ?
+Quin és el temps el proper dimarts a {location}?
+Quin és el temps el proper dimecres ?
+Quin és el temps el proper dimecres a {location}?
+Quin és el temps el proper dissabte ?
+Quin és el temps el proper dissabte a {location}?
+Quin és el temps el proper diumenge ?
+Quin és el temps el proper diumenge a {location}?
+Quin és el temps el proper divendres ?
+Quin és el temps el proper divendres a {location}?
+Quin és el temps el pròxim dijous ?
+Quin és el temps el pròxim dijous a {location}?
+Quin és el temps el pròxim dilluns ?
+Quin és el temps el pròxim dilluns a {location}?
+Quin és el temps el pròxim dimarts ?
+Quin és el temps el pròxim dimarts a {location}?
+Quin és el temps el pròxim dimecres ?
+Quin és el temps el pròxim dimecres a {location}?
+Quin és el temps el pròxim dissabte ?
+Quin és el temps el pròxim dissabte a {location}?
+Quin és el temps el pròxim diumenge ?
+Quin és el temps el pròxim diumenge a {location}?
+Quin és el temps el pròxim divendres ?
+Quin és el temps el pròxim divendres a {location}?
+Quin és el temps el següent dijous ?
+Quin és el temps el següent dijous a {location}?
+Quin és el temps el següent dilluns ?
+Quin és el temps el següent dilluns a {location}?
+Quin és el temps el següent dimarts ?
+Quin és el temps el següent dimarts a {location}?
+Quin és el temps el següent dimecres ?
+Quin és el temps el següent dimecres a {location}?
+Quin és el temps el següent dissabte ?
+Quin és el temps el següent dissabte a {location}?
+Quin és el temps el següent diumenge ?
+Quin és el temps el següent diumenge a {location}?
+Quin és el temps el següent divendres ?
+Quin és el temps el següent divendres a {location}?
+Quin és l'oratge el proper dijous ?
+Quin és l'oratge el proper dijous a {location}?
+Quin és l'oratge el proper dilluns ?
+Quin és l'oratge el proper dilluns a {location}?
+Quin és l'oratge el proper dimarts ?
+Quin és l'oratge el proper dimarts a {location}?
+Quin és l'oratge el proper dimecres ?
+Quin és l'oratge el proper dimecres a {location}?
+Quin és l'oratge el proper dissabte ?
+Quin és l'oratge el proper dissabte a {location}?
+Quin és l'oratge el proper diumenge ?
+Quin és l'oratge el proper diumenge a {location}?
+Quin és l'oratge el proper divendres ?
+Quin és l'oratge el proper divendres a {location}?
+Quin és l'oratge el pròxim dijous ?
+Quin és l'oratge el pròxim dijous a {location}?
+Quin és l'oratge el pròxim dilluns ?
+Quin és l'oratge el pròxim dilluns a {location}?
+Quin és l'oratge el pròxim dimarts ?
+Quin és l'oratge el pròxim dimarts a {location}?
+Quin és l'oratge el pròxim dimecres ?
+Quin és l'oratge el pròxim dimecres a {location}?
+Quin és l'oratge el pròxim dissabte ?
+Quin és l'oratge el pròxim dissabte a {location}?
+Quin és l'oratge el pròxim diumenge ?
+Quin és l'oratge el pròxim diumenge a {location}?
+Quin és l'oratge el pròxim divendres ?
+Quin és l'oratge el pròxim divendres a {location}?
+Quin és l'oratge el següent dijous ?
+Quin és l'oratge el següent dijous a {location}?
+Quin és l'oratge el següent dilluns ?
+Quin és l'oratge el següent dilluns a {location}?
+Quin és l'oratge el següent dimarts ?
+Quin és l'oratge el següent dimarts a {location}?
+Quin és l'oratge el següent dimecres ?
+Quin és l'oratge el següent dimecres a {location}?
+Quin és l'oratge el següent dissabte ?
+Quin és l'oratge el següent dissabte a {location}?
+Quin és l'oratge el següent diumenge ?
+Quin és l'oratge el següent diumenge a {location}?
+Quin és l'oratge el següent divendres ?
+Quin és l'oratge el següent divendres a {location}?
+Quin és la meteorologia el proper dijous ?
+Quin és la meteorologia el proper dijous a {location}?
+Quin és la meteorologia el proper dilluns ?
+Quin és la meteorologia el proper dilluns a {location}?
+Quin és la meteorologia el proper dimarts ?
+Quin és la meteorologia el proper dimarts a {location}?
+Quin és la meteorologia el proper dimecres ?
+Quin és la meteorologia el proper dimecres a {location}?
+Quin és la meteorologia el proper dissabte ?
+Quin és la meteorologia el proper dissabte a {location}?
+Quin és la meteorologia el proper diumenge ?
+Quin és la meteorologia el proper diumenge a {location}?
+Quin és la meteorologia el proper divendres ?
+Quin és la meteorologia el proper divendres a {location}?
+Quin és la meteorologia el pròxim dijous ?
+Quin és la meteorologia el pròxim dijous a {location}?
+Quin és la meteorologia el pròxim dilluns ?
+Quin és la meteorologia el pròxim dilluns a {location}?
+Quin és la meteorologia el pròxim dimarts ?
+Quin és la meteorologia el pròxim dimarts a {location}?
+Quin és la meteorologia el pròxim dimecres ?
+Quin és la meteorologia el pròxim dimecres a {location}?
+Quin és la meteorologia el pròxim dissabte ?
+Quin és la meteorologia el pròxim dissabte a {location}?
+Quin és la meteorologia el pròxim diumenge ?
+Quin és la meteorologia el pròxim diumenge a {location}?
+Quin és la meteorologia el pròxim divendres ?
+Quin és la meteorologia el pròxim divendres a {location}?
+Quin és la meteorologia el següent dijous ?
+Quin és la meteorologia el següent dijous a {location}?
+Quin és la meteorologia el següent dilluns ?
+Quin és la meteorologia el següent dilluns a {location}?
+Quin és la meteorologia el següent dimarts ?
+Quin és la meteorologia el següent dimarts a {location}?
+Quin és la meteorologia el següent dimecres ?
+Quin és la meteorologia el següent dimecres a {location}?
+Quin és la meteorologia el següent dissabte ?
+Quin és la meteorologia el següent dissabte a {location}?
+Quin és la meteorologia el següent diumenge ?
+Quin és la meteorologia el següent diumenge a {location}?
+Quin és la meteorologia el següent divendres ?
+Quin és la meteorologia el següent divendres a {location}?
+Quin és la previsió el proper dijous ?
+Quin és la previsió el proper dijous a {location}?
+Quin és la previsió el proper dilluns ?
+Quin és la previsió el proper dilluns a {location}?
+Quin és la previsió el proper dimarts ?
+Quin és la previsió el proper dimarts a {location}?
+Quin és la previsió el proper dimecres ?
+Quin és la previsió el proper dimecres a {location}?
+Quin és la previsió el proper dissabte ?
+Quin és la previsió el proper dissabte a {location}?
+Quin és la previsió el proper diumenge ?
+Quin és la previsió el proper diumenge a {location}?
+Quin és la previsió el proper divendres ?
+Quin és la previsió el proper divendres a {location}?
+Quin és la previsió el pròxim dijous ?
+Quin és la previsió el pròxim dijous a {location}?
+Quin és la previsió el pròxim dilluns ?
+Quin és la previsió el pròxim dilluns a {location}?
+Quin és la previsió el pròxim dimarts ?
+Quin és la previsió el pròxim dimarts a {location}?
+Quin és la previsió el pròxim dimecres ?
+Quin és la previsió el pròxim dimecres a {location}?
+Quin és la previsió el pròxim dissabte ?
+Quin és la previsió el pròxim dissabte a {location}?
+Quin és la previsió el pròxim diumenge ?
+Quin és la previsió el pròxim diumenge a {location}?
+Quin és la previsió el pròxim divendres ?
+Quin és la previsió el pròxim divendres a {location}?
+Quin és la previsió el següent dijous ?
+Quin és la previsió el següent dijous a {location}?
+Quin és la previsió el següent dilluns ?
+Quin és la previsió el següent dilluns a {location}?
+Quin és la previsió el següent dimarts ?
+Quin és la previsió el següent dimarts a {location}?
+Quin és la previsió el següent dimecres ?
+Quin és la previsió el següent dimecres a {location}?
+Quin és la previsió el següent dissabte ?
+Quin és la previsió el següent dissabte a {location}?
+Quin és la previsió el següent diumenge ?
+Quin és la previsió el següent diumenge a {location}?
+Quin és la previsió el següent divendres ?
+Quin és la previsió el següent divendres a {location}?
+Quina temperatura està prevista  demà ?
+Quina temperatura està prevista  demà a {location}?
+Quina temperatura està prevista després de demà ?
+Quina temperatura està prevista després de demà a {location}?
+Quina temperatura està prevista dijous ?
+Quina temperatura està prevista dijous a {location}?
+Quina temperatura està prevista dilluns ?
+Quina temperatura està prevista dilluns a {location}?
+Quina temperatura està prevista dimarts ?
+Quina temperatura està prevista dimarts a {location}?
+Quina temperatura està prevista dimecres ?
+Quina temperatura està prevista dimecres a {location}?
+Quina temperatura està prevista dissabte ?
+Quina temperatura està prevista dissabte a {location}?
+Quina temperatura està prevista diumenge ?
+Quina temperatura està prevista diumenge a {location}?
+Quina temperatura està prevista divendres ?
+Quina temperatura està prevista divendres a {location}?
+Quina és el temps el proper dijous ?
+Quina és el temps el proper dijous a {location}?
+Quina és el temps el proper dilluns ?
+Quina és el temps el proper dilluns a {location}?
+Quina és el temps el proper dimarts ?
+Quina és el temps el proper dimarts a {location}?
+Quina és el temps el proper dimecres ?
+Quina és el temps el proper dimecres a {location}?
+Quina és el temps el proper dissabte ?
+Quina és el temps el proper dissabte a {location}?
+Quina és el temps el proper diumenge ?
+Quina és el temps el proper diumenge a {location}?
+Quina és el temps el proper divendres ?
+Quina és el temps el proper divendres a {location}?
+Quina és el temps el pròxim dijous ?
+Quina és el temps el pròxim dijous a {location}?
+Quina és el temps el pròxim dilluns ?
+Quina és el temps el pròxim dilluns a {location}?
+Quina és el temps el pròxim dimarts ?
+Quina és el temps el pròxim dimarts a {location}?
+Quina és el temps el pròxim dimecres ?
+Quina és el temps el pròxim dimecres a {location}?
+Quina és el temps el pròxim dissabte ?
+Quina és el temps el pròxim dissabte a {location}?
+Quina és el temps el pròxim diumenge ?
+Quina és el temps el pròxim diumenge a {location}?
+Quina és el temps el pròxim divendres ?
+Quina és el temps el pròxim divendres a {location}?
+Quina és el temps el següent dijous ?
+Quina és el temps el següent dijous a {location}?
+Quina és el temps el següent dilluns ?
+Quina és el temps el següent dilluns a {location}?
+Quina és el temps el següent dimarts ?
+Quina és el temps el següent dimarts a {location}?
+Quina és el temps el següent dimecres ?
+Quina és el temps el següent dimecres a {location}?
+Quina és el temps el següent dissabte ?
+Quina és el temps el següent dissabte a {location}?
+Quina és el temps el següent diumenge ?
+Quina és el temps el següent diumenge a {location}?
+Quina és el temps el següent divendres ?
+Quina és el temps el següent divendres a {location}?
+Quina és l'oratge el proper dijous ?
+Quina és l'oratge el proper dijous a {location}?
+Quina és l'oratge el proper dilluns ?
+Quina és l'oratge el proper dilluns a {location}?
+Quina és l'oratge el proper dimarts ?
+Quina és l'oratge el proper dimarts a {location}?
+Quina és l'oratge el proper dimecres ?
+Quina és l'oratge el proper dimecres a {location}?
+Quina és l'oratge el proper dissabte ?
+Quina és l'oratge el proper dissabte a {location}?
+Quina és l'oratge el proper diumenge ?
+Quina és l'oratge el proper diumenge a {location}?
+Quina és l'oratge el proper divendres ?
+Quina és l'oratge el proper divendres a {location}?
+Quina és l'oratge el pròxim dijous ?
+Quina és l'oratge el pròxim dijous a {location}?
+Quina és l'oratge el pròxim dilluns ?
+Quina és l'oratge el pròxim dilluns a {location}?
+Quina és l'oratge el pròxim dimarts ?
+Quina és l'oratge el pròxim dimarts a {location}?
+Quina és l'oratge el pròxim dimecres ?
+Quina és l'oratge el pròxim dimecres a {location}?
+Quina és l'oratge el pròxim dissabte ?
+Quina és l'oratge el pròxim dissabte a {location}?
+Quina és l'oratge el pròxim diumenge ?
+Quina és l'oratge el pròxim diumenge a {location}?
+Quina és l'oratge el pròxim divendres ?
+Quina és l'oratge el pròxim divendres a {location}?
+Quina és l'oratge el següent dijous ?
+Quina és l'oratge el següent dijous a {location}?
+Quina és l'oratge el següent dilluns ?
+Quina és l'oratge el següent dilluns a {location}?
+Quina és l'oratge el següent dimarts ?
+Quina és l'oratge el següent dimarts a {location}?
+Quina és l'oratge el següent dimecres ?
+Quina és l'oratge el següent dimecres a {location}?
+Quina és l'oratge el següent dissabte ?
+Quina és l'oratge el següent dissabte a {location}?
+Quina és l'oratge el següent diumenge ?
+Quina és l'oratge el següent diumenge a {location}?
+Quina és l'oratge el següent divendres ?
+Quina és l'oratge el següent divendres a {location}?
+Quina és la meteorologia el proper dijous ?
+Quina és la meteorologia el proper dijous a {location}?
+Quina és la meteorologia el proper dilluns ?
+Quina és la meteorologia el proper dilluns a {location}?
+Quina és la meteorologia el proper dimarts ?
+Quina és la meteorologia el proper dimarts a {location}?
+Quina és la meteorologia el proper dimecres ?
+Quina és la meteorologia el proper dimecres a {location}?
+Quina és la meteorologia el proper dissabte ?
+Quina és la meteorologia el proper dissabte a {location}?
+Quina és la meteorologia el proper diumenge ?
+Quina és la meteorologia el proper diumenge a {location}?
+Quina és la meteorologia el proper divendres ?
+Quina és la meteorologia el proper divendres a {location}?
+Quina és la meteorologia el pròxim dijous ?
+Quina és la meteorologia el pròxim dijous a {location}?
+Quina és la meteorologia el pròxim dilluns ?
+Quina és la meteorologia el pròxim dilluns a {location}?
+Quina és la meteorologia el pròxim dimarts ?
+Quina és la meteorologia el pròxim dimarts a {location}?
+Quina és la meteorologia el pròxim dimecres ?
+Quina és la meteorologia el pròxim dimecres a {location}?
+Quina és la meteorologia el pròxim dissabte ?
+Quina és la meteorologia el pròxim dissabte a {location}?
+Quina és la meteorologia el pròxim diumenge ?
+Quina és la meteorologia el pròxim diumenge a {location}?
+Quina és la meteorologia el pròxim divendres ?
+Quina és la meteorologia el pròxim divendres a {location}?
+Quina és la meteorologia el següent dijous ?
+Quina és la meteorologia el següent dijous a {location}?
+Quina és la meteorologia el següent dilluns ?
+Quina és la meteorologia el següent dilluns a {location}?
+Quina és la meteorologia el següent dimarts ?
+Quina és la meteorologia el següent dimarts a {location}?
+Quina és la meteorologia el següent dimecres ?
+Quina és la meteorologia el següent dimecres a {location}?
+Quina és la meteorologia el següent dissabte ?
+Quina és la meteorologia el següent dissabte a {location}?
+Quina és la meteorologia el següent diumenge ?
+Quina és la meteorologia el següent diumenge a {location}?
+Quina és la meteorologia el següent divendres ?
+Quina és la meteorologia el següent divendres a {location}?
+Quina és la previsió el proper dijous ?
+Quina és la previsió el proper dijous a {location}?
+Quina és la previsió el proper dilluns ?
+Quina és la previsió el proper dilluns a {location}?
+Quina és la previsió el proper dimarts ?
+Quina és la previsió el proper dimarts a {location}?
+Quina és la previsió el proper dimecres ?
+Quina és la previsió el proper dimecres a {location}?
+Quina és la previsió el proper dissabte ?
+Quina és la previsió el proper dissabte a {location}?
+Quina és la previsió el proper diumenge ?
+Quina és la previsió el proper diumenge a {location}?
+Quina és la previsió el proper divendres ?
+Quina és la previsió el proper divendres a {location}?
+Quina és la previsió el pròxim dijous ?
+Quina és la previsió el pròxim dijous a {location}?
+Quina és la previsió el pròxim dilluns ?
+Quina és la previsió el pròxim dilluns a {location}?
+Quina és la previsió el pròxim dimarts ?
+Quina és la previsió el pròxim dimarts a {location}?
+Quina és la previsió el pròxim dimecres ?
+Quina és la previsió el pròxim dimecres a {location}?
+Quina és la previsió el pròxim dissabte ?
+Quina és la previsió el pròxim dissabte a {location}?
+Quina és la previsió el pròxim diumenge ?
+Quina és la previsió el pròxim diumenge a {location}?
+Quina és la previsió el pròxim divendres ?
+Quina és la previsió el pròxim divendres a {location}?
+Quina és la previsió el següent dijous ?
+Quina és la previsió el següent dijous a {location}?
+Quina és la previsió el següent dilluns ?
+Quina és la previsió el següent dilluns a {location}?
+Quina és la previsió el següent dimarts ?
+Quina és la previsió el següent dimarts a {location}?
+Quina és la previsió el següent dimecres ?
+Quina és la previsió el següent dimecres a {location}?
+Quina és la previsió el següent dissabte ?
+Quina és la previsió el següent dissabte a {location}?
+Quina és la previsió el següent diumenge ?
+Quina és la previsió el següent diumenge a {location}?
+Quina és la previsió el següent divendres ?
+Quina és la previsió el següent divendres a {location}?
+Quina és la previsió per  demà ?
+Quina és la previsió per  demà a {location}?
+Quina és la previsió per després de demà ?
+Quina és la previsió per després de demà a {location}?
+Quina és la previsió per dijous ?
+Quina és la previsió per dijous a {location}?
+Quina és la previsió per dilluns ?
+Quina és la previsió per dilluns a {location}?
+Quina és la previsió per dimarts ?
+Quina és la previsió per dimarts a {location}?
+Quina és la previsió per dimecres ?
+Quina és la previsió per dimecres a {location}?
+Quina és la previsió per dissabte ?
+Quina és la previsió per dissabte a {location}?
+Quina és la previsió per diumenge ?
+Quina és la previsió per diumenge a {location}?
+Quina és la previsió per divendres ?
+Quina és la previsió per divendres a {location}?
+Què m'he d'esperar  demà ?
+Què m'he d'esperar  demà a {location}?
+Què m'he d'esperar després de demà ?
+Què m'he d'esperar després de demà a {location}?
+Què m'he d'esperar dijous ?
+Què m'he d'esperar dijous a {location}?
+Què m'he d'esperar dilluns ?
+Què m'he d'esperar dilluns a {location}?
+Què m'he d'esperar dimarts ?
+Què m'he d'esperar dimarts a {location}?
+Què m'he d'esperar dimecres ?
+Què m'he d'esperar dimecres a {location}?
+Què m'he d'esperar dissabte ?
+Què m'he d'esperar dissabte a {location}?
+Què m'he d'esperar diumenge ?
+Què m'he d'esperar diumenge a {location}?
+Què m'he d'esperar divendres ?
+Què m'he d'esperar divendres a {location}?

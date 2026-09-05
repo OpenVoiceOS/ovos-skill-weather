@@ -1,0 +1,7 @@
+(current|the) humidity [level] [right now] [in {location}]
+what's the (humidity level|air moisture level) [right now] [in {location}]
+humidity percentage [right now] [in {location}]
+how humid is it [right now|today|outside] [in {location}]
+is it (humid|muggy) [right now|today|outside] [in {location}]
+is the air (dry or moist|moist or dry) [today] [in {location}]
+do I need a humidifier [today] [in {location}]

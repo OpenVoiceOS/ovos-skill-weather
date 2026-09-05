@@ -1,0 +1,346 @@
+Com de clar està el cel ?
+Com de clar està el cel a {location}?
+Com de net està el cel ?
+Com de net està el cel a {location}?
+El cel està encapotat ?
+El cel està encapotat a {location}?
+El cel està encapotat ara mateix ?
+El cel està encapotat ara mateix a {location}?
+El cel està encapotat avui ?
+El cel està encapotat avui a {location}?
+El cel està encapotat hui ?
+El cel està encapotat hui a {location}?
+El cel està tapat ?
+El cel està tapat a {location}?
+El cel està tapat ara mateix ?
+El cel està tapat ara mateix a {location}?
+El cel està tapat avui ?
+El cel està tapat avui a {location}?
+El cel està tapat hui ?
+El cel està tapat hui a {location}?
+Fa sol ?
+Fa sol a {location}?
+Fa sol avui ?
+Fa sol avui a {location}?
+Fa sol hui ?
+Fa sol hui a {location}?
+Fa sol today ?
+Fa sol today a {location}?
+Fa un dia clar ?
+Fa un dia clar a {location}?
+Fa un dia clar today ?
+Fa un dia clar today a {location}?
+Fa un dia gris ?
+Fa un dia gris a {location}?
+Fa un dia trist ?
+Fa un dia trist a {location}?
+Farà sol avui ?
+Farà sol avui a {location}?
+Farà sol hui ?
+Farà sol hui a {location}?
+Hi ha nuvolositat ?
+Hi ha nuvolositat a {location}?
+Hi ha nuvolositat avui ?
+Hi ha nuvolositat avui a {location}?
+Hi ha nuvolositat hui ?
+Hi ha nuvolositat hui a {location}?
+Puc esperar que el cel estiga clar ?
+Puc esperar que el cel estiga clar a {location}?
+Puc esperar que el cel estigui clar ?
+Puc esperar que el cel estigui clar a {location}?
+Puc esperar que faci sol ?
+Puc esperar que faci sol a {location}?
+Puc esperar que faça sol ?
+Puc esperar que faça sol a {location}?
+està ennuvolat
+està ennuvolat a {location}
+està ennuvolat avui
+està ennuvolat avui a {location}
+està ennuvolat demà
+està ennuvolat demà a {location}
+estarà ennuvolat
+estarà ennuvolat a {location}
+estarà ennuvolat avui
+estarà ennuvolat avui a {location}
+estarà ennuvolat demà
+estarà ennuvolat demà a {location}
+serà ennuvolat
+serà ennuvolat a {location}
+serà ennuvolat avui
+serà ennuvolat avui a {location}
+serà ennuvolat demà
+serà ennuvolat demà a {location}
+hi ha núvols
+hi ha núvols a {location}
+hi ha núvols avui
+hi ha núvols avui a {location}
+hi ha núvols demà
+hi ha núvols demà a {location}
+hi haurà núvols
+hi haurà núvols a {location}
+hi haurà núvols avui
+hi haurà núvols avui a {location}
+hi haurà núvols demà
+hi haurà núvols demà a {location}
+Hi ha alertes per boira actives ?
+Hi ha alertes per boira actives a {location}?
+Hi ha alertes per boira en vigor ?
+Hi ha alertes per boira en vigor a {location}?
+Hi ha avisos per boira actives ?
+Hi ha avisos per boira actives a {location}?
+Hi ha avisos per boira en vigor ?
+Hi ha avisos per boira en vigor a {location}?
+Hi ha boira ?
+Hi ha boira a {location}?
+Hi ha boira al carrer ?
+Hi ha boira al carrer a {location}?
+Hi ha boira ara mateix ?
+Hi ha boira ara mateix a {location}?
+Hi ha boira avui ?
+Hi ha boira avui a {location}?
+Hi ha boira hui ?
+Hi ha boira hui a {location}?
+Hi ha visibilitat baixa per la boira ?
+Hi ha visibilitat baixa per la boira a {location}?
+Hi ha visibilitat reduïda per la boira ?
+Hi ha visibilitat reduïda per la boira a {location}?
+Hi haurà boira aquest matí ?
+Hi haurà boira aquest matí a {location}?
+Hi haurà boira aquest vespre ?
+Hi haurà boira aquest vespre a {location}?
+Hi haurà boira esta vesprada ?
+Hi haurà boira esta vesprada a {location}?
+Hi haurà boira este matí ?
+Hi haurà boira este matí a {location}?
+La boira m'afectarà el desplaçament a la feina ?
+La boira m'afectarà el desplaçament a la feina a {location}?
+La boira m'afectarà el trajecte a la feina ?
+La boira m'afectarà el trajecte a la feina a {location}?
+M'he de preocupar per la boira ?
+M'he de preocupar per la boira a {location}?
+M'he de preocupar per la boira avui ?
+M'he de preocupar per la boira avui a {location}?
+M'he de preocupar per la boira hui ?
+M'he de preocupar per la boira hui a {location}?
+S'espera boira ?
+S'espera boira a {location}?
+S'espera boira densa per aquesta nit ?
+S'espera boira densa per aquesta nit a {location}?
+S'espera boira densa per esta nit ?
+S'espera boira densa per esta nit a {location}?
+S'espera boira espessa per aquesta nit ?
+S'espera boira espessa per aquesta nit a {location}?
+S'espera boira espessa per esta nit ?
+S'espera boira espessa per esta nit a {location}?
+Tenim visibilitat baixa per la boira ?
+Tenim visibilitat baixa per la boira a {location}?
+Tenim visibilitat reduïda per la boira ?
+Tenim visibilitat reduïda per la boira a {location}?
+Demà em caldrà impermeable?
+Demà em farà falta paraigua?
+Demà plourà ?
+Demà plourà a {location}?
+Em fa falta el paraigua per anar a la feina?
+Hauria de tenir pla B per si plou?
+Hauria de tenir pla alternatiu per si plou?
+He d'agafar paraigua?
+He d'agafar el paraigua?
+He d'agafar paraigua pel viatge?
+He de prendre precaucions per si plou?
+He de preparar-me per si hi ha ruixats?
+He de tenir pla B per si plou?
+He de tenir pla alternatiu per si plou?
+He de vigilar per si hi ha ruixats?
+Hi ha possibilitat de pluja demà?
+Hi ha possibilitats de pluja ?
+Hi ha possibilitats de pluja avui?
+Hi ha possibilitats de pluja hui?
+Hi ha possibilitats que ploga ?
+Hi ha possibilitats que ploga a {location}?
+Hi ha possibilitats que ploga avui ?
+Hi ha possibilitats que ploga avui a {location}?
+Hi ha possibilitats que ploga hui ?
+Hi ha possibilitats que ploga hui a {location}?
+Hi ha possibilitats que plogui ?
+Hi ha possibilitats que plogui a {location}?
+Hi ha possibilitats que plogui avui ?
+Hi ha possibilitats que plogui avui a {location}?
+Hi ha possibilitats que plogui hui ?
+Hi ha possibilitats que plogui hui a {location}?
+Hi ha previsió de pluja ?
+Hi ha previsió de pluja a {location}?
+Hi haurà ruixats ?
+Hi haurà ruixats avui?
+Hi haurà ruixats hui?
+La previsió anuncia pluja ?
+La previsió anuncia pluja a {location}?
+La previsió del temps anuncia pluja ?
+La previsió del temps anuncia pluja a {location}?
+La previsió meteorològica anuncia pluja ?
+La previsió meteorològica anuncia pluja a {location}?
+M'emporto un barret impermeable?
+M'he d'emportar paraigua al parc?
+M'he d'emportar el paraigua al parc?
+M'he d'emportar les botes d'aigua?
+M'he d'emportar les botes de pluja?
+M'he d'endur impermeable?
+M'he d'endur paraigua ?
+M'he d'endur paraigua a l'esdeveniment?
+M'he d'endur paraigua a la bossa?
+M'he d'endur paraigua avui?
+M'he d'endur paraigua hui?
+M'he de preocupar per si plou ?
+M'he de preocupar per si plou a {location}?
+M'he de preparar per aiguats?
+M'he de preparar per si hi ha aiguats?
+M'he de preparar per si plou ?
+M'he de preparar per si plou a {location}?
+M'he de preparar per si plou?
+M'he de protegir de la pluja?
+M'he de vestir per si plou?
+Plou ?
+Plou a {location}?
+Plou avui ?
+Plou avui a {location}?
+Plou hui ?
+Plou hui a {location}?
+Plourà ?
+Plourà a {location}?
+Plourà el cap de setmana?
+Plourà a fora?
+Plourà avui ?
+Plourà avui a {location}?
+Plourà avui?
+Plourà durant el cap de setmana?
+Plourà fort ?
+Plourà fort a {location}?
+Plourà hui ?
+Plourà hui a {location}?
+Plourà hui?
+Plourà molt ?
+Plourà molt a {location}?
+S'espera pluja després ?
+S'espera pluja després a {location}?
+S'espera pluja més tard ?
+S'espera pluja més tard a {location}?
+S'espera que ploga a la vesprada ?
+S'espera que ploga a la vesprada a {location}?
+S'espera que ploga al vespre ?
+S'espera que ploga al vespre a {location}?
+S'espera que plogui a la vesprada ?
+S'espera que plogui a la vesprada a {location}?
+S'espera que plogui al vespre ?
+S'espera que plogui al vespre a {location}?
+Serà un dia de pluja ?
+Serà un dia de pluja a {location}?
+Serà un dia plujós ?
+Serà un dia plujós a {location}?
+T'enduries un barret impermeable?
+Tindrem pluja el cap de setmana?
+Tindrem pluja ?
+Tindrem pluja avui?
+Tindrem pluja durant el cap de setmana?
+Tindrem pluja hui?
+Tindrem precipitacions el cap de setmana?
+Tindrem precipitacions durant el cap de setmana?
+Tindrem un dia de pluja ?
+Tindrem un dia de pluja a {location}?
+Tindrem un dia plujós ?
+Tindrem un dia plujós a {location}?
+tindrem precipitacions ?
+tindrem precipitacions avui?
+tindrem precipitacions hui?
+És possible que ploga ?
+És possible que ploga a {location}?
+És possible que ploga avui ?
+És possible que ploga avui a {location}?
+És possible que ploga hui ?
+És possible que ploga hui a {location}?
+És possible que plogui ?
+És possible que plogui a {location}?
+És possible que plogui avui ?
+És possible que plogui avui a {location}?
+És possible que plogui hui ?
+És possible que plogui hui a {location}?
+Avui neva ?
+Avui neva a {location}?
+Avui nevarà ?
+Avui nevarà a {location}?
+Es preveu neu ?
+Es preveu neu a {location}?
+Hui neva ?
+Hui neva a {location}?
+Hui nevarà ?
+Hui nevarà a {location}?
+La previsió ha anunciat neu ?
+La previsió ha anunciat neu a {location}?
+M'he de preparar per acumulacions de neu ?
+M'he de preparar per acumulacions de neu a {location}?
+M'he de preparar per la neu ?
+M'he de preparar per la neu a {location}?
+Nevarà aquesta nit ?
+Nevarà aquesta nit a {location}?
+Nevarà avui ?
+Nevarà avui a {location}?
+Nevarà esta nit ?
+Nevarà esta nit a {location}?
+Nevarà hui ?
+Nevarà hui a {location}?
+Quanta neu s'espera ?
+Quanta neu s'espera a {location}?
+S'espera neu ?
+S'espera neu a {location}?
+S'espera que les carreteres estiguen gelades ?
+S'espera que les carreteres estiguen gelades a {location}?
+S'espera que les carreteres estiguen nevades ?
+S'espera que les carreteres estiguen nevades a {location}?
+S'espera que les carreteres estiguin gelades ?
+S'espera que les carreteres estiguin gelades a {location}?
+S'espera que les carreteres estiguin nevades ?
+S'espera que les carreteres estiguin nevades a {location}?
+neva ?
+neva a {location}?
+Hi ha alertes per tempesta ?
+Hi ha alertes per tempesta a {location}?
+Hi ha alertes per tempesta avui ?
+Hi ha alertes per tempesta avui a {location}?
+Hi ha alertes per tempesta hui ?
+Hi ha alertes per tempesta hui a {location}?
+Hi ha alguna alerta per tempesta ?
+Hi ha alguna alerta per tempesta a {location}?
+Hi ha alguna alerta per tempesta avui ?
+Hi ha alguna alerta per tempesta avui a {location}?
+Hi ha alguna alerta per tempesta hui ?
+Hi ha alguna alerta per tempesta hui a {location}?
+Hi ha avisos per condicions atmosfèriques adverses ?
+Hi ha avisos per condicions atmosfèriques adverses a {location}?
+Hi ha llamps i trons ?
+Hi ha llamps i trons a {location}?
+Hi ha llamps i trons avui ?
+Hi ha llamps i trons avui a {location}?
+Hi ha llamps i trons hui ?
+Hi ha llamps i trons hui a {location}?
+Hi ha possibilitats de tempesta ?
+Hi ha possibilitats de tempesta a {location}?
+Hi ha tempesta ?
+Hi ha tempesta a {location}?
+Hi ha tempesta avui ?
+Hi ha tempesta avui a {location}?
+Hi ha tempesta hui ?
+Hi ha tempesta hui a {location}?
+Hi haurà tempesta ?
+Hi haurà tempesta a {location}?
+Hi haurà tempestat ?
+Hi haurà tempestat a {location}?
+M'he de preparar per si hi ha tempesta ?
+M'he de preparar per si hi ha tempesta a {location}?
+M'he de quedar a casa pel mal temps ?
+M'he de quedar a casa pel mal temps a {location}?
+M'he de quedar a casa per la tempesta ?
+M'he de quedar a casa per la tempesta a {location}?
+S'esperen condicions atmosfèriques adverses ?
+S'esperen condicions atmosfèriques adverses a {location}?
+S'esperen tempestes ?
+S'esperen tempestes a {location}?
+S'ha anunciat tempesta ?
+S'ha anunciat tempesta a {location}?

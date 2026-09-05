@@ -1,0 +1,622 @@
+¿Está el cielo apagado ?
+¿Está el cielo apagado en {location}?
+¿Está el cielo con sol ?
+¿Está el cielo con sol en {location}?
+¿Está el cielo con sol hoy ?
+¿Está el cielo con sol hoy en {location}?
+¿Está el cielo cubierto ?
+¿Está el cielo cubierto en {location}?
+¿Está el cielo cubierto ahora mismo ?
+¿Está el cielo cubierto ahora mismo en {location}?
+¿Está el cielo cubierto hoy ?
+¿Está el cielo cubierto hoy en {location}?
+¿Está el cielo despejado ?
+¿Está el cielo despejado en {location}?
+¿Está el cielo despejado hoy ?
+¿Está el cielo despejado hoy en {location}?
+¿Está el cielo feo ?
+¿Está el cielo feo en {location}?
+¿Está el cielo gris ?
+¿Está el cielo gris en {location}?
+¿Está el cielo sin nubes ?
+¿Está el cielo sin nubes en {location}?
+¿Está el cielo sin nubes hoy ?
+¿Está el cielo sin nubes hoy en {location}?
+¿Está el cielo sin una nube ?
+¿Está el cielo sin una nube en {location}?
+¿Está el cielo sin una nube hoy ?
+¿Está el cielo sin una nube hoy en {location}?
+¿Está el cielo soleado ?
+¿Está el cielo soleado en {location}?
+¿Está el cielo soleado hoy ?
+¿Está el cielo soleado hoy en {location}?
+¿Está el cielo triste ?
+¿Está el cielo triste en {location}?
+¿Está el día apagado ?
+¿Está el día apagado en {location}?
+¿Está el día feo ?
+¿Está el día feo en {location}?
+¿Está el día gris ?
+¿Está el día gris en {location}?
+¿Está el día triste ?
+¿Está el día triste en {location}?
+¿Hace sol ?
+¿Hace sol en {location}?
+¿Hace sol hoy ?
+¿Hace sol hoy en {location}?
+¿Hará sol hoy ?
+¿Hará sol hoy en {location}?
+¿Hay nubosidad alguna ?
+¿Hay nubosidad alguna en {location}?
+¿Hay nubosidad alguna hoy ?
+¿Hay nubosidad alguna hoy en {location}?
+¿Hay sol ?
+¿Hay sol en {location}?
+¿Hay sol hoy ?
+¿Hay sol hoy en {location}?
+¿Puedo esperar cielos despejados ?
+¿Puedo esperar cielos despejados en {location}?
+¿Puedo esperar sol ?
+¿Puedo esperar sol en {location}?
+¿Qué tan despejado está el cielo ?
+¿Qué tan despejado está el cielo en {location}?
+está nublado
+está nublado en {location}
+está nublado hoy
+está nublado hoy en {location}
+está nublado mañana
+está nublado mañana en {location}
+estará nublado
+estará nublado en {location}
+estará nublado hoy
+estará nublado hoy en {location}
+estará nublado mañana
+estará nublado mañana en {location}
+hay nubes
+hay nubes en {location}
+hay nubes hoy
+hay nubes hoy en {location}
+hay nubes mañana
+hay nubes mañana en {location}
+habrá nubes
+habrá nubes en {location}
+habrá nubes hoy
+habrá nubes hoy en {location}
+habrá nubes mañana
+habrá nubes mañana en {location}
+¿Debería alarmarme por la niebla ?
+¿Debería alarmarme por la niebla en {location}?
+¿Debería alarmarme por la niebla hoy ?
+¿Debería alarmarme por la niebla hoy en {location}?
+¿Debería preocuparme por la niebla ?
+¿Debería preocuparme por la niebla en {location}?
+¿Debería preocuparme por la niebla hoy ?
+¿Debería preocuparme por la niebla hoy en {location}?
+¿Debo alarmarme por la niebla ?
+¿Debo alarmarme por la niebla en {location}?
+¿Debo alarmarme por la niebla hoy ?
+¿Debo alarmarme por la niebla hoy en {location}?
+¿Debo preocuparme por la niebla ?
+¿Debo preocuparme por la niebla en {location}?
+¿Debo preocuparme por la niebla hoy ?
+¿Debo preocuparme por la niebla hoy en {location}?
+¿Habrá niebla densa esta noche ?
+¿Habrá niebla densa esta noche en {location}?
+¿Habrá niebla espesa esta noche ?
+¿Habrá niebla espesa esta noche en {location}?
+¿Habrá niebla esta mañana ?
+¿Habrá niebla esta mañana en {location}?
+¿Habrá niebla esta tarde ?
+¿Habrá niebla esta tarde en {location}?
+¿Hay alertas de niebla funcionando en {location}?
+¿Hay alertas de niebla vigentes en {location}?
+¿Hay avisos de niebla funcionando en {location}?
+¿Hay avisos de niebla vigentes en {location}?
+¿Hay niebla ?
+¿Hay niebla en {location}?
+¿Hay niebla afuera ?
+¿Hay niebla afuera en {location}?
+¿Hay niebla ahora mismo ?
+¿Hay niebla ahora mismo en {location}?
+¿Hay niebla en el exterior ?
+¿Hay niebla en el exterior en {location}?
+¿Hay niebla hoy ?
+¿Hay niebla hoy en {location}?
+¿Hay visibilidad baja a causa de la niebla ?
+¿Hay visibilidad baja a causa de la niebla en {location}?
+¿Hay visibilidad baja debido a la niebla ?
+¿Hay visibilidad baja debido a la niebla en {location}?
+¿Hay visibilidad baja por la niebla ?
+¿Hay visibilidad baja por la niebla en {location}?
+¿Hay visibilidad reducida a causa de la niebla ?
+¿Hay visibilidad reducida a causa de la niebla en {location}?
+¿Hay visibilidad reducida debido a la niebla ?
+¿Hay visibilidad reducida debido a la niebla en {location}?
+¿Hay visibilidad reducida por la niebla ?
+¿Hay visibilidad reducida por la niebla en {location}?
+¿La niebla afectará mi camino diario ?
+¿La niebla afectará mi camino diario a{location}?
+¿La niebla afectará mi camino diario al trabajo ?
+¿La niebla afectará mi camino diario al trabajo a{location}?
+¿La niebla afectará mi desplazamiento diario ?
+¿La niebla afectará mi desplazamiento diario a{location}?
+¿La niebla afectará mi desplazamiento diario al trabajo ?
+¿La niebla afectará mi desplazamiento diario al trabajo a{location}?
+¿La niebla afectará mi recorrido diario ?
+¿La niebla afectará mi recorrido diario a{location}?
+¿La niebla afectará mi recorrido diario al trabajo ?
+¿La niebla afectará mi recorrido diario al trabajo a{location}?
+¿La niebla afectará mi trayecto diario ?
+¿La niebla afectará mi trayecto diario a{location}?
+¿La niebla afectará mi trayecto diario al trabajo ?
+¿La niebla afectará mi trayecto diario al trabajo a{location}?
+¿La niebla afectará mi viaje diario ?
+¿La niebla afectará mi viaje diario a{location}?
+¿La niebla afectará mi viaje diario al trabajo ?
+¿La niebla afectará mi viaje diario al trabajo a{location}?
+¿La niebla alterará mi camino diario ?
+¿La niebla alterará mi camino diario a{location}?
+¿La niebla alterará mi camino diario al trabajo ?
+¿La niebla alterará mi camino diario al trabajo a{location}?
+¿La niebla alterará mi desplazamiento diario ?
+¿La niebla alterará mi desplazamiento diario a{location}?
+¿La niebla alterará mi desplazamiento diario al trabajo ?
+¿La niebla alterará mi desplazamiento diario al trabajo a{location}?
+¿La niebla alterará mi recorrido diario ?
+¿La niebla alterará mi recorrido diario a{location}?
+¿La niebla alterará mi recorrido diario al trabajo ?
+¿La niebla alterará mi recorrido diario al trabajo a{location}?
+¿La niebla alterará mi trayecto diario ?
+¿La niebla alterará mi trayecto diario a{location}?
+¿La niebla alterará mi trayecto diario al trabajo ?
+¿La niebla alterará mi trayecto diario al trabajo a{location}?
+¿La niebla alterará mi viaje diario ?
+¿La niebla alterará mi viaje diario a{location}?
+¿La niebla alterará mi viaje diario al trabajo ?
+¿La niebla alterará mi viaje diario al trabajo a{location}?
+¿La niebla condicionará mi camino diario ?
+¿La niebla condicionará mi camino diario a{location}?
+¿La niebla condicionará mi camino diario al trabajo ?
+¿La niebla condicionará mi camino diario al trabajo a{location}?
+¿La niebla condicionará mi desplazamiento diario ?
+¿La niebla condicionará mi desplazamiento diario a{location}?
+¿La niebla condicionará mi desplazamiento diario al trabajo ?
+¿La niebla condicionará mi desplazamiento diario al trabajo a{location}?
+¿La niebla condicionará mi recorrido diario ?
+¿La niebla condicionará mi recorrido diario a{location}?
+¿La niebla condicionará mi recorrido diario al trabajo ?
+¿La niebla condicionará mi recorrido diario al trabajo a{location}?
+¿La niebla condicionará mi trayecto diario ?
+¿La niebla condicionará mi trayecto diario a{location}?
+¿La niebla condicionará mi trayecto diario al trabajo ?
+¿La niebla condicionará mi trayecto diario al trabajo a{location}?
+¿La niebla condicionará mi viaje diario ?
+¿La niebla condicionará mi viaje diario a{location}?
+¿La niebla condicionará mi viaje diario al trabajo ?
+¿La niebla condicionará mi viaje diario al trabajo a{location}?
+¿Se espera niebla ?
+¿Se espera niebla densa esta noche ?
+¿Se espera niebla densa esta noche en {location}?
+¿Se espera niebla en {location}?
+¿Se espera niebla espesa esta noche ?
+¿Se espera niebla espesa esta noche en {location}?
+¿Se prevé niebla ?
+¿Se prevé niebla densa esta noche ?
+¿Se prevé niebla densa esta noche en {location}?
+¿Se prevé niebla en {location}?
+¿Se prevé niebla espesa esta noche ?
+¿Se prevé niebla espesa esta noche en {location}?
+¿Aparece lluvia en el pronóstico del tiempo para {location}?
+¿Aparece lluvia en la previsión del tiempo para {location}?
+¿Cabe la posibilidad de lluvia mañana?
+¿Cabe la posibilidad de que llueva mañana?
+¿Caerán chubascos ?
+¿Caerán chubascos hoy?
+¿Caerán lluvias breves ?
+¿Caerán lluvias breves hoy?
+¿Debería alarmarme por la lluvia ?
+¿Debería alarmarme por la lluvia en {location}?
+¿Debería empacar un chubasquero para el viaje?
+¿Debería empacar un impermeable para el viaje?
+¿Debería estar preparada para la lluvia?
+¿Debería estar preparado para la lluvia?
+¿Debería ir con cuidado con las lluvias intermitentes?
+¿Debería ir con cuidado con las lluvias?
+¿Debería ir con cuidado con los chubascos?
+¿Debería ir con precaución con las lluvias intermitentes?
+¿Debería ir con precaución con las lluvias?
+¿Debería ir con precaución con los chubascos?
+¿Debería llevar mi paraguas ?
+¿Debería llevar mi paraguas hoy?
+¿Debería llevar mis botas de agua?
+¿Debería llevar un gorro para la lluvia?
+¿Debería llevar un paraguas al parque?
+¿Debería llevar un paraguas conmigo?
+¿Debería llevar un paraguas en mi bolsa?
+¿Debería llevar un paraguas en mi bolso?
+¿Debería llevar un sombrero para la lluvia?
+¿Debería preocuparme por la lluvia ?
+¿Debería preocuparme por la lluvia en {location}?
+¿Debería preparar un chubasquero para el viaje?
+¿Debería preparar un impermeable para el viaje?
+¿Debería tener cuidado con las lluvias intermitentes?
+¿Debería tener cuidado con las lluvias?
+¿Debería tener cuidado con los chubascos?
+¿Debería tener precaución con las lluvias intermitentes?
+¿Debería tener precaución con las lluvias?
+¿Debería tener precaución con los chubascos?
+¿Debería tener un plan b para la lluvia?
+¿Debería tener un plan de respaldo para la lluvia?
+¿Debería tomar precauciones si llueve?
+¿Debo alarmarme por la lluvia ?
+¿Debo alarmarme por la lluvia en {location}?
+¿Debo empacar un chubasquero para el viaje?
+¿Debo empacar un impermeable para el viaje?
+¿Debo estar preparada para la lluvia?
+¿Debo estar preparado para la lluvia?
+¿Debo ir con cuidado con las lluvias intermitentes?
+¿Debo ir con cuidado con las lluvias?
+¿Debo ir con cuidado con los chubascos?
+¿Debo ir con precaución con las lluvias intermitentes?
+¿Debo ir con precaución con las lluvias?
+¿Debo ir con precaución con los chubascos?
+¿Debo llevar mi paraguas ?
+¿Debo llevar mi paraguas hoy?
+¿Debo llevar mis botas de agua?
+¿Debo llevar un gorro para la lluvia?
+¿Debo llevar un paraguas al parque?
+¿Debo llevar un paraguas en mi bolsa?
+¿Debo llevar un paraguas en mi bolso?
+¿Debo llevar un sombrero para la lluvia?
+¿Debo preocuparme por la lluvia ?
+¿Debo preocuparme por la lluvia en {location}?
+¿Debo preparar un chubasquero para el viaje?
+¿Debo preparar un impermeable para el viaje?
+¿Debo tener cuidado con las lluvias intermitentes?
+¿Debo tener cuidado con las lluvias?
+¿Debo tener cuidado con los chubascos?
+¿Debo tener precaución con las lluvias intermitentes?
+¿Debo tener precaución con las lluvias?
+¿Debo tener precaución con los chubascos?
+¿Debo tomar precauciones si llueve?
+¿Es probable que llueva ?
+¿Es probable que llueva en {location}?
+¿Es probable que llueva hoy ?
+¿Es probable que llueva hoy en {location}?
+¿Está lloviendo ?
+¿Está lloviendo en {location}?
+¿Está lloviendo hoy ?
+¿Está lloviendo hoy en {location}?
+¿Existe la posibilidad de lluvia mañana?
+¿Existe la posibilidad de que llueva ?
+¿Existe la posibilidad de que llueva en {location}?
+¿Existe la posibilidad de que llueva hoy ?
+¿Existe la posibilidad de que llueva hoy en {location}?
+¿Existe la posibilidad de que llueva mañana?
+¿Existe posibilidad de lluvia ?
+¿Existe posibilidad de lluvia hoy?
+¿Habrá chubascos ?
+¿Habrá chubascos hoy?
+¿Habrá lluvias breves ?
+¿Habrá lluvias breves hoy?
+¿Habrá precipitaciones ?
+¿Habrá precipitaciones hoy?
+¿Hay lluvia en el pronóstico del tiempo para {location}?
+¿Hay lluvia en la previsión del tiempo para {location}?
+¿Hay posibilidad de lluvia ?
+¿Hay posibilidad de lluvia hoy?
+¿Hay pronóstico de lluvia ?
+¿Hay pronóstico de lluvia para {location}?
+¿Lloverá ?
+¿Lloverá en {location}?
+¿Lloverá afuera?
+¿Lloverá con intensidad ?
+¿Lloverá con intensidad en {location}?
+¿Lloverá durante el fin de semana?
+¿Lloverá hoy ?
+¿Lloverá hoy en {location}?
+¿Lloverá mañana? ?
+¿Lloverá mañana? en {location}?
+¿Lloverá mucho ?
+¿Lloverá mucho en {location}?
+¿Llueve ?
+¿Llueve en {location}?
+¿Llueve hoy ?
+¿Llueve hoy en {location}?
+¿Necesitaría prepararme para la lluvia ?
+¿Necesitaría prepararme para la lluvia en {location}?
+¿Necesitaría un paraguas mañana?
+¿Necesito llevar un chubasquero?
+¿Necesito llevar un impermeable?
+¿Necesito llevar un paraguas al evento?
+¿Necesito llevar una chaqueta impermeable?
+¿Necesito prepararme para la lluvia ?
+¿Necesito prepararme para la lluvia en {location}?
+¿Necesito prepararme para una tormenta?
+¿Necesito protegerme de la lluvia?
+¿Necesito resguardarme de la lluvia?
+¿Necesito un chubasquero mañana?
+¿Necesito un impermeable mañana?
+¿Necesito un paraguas mañana?
+¿Necesito un paraguas para mi camino diario ?
+¿Necesito un paraguas para mi camino diario al trabajo?
+¿Necesito un paraguas para mi desplazamiento diario ?
+¿Necesito un paraguas para mi desplazamiento diario al trabajo?
+¿Necesito un paraguas para mi recorrido diario ?
+¿Necesito un paraguas para mi recorrido diario al trabajo?
+¿Necesito un paraguas para mi trayecto diario ?
+¿Necesito un paraguas para mi trayecto diario al trabajo?
+¿Necesito un paraguas para mi viaje diario ?
+¿Necesito un paraguas para mi viaje diario al trabajo?
+¿Necesito vestirme para el clima lluvioso?
+¿Necesito vestirme para el tiempo lluvioso?
+¿Sale lluvia en el pronóstico del tiempo para {location}?
+¿Sale lluvia en la previsión del tiempo para {location}?
+¿Se espera lluvia ?
+¿Se espera lluvia después ?
+¿Se espera lluvia después en {location}?
+¿Se espera lluvia en {location}?
+¿Se espera lluvia más tarde ?
+¿Se espera lluvia más tarde en {location}?
+¿Se espera lluvia para {location}?
+¿Se espera lluvia por la noche ?
+¿Se espera lluvia por la noche en {location}?
+¿Se espera lluvia por la tarde ?
+¿Se espera lluvia por la tarde en {location}?
+¿Se esperan precipitaciones ?
+¿Se esperan precipitaciones hoy?
+¿Se prevé lluvia ?
+¿Se prevé lluvia después ?
+¿Se prevé lluvia después en {location}?
+¿Se prevé lluvia más tarde ?
+¿Se prevé lluvia más tarde en {location}?
+¿Se prevé lluvia para {location}?
+¿Se prevé lluvia por la noche ?
+¿Se prevé lluvia por la noche en {location}?
+¿Se prevé lluvia por la tarde ?
+¿Se prevé lluvia por la tarde en {location}?
+¿Se prevé precipitaciones ?
+¿Se prevé precipitaciones hoy?
+¿Se pronostica lluvia ?
+¿Se pronostica lluvia para {location}?
+¿Será un día lluvioso ?
+¿Será un día lluvioso en {location}?
+¿Va a llover ?
+¿Va a llover en {location}?
+¿Va a llover afuera?
+¿Va a llover con intensidad ?
+¿Va a llover con intensidad en {location}?
+¿Va a llover durante el fin de semana?
+¿Va a llover hoy ?
+¿Va a llover hoy en {location}?
+¿Va a llover mañana? ?
+¿Va a llover mañana? en {location}?
+¿Va a llover mucho ?
+¿Va a llover mucho en {location}?
+¿Caerá una nevada esta noche ?
+¿Caerá una nevada esta noche en {location}?
+¿Caerá una nevada hoy ?
+¿Caerá una nevada hoy en {location}?
+¿Cuánta nieve se calcula ?
+¿Cuánta nieve se calcula en {location}?
+¿Cuánta nieve se espera ?
+¿Cuánta nieve se espera en {location}?
+¿Cuánta nieve se prevé ?
+¿Cuánta nieve se prevé en {location}?
+¿Debería esperar acumulación de nieve ?
+¿Debería esperar acumulación de nieve en {location}?
+¿Debería esperar una acumulación de nieve ?
+¿Debería esperar una acumulación de nieve en {location}?
+¿Debería prepararme para acumulación de nieve ?
+¿Debería prepararme para acumulación de nieve en {location}?
+¿Debería prepararme para la nevada ?
+¿Debería prepararme para la nevada en {location}?
+¿Debería prepararme para la nieve ?
+¿Debería prepararme para la nieve en {location}?
+¿Debería prepararme para una acumulación de nieve ?
+¿Debería prepararme para una acumulación de nieve en {location}?
+¿Debo prepararme para la nevada ?
+¿Debo prepararme para la nevada en {location}?
+¿Debo prepararme para la nieve ?
+¿Debo prepararme para la nieve en {location}?
+¿Está nevado ?
+¿Está nevado en {location}?
+¿Está nevado hoy ?
+¿Está nevado hoy en {location}?
+¿Está nevando ?
+¿Está nevando en {location}?
+¿Está nevando hoy ?
+¿Está nevando hoy en {location}?
+¿Habrá una nevada esta noche ?
+¿Habrá una nevada esta noche en {location}?
+¿Habrá una nevada hoy ?
+¿Habrá una nevada hoy en {location}?
+¿Hay nieve ?
+¿Hay nieve en {location}?
+¿Hay nieve hoy ?
+¿Hay nieve hoy en {location}?
+¿Nevará hoy en {location}?
+¿Se espera nieve en el pronóstico ?
+¿Se espera nieve en el pronóstico de {location}?
+¿Se espera nieve en el pronóstico en {location}?
+¿Se espera nieve en el pronóstico| ?
+¿Se espera nieve en el pronóstico| en {location}?
+¿Se espera nieve en la previsión ?
+¿Se espera nieve en la previsión de {location}?
+¿Se espera nieve en la previsión en {location}?
+¿Se espera nieve en la previsión| ?
+¿Se espera nieve en la previsión| en {location}?
+¿Se espera que las carreteras estén heladas ?
+¿Se espera que las carreteras estén heladas en {location}?
+¿Se espera que las carreteras estén nevadas ?
+¿Se espera que las carreteras estén nevadas en {location}?
+¿Se prevé nieve en el pronóstico ?
+¿Se prevé nieve en el pronóstico de {location}?
+¿Se prevé nieve en el pronóstico en {location}?
+¿Se prevé nieve en el pronóstico| ?
+¿Se prevé nieve en el pronóstico| en {location}?
+¿Se prevé nieve en la previsión ?
+¿Se prevé nieve en la previsión de {location}?
+¿Se prevé nieve en la previsión en {location}?
+¿Se prevé nieve en la previsión| ?
+¿Se prevé nieve en la previsión| en {location}?
+¿Se prevé que las carreteras estén heladas ?
+¿Se prevé que las carreteras estén heladas en {location}?
+¿Se prevé que las carreteras estén nevadas ?
+¿Se prevé que las carreteras estén nevadas en {location}?
+¿Se producirá una nevada esta noche ?
+¿Se producirá una nevada esta noche en {location}?
+¿Se producirá una nevada hoy ?
+¿Se producirá una nevada hoy en {location}?
+Hay previsión de tormenta ?
+Hay previsión de tormenta en {location}?
+Hay previsión de un evento meteorológico severo ?
+Hay previsión de un evento meteorológico severo en {location}?
+Hay previsión de un fenómeno meteorológico severo ?
+Hay previsión de un fenómeno meteorológico severo en {location}?
+Hay previsión de una tormenta ?
+Hay previsión de una tormenta en {location}?
+Se espera tormenta ?
+Se espera tormenta en {location}?
+Se espera un evento meteorológico severo ?
+Se espera un evento meteorológico severo en {location}?
+Se espera un fenómeno meteorológico severo ?
+Se espera un fenómeno meteorológico severo en {location}?
+Se espera una tormenta ?
+Se espera una tormenta en {location}?
+Se prevé tormenta ?
+Se prevé tormenta en {location}?
+Se prevé un evento meteorológico severo ?
+Se prevé un evento meteorológico severo en {location}?
+Se prevé un fenómeno meteorológico severo ?
+Se prevé un fenómeno meteorológico severo en {location}?
+Se prevé una tormenta ?
+Se prevé una tormenta en {location}?
+¿Caerá tormenta hoy en {location}?
+¿Caerá una tormenta hoy en {location}?
+¿Debería quedarme dentro a causa de el mal tiempo ?
+¿Debería quedarme dentro a causa de el mal tiempo en {location}?
+¿Debería quedarme dentro a causa de las tormentas ?
+¿Debería quedarme dentro a causa de las tormentas en {location}?
+¿Debería quedarme dentro debido a el mal tiempo ?
+¿Debería quedarme dentro debido a el mal tiempo en {location}?
+¿Debería quedarme dentro debido a las tormentas ?
+¿Debería quedarme dentro debido a las tormentas en {location}?
+¿Debería quedarme dentro por el mal tiempo ?
+¿Debería quedarme dentro por el mal tiempo en {location}?
+¿Debería quedarme dentro por las tormentas ?
+¿Debería quedarme dentro por las tormentas en {location}?
+¿Debería quedarme en casa a causa de el mal tiempo ?
+¿Debería quedarme en casa a causa de el mal tiempo en {location}?
+¿Debería quedarme en casa a causa de las tormentas ?
+¿Debería quedarme en casa a causa de las tormentas en {location}?
+¿Debería quedarme en casa debido a el mal tiempo ?
+¿Debería quedarme en casa debido a el mal tiempo en {location}?
+¿Debería quedarme en casa debido a las tormentas ?
+¿Debería quedarme en casa debido a las tormentas en {location}?
+¿Debería quedarme en casa por el mal tiempo ?
+¿Debería quedarme en casa por el mal tiempo en {location}?
+¿Debería quedarme en casa por las tormentas ?
+¿Debería quedarme en casa por las tormentas en {location}?
+¿Debo dentro a causa de el mal tiempo ?
+¿Debo dentro a causa de el mal tiempo en {location}?
+¿Debo dentro a causa de las tormentas ?
+¿Debo dentro a causa de las tormentas en {location}?
+¿Debo dentro debido a el mal tiempo ?
+¿Debo dentro debido a el mal tiempo en {location}?
+¿Debo dentro debido a las tormentas ?
+¿Debo dentro debido a las tormentas en {location}?
+¿Debo dentro por el mal tiempo ?
+¿Debo dentro por el mal tiempo en {location}?
+¿Debo dentro por las tormentas ?
+¿Debo dentro por las tormentas en {location}?
+¿Debo en casa a causa de el mal tiempo ?
+¿Debo en casa a causa de el mal tiempo en {location}?
+¿Debo en casa a causa de las tormentas ?
+¿Debo en casa a causa de las tormentas en {location}?
+¿Debo en casa debido a el mal tiempo ?
+¿Debo en casa debido a el mal tiempo en {location}?
+¿Debo en casa debido a las tormentas ?
+¿Debo en casa debido a las tormentas en {location}?
+¿Debo en casa por el mal tiempo ?
+¿Debo en casa por el mal tiempo en {location}?
+¿Debo en casa por las tormentas ?
+¿Debo en casa por las tormentas en {location}?
+¿Es probable que haya tormenta eléctrica ?
+¿Es probable que haya tormenta eléctrica en {location}?
+¿Es probable que haya una tormenta eléctrica ?
+¿Es probable que haya una tormenta eléctrica en {location}?
+¿Existe alguna alerta de tormenta ?
+¿Existe alguna alerta de tormenta en {location}?
+¿Existe alguna alerta de tormenta hoy ?
+¿Existe alguna alerta de tormenta hoy en {location}?
+¿Existe alguna alerta por tormenta ?
+¿Existe alguna alerta por tormenta en {location}?
+¿Existe alguna alerta por tormenta hoy ?
+¿Existe alguna alerta por tormenta hoy en {location}?
+¿Existen advertencias por condiciones meteorológicas severas ?
+¿Existen advertencias por condiciones meteorológicas severas en {location}?
+¿Existen alertas por tormenta ?
+¿Existen alertas por tormenta en {location}?
+¿Existen avisos por clima severo ?
+¿Existen avisos por clima severo en {location}?
+¿Habrá tormenta ?
+¿Habrá tormenta eléctrica ?
+¿Habrá tormenta eléctrica en {location}?
+¿Habrá tormenta en {location}?
+¿Habrá tormenta hoy en {location}?
+¿Habrá truenos y relámpagos ?
+¿Habrá truenos y relámpagos en {location}?
+¿Habrá truenos y relámpagos hoy ?
+¿Habrá truenos y relámpagos hoy en {location}?
+¿Habrá una tormenta ?
+¿Habrá una tormenta eléctrica ?
+¿Habrá una tormenta eléctrica en {location}?
+¿Habrá una tormenta eléctrica hoy ?
+¿Habrá una tormenta eléctrica hoy en {location}?
+¿Habrá una tormenta en {location}?
+¿Habrá una tormenta hoy en {location}?
+¿Hay tormenta hoy en {location}?
+¿Hay advertencias por condiciones meteorológicas severas ?
+¿Hay advertencias por condiciones meteorológicas severas en {location}?
+¿Hay alertas por tormenta ?
+¿Hay alertas por tormenta en {location}?
+¿Hay alguna alerta de tormenta ?
+¿Hay alguna alerta de tormenta en {location}?
+¿Hay alguna alerta de tormenta hoy ?
+¿Hay alguna alerta de tormenta hoy en {location}?
+¿Hay alguna alerta por tormenta ?
+¿Hay alguna alerta por tormenta en {location}?
+¿Hay alguna alerta por tormenta hoy ?
+¿Hay alguna alerta por tormenta hoy en {location}?
+¿Hay avisos por clima severo ?
+¿Hay avisos por clima severo en {location}?
+¿Hay pronóstico de tormenta eléctrica ?
+¿Hay pronóstico de tormenta eléctrica en {location}?
+¿Hay pronóstico de una tormenta eléctrica ?
+¿Hay pronóstico de una tormenta eléctrica en {location}?
+¿Hay truenos y relámpagos ?
+¿Hay truenos y relámpagos en {location}?
+¿Hay truenos y relámpagos hoy ?
+¿Hay truenos y relámpagos hoy en {location}?
+¿Hay una tormenta eléctrica ?
+¿Hay una tormenta eléctrica en {location}?
+¿Hay una tormenta eléctrica hoy ?
+¿Hay una tormenta eléctrica hoy en {location}?
+¿Hay una tormenta hoy en {location}?
+¿Necesito prepararme para una tormenta ?
+¿Necesito prepararme para una tormenta en {location}?
+¿Se espera tormenta eléctrica ?
+¿Se espera tormenta eléctrica en {location}?
+¿Se espera una tormenta eléctrica ?
+¿Se espera una tormenta eléctrica en {location}?
+¿Se prevé tormenta eléctrica ?
+¿Se prevé tormenta eléctrica en {location}?
+¿Se prevé una tormenta eléctrica ?
+¿Se prevé una tormenta eléctrica en {location}?
+¿Se producirá tormenta hoy en {location}?
+¿Se producirá una tormenta hoy en {location}?
+¿Se pronostica tormenta eléctrica ?
+¿Se pronostica tormenta eléctrica en {location}?
+¿Se pronostica una tormenta eléctrica ?
+¿Se pronostica una tormenta eléctrica en {location}?

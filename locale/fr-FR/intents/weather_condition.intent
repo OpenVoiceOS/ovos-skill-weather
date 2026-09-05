@@ -1,0 +1,66 @@
+est-ce que le ciel est dégagé
+y a-t-il du soleil
+est-ce nuageux
+est-ce couvert à {location}
+est-ce couvert en {location}
+est-ce couvert au {location}
+est-ce couvert aux {location}
+est-ce couvert dans {location}
+est-ce nuageux à {location}
+est-ce nuageux aujourd'hui
+est-ce nuageux aujourd'hui à {location}
+est-ce nuageux demain
+est-ce nuageux demain à {location}
+est-ce que c'est nuageux
+est-ce que c'est nuageux à {location}
+est-ce que c'est nuageux aujourd'hui
+est-ce que c'est nuageux aujourd'hui à {location}
+est-ce que c'est nuageux demain
+est-ce que c'est nuageux demain à {location}
+est-ce que ce sera nuageux
+est-ce que ce sera nuageux à {location}
+est-ce que ce sera nuageux aujourd'hui
+est-ce que ce sera nuageux aujourd'hui à {location}
+est-ce que ce sera nuageux demain
+est-ce que ce sera nuageux demain à {location}
+y a-t-il des nuages
+y a-t-il des nuages à {location}
+y a-t-il des nuages aujourd'hui
+y a-t-il des nuages aujourd'hui à {location}
+y a-t-il des nuages demain
+y a-t-il des nuages demain à {location}
+y aura-t-il des nuages
+y aura-t-il des nuages à {location}
+y aura-t-il des nuages aujourd'hui
+y aura-t-il des nuages aujourd'hui à {location}
+y aura-t-il des nuages demain
+y aura-t-il des nuages demain à {location}
+y a-t-il du brouillard
+est-ce brumeux
+le brouillard est-il prévu à {location}
+le brouillard est-il prévu en {location}
+le brouillard est-il prévu au {location}
+le brouillard est-il prévu aux {location}
+le brouillard est-il prévu dans {location}
+va-t-il pleuvoir
+est-ce qu'il pleut
+dois-je prendre un parapluie
+y a-t-il de la pluie prévue à {location}
+y a-t-il de la pluie prévue en {location}
+y a-t-il de la pluie prévue au {location}
+y a-t-il de la pluie prévue aux {location}
+y a-t-il de la pluie prévue dans {location}
+va-t-il neiger
+est-ce qu'il neige
+y a-t-il de la neige prévue à {location}
+y a-t-il de la neige prévue en {location}
+y a-t-il de la neige prévue au {location}
+y a-t-il de la neige prévue aux {location}
+y a-t-il de la neige prévue dans {location}
+y a-t-il de l'orage
+un orage est-il prévu
+y a-t-il des alertes météo à {location}
+y a-t-il des alertes météo en {location}
+y a-t-il des alertes météo au {location}
+y a-t-il des alertes météo aux {location}
+y a-t-il des alertes météo dans {location}

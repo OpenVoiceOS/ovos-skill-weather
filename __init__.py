@@ -32,14 +32,13 @@ from ovos_date_parser import (
 from ovos_bus_client.message import Message
 from ovos_bus_client.session import SessionManager
 from ovos_utils import classproperty
-from ovos_workshop.intents import IntentBuilder
 from ovos_utils.log import LOG
 from ovos_utils.process_utils import RuntimeRequirements
 from ovos_workshop.decorators import intent_handler, skill_api_method
 from ovos_workshop.skills import OVOSSkill
 from requests import HTTPError
 
-from .weather_helpers import (
+from ovos_skill_weather.weather_helpers import (
     CURRENT,
     DAILY,
     HOURLY,
@@ -126,15 +125,7 @@ class WeatherSkill(OVOSSkill):
         intent = self._get_intent_data(message)
         self._report_one_day_forecast(intent)
 
-    @intent_handler(
-        IntentBuilder("weather")
-        .optionally("query")
-        .one_of("weather", "forecast")
-        .optionally("relative-time")
-        .optionally("relative-day")
-        .optionally("today")
-        .optionally("location")
-        .optionally("unit"))
+    @intent_handler("weather.intent")
     def handle_weather(self, message: Message):
         """
         Handle weather requests of various timeframes.
@@ -249,17 +240,17 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_temperature(message, temperature_type="low")
 
-    @intent_handler(
-        IntentBuilder("is_hot_cold")
-        .one_of("confirm-query-current", "confirm-query")
-        .one_of("hot", "cold")
-        .optionally("query")
-        .optionally("location")
-        .optionally("relative-day")
-        .optionally("today")
-    )
+    @intent_handler("is_hot.intent")
+    @intent_handler("is_cold.intent")
     def handle_is_it_hot_or_cold(self, message: Message):
         """Handler for temperature requests such as: is it going to be hot today?
+
+        ``is_hot.intent``/``is_cold.intent`` replace a single merged
+        padacioso intent: splitting "hot" and "cold" phrasings into their
+        own files lets each side iterate its own parity independently
+        without the shared file growing unbounded. Both still dispatch here
+        since the handler already distinguishes them with ``voc_match``
+        against the captured utterance, not the intent name.
 
         Args:
             message: Message Bus event information from the intent parser
@@ -277,66 +268,50 @@ class WeatherSkill(OVOSSkill):
         """
         self._report_wind(message)
 
-    @intent_handler("is_snow.intent")
-    def handle_is_it_snowing(self, message: Message):
-        """Handler for weather requests such as: is it snowing today?
+    @intent_handler("weather_condition.intent")
+    def handle_weather_condition(self, message: Message):
+        """Handler for weather condition requests such as: is it raining,
+        snowing, clear, cloudy, foggy or stormy today?
+
+        ``weather_condition.intent`` is a union of natural phrasings per
+        locale, each one carrying its condition word inline (no free
+        slot to capture it with). The condition itself is resolved by
+        ``voc_match``-ing the whole utterance against each condition's own
+        vocabulary group, the same dispatch ``handle_is_it_hot_or_cold``
+        uses to tell "hot" from "cold" - matching the vocabulary filename,
+        not the matched text, keeps this lang-agnostic.
 
         Args:
             message: Message Bus event information from the intent parser
         """
-        self._report_weather_condition(message, "snow")
+        condition = self._resolve_weather_condition(message.data["utterance"])
+        if condition is None:
+            self.handle_current_weather(message)
+            return
+        self._report_weather_condition(message, condition)
 
-    @intent_handler("is_clear.intent")
-    def handle_is_it_clear(self, message: Message):
-        """Handler for weather requests such as: is the sky clear today?
-
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        self._report_weather_condition(message, condition="clear")
-
-    @intent_handler(
-        IntentBuilder("is_cloudy")
-        .require("confirm-query")
-        .require("clouds")
-        .optionally("location")
-        .optionally("relative-time")
-    )
-    def handle_is_it_cloudy(self, message: Message):
-        """Handler for weather requests such as: is it cloudy today?
+    def _resolve_weather_condition(self, utterance: str):
+        """Classify an utterance already routed to ``weather_condition.intent``
+        into the condition key expected by ``_report_weather_condition``.
 
         Args:
-            message: Message Bus event information from the intent parser
+            utterance: the utterance matched by ``weather_condition.intent``
+
+        Returns:
+            The condition key, or None if no vocabulary group matched.
         """
-        self._report_weather_condition(message, "clouds")
-
-    @intent_handler("is_fog.intent")
-    def handle_is_it_foggy(self, message: Message):
-        """Handler for weather requests such as: is it foggy today?
-
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        self._report_weather_condition(message, "fog")
-
-    @intent_handler("is_rain.intent")
-    def handle_is_it_raining(self, message: Message):
-        """Handler for weather requests such as: is it raining today?
-
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        self._report_weather_condition(message, "rain")
-
-
-    @intent_handler("is_stormy.intent")
-    def handle_is_it_storming(self, message: Message):
-        """Handler for weather requests such as:  is it storming today?
-
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        self._report_weather_condition(message, "thunderstorm")
+        condition_groups = (
+            ("rain_report", "rain"),
+            ("snow_report", "snow"),
+            ("clear_report", "clear"),
+            ("cloudy_report", "clouds"),
+            ("fog_report", "fog"),
+            ("storm_report", "thunderstorm"),
+        )
+        for voc_filename, condition in condition_groups:
+            if self.voc_match(utterance, voc_filename):
+                return condition
+        return None
 
     @intent_handler("next_rain.intent")
     def handle_next_precipitation(self, message: Message):
