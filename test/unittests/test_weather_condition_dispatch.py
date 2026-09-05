@@ -7,60 +7,28 @@ from ovos_skill_weather import WeatherSkill
 
 SKILL_ID = "ovos-skill-weather.openvoiceos"
 
-# every condition phrase harvested from the six retired ``is_*.intent``
-# files (including the pre-existing is_clear.intent quirks that are
-# reclassified to their true semantic group as part of the merge), paired
-# with the condition key ``handle_weather_condition`` must dispatch to.
-CONDITION_PHRASES = [
-    ("raining", "rain"),
-    ("rainy", "rain"),
-    ("rain", "rain"),
-    ("drizzle", "rain"),
-    ("drizzling", "rain"),
-    ("shower", "rain"),
-    ("showers", "rain"),
-    ("precipitation", "rain"),
-    ("umbrella", "rain"),
-    ("raincoat", "rain"),
-    ("rain jacket", "rain"),
-    ("snowing", "snow"),
-    ("snowy", "snow"),
-    ("snow", "snow"),
-    ("sleet", "snow"),
-    ("sleeting", "snow"),
-    ("flurries", "snow"),
-    ("snowfall", "snow"),
-    ("icy", "snow"),
-    ("clear", "clear"),
-    ("sunny", "clear"),
-    ("sunshine", "clear"),
-    ("clear skies", "clear"),
-    ("blue skies", "clear"),
-    ("cloudy", "clouds"),
-    ("clouds", "clouds"),
-    ("cloud", "clouds"),
-    ("cloudier", "clouds"),
-    ("the sky overcast", "clouds"),
-    ("the sky gloomy", "clouds"),
-    ("the sky gray", "clouds"),
-    ("any cloud cover", "clouds"),
-    ("fog", "fog"),
-    ("foggy", "fog"),
-    ("mist", "fog"),
-    ("misty", "fog"),
-    ("hazy", "fog"),
-    ("haze", "fog"),
-    ("storming", "thunderstorm"),
-    ("stormy", "thunderstorm"),
-    ("storm", "thunderstorm"),
-    ("storms", "thunderstorm"),
-    ("thunderstorm", "thunderstorm"),
-    ("thunder", "thunderstorm"),
-    ("thundering", "thunderstorm"),
-    ("severe weather event", "thunderstorm"),
-    ("storm alerts", "thunderstorm"),
-    ("severe weather warnings", "thunderstorm"),
-    ("bad weather", "thunderstorm"),
+# Every condition phrase this dispatch table has to route correctly,
+# harvested from the six retired ``is_*.intent`` files as they existed
+# before #230 collapsed them into the single ``weather_condition.intent``
+# slot design, paired with the handler that owns each condition.
+#
+# #230 merged these into one intent with a free-text ``{condition}`` slot
+# resolved at dispatch time. That slot was never filled with real words in
+# the m2v training corpus used elsewhere in the ecosystem (only ``{location}``
+# style entity placeholders survive into training text), so the model never
+# learned to associate the condition text with a response at all: an m2v-8M
+# classifier trained on the retired weather_condition training rows routed
+# 0/8 held-out, out-of-distribution condition phrasings correctly, while an
+# identical model trained on these six specific intents' own phrasings
+# routed 8/8 correctly. This file locks in the per-condition handlers that
+# replace the slot + ``_resolve_weather_condition`` dispatch.
+CONDITION_HANDLERS = [
+    ("is it raining today", "handle_is_it_raining", "rain"),
+    ("is it snowing today", "handle_is_it_snowing", "snow"),
+    ("is it clear today", "handle_is_it_clear", "clear"),
+    ("is it cloudy today", "handle_is_it_cloudy", "clouds"),
+    ("is it foggy today", "handle_is_it_foggy", "fog"),
+    ("is it storming today", "handle_is_it_storming", "thunderstorm"),
 ]
 
 
@@ -70,41 +38,17 @@ class TestWeatherConditionDispatch(unittest.TestCase):
         cls.skill = WeatherSkill()
         cls.skill._startup(FakeBus(), SKILL_ID)
 
-    def test_dispatch_table_covers_every_harvested_condition(self):
-        for phrase, expected in CONDITION_PHRASES:
-            with self.subTest(phrase=phrase):
-                self.assertEqual(self.skill._resolve_weather_condition(phrase), expected)
+    def test_each_condition_handler_reports_its_own_condition(self):
+        for utterance, handler_name, expected_condition in CONDITION_HANDLERS:
+            with self.subTest(utterance=utterance):
+                message = Message("intent", {"utterance": utterance})
+                with patch.object(self.skill, "_report_weather_condition") as mock_report:
+                    getattr(self.skill, handler_name)(message)
+                mock_report.assert_called_once()
+                args, kwargs = mock_report.call_args
+                condition = kwargs.get("condition", args[1] if len(args) > 1 else None)
+                self.assertEqual(condition, expected_condition)
 
-    def test_unrecognized_condition_falls_back_to_current_weather(self):
-        self.assertIsNone(self.skill._resolve_weather_condition("banana"))
-
-    def test_handler_reports_the_resolved_condition(self):
-        message = Message(
-            "test", {"condition": "raining", "utterance": "is it raining"}
-        )
-        with patch.object(self.skill, "_report_weather_condition") as report:
-            self.skill.handle_weather_condition(message)
-        report.assert_called_once_with(message, "rain")
-
-    def test_handler_falls_back_when_condition_unrecognized(self):
-        message = Message(
-            "test", {"condition": "banana", "utterance": "is it banana"}
-        )
-        with patch.object(self.skill, "_report_weather_condition") as report, \
-                patch.object(self.skill, "handle_current_weather") as fallback:
-            self.skill.handle_weather_condition(message)
-        report.assert_not_called()
-        fallback.assert_called_once_with(message)
-
-    def test_hot_and_cold_stay_out_of_the_condition_vocab_groups(self):
-        """"hot"/"cold" are ``handle_is_it_hot_or_cold``'s own turf (and its
-        intent's ``voc_blacklist`` entry); the condition groups here must
-        never claim them, or the two intents would tie over "is it hot".
-        """
-        self.assertIsNone(self.skill._resolve_weather_condition("hot"))
-        self.assertIsNone(self.skill._resolve_weather_condition("cold"))
-        self.assertIsNone(self.skill._resolve_weather_condition("hot or cold"))
-
-
-if __name__ == "__main__":
-    unittest.main()
+    def test_weather_condition_intent_and_resolver_are_retired(self):
+        self.assertFalse(hasattr(self.skill, "handle_weather_condition"))
+        self.assertFalse(hasattr(self.skill, "_resolve_weather_condition"))

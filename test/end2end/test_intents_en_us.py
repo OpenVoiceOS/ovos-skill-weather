@@ -152,28 +152,27 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         self._assert_intent("sunset time", "sunset.intent")
 
     def test_do_i_need_an_umbrella(self):
-        self._assert_intent("do I need an umbrella tomorrow", "weather_condition.intent")
+        self._assert_intent("do I need an umbrella tomorrow", "is_rain.intent")
 
     def test_roads_snowy(self):
-        self._assert_intent("are roads expected to be snowy", "weather_condition.intent")
+        self._assert_intent("are roads expected to be snowy", "is_snow.intent")
 
     def test_clear_skies(self):
-        self._assert_intent("can I expect clear skies", "weather_condition.intent")
+        self._assert_intent("can I expect clear skies", "is_clear.intent")
 
     def test_is_it_cloudy(self):
-        self._assert_intent("will it be cloudy today", "weather_condition.intent")
+        self._assert_intent("will it be cloudy today", "is_cloudy.intent")
 
     def test_is_it_cloudy_tomorrow_in_location(self):
-        self._assert_intent("will it be cloudy tomorrow in Paris", "weather_condition.intent")
+        self._assert_intent("will it be cloudy tomorrow in Paris", "is_cloudy.intent")
 
-    def test_is_it_cloudy_no_longer_ties_with_is_clear(self):
-        """``is_clear`` and ``is_cloudy`` used to be separate padacioso
-        intents whose alternatives briefly overlapped on 'cloudy', making
-        this phrase's routing unstable. Merging both into a single
-        ``weather_condition.intent`` (with the actual condition captured in
-        its ``{condition}`` slot) removes the tie entirely.
+    def test_is_it_cloudy_does_not_tie_with_is_clear(self):
+        """``is_clear`` and ``is_cloudy`` are separate padacioso intents;
+        "overcast", "gloomy", "gray" and "any cloud cover" live only in
+        ``is_cloudy.intent`` (their true semantic group) so this phrase
+        does not tie against ``is_clear.intent``.
         """
-        self._assert_intent("is it cloudy", "weather_condition.intent")
+        self._assert_intent("is it cloudy", "is_cloudy.intent")
 
     def test_is_it_hot(self):
         self._assert_intent("is it hot", "is_hot.intent")
