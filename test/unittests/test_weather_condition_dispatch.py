@@ -97,9 +97,9 @@ class TestWeatherConditionDispatch(unittest.TestCase):
         fallback.assert_called_once_with(message)
 
     def test_hot_and_cold_stay_out_of_the_condition_vocab_groups(self):
-        """"hot"/"cold" are ``handle_is_it_hot_or_cold``'s own turf (and its
-        intent's ``voc_blacklist`` entry); the condition groups here must
-        never claim them, or the two intents would tie over "is it hot".
+        """"hot"/"cold" are ``handle_is_it_hot_or_cold``'s own turf; the
+        condition groups here must never claim them, or a bare "hot"/"cold"
+        utterance could get misclassified as a weather condition.
         """
         self.assertIsNone(self.skill._resolve_weather_condition("hot"))
         self.assertIsNone(self.skill._resolve_weather_condition("cold"))
