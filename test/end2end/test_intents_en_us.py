@@ -198,3 +198,72 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
 
     def test_forecast(self):
         self._assert_intent("forecast", "weather.intent")
+
+    # -- sibling-confusion regressions -------------------------------------
+    #
+    # These pairs were flagged by the m2v confusion matrix as genuinely
+    # overlapping intents. "how hot/cold will it be <time>" and "is it going
+    # to be hot/cold <time>" used to be duplicated inside
+    # ``hourly_temperature.intent`` (a temperature-VALUE intent) as well as
+    # ``is_hot``/``is_cold`` (hot/cold-CONDITION intents), so padacioso could
+    # tie on either. The condition-style phrasing was removed from
+    # ``hourly_temperature.intent``, leaving it strictly about "what's the
+    # temperature at <time>" while ``is_hot``/``is_cold`` own every
+    # "how hot/cold will it be" and "is it going to be hot/cold" phrasing.
+
+    def _assert_intent_not_sibling(self, text, intent, sibling):
+        messages = self._run(text)
+        types = [m.msg_type for m in messages]
+        self.assertTrue(
+            any(_matches_intent(t, SKILL_ID, intent) for t in types),
+            f"no message routed to {SKILL_ID}:{intent} ({types})",
+        )
+        self.assertFalse(
+            any(_matches_intent(t, SKILL_ID, sibling) for t in types),
+            f"unexpectedly routed to sibling {SKILL_ID}:{sibling} ({types})",
+        )
+        self.assertTrue(any("speak" in t for t in types))
+
+    def test_hourly_temperature_not_is_hot(self):
+        # "how hot will it be this morning" is a hot/cold-CONDITION query,
+        # not a temperature-VALUE query.
+        self._assert_intent_not_sibling(
+            "how hot will it be this morning", "is_hot.intent", "hourly_temperature.intent"
+        )
+
+    def test_hourly_temperature_not_is_cold(self):
+        self._assert_intent_not_sibling(
+            "is it going to be cold tonight", "is_cold.intent", "hourly_temperature.intent"
+        )
+
+    def test_weekend_forecast_not_daily_forecast(self):
+        # "this weekend" is weekend_forecast's own time-window marker and
+        # must not fall through to the generic daily_forecast phrasing.
+        self._assert_intent_not_sibling(
+            "what's the weather like this weekend", "weekend_forecast.intent", "daily_forecast.intent"
+        )
+
+    def test_hourly_forecast_not_daily_forecast(self):
+        # a specific hour ("at noon") is hourly_forecast's marker, distinct
+        # from daily_forecast's day-only phrasing.
+        self._assert_intent_not_sibling(
+            "what's the forecast at noon", "hourly_forecast.intent", "daily_forecast.intent"
+        )
+
+    def test_hourly_forecast_not_daily_forecast_specific_hour(self):
+        self._assert_intent_not_sibling(
+            "what's the forecast for monday at 3 pm", "hourly_forecast.intent", "daily_forecast.intent"
+        )
+
+    def test_low_temperature_not_hourly_temperature(self):
+        # "how cold will it get" is low_temperature's own condition-flavored
+        # phrasing (a proxy for the overnight/minimum reading), it must not
+        # fall through to the bare temperature-at-a-time hourly intent.
+        self._assert_intent_not_sibling(
+            "how cold will it get tonight", "low_temperature.intent", "hourly_temperature.intent"
+        )
+
+    def test_hourly_temperature_not_low_temperature(self):
+        self._assert_intent_not_sibling(
+            "what is the temperature this evening", "hourly_temperature.intent", "low_temperature.intent"
+        )
