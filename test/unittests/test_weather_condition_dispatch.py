@@ -75,7 +75,7 @@ class TestWeatherConditionDispatch(unittest.TestCase):
             with self.subTest(phrase=phrase):
                 self.assertEqual(self.skill._resolve_weather_condition(phrase), expected)
 
-    def test_unrecognized_condition_falls_back_to_current_weather(self):
+    def test_unrecognized_condition_falls_back_to_weather(self):
         self.assertIsNone(self.skill._resolve_weather_condition("banana"))
 
     def test_handler_reports_the_resolved_condition(self):
@@ -91,7 +91,7 @@ class TestWeatherConditionDispatch(unittest.TestCase):
             "test", {"condition": "banana", "utterance": "is it banana"}
         )
         with patch.object(self.skill, "_report_weather_condition") as report, \
-                patch.object(self.skill, "handle_current_weather") as fallback:
+                patch.object(self.skill, "handle_weather") as fallback:
             self.skill.handle_weather_condition(message)
         report.assert_not_called()
         fallback.assert_called_once_with(message)

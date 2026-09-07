@@ -17,7 +17,7 @@ deterministically:
 
 Naming note: the corpus encodes adapt intents by their bare name (eg.
 ``"weather"``, ``"is_cloudy"``) and padacioso intents with the ``.intent``
-file suffix (eg. ``"current_weather.intent"``). Both forms are used verbatim
+file suffix (eg. ``"weather.intent"``). Both forms are used verbatim
 as the routed intent id, matching how the existing baseline suite asserts
 intent routing (``_matches_intent`` in ``test_intents_en_us.py``), so this
 suite reuses the same tolerant matcher rather than inventing a second one.

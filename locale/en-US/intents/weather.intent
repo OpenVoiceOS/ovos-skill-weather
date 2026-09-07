@@ -4,3 +4,55 @@
 (give me|show me) the (forecast|weather forecast) [in {location}]
 forecast [in {location}]
 weather in {location}
+(what is|what's|how is|how's) the weather [like] [right now|currently|outside] [in {location}]
+(what is|what's|how is|how's) the weather (forecast|conditions|status) [like] [right now|currently|outside] [in {location}]
+[can you] tell me [about] the weather [forecast] [right now|currently] [in {location}]
+give me the (current|latest) weather update [in {location}]
+current weather [conditions|status] [in {location}]
+(what is|what's) happening with the weather [right now|currently] [in {location}]
+(what's|how's) the weather (doing|looking|currently) [in {location}]
+(what is it|what's it) like outside [in {location}]
+is it (good|nice|clear) outside [in {location}]
+[the] weather [now|right now]
+how is [it] outside
+how's outside
+tell me [the] weather [please]
+(what is|what's|how is|how's) the (weather|forecast) [like] (today|tomorrow|after tomorrow|on monday|on tuesday|on wednesday|on thursday|on friday|on saturday|on sunday|monday|tuesday|wednesday|thursday|friday|saturday|sunday|next monday|next tuesday|next wednesday|next thursday|next friday|next saturday|next sunday)
+(how's|how is) the weather going to be (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
+[can you] tell me the (weather|forecast) [for] (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
+(weather|forecast) [for] (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
+what should I expect (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
+any weather (alerts|warnings) for (today|tomorrow|after tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) [in {location}]
+will it (rain|snow|storm) [on] (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday)
+(what is|what's|how is|how's) the (weather|forecast) (today|tomorrow|monday|tuesday|wednesday|thursday|friday|saturday|sunday) in {location}
+(what is|what's|how is|how's) the (weather|forecast) [like] (this morning|this afternoon|this evening|tonight|tomorrow morning|tomorrow afternoon|tomorrow evening|later|at noon|at night|at midnight|in the morning|in the evening|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm))
+[can you] tell me the (weather|forecast) (this morning|this evening|tonight|later|at noon|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm))
+[hourly] (weather|forecast) [for] (this morning|this afternoon|this evening|tonight|later|at noon|at night|at midnight|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm))
+(what is|what's|how is|how's) the (weather|forecast) (tonight|this evening|later|at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm)) in {location}
+(what is|what's|how is|how's) the (weather|forecast) for (monday|tuesday|wednesday|thursday|friday|saturday|sunday) at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm) [in {location}]
+what's the forecast for (monday|tuesday|wednesday|thursday|friday|saturday|sunday) at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm)
+what's the forecast for (monday|tuesday|wednesday|thursday|friday|saturday|sunday) at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm) in here
+what's the forecast at (1|2|3|4|5|6|7|8|9|10|11|12) (am|pm)
+(what is|what's) the [next] (weekend|saturday and sunday) forecast
+(weekend|saturday and sunday) weather [forecast|update]
+(weekend|saturday and sunday) weather (forecast|update) in {location}
+(forecast|weather) for (the weekend|saturday and sunday)
+[can you] tell me the (weekend weather|weekend weather forecast|saturday and sunday weather)
+(how's|how is) the weather (this weekend|saturday and sunday)
+what's the weather like (over|during) (the weekend|saturday and sunday)
+is it going to (be nice|be sunny|rain|storm) (this weekend|saturday and sunday)
+will it be (nice|sunny|warm|clear) this weekend
+any (weather alerts|warnings) for the weekend
+should I plan [outdoor] activities this weekend
+(what is|what's) the weekend forecast in {location}
+(what is|what's) the (2|3|4|5|6|7) (day|days) forecast
+(what is|what's) the (2|3|4|5|6|7) (day|days) forecast in {location}
+(show me|tell me|give me) the weather (outlook|forecast) for the (coming|next) (2|3|4|5|6|7|couple|couple of|few) days
+weather in the (coming|next) (2|3|4|5|6|7|couple|couple of|few) days
+(what is|what's) the forecast for the (coming days|next few days|rest of the week)
+(show me|tell me|give me) the (weekly|7 day|7-day) forecast
+(weekly|this week's|the week's) (forecast|weather|outlook)
+(tell me|give me) the (forecast|weather|weather outlook) for this week
+(how is|how's) the weather [forecast|looking] this week
+weather (for|during) the week
+(what is|what's) the (weekly|7 day) forecast in {location}
