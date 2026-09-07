@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.1a1) (2026-09-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.0a4...1.2.1a1)
+
+**Merged pull requests:**
+
+- fix: repair template lines that fail to expand [\#246](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/246) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.2.0a4](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.0a4) (2026-09-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.0a3...1.2.0a4)
@@ -394,17 +402,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.1a1...1.0.1)
 
-**Merged pull requests:**
-
-- Release 1.0.1a1 [\#141](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/141) ([github-actions[bot]](https://github.com/apps/github-actions))
-
 ## [1.0.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.1a1) (2025-05-15)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.0a1...1.0.1a1)
-
-**Merged pull requests:**
-
-- fix: standardize [\#140](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/140) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.0a1) (2025-05-15)
 
