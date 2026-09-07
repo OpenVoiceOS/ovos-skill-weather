@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.2a1) (2026-09-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.1a1...1.2.2a1)
+
+**Merged pull requests:**
+
+- fix: locale parity — add the missing weather intents to the remaining 11 locales [\#242](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/242) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.2.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.1a1) (2026-09-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.0a4...1.2.1a1)
@@ -395,8 +403,6 @@
 
 - Release 1.0.2a1 [\#146](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/146) ([github-actions[bot]](https://github.com/apps/github-actions))
 - german translation of new intents [\#145](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/145) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-- Update intents.json [\#143](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/143) ([adina-v](https://github.com/adina-v))
-- Update intents.json NL-nl [\#142](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/142) ([timonvanhasselt](https://github.com/timonvanhasselt))
 
 ## [1.0.1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.1) (2025-05-15)
 
