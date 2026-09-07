@@ -7,6 +7,7 @@
 **Merged pull requests:**
 
 - fix: locale parity — add the missing weather intents to the remaining 11 locales [\#242](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/242) ([JarbasAl](https://github.com/JarbasAl))
+- fix: locale parity — add missing weather/is\_cold/is\_hot intents to 8 locales [\#241](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/241) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.2.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.1a1) (2026-09-07)
 
