@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0a4](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.0a4) (2026-09-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.0a3...1.2.0a4)
+
+**Merged pull requests:**
+
+- Collapse expanded intent files into alternation templates [\#245](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/245) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.2.0a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.0a3) (2026-09-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.0a2...1.2.0a3)
@@ -401,10 +409,6 @@
 ## [1.0.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.0a1) (2025-05-15)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.19a1...1.0.0a1)
-
-**Merged pull requests:**
-
-- Release 1.0.0a1 [\#139](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/139) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 ## [0.1.19a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.19a1) (2025-05-14)
 
