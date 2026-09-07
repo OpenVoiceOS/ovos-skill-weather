@@ -1,0 +1,8 @@
+Blir det kallt (idag|imorgon|på {day}) [i {location}]
+Är det kallt ute nu [i {location}]
+Blir det svalt (idag|imorgon) [i {location}]
+Behöver jag jacka idag [i {location}]
+Blir det varmt (idag|imorgon|på {day}) [i {location}]
+Är det varmt ute nu [i {location}]
+Blir det riktigt varmt idag [i {location}]
+Behöver jag solkräm idag [i {location}]

@@ -1,0 +1,8 @@
+Vai estar frio (hoje|amanhã|{day}) [em {location}]
+Está frio lá fora agora [em {location}]
+Vai estar fresco (hoje|amanhã) [em {location}]
+Preciso de casaco hoje [em {location}]
+Vai estar calor (hoje|amanhã|{day}) [em {location}]
+Está calor lá fora agora [em {location}]
+Vai fazer muito calor hoje [em {location}]
+Preciso de protetor solar hoje [em {location}]
