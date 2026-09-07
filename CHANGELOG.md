@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.3.1a1) (2026-09-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.3.0a1...1.3.1a1)
+
+**Merged pull requests:**
+
+- fix: native location prepositions in pt-PT, cs-CZ, pl-PL and sv-FI location.rx [\#253](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/253) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.3.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.3.0a1) (2026-09-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.3a1...1.3.0a1)
@@ -395,17 +403,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.2a3...1.0.3a1)
 
-**Merged pull requests:**
-
-- fix: workshop 6.0.0 compat + better gui session handlinh [\#149](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/149) ([JarbasAl](https://github.com/JarbasAl))
-
 ## [1.0.2a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.2a3) (2025-05-28)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.2a1...1.0.2a3)
-
-**Merged pull requests:**
-
-- Release 1.0.2a3 [\#148](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/148) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 ## [1.0.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.2a1) (2025-05-18)
 
