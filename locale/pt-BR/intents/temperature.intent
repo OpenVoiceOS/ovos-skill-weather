@@ -1,715 +1,92 @@
-Qual é a temperatura
-Qual é a temperatura   em Celsius
-Qual é a temperatura   em Fahrenheit
-Qual é a temperatura  agora
-Qual é a temperatura  em {location} em Celsius
-Qual é a temperatura  em {location} em Fahrenheit
-Qual é a temperatura  hoje
-Qual é a temperatura  lá fora
-Qual é a temperatura atual
-Qual é a temperatura atual  em Celsius
-Qual é a temperatura atual  em Fahrenheit
-Qual é a temperatura atual agora
-Qual é a temperatura atual em {location} em Celsius
-Qual é a temperatura atual em {location} em Fahrenheit
-Qual é a temperatura atual hoje
-Qual é a temperatura atual lá fora
-Qual é a temperatura em {location}
-Qual é a temperatura em {location} agora
-Qual é a temperatura em {location} hoje
-Qual é a temperatura em {location} lá fora
+(Qual|qual) é a temperatura
+está (agradável|frio|quente) lá fora
+quão (frio|quente) está agora
+quão (frio|quente) estará hoje
+quão (quente|frio) vai ficar
+vai estar (frio|quente) [hoje]
+preciso de uma (casaco|jaqueta)
+temperatura máxima para (amanhã|domingo|hoje|quarta|quinta|segunda|sexta|sábado|terça)
+devo esperar geada [(amanhã|domingo|quarta-feira|quinta-feira|segunda-feira|sexta-feira|sábado|terça-feira)]
 atualização de temperatura atual
-diga-me a temperatura  agora
-diga-me a temperatura em {location} agora
-está agradável lá fora
-está agradável lá fora em {location}
-está frio lá fora
-está frio lá fora em {location}
-está quente lá fora
-está quente lá fora em {location}
-preciso de uma casaco
-preciso de uma casaco  em {location}
-preciso de uma casaco hoje
-preciso de uma casaco hoje em {location}
-preciso de uma jaqueta
-preciso de uma jaqueta  em {location}
-preciso de uma jaqueta hoje
-preciso de uma jaqueta hoje em {location}
-qual é a temperatura
-qual é a temperatura  agora
-qual é a temperatura em {location}
-qual é a temperatura em {location} agora
-quão frio está
-quão frio está  agora
-quão frio está em {location}
-quão frio está em {location} agora
-quão quente está
-quão quente está  agora
-quão quente está em {location}
-quão quente está em {location} agora
-quão quente ou frio está
-quão quente ou frio está  agora
-quão quente ou frio está em {location}
-quão quente ou frio está em {location} agora
-Qual é a temperatura amanhã de manhã
-Qual é a temperatura amanhã à noite
-Qual é a temperatura domingo de manhã
-Qual é a temperatura domingo à noite
-Qual é a temperatura hoje à noite
-Qual é a temperatura hoje à noite em {location}
-Qual é a temperatura quarta de manhã
-Qual é a temperatura quarta à noite
-Qual é a temperatura quinta de manhã
-Qual é a temperatura quinta à noite
-Qual é a temperatura segunda de manhã
-Qual é a temperatura segunda à noite
-Qual é a temperatura sexta de manhã
-Qual é a temperatura sexta à noite
-Qual é a temperatura sábado de manhã
-Qual é a temperatura sábado à noite
-Qual é a temperatura terça de manhã
-Qual é a temperatura terça à noite
-espera-se que esteja escaldante amanhã à tarde
-espera-se que esteja escaldante amanhã à tarde em {location}
+diga-me a temperatura agora
 estará frio esta noite
+estará abaixo de zero
+previsão de temperatura mínima
+são esperadas temperaturas congelantes
+(Qual|qual) é a temperatura em {location}
+está (agradável|frio|quente) lá fora em {location}
+quão (frio|quente) está em {location} [agora]
+quão (quente|frio) vai ficar em {location}
+preciso de uma (casaco|jaqueta) em {location}
+devo esperar geada [(amanhã|domingo|quarta-feira|quinta-feira|segunda-feira|sexta-feira|sábado|terça-feira)] em {location}
+Qual é a temperatura em (Celsius|Fahrenheit)
+Qual é a temperatura atual (agora|hoje)
+Qual é a temperatura mais (alta|baixa)
+Qual é a temperatura lá fora
+diga-me a temperatura em {location} agora
+quão quente ou frio está [agora]
 estará frio esta noite em {location}
+quão quente estará hoje à noite
+qual é a temperatura máxima esperada
+devo esperar geada hoje à noite
+estará abaixo de zero em {location}
+quão frio estará [hoje] em {location}
+são esperadas temperaturas congelantes em {location}
+quão (quente|frio) vai ficar (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+(Qual|qual) é a temperatura agora
+quão (frio|quente) estará esta noite
+vai estar (frio|quente) esta noite
+preciso de uma (casaco|jaqueta) hoje
+Qual é a temperatura (hoje|atual|máxima|mínima)
+estará abaixo de zero (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+são esperadas temperaturas congelantes (amanhã|domingo|quarta-feira|quinta-feira|segunda-feira|sexta-feira|sábado|terça-feira)
+quão quente estará esta manhã
+quão quente vai ficar hoje
+Qual é a temperatura [(máxima|mínima)] (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+Qual é a temperatura (máxima|mínima) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à noite
+Qual é a temperatura em {location} em (Celsius|Fahrenheit)
+Qual é a temperatura máxima em {location} (amanhã|hoje)
+Qual é a temperatura em {location} lá fora
+quão quente ou frio está em {location} [agora]
+quão quente estará hoje à noite em {location}
+devo esperar geada hoje à noite em {location}
+quão (quente|frio) vai ficar (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+(Qual|qual) é a temperatura em {location} agora
+preciso de uma (casaco|jaqueta) hoje em {location}
+Qual é a temperatura (amanhã|domingo|hoje|quarta|quinta|segunda|sexta|sábado|terça) à noite
+estará abaixo de zero (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+são esperadas temperaturas congelantes (amanhã|domingo|quarta-feira|quinta-feira|segunda-feira|sexta-feira|sábado|terça-feira) em {location}
+Qual é a temperatura atual em (Celsius|Fahrenheit)
+qual é a temperatura máxima esperada (amanhã|domingo|hoje|quarta|quinta|segunda|sexta|sábado|terça)
+Qual é a temperatura atual lá fora
+Qual é a temperatura em {location} hoje
+espera-se que esteja escaldante amanhã à tarde
 previsão de temperatura para amanhã de manhã
 previsão de temperatura para hoje à noite
-qual é a temperatura às 1 da manhã amanhã
-qual é a temperatura às 1 da manhã amanhã em {location}
-qual é a temperatura às 1 da manhã domingo
-qual é a temperatura às 1 da manhã domingo em {location}
-qual é a temperatura às 1 da manhã quarta
-qual é a temperatura às 1 da manhã quarta em {location}
-qual é a temperatura às 1 da manhã quinta
-qual é a temperatura às 1 da manhã quinta em {location}
-qual é a temperatura às 1 da manhã segunda
-qual é a temperatura às 1 da manhã segunda em {location}
-qual é a temperatura às 1 da manhã sexta
-qual é a temperatura às 1 da manhã sexta em {location}
-qual é a temperatura às 1 da manhã sábado
-qual é a temperatura às 1 da manhã sábado em {location}
-qual é a temperatura às 1 da manhã terça
-qual é a temperatura às 1 da manhã terça em {location}
-qual é a temperatura às 1 da tarde amanhã
-qual é a temperatura às 1 da tarde amanhã em {location}
-qual é a temperatura às 1 da tarde domingo
-qual é a temperatura às 1 da tarde domingo em {location}
-qual é a temperatura às 1 da tarde quarta
-qual é a temperatura às 1 da tarde quarta em {location}
-qual é a temperatura às 1 da tarde quinta
-qual é a temperatura às 1 da tarde quinta em {location}
-qual é a temperatura às 1 da tarde segunda
-qual é a temperatura às 1 da tarde segunda em {location}
-qual é a temperatura às 1 da tarde sexta
-qual é a temperatura às 1 da tarde sexta em {location}
-qual é a temperatura às 1 da tarde sábado
-qual é a temperatura às 1 da tarde sábado em {location}
-qual é a temperatura às 1 da tarde terça
-qual é a temperatura às 1 da tarde terça em {location}
-qual é a temperatura às 10 da manhã amanhã
-qual é a temperatura às 10 da manhã amanhã em {location}
-qual é a temperatura às 10 da manhã domingo
-qual é a temperatura às 10 da manhã domingo em {location}
-qual é a temperatura às 10 da manhã quarta
-qual é a temperatura às 10 da manhã quarta em {location}
-qual é a temperatura às 10 da manhã quinta
-qual é a temperatura às 10 da manhã quinta em {location}
-qual é a temperatura às 10 da manhã segunda
-qual é a temperatura às 10 da manhã segunda em {location}
-qual é a temperatura às 10 da manhã sexta
-qual é a temperatura às 10 da manhã sexta em {location}
-qual é a temperatura às 10 da manhã sábado
-qual é a temperatura às 10 da manhã sábado em {location}
-qual é a temperatura às 10 da manhã terça
-qual é a temperatura às 10 da manhã terça em {location}
-qual é a temperatura às 10 da tarde amanhã
-qual é a temperatura às 10 da tarde amanhã em {location}
-qual é a temperatura às 10 da tarde domingo
-qual é a temperatura às 10 da tarde domingo em {location}
-qual é a temperatura às 10 da tarde quarta
-qual é a temperatura às 10 da tarde quarta em {location}
-qual é a temperatura às 10 da tarde quinta
-qual é a temperatura às 10 da tarde quinta em {location}
-qual é a temperatura às 10 da tarde segunda
-qual é a temperatura às 10 da tarde segunda em {location}
-qual é a temperatura às 10 da tarde sexta
-qual é a temperatura às 10 da tarde sexta em {location}
-qual é a temperatura às 10 da tarde sábado
-qual é a temperatura às 10 da tarde sábado em {location}
-qual é a temperatura às 10 da tarde terça
-qual é a temperatura às 10 da tarde terça em {location}
-qual é a temperatura às 11 da manhã amanhã
-qual é a temperatura às 11 da manhã amanhã em {location}
-qual é a temperatura às 11 da manhã domingo
-qual é a temperatura às 11 da manhã domingo em {location}
-qual é a temperatura às 11 da manhã quarta
-qual é a temperatura às 11 da manhã quarta em {location}
-qual é a temperatura às 11 da manhã quinta
-qual é a temperatura às 11 da manhã quinta em {location}
-qual é a temperatura às 11 da manhã segunda
-qual é a temperatura às 11 da manhã segunda em {location}
-qual é a temperatura às 11 da manhã sexta
-qual é a temperatura às 11 da manhã sexta em {location}
-qual é a temperatura às 11 da manhã sábado
-qual é a temperatura às 11 da manhã sábado em {location}
-qual é a temperatura às 11 da manhã terça
-qual é a temperatura às 11 da manhã terça em {location}
-qual é a temperatura às 11 da tarde amanhã
-qual é a temperatura às 11 da tarde amanhã em {location}
-qual é a temperatura às 11 da tarde domingo
-qual é a temperatura às 11 da tarde domingo em {location}
-qual é a temperatura às 11 da tarde quarta
-qual é a temperatura às 11 da tarde quarta em {location}
-qual é a temperatura às 11 da tarde quinta
-qual é a temperatura às 11 da tarde quinta em {location}
-qual é a temperatura às 11 da tarde segunda
-qual é a temperatura às 11 da tarde segunda em {location}
-qual é a temperatura às 11 da tarde sexta
-qual é a temperatura às 11 da tarde sexta em {location}
-qual é a temperatura às 11 da tarde sábado
-qual é a temperatura às 11 da tarde sábado em {location}
-qual é a temperatura às 11 da tarde terça
-qual é a temperatura às 11 da tarde terça em {location}
-qual é a temperatura às 12 da manhã amanhã
-qual é a temperatura às 12 da manhã amanhã em {location}
-qual é a temperatura às 12 da manhã domingo
-qual é a temperatura às 12 da manhã domingo em {location}
-qual é a temperatura às 12 da manhã quarta
-qual é a temperatura às 12 da manhã quarta em {location}
-qual é a temperatura às 12 da manhã quinta
-qual é a temperatura às 12 da manhã quinta em {location}
-qual é a temperatura às 12 da manhã segunda
-qual é a temperatura às 12 da manhã segunda em {location}
-qual é a temperatura às 12 da manhã sexta
-qual é a temperatura às 12 da manhã sexta em {location}
-qual é a temperatura às 12 da manhã sábado
-qual é a temperatura às 12 da manhã sábado em {location}
-qual é a temperatura às 12 da manhã terça
-qual é a temperatura às 12 da manhã terça em {location}
-qual é a temperatura às 12 da tarde amanhã
-qual é a temperatura às 12 da tarde amanhã em {location}
-qual é a temperatura às 12 da tarde domingo
-qual é a temperatura às 12 da tarde domingo em {location}
-qual é a temperatura às 12 da tarde quarta
-qual é a temperatura às 12 da tarde quarta em {location}
-qual é a temperatura às 12 da tarde quinta
-qual é a temperatura às 12 da tarde quinta em {location}
-qual é a temperatura às 12 da tarde segunda
-qual é a temperatura às 12 da tarde segunda em {location}
-qual é a temperatura às 12 da tarde sexta
-qual é a temperatura às 12 da tarde sexta em {location}
-qual é a temperatura às 12 da tarde sábado
-qual é a temperatura às 12 da tarde sábado em {location}
-qual é a temperatura às 12 da tarde terça
-qual é a temperatura às 12 da tarde terça em {location}
-qual é a temperatura às 2 da manhã amanhã
-qual é a temperatura às 2 da manhã amanhã em {location}
-qual é a temperatura às 2 da manhã domingo
-qual é a temperatura às 2 da manhã domingo em {location}
-qual é a temperatura às 2 da manhã quarta
-qual é a temperatura às 2 da manhã quarta em {location}
-qual é a temperatura às 2 da manhã quinta
-qual é a temperatura às 2 da manhã quinta em {location}
-qual é a temperatura às 2 da manhã segunda
-qual é a temperatura às 2 da manhã segunda em {location}
-qual é a temperatura às 2 da manhã sexta
-qual é a temperatura às 2 da manhã sexta em {location}
-qual é a temperatura às 2 da manhã sábado
-qual é a temperatura às 2 da manhã sábado em {location}
-qual é a temperatura às 2 da manhã terça
-qual é a temperatura às 2 da manhã terça em {location}
-qual é a temperatura às 2 da tarde amanhã
-qual é a temperatura às 2 da tarde amanhã em {location}
-qual é a temperatura às 2 da tarde domingo
-qual é a temperatura às 2 da tarde domingo em {location}
-qual é a temperatura às 2 da tarde quarta
-qual é a temperatura às 2 da tarde quarta em {location}
-qual é a temperatura às 2 da tarde quinta
-qual é a temperatura às 2 da tarde quinta em {location}
-qual é a temperatura às 2 da tarde segunda
-qual é a temperatura às 2 da tarde segunda em {location}
-qual é a temperatura às 2 da tarde sexta
-qual é a temperatura às 2 da tarde sexta em {location}
-qual é a temperatura às 2 da tarde sábado
-qual é a temperatura às 2 da tarde sábado em {location}
-qual é a temperatura às 2 da tarde terça
-qual é a temperatura às 2 da tarde terça em {location}
-qual é a temperatura às 3 da manhã amanhã
-qual é a temperatura às 3 da manhã amanhã em {location}
-qual é a temperatura às 3 da manhã domingo
-qual é a temperatura às 3 da manhã domingo em {location}
-qual é a temperatura às 3 da manhã quarta
-qual é a temperatura às 3 da manhã quarta em {location}
-qual é a temperatura às 3 da manhã quinta
-qual é a temperatura às 3 da manhã quinta em {location}
-qual é a temperatura às 3 da manhã segunda
-qual é a temperatura às 3 da manhã segunda em {location}
-qual é a temperatura às 3 da manhã sexta
-qual é a temperatura às 3 da manhã sexta em {location}
-qual é a temperatura às 3 da manhã sábado
-qual é a temperatura às 3 da manhã sábado em {location}
-qual é a temperatura às 3 da manhã terça
-qual é a temperatura às 3 da manhã terça em {location}
-qual é a temperatura às 3 da tarde amanhã
-qual é a temperatura às 3 da tarde amanhã em {location}
-qual é a temperatura às 3 da tarde domingo
-qual é a temperatura às 3 da tarde domingo em {location}
-qual é a temperatura às 3 da tarde quarta
-qual é a temperatura às 3 da tarde quarta em {location}
-qual é a temperatura às 3 da tarde quinta
-qual é a temperatura às 3 da tarde quinta em {location}
-qual é a temperatura às 3 da tarde segunda
-qual é a temperatura às 3 da tarde segunda em {location}
-qual é a temperatura às 3 da tarde sexta
-qual é a temperatura às 3 da tarde sexta em {location}
-qual é a temperatura às 3 da tarde sábado
-qual é a temperatura às 3 da tarde sábado em {location}
-qual é a temperatura às 3 da tarde terça
-qual é a temperatura às 3 da tarde terça em {location}
-qual é a temperatura às 4 da manhã amanhã
-qual é a temperatura às 4 da manhã amanhã em {location}
-qual é a temperatura às 4 da manhã domingo
-qual é a temperatura às 4 da manhã domingo em {location}
-qual é a temperatura às 4 da manhã quarta
-qual é a temperatura às 4 da manhã quarta em {location}
-qual é a temperatura às 4 da manhã quinta
-qual é a temperatura às 4 da manhã quinta em {location}
-qual é a temperatura às 4 da manhã segunda
-qual é a temperatura às 4 da manhã segunda em {location}
-qual é a temperatura às 4 da manhã sexta
-qual é a temperatura às 4 da manhã sexta em {location}
-qual é a temperatura às 4 da manhã sábado
-qual é a temperatura às 4 da manhã sábado em {location}
-qual é a temperatura às 4 da manhã terça
-qual é a temperatura às 4 da manhã terça em {location}
-qual é a temperatura às 4 da tarde amanhã
-qual é a temperatura às 4 da tarde amanhã em {location}
-qual é a temperatura às 4 da tarde domingo
-qual é a temperatura às 4 da tarde domingo em {location}
-qual é a temperatura às 4 da tarde quarta
-qual é a temperatura às 4 da tarde quarta em {location}
-qual é a temperatura às 4 da tarde quinta
-qual é a temperatura às 4 da tarde quinta em {location}
-qual é a temperatura às 4 da tarde segunda
-qual é a temperatura às 4 da tarde segunda em {location}
-qual é a temperatura às 4 da tarde sexta
-qual é a temperatura às 4 da tarde sexta em {location}
-qual é a temperatura às 4 da tarde sábado
-qual é a temperatura às 4 da tarde sábado em {location}
-qual é a temperatura às 4 da tarde terça
-qual é a temperatura às 4 da tarde terça em {location}
-qual é a temperatura às 5 da manhã amanhã
-qual é a temperatura às 5 da manhã amanhã em {location}
-qual é a temperatura às 5 da manhã domingo
-qual é a temperatura às 5 da manhã domingo em {location}
-qual é a temperatura às 5 da manhã quarta
-qual é a temperatura às 5 da manhã quarta em {location}
-qual é a temperatura às 5 da manhã quinta
-qual é a temperatura às 5 da manhã quinta em {location}
-qual é a temperatura às 5 da manhã segunda
-qual é a temperatura às 5 da manhã segunda em {location}
-qual é a temperatura às 5 da manhã sexta
-qual é a temperatura às 5 da manhã sexta em {location}
-qual é a temperatura às 5 da manhã sábado
-qual é a temperatura às 5 da manhã sábado em {location}
-qual é a temperatura às 5 da manhã terça
-qual é a temperatura às 5 da manhã terça em {location}
-qual é a temperatura às 5 da tarde amanhã
-qual é a temperatura às 5 da tarde amanhã em {location}
-qual é a temperatura às 5 da tarde domingo
-qual é a temperatura às 5 da tarde domingo em {location}
-qual é a temperatura às 5 da tarde quarta
-qual é a temperatura às 5 da tarde quarta em {location}
-qual é a temperatura às 5 da tarde quinta
-qual é a temperatura às 5 da tarde quinta em {location}
-qual é a temperatura às 5 da tarde segunda
-qual é a temperatura às 5 da tarde segunda em {location}
-qual é a temperatura às 5 da tarde sexta
-qual é a temperatura às 5 da tarde sexta em {location}
-qual é a temperatura às 5 da tarde sábado
-qual é a temperatura às 5 da tarde sábado em {location}
-qual é a temperatura às 5 da tarde terça
-qual é a temperatura às 5 da tarde terça em {location}
-qual é a temperatura às 6 da manhã amanhã
-qual é a temperatura às 6 da manhã amanhã em {location}
-qual é a temperatura às 6 da manhã domingo
-qual é a temperatura às 6 da manhã domingo em {location}
-qual é a temperatura às 6 da manhã quarta
-qual é a temperatura às 6 da manhã quarta em {location}
-qual é a temperatura às 6 da manhã quinta
-qual é a temperatura às 6 da manhã quinta em {location}
-qual é a temperatura às 6 da manhã segunda
-qual é a temperatura às 6 da manhã segunda em {location}
-qual é a temperatura às 6 da manhã sexta
-qual é a temperatura às 6 da manhã sexta em {location}
-qual é a temperatura às 6 da manhã sábado
-qual é a temperatura às 6 da manhã sábado em {location}
-qual é a temperatura às 6 da manhã terça
-qual é a temperatura às 6 da manhã terça em {location}
-qual é a temperatura às 6 da tarde amanhã
-qual é a temperatura às 6 da tarde amanhã em {location}
-qual é a temperatura às 6 da tarde domingo
-qual é a temperatura às 6 da tarde domingo em {location}
-qual é a temperatura às 6 da tarde quarta
-qual é a temperatura às 6 da tarde quarta em {location}
-qual é a temperatura às 6 da tarde quinta
-qual é a temperatura às 6 da tarde quinta em {location}
-qual é a temperatura às 6 da tarde segunda
-qual é a temperatura às 6 da tarde segunda em {location}
-qual é a temperatura às 6 da tarde sexta
-qual é a temperatura às 6 da tarde sexta em {location}
-qual é a temperatura às 6 da tarde sábado
-qual é a temperatura às 6 da tarde sábado em {location}
-qual é a temperatura às 6 da tarde terça
-qual é a temperatura às 6 da tarde terça em {location}
-qual é a temperatura às 7 da manhã amanhã
-qual é a temperatura às 7 da manhã amanhã em {location}
-qual é a temperatura às 7 da manhã domingo
-qual é a temperatura às 7 da manhã domingo em {location}
-qual é a temperatura às 7 da manhã quarta
-qual é a temperatura às 7 da manhã quarta em {location}
-qual é a temperatura às 7 da manhã quinta
-qual é a temperatura às 7 da manhã quinta em {location}
-qual é a temperatura às 7 da manhã segunda
-qual é a temperatura às 7 da manhã segunda em {location}
-qual é a temperatura às 7 da manhã sexta
-qual é a temperatura às 7 da manhã sexta em {location}
-qual é a temperatura às 7 da manhã sábado
-qual é a temperatura às 7 da manhã sábado em {location}
-qual é a temperatura às 7 da manhã terça
-qual é a temperatura às 7 da manhã terça em {location}
-qual é a temperatura às 7 da tarde amanhã
-qual é a temperatura às 7 da tarde amanhã em {location}
-qual é a temperatura às 7 da tarde domingo
-qual é a temperatura às 7 da tarde domingo em {location}
-qual é a temperatura às 7 da tarde quarta
-qual é a temperatura às 7 da tarde quarta em {location}
-qual é a temperatura às 7 da tarde quinta
-qual é a temperatura às 7 da tarde quinta em {location}
-qual é a temperatura às 7 da tarde segunda
-qual é a temperatura às 7 da tarde segunda em {location}
-qual é a temperatura às 7 da tarde sexta
-qual é a temperatura às 7 da tarde sexta em {location}
-qual é a temperatura às 7 da tarde sábado
-qual é a temperatura às 7 da tarde sábado em {location}
-qual é a temperatura às 7 da tarde terça
-qual é a temperatura às 7 da tarde terça em {location}
-qual é a temperatura às 8 da manhã amanhã
-qual é a temperatura às 8 da manhã amanhã em {location}
-qual é a temperatura às 8 da manhã domingo
-qual é a temperatura às 8 da manhã domingo em {location}
-qual é a temperatura às 8 da manhã quarta
-qual é a temperatura às 8 da manhã quarta em {location}
-qual é a temperatura às 8 da manhã quinta
-qual é a temperatura às 8 da manhã quinta em {location}
-qual é a temperatura às 8 da manhã segunda
-qual é a temperatura às 8 da manhã segunda em {location}
-qual é a temperatura às 8 da manhã sexta
-qual é a temperatura às 8 da manhã sexta em {location}
-qual é a temperatura às 8 da manhã sábado
-qual é a temperatura às 8 da manhã sábado em {location}
-qual é a temperatura às 8 da manhã terça
-qual é a temperatura às 8 da manhã terça em {location}
-qual é a temperatura às 8 da tarde amanhã
-qual é a temperatura às 8 da tarde amanhã em {location}
-qual é a temperatura às 8 da tarde domingo
-qual é a temperatura às 8 da tarde domingo em {location}
-qual é a temperatura às 8 da tarde quarta
-qual é a temperatura às 8 da tarde quarta em {location}
-qual é a temperatura às 8 da tarde quinta
-qual é a temperatura às 8 da tarde quinta em {location}
-qual é a temperatura às 8 da tarde segunda
-qual é a temperatura às 8 da tarde segunda em {location}
-qual é a temperatura às 8 da tarde sexta
-qual é a temperatura às 8 da tarde sexta em {location}
-qual é a temperatura às 8 da tarde sábado
-qual é a temperatura às 8 da tarde sábado em {location}
-qual é a temperatura às 8 da tarde terça
-qual é a temperatura às 8 da tarde terça em {location}
-qual é a temperatura às 9 da manhã amanhã
-qual é a temperatura às 9 da manhã amanhã em {location}
-qual é a temperatura às 9 da manhã domingo
-qual é a temperatura às 9 da manhã domingo em {location}
-qual é a temperatura às 9 da manhã quarta
-qual é a temperatura às 9 da manhã quarta em {location}
-qual é a temperatura às 9 da manhã quinta
-qual é a temperatura às 9 da manhã quinta em {location}
-qual é a temperatura às 9 da manhã segunda
-qual é a temperatura às 9 da manhã segunda em {location}
-qual é a temperatura às 9 da manhã sexta
-qual é a temperatura às 9 da manhã sexta em {location}
-qual é a temperatura às 9 da manhã sábado
-qual é a temperatura às 9 da manhã sábado em {location}
-qual é a temperatura às 9 da manhã terça
-qual é a temperatura às 9 da manhã terça em {location}
-qual é a temperatura às 9 da tarde amanhã
-qual é a temperatura às 9 da tarde amanhã em {location}
-qual é a temperatura às 9 da tarde domingo
-qual é a temperatura às 9 da tarde domingo em {location}
-qual é a temperatura às 9 da tarde quarta
-qual é a temperatura às 9 da tarde quarta em {location}
-qual é a temperatura às 9 da tarde quinta
-qual é a temperatura às 9 da tarde quinta em {location}
-qual é a temperatura às 9 da tarde segunda
-qual é a temperatura às 9 da tarde segunda em {location}
-qual é a temperatura às 9 da tarde sexta
-qual é a temperatura às 9 da tarde sexta em {location}
-qual é a temperatura às 9 da tarde sábado
-qual é a temperatura às 9 da tarde sábado em {location}
-qual é a temperatura às 9 da tarde terça
-qual é a temperatura às 9 da tarde terça em {location}
-quão frio estará
-quão frio estará esta noite
-quão frio estará hoje
-quão quente estará
-quão quente estará esta manhã
 quão quente estará esta manhã em {location}
-quão quente estará esta noite
-quão quente estará hoje
-quão quente estará hoje à noite
-quão quente estará hoje à noite em {location}
-vai estar frio
-vai estar frio esta noite
-vai estar frio hoje
-vai estar quente
-vai estar quente esta noite
-vai estar quente hoje
-Qual é a temperatura mais alta
-Qual é a temperatura mais alta amanhã de manhã
-Qual é a temperatura mais alta amanhã à noite
-Qual é a temperatura mais alta domingo de manhã
-Qual é a temperatura mais alta domingo à noite
-Qual é a temperatura mais alta em {location}  amanhã
-Qual é a temperatura mais alta em {location} depois de amanhã
-Qual é a temperatura mais alta em {location} hoje
-Qual é a temperatura mais alta em {location} na quarta
-Qual é a temperatura mais alta em {location} na quinta
-Qual é a temperatura mais alta em {location} na segunda
-Qual é a temperatura mais alta em {location} na sexta
-Qual é a temperatura mais alta em {location} na terça
-Qual é a temperatura mais alta em {location} no domingo
-Qual é a temperatura mais alta em {location} no sábado
-Qual é a temperatura mais alta quarta de manhã
-Qual é a temperatura mais alta quarta à noite
-Qual é a temperatura mais alta quinta de manhã
-Qual é a temperatura mais alta quinta à noite
-Qual é a temperatura mais alta segunda de manhã
-Qual é a temperatura mais alta segunda à noite
-Qual é a temperatura mais alta sexta de manhã
-Qual é a temperatura mais alta sexta à noite
-Qual é a temperatura mais alta sábado de manhã
-Qual é a temperatura mais alta sábado à noite
-Qual é a temperatura mais alta terça de manhã
-Qual é a temperatura mais alta terça à noite
-Qual é a temperatura máxima
-Qual é a temperatura máxima amanhã de manhã
-Qual é a temperatura máxima amanhã à noite
-Qual é a temperatura máxima domingo de manhã
-Qual é a temperatura máxima domingo à noite
-Qual é a temperatura máxima em {location}  amanhã
-Qual é a temperatura máxima em {location} depois de amanhã
-Qual é a temperatura máxima em {location} hoje
-Qual é a temperatura máxima em {location} na quarta
-Qual é a temperatura máxima em {location} na quinta
-Qual é a temperatura máxima em {location} na segunda
-Qual é a temperatura máxima em {location} na sexta
-Qual é a temperatura máxima em {location} na terça
-Qual é a temperatura máxima em {location} no domingo
-Qual é a temperatura máxima em {location} no sábado
-Qual é a temperatura máxima quarta de manhã
-Qual é a temperatura máxima quarta à noite
-Qual é a temperatura máxima quinta de manhã
-Qual é a temperatura máxima quinta à noite
-Qual é a temperatura máxima segunda de manhã
-Qual é a temperatura máxima segunda à noite
-Qual é a temperatura máxima sexta de manhã
-Qual é a temperatura máxima sexta à noite
-Qual é a temperatura máxima sábado de manhã
-Qual é a temperatura máxima sábado à noite
-Qual é a temperatura máxima terça de manhã
-Qual é a temperatura máxima terça à noite
-qual é a temperatura máxima esperada
-qual é a temperatura máxima esperada amanhã
-qual é a temperatura máxima esperada domingo
-qual é a temperatura máxima esperada hoje
-qual é a temperatura máxima esperada quarta
-qual é a temperatura máxima esperada quinta
-qual é a temperatura máxima esperada segunda
-qual é a temperatura máxima esperada sexta
-qual é a temperatura máxima esperada sábado
-qual é a temperatura máxima esperada terça
-quão quente vai ficar
-quão quente vai ficar  em {location}
-quão quente vai ficar amanhã
-quão quente vai ficar amanhã em {location}
-quão quente vai ficar domingo
-quão quente vai ficar domingo em {location}
-quão quente vai ficar hoje
 quão quente vai ficar hoje em {location}
-quão quente vai ficar quarta
-quão quente vai ficar quarta em {location}
-quão quente vai ficar quinta
-quão quente vai ficar quinta em {location}
-quão quente vai ficar segunda
-quão quente vai ficar segunda em {location}
-quão quente vai ficar sexta
-quão quente vai ficar sexta em {location}
-quão quente vai ficar sábado
-quão quente vai ficar sábado em {location}
-quão quente vai ficar terça
-quão quente vai ficar terça em {location}
-temperatura máxima para amanhã
-temperatura máxima para domingo
-temperatura máxima para hoje
-temperatura máxima para quarta
-temperatura máxima para quinta
-temperatura máxima para segunda
-temperatura máxima para sexta
-temperatura máxima para sábado
-temperatura máxima para terça
-Qual é a temperatura mais baixa
-Qual é a temperatura mais baixa amanhã de manhã
-Qual é a temperatura mais baixa amanhã à noite
-Qual é a temperatura mais baixa domingo de manhã
-Qual é a temperatura mais baixa domingo à noite
-Qual é a temperatura mais baixa em {location}  amanhã
-Qual é a temperatura mais baixa em {location} depois de amanhã
-Qual é a temperatura mais baixa em {location} hoje
-Qual é a temperatura mais baixa em {location} na quarta
-Qual é a temperatura mais baixa em {location} na quinta
-Qual é a temperatura mais baixa em {location} na segunda
-Qual é a temperatura mais baixa em {location} na sexta
-Qual é a temperatura mais baixa em {location} na terça
-Qual é a temperatura mais baixa em {location} no domingo
-Qual é a temperatura mais baixa em {location} no sábado
-Qual é a temperatura mais baixa quarta de manhã
-Qual é a temperatura mais baixa quarta à noite
-Qual é a temperatura mais baixa quinta de manhã
-Qual é a temperatura mais baixa quinta à noite
-Qual é a temperatura mais baixa segunda de manhã
-Qual é a temperatura mais baixa segunda à noite
-Qual é a temperatura mais baixa sexta de manhã
-Qual é a temperatura mais baixa sexta à noite
-Qual é a temperatura mais baixa sábado de manhã
-Qual é a temperatura mais baixa sábado à noite
-Qual é a temperatura mais baixa terça de manhã
-Qual é a temperatura mais baixa terça à noite
-Qual é a temperatura mínima
-Qual é a temperatura mínima amanhã de manhã
-Qual é a temperatura mínima amanhã à noite
-Qual é a temperatura mínima domingo de manhã
-Qual é a temperatura mínima domingo à noite
-Qual é a temperatura mínima quarta de manhã
-Qual é a temperatura mínima quarta à noite
-Qual é a temperatura mínima quinta de manhã
-Qual é a temperatura mínima quinta à noite
-Qual é a temperatura mínima segunda de manhã
-Qual é a temperatura mínima segunda à noite
-Qual é a temperatura mínima sexta de manhã
-Qual é a temperatura mínima sexta à noite
-Qual é a temperatura mínima sábado de manhã
-Qual é a temperatura mínima sábado à noite
-Qual é a temperatura mínima terça de manhã
-Qual é a temperatura mínima terça à noite
-devo esperar geada
-devo esperar geada  em {location}
-devo esperar geada amanhã
-devo esperar geada amanhã em {location}
-devo esperar geada domingo
-devo esperar geada domingo em {location}
-devo esperar geada hoje à noite
-devo esperar geada hoje à noite em {location}
-devo esperar geada quarta-feira
-devo esperar geada quarta-feira em {location}
-devo esperar geada quinta-feira
-devo esperar geada quinta-feira em {location}
-devo esperar geada segunda-feira
-devo esperar geada segunda-feira em {location}
-devo esperar geada sexta-feira
-devo esperar geada sexta-feira em {location}
-devo esperar geada sábado
-devo esperar geada sábado em {location}
-devo esperar geada terça-feira
-devo esperar geada terça-feira em {location}
-estará abaixo de zero
-estará abaixo de zero  em {location}
-estará abaixo de zero amanhã
-estará abaixo de zero amanhã em {location}
-estará abaixo de zero domingo
-estará abaixo de zero domingo em {location}
 estará abaixo de zero hoje à noite
-estará abaixo de zero hoje à noite em {location}
-estará abaixo de zero quarta
-estará abaixo de zero quarta em {location}
-estará abaixo de zero quinta
-estará abaixo de zero quinta em {location}
-estará abaixo de zero segunda
-estará abaixo de zero segunda em {location}
-estará abaixo de zero sexta
-estará abaixo de zero sexta em {location}
-estará abaixo de zero sábado
-estará abaixo de zero sábado em {location}
-estará abaixo de zero terça
-estará abaixo de zero terça em {location}
-previsão de temperatura mínima
-qual é a mínima durante a noite para amanhã
-qual é a mínima durante a noite para amanhã em {location}
-qual é a mínima durante a noite para domingo
-qual é a mínima durante a noite para domingo em {location}
-qual é a mínima durante a noite para hoje à noite
-qual é a mínima durante a noite para hoje à noite em {location}
-qual é a mínima durante a noite para quarta
-qual é a mínima durante a noite para quarta em {location}
-qual é a mínima durante a noite para quinta
-qual é a mínima durante a noite para quinta em {location}
-qual é a mínima durante a noite para segunda
-qual é a mínima durante a noite para segunda em {location}
-qual é a mínima durante a noite para sexta
-qual é a mínima durante a noite para sexta em {location}
-qual é a mínima durante a noite para sábado
-qual é a mínima durante a noite para sábado em {location}
-qual é a mínima durante a noite para terça
-qual é a mínima durante a noite para terça em {location}
-quão frio estará  em {location}
-quão frio estará hoje em {location}
-quão frio vai ficar
-quão frio vai ficar  em {location}
-quão frio vai ficar amanhã
-quão frio vai ficar amanhã em {location}
-quão frio vai ficar domingo
-quão frio vai ficar domingo em {location}
 quão frio vai ficar hoje à noite
-quão frio vai ficar hoje à noite em {location}
-quão frio vai ficar quarta
-quão frio vai ficar quarta em {location}
-quão frio vai ficar quinta
-quão frio vai ficar quinta em {location}
-quão frio vai ficar segunda
-quão frio vai ficar segunda em {location}
-quão frio vai ficar sexta
-quão frio vai ficar sexta em {location}
-quão frio vai ficar sábado
-quão frio vai ficar sábado em {location}
-quão frio vai ficar terça
-quão frio vai ficar terça em {location}
-são esperadas temperaturas congelantes
-são esperadas temperaturas congelantes  em {location}
-são esperadas temperaturas congelantes amanhã
-são esperadas temperaturas congelantes amanhã em {location}
-são esperadas temperaturas congelantes domingo
-são esperadas temperaturas congelantes domingo em {location}
 são esperadas temperaturas congelantes hoje à noite
+qual é a temperatura às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+Qual é a temperatura mais (alta|baixa) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+Qual é a temperatura mais (alta|baixa) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à noite
+Qual é a temperatura mais (alta|baixa) em {location} (amanhã|hoje)
+Qual é a temperatura atual em {location} em (Celsius|Fahrenheit)
+Qual é a temperatura máxima em {location} na (quarta|quinta|segunda|sexta|terça)
+Qual é a temperatura máxima em {location} no (domingo|sábado)
+qual é a mínima durante a noite para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+Qual é a temperatura hoje à noite em {location}
+espera-se que esteja escaldante amanhã à tarde em {location}
+estará abaixo de zero hoje à noite em {location}
+quão frio vai ficar hoje à noite em {location}
 são esperadas temperaturas congelantes hoje à noite em {location}
-são esperadas temperaturas congelantes quarta-feira
-são esperadas temperaturas congelantes quarta-feira em {location}
-são esperadas temperaturas congelantes quinta-feira
-são esperadas temperaturas congelantes quinta-feira em {location}
-são esperadas temperaturas congelantes segunda-feira
-são esperadas temperaturas congelantes segunda-feira em {location}
-são esperadas temperaturas congelantes sexta-feira
-são esperadas temperaturas congelantes sexta-feira em {location}
-são esperadas temperaturas congelantes sábado
-são esperadas temperaturas congelantes sábado em {location}
-são esperadas temperaturas congelantes terça-feira
-são esperadas temperaturas congelantes terça-feira em {location}
+quão (frio|quente) (está|estará)
+qual é a temperatura às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+Qual é a temperatura mais (alta|baixa) em {location} depois de amanhã
+qual é a mínima durante a noite para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+qual é a mínima durante a noite para hoje à noite
+Qual é a temperatura mais (alta|baixa) em {location} na (quarta|quinta|segunda|sexta|terça)
+Qual é a temperatura mais (alta|baixa) em {location} no (domingo|sábado)
+Qual é a temperatura máxima em {location} depois de amanhã
+qual é a mínima durante a noite para hoje à noite em {location}
