@@ -16,3 +16,5 @@ Y aura-t-il une canicule à {location}?
 Dois-je mettre de la crème solaire à {location}?
 Fait-il chaud dehors à {location}?
 Va-t-il faire chaud ce soir à {location}?
+Fera-t-il chaud {day} à {location}?
+Fera-t-il froid {day} à {location}?

@@ -140,3 +140,5 @@ Vertel me het weer in {location}
 Geef me het weerbericht voor {location}
 Weer in {location}
 Weerbericht voor {location}
+hoe is het weer in {unit}
+hoe is het weer in {unit} in {location}
