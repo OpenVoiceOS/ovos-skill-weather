@@ -147,80 +147,80 @@ Wie ist die Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag
 Wie ist die Wettervorhersage für (das|den) Samstag und Sonntag in {location}
 kannst du mir was über das aktuelle Wetter in {location} sagen
 Wie ist die Wettervorhersage für (das|den) (nächste|nächsten) Samstag und Sonntag in {location}
-gib mir die Wettervorhersage {location}]
-gib mir die Wettervorhersage für {location}]
-gib mir die Wettervorhersage in {location}]
-Vorhersage nächsten Dienstag in {Ort}
-Vorhersage nächsten Donnerstag in {Ort}
-Vorhersage nächsten Freitag in {Ort}
-Vorhersage nächsten Mittwoch in {Ort}
-Vorhersage nächsten Montag in {Ort}
-Vorhersage nächsten Samstag in {Ort}
-Vorhersage nächsten Sonntag in {Ort}
-Wetter nächsten Dienstag in {Ort}
-Wetter nächsten Donnerstag in {Ort}
-Wetter nächsten Freitag in {Ort}
-Wetter nächsten Mittwoch in {Ort}
-Wetter nächsten Montag in {Ort}
-Wetter nächsten Samstag in {Ort}
-Wetter nächsten Sonntag in {Ort}
-sag mir den/die/das Vorhersage nächsten Dienstag in {Ort}
-sag mir den/die/das Vorhersage nächsten Donnerstag in {Ort}
-sag mir den/die/das Vorhersage nächsten Freitag in {Ort}
-sag mir den/die/das Vorhersage nächsten Mittwoch in {Ort}
-sag mir den/die/das Vorhersage nächsten Montag in {Ort}
-sag mir den/die/das Vorhersage nächsten Samstag in {Ort}
-sag mir den/die/das Vorhersage nächsten Sonntag in {Ort}
-sag mir den/die/das Wetter nächsten Dienstag in {Ort}
-sag mir den/die/das Wetter nächsten Donnerstag in {Ort}
-sag mir den/die/das Wetter nächsten Freitag in {Ort}
-sag mir den/die/das Wetter nächsten Mittwoch in {Ort}
-sag mir den/die/das Wetter nächsten Montag in {Ort}
-sag mir den/die/das Wetter nächsten Samstag in {Ort}
-sag mir den/die/das Wetter nächsten Sonntag in {Ort}
-was ist der/die/das Vorhersage nächsten Dienstag in {Ort}
-was ist der/die/das Vorhersage nächsten Donnerstag in {Ort}
-was ist der/die/das Vorhersage nächsten Freitag in {Ort}
-was ist der/die/das Vorhersage nächsten Mittwoch in {Ort}
-was ist der/die/das Vorhersage nächsten Montag in {Ort}
-was ist der/die/das Vorhersage nächsten Samstag in {Ort}
-was ist der/die/das Vorhersage nächsten Sonntag in {Ort}
-was ist der/die/das Wetter nächsten Dienstag in {Ort}
-was ist der/die/das Wetter nächsten Donnerstag in {Ort}
-was ist der/die/das Wetter nächsten Freitag in {Ort}
-was ist der/die/das Wetter nächsten Mittwoch in {Ort}
-was ist der/die/das Wetter nächsten Montag in {Ort}
-was ist der/die/das Wetter nächsten Samstag in {Ort}
-was ist der/die/das Wetter nächsten Sonntag in {Ort}
-wie ist der/die/das Vorhersage nächsten Dienstag in {Ort}
-wie ist der/die/das Vorhersage nächsten Donnerstag in {Ort}
-wie ist der/die/das Vorhersage nächsten Freitag in {Ort}
-wie ist der/die/das Vorhersage nächsten Mittwoch in {Ort}
-wie ist der/die/das Vorhersage nächsten Montag in {Ort}
-wie ist der/die/das Vorhersage nächsten Samstag in {Ort}
-wie ist der/die/das Vorhersage nächsten Sonntag in {Ort}
-wie ist der/die/das Wetter nächsten Dienstag in {Ort}
-wie ist der/die/das Wetter nächsten Donnerstag in {Ort}
-wie ist der/die/das Wetter nächsten Freitag in {Ort}
-wie ist der/die/das Wetter nächsten Mittwoch in {Ort}
-wie ist der/die/das Wetter nächsten Montag in {Ort}
-wie ist der/die/das Wetter nächsten Samstag in {Ort}
-wie ist der/die/das Wetter nächsten Sonntag in {Ort}
-wie wird das Wetter morgen für {Ort}
-wie wird das Wetter morgen in {Ort}
-wie wird das Wetter Dienstag für {Ort}
-wie wird das Wetter Dienstag in {Ort}
-wie wird das Wetter Donnerstag für {Ort}
-wie wird das Wetter Donnerstag in {Ort}
-wie wird das Wetter Freitag für {Ort}
-wie wird das Wetter Freitag in {Ort}
-wie wird das Wetter Mittwoch für {Ort}
-wie wird das Wetter Mittwoch in {Ort}
-wie wird das Wetter Montag für {Ort}
-wie wird das Wetter Montag in {Ort}
-wie wird das Wetter Samstag für {Ort}
-wie wird das Wetter Samstag in {Ort}
-wie wird das Wetter Sonntag für {Ort}
-wie wird das Wetter Sonntag in {Ort}
-wie wird das Wetter nach morgen für {Ort}
-wie wird das Wetter nach morgen in {Ort}
+gib mir die Wettervorhersage {location}
+gib mir die Wettervorhersage für {location}
+gib mir die Wettervorhersage in {location}
+Vorhersage nächsten Dienstag in {location}
+Vorhersage nächsten Donnerstag in {location}
+Vorhersage nächsten Freitag in {location}
+Vorhersage nächsten Mittwoch in {location}
+Vorhersage nächsten Montag in {location}
+Vorhersage nächsten Samstag in {location}
+Vorhersage nächsten Sonntag in {location}
+Wetter nächsten Dienstag in {location}
+Wetter nächsten Donnerstag in {location}
+Wetter nächsten Freitag in {location}
+Wetter nächsten Mittwoch in {location}
+Wetter nächsten Montag in {location}
+Wetter nächsten Samstag in {location}
+Wetter nächsten Sonntag in {location}
+sag mir den/die/das Vorhersage nächsten Dienstag in {location}
+sag mir den/die/das Vorhersage nächsten Donnerstag in {location}
+sag mir den/die/das Vorhersage nächsten Freitag in {location}
+sag mir den/die/das Vorhersage nächsten Mittwoch in {location}
+sag mir den/die/das Vorhersage nächsten Montag in {location}
+sag mir den/die/das Vorhersage nächsten Samstag in {location}
+sag mir den/die/das Vorhersage nächsten Sonntag in {location}
+sag mir den/die/das Wetter nächsten Dienstag in {location}
+sag mir den/die/das Wetter nächsten Donnerstag in {location}
+sag mir den/die/das Wetter nächsten Freitag in {location}
+sag mir den/die/das Wetter nächsten Mittwoch in {location}
+sag mir den/die/das Wetter nächsten Montag in {location}
+sag mir den/die/das Wetter nächsten Samstag in {location}
+sag mir den/die/das Wetter nächsten Sonntag in {location}
+was ist der/die/das Vorhersage nächsten Dienstag in {location}
+was ist der/die/das Vorhersage nächsten Donnerstag in {location}
+was ist der/die/das Vorhersage nächsten Freitag in {location}
+was ist der/die/das Vorhersage nächsten Mittwoch in {location}
+was ist der/die/das Vorhersage nächsten Montag in {location}
+was ist der/die/das Vorhersage nächsten Samstag in {location}
+was ist der/die/das Vorhersage nächsten Sonntag in {location}
+was ist der/die/das Wetter nächsten Dienstag in {location}
+was ist der/die/das Wetter nächsten Donnerstag in {location}
+was ist der/die/das Wetter nächsten Freitag in {location}
+was ist der/die/das Wetter nächsten Mittwoch in {location}
+was ist der/die/das Wetter nächsten Montag in {location}
+was ist der/die/das Wetter nächsten Samstag in {location}
+was ist der/die/das Wetter nächsten Sonntag in {location}
+wie ist der/die/das Vorhersage nächsten Dienstag in {location}
+wie ist der/die/das Vorhersage nächsten Donnerstag in {location}
+wie ist der/die/das Vorhersage nächsten Freitag in {location}
+wie ist der/die/das Vorhersage nächsten Mittwoch in {location}
+wie ist der/die/das Vorhersage nächsten Montag in {location}
+wie ist der/die/das Vorhersage nächsten Samstag in {location}
+wie ist der/die/das Vorhersage nächsten Sonntag in {location}
+wie ist der/die/das Wetter nächsten Dienstag in {location}
+wie ist der/die/das Wetter nächsten Donnerstag in {location}
+wie ist der/die/das Wetter nächsten Freitag in {location}
+wie ist der/die/das Wetter nächsten Mittwoch in {location}
+wie ist der/die/das Wetter nächsten Montag in {location}
+wie ist der/die/das Wetter nächsten Samstag in {location}
+wie ist der/die/das Wetter nächsten Sonntag in {location}
+wie wird das Wetter morgen für {location}
+wie wird das Wetter morgen in {location}
+wie wird das Wetter Dienstag für {location}
+wie wird das Wetter Dienstag in {location}
+wie wird das Wetter Donnerstag für {location}
+wie wird das Wetter Donnerstag in {location}
+wie wird das Wetter Freitag für {location}
+wie wird das Wetter Freitag in {location}
+wie wird das Wetter Mittwoch für {location}
+wie wird das Wetter Mittwoch in {location}
+wie wird das Wetter Montag für {location}
+wie wird das Wetter Montag in {location}
+wie wird das Wetter Samstag für {location}
+wie wird das Wetter Samstag in {location}
+wie wird das Wetter Sonntag für {location}
+wie wird das Wetter Sonntag in {location}
+wie wird das Wetter nach morgen für {location}
+wie wird das Wetter nach morgen in {location}

@@ -490,7 +490,7 @@ Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (4|
 Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (7|8|9) de la (nit|tarda|vesprada) a {location}?
 És bona idea organitzar activitats a l'aire lliure (aquest|este) cap de setmana a {location}?
 Quina és la previsió del temps el cap de setmana que ve a {location}?
-Digues-me el temps (de dissabte i diumenge|del cap de setmana] a {location}.
-Digues-me l'oratge (de dissabte i diumenge|del cap de setmana] a {location}.
-Digues-me la meteorologia (de dissabte i diumenge|del cap de setmana] a {location}.
-Digues-me la previsió del temps (de dissabte i diumenge|del cap de setmana] a {location}.
+Digues-me el temps (de dissabte i diumenge|del cap de setmana) a {location}.
+Digues-me l'oratge (de dissabte i diumenge|del cap de setmana) a {location}.
+Digues-me la meteorologia (de dissabte i diumenge|del cap de setmana) a {location}.
+Digues-me la previsió del temps (de dissabte i diumenge|del cap de setmana) a {location}.

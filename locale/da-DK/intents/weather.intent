@@ -79,8 +79,8 @@ Hvordan er vejret i løbet af weekenden
 Vejrudsigt for lørdag og søndag i {location}
 Hvad er vejrudsigten for de kommende dage
 vejret i løbet af ugen i {location}
-(hvad|hvordan) er vejret (vejret|vejrudsigt) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {lokation}
-fortæl mig det (vejret|vejrudsigt) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {lokation}
+(hvad|hvordan) er vejret (vejret|vejrudsigt) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
+fortæl mig det (vejret|vejrudsigt) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
 Vil det være (koldt|lunt|varmt) i morgen (mandag|fredag|lørdag|onsdag|søndag|tirsdag|torsdag) i {location}
 Vejrudsigt for i morgen kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
 (hvad|hvordan) er vejret i {location} [som] i morgen (aften|middag|morgen)
@@ -104,7 +104,7 @@ Vil det blive dejligt lørdag og søndag i {location}
 Hvad er vejrudsigten for de kommende dage i {location}
 (hvad|hvordan) er vejret (vejret|vejrudsigt) næste (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
 Vejrudsigt for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag)
-fortæl mig om (vejret|vejrudsigten) (i|på) {lokation}
+fortæl mig om (vejret|vejrudsigten) (i|på) {location}
 vejret i de (kommende|næste) (2|3|4|5|6|7) dage
 al slags vejr (advarsler|alarmer) for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
 fortæl mig det (vejret|vejrudsigt) næste (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
