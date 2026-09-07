@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.3.0a1) (2026-09-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.3a1...1.3.0a1)
+
+**Merged pull requests:**
+
+- feat: every locale carries every en-US file [\#251](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/251) ([JarbasAl](https://github.com/JarbasAl))
+
+## [1.2.3a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.3a1) (2026-09-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.2a1...1.2.3a1)
+
 ## [1.2.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.2a1) (2026-09-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.1a1...1.2.2a1)
@@ -394,16 +406,10 @@
 **Merged pull requests:**
 
 - Release 1.0.2a3 [\#148](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/148) ([github-actions[bot]](https://github.com/apps/github-actions))
-- correcting some bugs in German translation [\#147](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/147) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 ## [1.0.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.2a1) (2025-05-18)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.1...1.0.2a1)
-
-**Merged pull requests:**
-
-- Release 1.0.2a1 [\#146](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/146) ([github-actions[bot]](https://github.com/apps/github-actions))
-- german translation of new intents [\#145](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/145) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 ## [1.0.1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.1) (2025-05-15)
 
@@ -531,15 +537,15 @@
 
 ## [0.1.8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a2...0.1.8)
-
-## [0.1.8a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a2) (2024-11-19)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a3...0.1.8a2)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a3...0.1.8)
 
 ## [0.1.8a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a3) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a3)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a2...0.1.8a3)
+
+## [0.1.8a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a2) (2024-11-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a2)
 
 ## [0.1.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a1) (2024-11-19)
 
