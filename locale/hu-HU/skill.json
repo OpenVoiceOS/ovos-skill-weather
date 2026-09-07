@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Időjárás",
+  "description": "Kérdezd le az időjárást, az előrejelzést, a várható csapadékot és még többet. A világ más városairól is kérdezhetsz. Az aktuális időjárás és az előrejelzések az OpenMeteo adatai.",
+  "examples": [
+    "Milyen az idő?",
+    "Hány fok van?",
+    "Milyen idő lesz holnap?",
+    "Milyen az idő Szegeden?",
+    "Hány fok lesz holnap Párizsban Celsiusban?",
+    "Mennyi lesz holnap a maximum hőmérséklet?",
+    "Mikor van naplemente?",
+    "Fog havazni Miskolcon?",
+    "Fog havazni?",
+    "Milyen idő lesz kedden?",
+    "Milyen idő lesz a következő három napban?",
+    "Mennyi a páratartalom?",
+    "Milyen idő lesz a hétvégén?",
+    "Milyen idő lesz holnap Londonban?",
+    "Mennyire fúj a szél?",
+    "Mikor fog esni?",
+    "Hideg lesz kedden?",
+    "esik az eső?"
+  ],
+  "tags": [
+    "időjárás",
+    "előrejelzés",
+    "eső",
+    "páratartalom",
+    "hó",
+    "hőmérséklet"
+  ]
+}
