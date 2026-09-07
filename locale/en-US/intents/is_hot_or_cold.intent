@@ -30,3 +30,9 @@ will it be (cold|cool|chilly|freezing)
 is it going to be (cold|cool|chilly|freezing)
 is it (cold|cool|chilly|freezing) outside
 is it (cold|cool|chilly|freezing)
+is the weather (hot|warm) [today|tomorrow] [in {location}]
+is the weather (cold|cool|chilly) [today|tomorrow] [in {location}]
+(do|will) I need (a scarf|a hat|warm clothes) [today|tomorrow] [in {location}]
+how (cold|freezing) does it get (tonight|overnight) [in {location}]
+how (hot|warm) does it get (this afternoon|during the day) [in {location}]
+will the (cold|chill) (last|continue) [today|tomorrow] [in {location}]

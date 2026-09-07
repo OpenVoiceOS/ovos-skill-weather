@@ -6,3 +6,39 @@ Vai estar calor (hoje|amanhã|{day}) [em {location}]
 Está calor lá fora agora [em {location}]
 Vai fazer muito calor hoje [em {location}]
 Preciso de protetor solar hoje [em {location}]
+Vai estar quente
+Vai estar quente em {location}
+Vai estar quente hoje
+Vai estar quente hoje em {location}
+Vai estar quente amanhã
+Vai estar quente amanhã em {location}
+Está quente
+Está quente em {location}
+Está quente hoje
+Está quente hoje em {location}
+Está quente amanhã
+Está quente amanhã em {location}
+Fica quente
+Fica quente em {location}
+Fica quente hoje
+Fica quente hoje em {location}
+Fica quente amanhã
+Fica quente amanhã em {location}
+Vai estar frio
+Vai estar frio em {location}
+Vai estar frio hoje
+Vai estar frio hoje em {location}
+Vai estar frio amanhã
+Vai estar frio amanhã em {location}
+Está frio
+Está frio em {location}
+Está frio hoje
+Está frio hoje em {location}
+Está frio amanhã
+Está frio amanhã em {location}
+Fica frio
+Fica frio em {location}
+Fica frio hoje
+Fica frio hoje em {location}
+Fica frio amanhã
+Fica frio amanhã em {location}

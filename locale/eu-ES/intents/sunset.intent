@@ -1,3 +1,15 @@
 Zer ordutan sartuko da eguzkia (gaur|bihar) [{location}]
 Noiz da ilunabarra gaur [{location}]
 Zer ordutan ilunduko du gaur [{location}]
+Zer ordutan sartuko da eguzkia
+Zer ordutan sartuko da eguzkia {location}
+Zer ordutan sartuko da eguzkia gaur
+Zer ordutan sartuko da eguzkia gaur {location}
+Zer ordutan sartuko da eguzkia bihar
+Zer ordutan sartuko da eguzkia bihar {location}
+Esan ilunabarraren ordua
+Esan ilunabarraren ordua {location}
+Esan ilunabarraren ordua gaur
+Esan ilunabarraren ordua gaur {location}
+Esan ilunabarraren ordua bihar
+Esan ilunabarraren ordua bihar {location}

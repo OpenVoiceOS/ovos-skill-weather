@@ -28,3 +28,261 @@ haverá nuvens hoje
 haverá nuvens hoje em {location}
 haverá nuvens amanhã
 haverá nuvens amanhã em {location}
+está a chover
+está a chover em {location}
+está a chover hoje
+está a chover hoje em {location}
+está a chover amanhã
+está a chover amanhã em {location}
+vai chover
+vai chover em {location}
+vai chover hoje
+vai chover hoje em {location}
+vai chover amanhã
+vai chover amanhã em {location}
+haverá chuva
+haverá chuva em {location}
+haverá chuva hoje
+haverá chuva hoje em {location}
+haverá chuva amanhã
+haverá chuva amanhã em {location}
+está prevista chuva
+está prevista chuva em {location}
+está prevista chuva hoje
+está prevista chuva hoje em {location}
+está prevista chuva amanhã
+está prevista chuva amanhã em {location}
+há aguaceiros previstos
+há aguaceiros previstos em {location}
+há aguaceiros previstos hoje
+há aguaceiros previstos hoje em {location}
+há aguaceiros previstos amanhã
+há aguaceiros previstos amanhã em {location}
+vamos ter chuva
+vamos ter chuva em {location}
+vamos ter chuva hoje
+vamos ter chuva hoje em {location}
+vamos ter chuva amanhã
+vamos ter chuva amanhã em {location}
+preciso de guarda-chuva
+preciso de guarda-chuva em {location}
+preciso de guarda-chuva hoje
+preciso de guarda-chuva hoje em {location}
+preciso de guarda-chuva amanhã
+preciso de guarda-chuva amanhã em {location}
+está chuvoso
+está chuvoso em {location}
+está chuvoso hoje
+está chuvoso hoje em {location}
+está chuvoso amanhã
+está chuvoso amanhã em {location}
+está a nevar
+está a nevar em {location}
+está a nevar hoje
+está a nevar hoje em {location}
+está a nevar amanhã
+está a nevar amanhã em {location}
+vai nevar
+vai nevar em {location}
+vai nevar hoje
+vai nevar hoje em {location}
+vai nevar amanhã
+vai nevar amanhã em {location}
+haverá neve
+haverá neve em {location}
+haverá neve hoje
+haverá neve hoje em {location}
+haverá neve amanhã
+haverá neve amanhã em {location}
+está prevista neve
+está prevista neve em {location}
+está prevista neve hoje
+está prevista neve hoje em {location}
+está prevista neve amanhã
+está prevista neve amanhã em {location}
+vai cair neve
+vai cair neve em {location}
+vai cair neve hoje
+vai cair neve hoje em {location}
+vai cair neve amanhã
+vai cair neve amanhã em {location}
+vamos ter neve
+vamos ter neve em {location}
+vamos ter neve hoje
+vamos ter neve hoje em {location}
+vamos ter neve amanhã
+vamos ter neve amanhã em {location}
+há queda de neve
+há queda de neve em {location}
+há queda de neve hoje
+há queda de neve hoje em {location}
+há queda de neve amanhã
+há queda de neve amanhã em {location}
+vai haver gelo
+vai haver gelo em {location}
+vai haver gelo hoje
+vai haver gelo hoje em {location}
+vai haver gelo amanhã
+vai haver gelo amanhã em {location}
+está sol
+está sol em {location}
+está sol hoje
+está sol hoje em {location}
+está sol amanhã
+está sol amanhã em {location}
+vai estar sol
+vai estar sol em {location}
+vai estar sol hoje
+vai estar sol hoje em {location}
+vai estar sol amanhã
+vai estar sol amanhã em {location}
+há céu limpo
+há céu limpo em {location}
+há céu limpo hoje
+há céu limpo hoje em {location}
+há céu limpo amanhã
+há céu limpo amanhã em {location}
+vai fazer sol
+vai fazer sol em {location}
+vai fazer sol hoje
+vai fazer sol hoje em {location}
+vai fazer sol amanhã
+vai fazer sol amanhã em {location}
+está ensolarado
+está ensolarado em {location}
+está ensolarado hoje
+está ensolarado hoje em {location}
+está ensolarado amanhã
+está ensolarado amanhã em {location}
+haverá sol
+haverá sol em {location}
+haverá sol hoje
+haverá sol hoje em {location}
+haverá sol amanhã
+haverá sol amanhã em {location}
+o dia está solarengo
+o dia está solarengo em {location}
+o dia está solarengo hoje
+o dia está solarengo hoje em {location}
+o dia está solarengo amanhã
+o dia está solarengo amanhã em {location}
+vamos ter céu azul
+vamos ter céu azul em {location}
+vamos ter céu azul hoje
+vamos ter céu azul hoje em {location}
+vamos ter céu azul amanhã
+vamos ter céu azul amanhã em {location}
+vamos ter nuvens
+vamos ter nuvens em {location}
+vamos ter nuvens hoje
+vamos ter nuvens hoje em {location}
+vamos ter nuvens amanhã
+vamos ter nuvens amanhã em {location}
+está muito nublado
+está muito nublado em {location}
+está muito nublado hoje
+está muito nublado hoje em {location}
+está muito nublado amanhã
+está muito nublado amanhã em {location}
+há muitas nuvens
+há muitas nuvens em {location}
+há muitas nuvens hoje
+há muitas nuvens hoje em {location}
+há muitas nuvens amanhã
+há muitas nuvens amanhã em {location}
+está nevoeiro
+está nevoeiro em {location}
+está nevoeiro hoje
+está nevoeiro hoje em {location}
+está nevoeiro amanhã
+está nevoeiro amanhã em {location}
+há nevoeiro
+há nevoeiro em {location}
+há nevoeiro hoje
+há nevoeiro hoje em {location}
+há nevoeiro amanhã
+há nevoeiro amanhã em {location}
+haverá nevoeiro
+haverá nevoeiro em {location}
+haverá nevoeiro hoje
+haverá nevoeiro hoje em {location}
+haverá nevoeiro amanhã
+haverá nevoeiro amanhã em {location}
+vai haver nevoeiro
+vai haver nevoeiro em {location}
+vai haver nevoeiro hoje
+vai haver nevoeiro hoje em {location}
+vai haver nevoeiro amanhã
+vai haver nevoeiro amanhã em {location}
+está previsto nevoeiro
+está previsto nevoeiro em {location}
+está previsto nevoeiro hoje
+está previsto nevoeiro hoje em {location}
+está previsto nevoeiro amanhã
+está previsto nevoeiro amanhã em {location}
+está enevoado
+está enevoado em {location}
+está enevoado hoje
+está enevoado hoje em {location}
+está enevoado amanhã
+está enevoado amanhã em {location}
+há névoa
+há névoa em {location}
+há névoa hoje
+há névoa hoje em {location}
+há névoa amanhã
+há névoa amanhã em {location}
+vamos ter bruma
+vamos ter bruma em {location}
+vamos ter bruma hoje
+vamos ter bruma hoje em {location}
+vamos ter bruma amanhã
+vamos ter bruma amanhã em {location}
+há trovoada
+há trovoada em {location}
+há trovoada hoje
+há trovoada hoje em {location}
+há trovoada amanhã
+há trovoada amanhã em {location}
+haverá trovoada
+haverá trovoada em {location}
+haverá trovoada hoje
+haverá trovoada hoje em {location}
+haverá trovoada amanhã
+haverá trovoada amanhã em {location}
+vai haver trovoada
+vai haver trovoada em {location}
+vai haver trovoada hoje
+vai haver trovoada hoje em {location}
+vai haver trovoada amanhã
+vai haver trovoada amanhã em {location}
+está prevista tempestade
+está prevista tempestade em {location}
+está prevista tempestade hoje
+está prevista tempestade hoje em {location}
+está prevista tempestade amanhã
+está prevista tempestade amanhã em {location}
+vamos ter tempestade
+vamos ter tempestade em {location}
+vamos ter tempestade hoje
+vamos ter tempestade hoje em {location}
+vamos ter tempestade amanhã
+vamos ter tempestade amanhã em {location}
+há relâmpagos
+há relâmpagos em {location}
+há relâmpagos hoje
+há relâmpagos hoje em {location}
+há relâmpagos amanhã
+há relâmpagos amanhã em {location}
+vai haver temporal
+vai haver temporal em {location}
+vai haver temporal hoje
+vai haver temporal hoje em {location}
+vai haver temporal amanhã
+vai haver temporal amanhã em {location}
+está mau tempo
+está mau tempo em {location}
+está mau tempo hoje
+está mau tempo hoje em {location}
+está mau tempo amanhã
+está mau tempo amanhã em {location}

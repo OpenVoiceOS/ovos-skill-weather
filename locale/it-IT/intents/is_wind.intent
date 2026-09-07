@@ -1,3 +1,15 @@
 Tira vento adesso [a {location}]
 Quanto è forte il vento [a {location}]
 Ci sarà vento oggi [a {location}]
+Ci sarà vento
+Ci sarà vento a {location}
+Ci sarà vento oggi
+Ci sarà vento oggi a {location}
+Ci sarà vento domani
+Ci sarà vento domani a {location}
+Quanto vento è previsto
+Quanto vento è previsto a {location}
+Quanto vento è previsto oggi
+Quanto vento è previsto oggi a {location}
+Quanto vento è previsto domani
+Quanto vento è previsto domani a {location}

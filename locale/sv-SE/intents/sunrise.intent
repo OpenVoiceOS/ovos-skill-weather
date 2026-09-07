@@ -1,3 +1,15 @@
 Hur dags går solen upp (idag|imorgon) [i {location}]
 När är soluppgången idag [i {location}]
 Hur dags blir det ljust imorgon [i {location}]
+Hur dags går solen upp
+Hur dags går solen upp i {location}
+Hur dags går solen upp idag
+Hur dags går solen upp idag i {location}
+Hur dags går solen upp imorgon
+Hur dags går solen upp imorgon i {location}
+Berätta tiden för soluppgången
+Berätta tiden för soluppgången i {location}
+Berätta tiden för soluppgången idag
+Berätta tiden för soluppgången idag i {location}
+Berätta tiden för soluppgången imorgon
+Berätta tiden för soluppgången imorgon i {location}

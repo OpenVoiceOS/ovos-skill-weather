@@ -1,3 +1,15 @@
 A que horas nasce o sol (hoje|amanhã) [em {location}]
 Quando é o nascer do sol hoje [em {location}]
 A que horas amanhece amanhã [em {location}]
+A que horas nasce o sol
+A que horas nasce o sol em {location}
+A que horas nasce o sol hoje
+A que horas nasce o sol hoje em {location}
+A que horas nasce o sol amanhã
+A que horas nasce o sol amanhã em {location}
+Diz-me a hora do nascer do sol
+Diz-me a hora do nascer do sol em {location}
+Diz-me a hora do nascer do sol hoje
+Diz-me a hora do nascer do sol hoje em {location}
+Diz-me a hora do nascer do sol amanhã
+Diz-me a hora do nascer do sol amanhã em {location}

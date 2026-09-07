@@ -5,3 +5,15 @@ quelle est l'heure du lever du soleil en {location}
 quelle est l'heure du lever du soleil au {location}
 quelle est l'heure du lever du soleil aux {location}
 quelle est l'heure du lever du soleil dans {location}
+donne-moi l'heure du lever du soleil
+donne-moi l'heure du lever du soleil à {location}
+donne-moi l'heure du lever du soleil aujourd'hui
+donne-moi l'heure du lever du soleil aujourd'hui à {location}
+donne-moi l'heure du lever du soleil demain
+donne-moi l'heure du lever du soleil demain à {location}
+dans combien de temps le soleil se lève
+dans combien de temps le soleil se lève à {location}
+dans combien de temps le soleil se lève aujourd'hui
+dans combien de temps le soleil se lève aujourd'hui à {location}
+dans combien de temps le soleil se lève demain
+dans combien de temps le soleil se lève demain à {location}

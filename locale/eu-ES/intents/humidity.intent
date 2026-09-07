@@ -2,3 +2,15 @@ Zein da [orain] hezetasun maila [{location}]
 Oso hezea dago gaur [{location}]
 Hezegailu bat behar dut gaur [{location}]
 Zein da hezetasun portzentajea [{location}]
+Zer hezetasun espero da
+Zer hezetasun espero da {location}
+Zer hezetasun espero da gaur
+Zer hezetasun espero da gaur {location}
+Zer hezetasun espero da bihar
+Zer hezetasun espero da bihar {location}
+Esan hezetasun maila
+Esan hezetasun maila {location}
+Esan hezetasun maila gaur
+Esan hezetasun maila gaur {location}
+Esan hezetasun maila bihar
+Esan hezetasun maila bihar {location}
