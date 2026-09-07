@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Tignawt",
+  "description": "Steqsi ɣef tignawt, ɣef usanay, ɣef ugeffur i d-iteddun d wugar. Tzemreḍ ad testeqsiḍ daɣen ɣef temdinin nniḍen n umaḍal. Isefka-agi d ay d-yekkan seg OpenMeteo.",
+  "examples": [
+    "Amek i tella tignawt?",
+    "Acḥal n tfesna?",
+    "Amek ara tili tignawt azekka?",
+    "Amek i tella tignawt di Bgayet?",
+    "Acḥal n tfesna azekka di Paris s Celsius?",
+    "Acḥal ara tili tfesna tameqrant azekka?",
+    "Melmi ara yeɣli yiṭij?",
+    "Ad d-yeɣli udfel di Tizi Wezzu?",
+    "Ad d-yeɣli udfel?",
+    "Amek ara tili tignawt ass n ttlata?",
+    "Amek ara tili tignawt kraḍ n wussan i d-iteddun?",
+    "Acḥal n tmagert?",
+    "Amek ara tili tignawt dagi n yimuras?",
+    "Amek ara tili tignawt azekka di London?",
+    "Aṭas n waḍu?",
+    "Melmi ara d-yewwet ugeffur?",
+    "Ad yili usemmiḍ ass n ttlata?",
+    "yekkat ugeffur?"
+  ],
+  "tags": [
+    "tignawt",
+    "asanay",
+    "ageffur",
+    "tamagert",
+    "adfel",
+    "tafesna"
+  ]
+}
