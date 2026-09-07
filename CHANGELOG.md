@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.0a3) (2026-09-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.0a2...1.2.0a3)
+
+**Merged pull requests:**
+
+- refactor: fold the weather intent inventory to one label per request [\#243](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/243) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.2.0a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.0a2) (2026-09-05)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.2.0a1...1.2.0a2)
@@ -394,10 +402,6 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.19a1...1.0.0a1)
 
-**Breaking changes:**
-
-- refactor!:move to padatious [\#137](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/137) ([JarbasAl](https://github.com/JarbasAl))
-
 **Merged pull requests:**
 
 - Release 1.0.0a1 [\#139](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/139) ([github-actions[bot]](https://github.com/apps/github-actions))
@@ -405,10 +409,6 @@
 ## [0.1.19a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.19a1) (2025-05-14)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.18...0.1.19a1)
-
-**Merged pull requests:**
-
-- Release 0.1.19a1 [\#136](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/136) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 ## [0.1.18](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.18) (2025-04-08)
 
