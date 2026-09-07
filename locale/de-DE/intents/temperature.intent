@@ -1,676 +1,83 @@
+(Wie|wie) ist die Temperatur
+wie (heiß|kalt|kühl|warm) ist es
+wie (heiß|kalt) wird es
+ist es (heiß|kalt|warm) draußen
+wird es (heiß|kalt) sein
 Sag mir die Temperatur
-Sag mir die Temperatur in {location}
-Wie hoch ist die  Temperatur  in Celsius
-Wie hoch ist die  Temperatur  in Fahrenheit
-Wie hoch ist die  Temperatur in {location} in Celsius
-Wie hoch ist die  Temperatur in {location} in Fahrenheit
-Wie hoch ist die aktuelle Temperatur  in Celsius
-Wie hoch ist die aktuelle Temperatur  in Fahrenheit
-Wie hoch ist die aktuelle Temperatur in {location} in Celsius
-Wie hoch ist die aktuelle Temperatur in {location} in Fahrenheit
-Wie ist die  Temperatur
-Wie ist die  Temperatur draußen
-Wie ist die  Temperatur heute
-Wie ist die  Temperatur jetzt
-Wie ist die Temperatur
-Wie ist die Temperatur  draußen
-Wie ist die Temperatur  heute
-Wie ist die Temperatur  jetzt
-Wie ist die Temperatur in {location}
-Wie ist die Temperatur in {location} draußen
-Wie ist die Temperatur in {location} heute
-Wie ist die Temperatur in {location} jetzt
-Wie ist die aktuelle Temperatur
-Wie ist die aktuelle Temperatur draußen
-Wie ist die aktuelle Temperatur heute
-Wie ist die aktuelle Temperatur jetzt
-aktuelle Temperatur
-brauche ich   eine Jacke
-brauche ich   eine einen Mantel
-brauche ich  in {location} eine Jacke
-brauche ich  in {location} eine einen Mantel
-brauche ich heute  eine Jacke
-brauche ich heute  eine einen Mantel
-brauche ich heute in {location} eine Jacke
-brauche ich heute in {location} eine einen Mantel
-ist es heiß draußen
-ist es heiß draußen in {location}
-ist es kalt draußen
-ist es kalt draußen in {location}
-ist es warm draußen
-ist es warm draußen in {location}
-wie heiß ist es
-wie heiß ist es  gerade jetzt
-wie heiß ist es in {location}
-wie heiß ist es in {location} gerade jetzt
-wie heiß oder kalt ist es
-wie heiß oder kalt ist es  gerade jetzt
-wie heiß oder kalt ist es in {location}
-wie heiß oder kalt ist es in {location} gerade jetzt
-wie ist die Temperatur
-wie ist die Temperatur  jetzt
-wie ist die Temperatur in {location}
-wie ist die Temperatur in {location} jetzt
-wie kalt ist es
-wie kalt ist es  gerade jetzt
-wie kalt ist es in {location}
-wie kalt ist es in {location} gerade jetzt
-wie kühl ist es
-wie kühl ist es  gerade jetzt
-wie kühl ist es in {location}
-wie kühl ist es in {location} gerade jetzt
-wie warm ist es
-wie warm ist es  gerade jetzt
-wie warm ist es in {location}
-wie warm ist es in {location} gerade jetzt
+brauche ich eine Jacke
 Temperaturvorhersage für heute Abend
 Temperaturvorhersage für morgen früh
-Wie ist die Temperatur Dienstag Morgen
-Wie ist die Temperatur Dienstag Nacht
-Wie ist die Temperatur Donnerstag Morgen
-Wie ist die Temperatur Donnerstag Nacht
-Wie ist die Temperatur Freitag Morgen
-Wie ist die Temperatur Freitag Nacht
-Wie ist die Temperatur Mittwoch Morgen
-Wie ist die Temperatur Mittwoch Nacht
-Wie ist die Temperatur Montag Morgen
-Wie ist die Temperatur Montag Nacht
-Wie ist die Temperatur Samstag Morgen
-Wie ist die Temperatur Samstag Nacht
-Wie ist die Temperatur Sonntag Morgen
-Wie ist die Temperatur Sonntag Nacht
-Wie ist die Temperatur heute Nacht
-Wie ist die Temperatur heute Nacht in {location}
-Wie ist die Temperatur morgen Morgen
-Wie ist die Temperatur morgen Nacht
-wie heiß wird es  sein
-wie heiß wird es heute Abend sein
-wie heiß wird es heute Nacht sein
-wie heiß wird es heute sein
-wie ist die Temperatur um 1 dienstag
-wie ist die Temperatur um 1 dienstag in {location}
-wie ist die Temperatur um 1 donnerstag
-wie ist die Temperatur um 1 donnerstag in {location}
-wie ist die Temperatur um 1 freitag
-wie ist die Temperatur um 1 freitag in {location}
-wie ist die Temperatur um 1 mittwoch
-wie ist die Temperatur um 1 mittwoch in {location}
-wie ist die Temperatur um 1 montag
-wie ist die Temperatur um 1 montag in {location}
-wie ist die Temperatur um 1 morgen
-wie ist die Temperatur um 1 morgen in {location}
-wie ist die Temperatur um 1 samstag
-wie ist die Temperatur um 1 samstag in {location}
-wie ist die Temperatur um 1 sonntag
-wie ist die Temperatur um 1 sonntag in {location}
-wie ist die Temperatur um 10 dienstag
-wie ist die Temperatur um 10 dienstag in {location}
-wie ist die Temperatur um 10 donnerstag
-wie ist die Temperatur um 10 donnerstag in {location}
-wie ist die Temperatur um 10 freitag
-wie ist die Temperatur um 10 freitag in {location}
-wie ist die Temperatur um 10 mittwoch
-wie ist die Temperatur um 10 mittwoch in {location}
-wie ist die Temperatur um 10 montag
-wie ist die Temperatur um 10 montag in {location}
-wie ist die Temperatur um 10 morgen
-wie ist die Temperatur um 10 morgen in {location}
-wie ist die Temperatur um 10 samstag
-wie ist die Temperatur um 10 samstag in {location}
-wie ist die Temperatur um 10 sonntag
-wie ist die Temperatur um 10 sonntag in {location}
-wie ist die Temperatur um 11 dienstag
-wie ist die Temperatur um 11 dienstag in {location}
-wie ist die Temperatur um 11 donnerstag
-wie ist die Temperatur um 11 donnerstag in {location}
-wie ist die Temperatur um 11 freitag
-wie ist die Temperatur um 11 freitag in {location}
-wie ist die Temperatur um 11 mittwoch
-wie ist die Temperatur um 11 mittwoch in {location}
-wie ist die Temperatur um 11 montag
-wie ist die Temperatur um 11 montag in {location}
-wie ist die Temperatur um 11 morgen
-wie ist die Temperatur um 11 morgen in {location}
-wie ist die Temperatur um 11 samstag
-wie ist die Temperatur um 11 samstag in {location}
-wie ist die Temperatur um 11 sonntag
-wie ist die Temperatur um 11 sonntag in {location}
-wie ist die Temperatur um 12 dienstag
-wie ist die Temperatur um 12 dienstag in {location}
-wie ist die Temperatur um 12 donnerstag
-wie ist die Temperatur um 12 donnerstag in {location}
-wie ist die Temperatur um 12 freitag
-wie ist die Temperatur um 12 freitag in {location}
-wie ist die Temperatur um 12 mittwoch
-wie ist die Temperatur um 12 mittwoch in {location}
-wie ist die Temperatur um 12 montag
-wie ist die Temperatur um 12 montag in {location}
-wie ist die Temperatur um 12 morgen
-wie ist die Temperatur um 12 morgen in {location}
-wie ist die Temperatur um 12 samstag
-wie ist die Temperatur um 12 samstag in {location}
-wie ist die Temperatur um 12 sonntag
-wie ist die Temperatur um 12 sonntag in {location}
-wie ist die Temperatur um 2 dienstag
-wie ist die Temperatur um 2 dienstag in {location}
-wie ist die Temperatur um 2 donnerstag
-wie ist die Temperatur um 2 donnerstag in {location}
-wie ist die Temperatur um 2 freitag
-wie ist die Temperatur um 2 freitag in {location}
-wie ist die Temperatur um 2 mittwoch
-wie ist die Temperatur um 2 mittwoch in {location}
-wie ist die Temperatur um 2 montag
-wie ist die Temperatur um 2 montag in {location}
-wie ist die Temperatur um 2 morgen
-wie ist die Temperatur um 2 morgen in {location}
-wie ist die Temperatur um 2 samstag
-wie ist die Temperatur um 2 samstag in {location}
-wie ist die Temperatur um 2 sonntag
-wie ist die Temperatur um 2 sonntag in {location}
-wie ist die Temperatur um 3 dienstag
-wie ist die Temperatur um 3 dienstag in {location}
-wie ist die Temperatur um 3 donnerstag
-wie ist die Temperatur um 3 donnerstag in {location}
-wie ist die Temperatur um 3 freitag
-wie ist die Temperatur um 3 freitag in {location}
-wie ist die Temperatur um 3 mittwoch
-wie ist die Temperatur um 3 mittwoch in {location}
-wie ist die Temperatur um 3 montag
-wie ist die Temperatur um 3 montag in {location}
-wie ist die Temperatur um 3 morgen
-wie ist die Temperatur um 3 morgen in {location}
-wie ist die Temperatur um 3 samstag
-wie ist die Temperatur um 3 samstag in {location}
-wie ist die Temperatur um 3 sonntag
-wie ist die Temperatur um 3 sonntag in {location}
-wie ist die Temperatur um 4 dienstag
-wie ist die Temperatur um 4 dienstag in {location}
-wie ist die Temperatur um 4 donnerstag
-wie ist die Temperatur um 4 donnerstag in {location}
-wie ist die Temperatur um 4 freitag
-wie ist die Temperatur um 4 freitag in {location}
-wie ist die Temperatur um 4 mittwoch
-wie ist die Temperatur um 4 mittwoch in {location}
-wie ist die Temperatur um 4 montag
-wie ist die Temperatur um 4 montag in {location}
-wie ist die Temperatur um 4 morgen
-wie ist die Temperatur um 4 morgen in {location}
-wie ist die Temperatur um 4 samstag
-wie ist die Temperatur um 4 samstag in {location}
-wie ist die Temperatur um 4 sonntag
-wie ist die Temperatur um 4 sonntag in {location}
-wie ist die Temperatur um 5 dienstag
-wie ist die Temperatur um 5 dienstag in {location}
-wie ist die Temperatur um 5 donnerstag
-wie ist die Temperatur um 5 donnerstag in {location}
-wie ist die Temperatur um 5 freitag
-wie ist die Temperatur um 5 freitag in {location}
-wie ist die Temperatur um 5 mittwoch
-wie ist die Temperatur um 5 mittwoch in {location}
-wie ist die Temperatur um 5 montag
-wie ist die Temperatur um 5 montag in {location}
-wie ist die Temperatur um 5 morgen
-wie ist die Temperatur um 5 morgen in {location}
-wie ist die Temperatur um 5 samstag
-wie ist die Temperatur um 5 samstag in {location}
-wie ist die Temperatur um 5 sonntag
-wie ist die Temperatur um 5 sonntag in {location}
-wie ist die Temperatur um 6 dienstag
-wie ist die Temperatur um 6 dienstag in {location}
-wie ist die Temperatur um 6 donnerstag
-wie ist die Temperatur um 6 donnerstag in {location}
-wie ist die Temperatur um 6 freitag
-wie ist die Temperatur um 6 freitag in {location}
-wie ist die Temperatur um 6 mittwoch
-wie ist die Temperatur um 6 mittwoch in {location}
-wie ist die Temperatur um 6 montag
-wie ist die Temperatur um 6 montag in {location}
-wie ist die Temperatur um 6 morgen
-wie ist die Temperatur um 6 morgen in {location}
-wie ist die Temperatur um 6 samstag
-wie ist die Temperatur um 6 samstag in {location}
-wie ist die Temperatur um 6 sonntag
-wie ist die Temperatur um 6 sonntag in {location}
-wie ist die Temperatur um 7 dienstag
-wie ist die Temperatur um 7 dienstag in {location}
-wie ist die Temperatur um 7 donnerstag
-wie ist die Temperatur um 7 donnerstag in {location}
-wie ist die Temperatur um 7 freitag
-wie ist die Temperatur um 7 freitag in {location}
-wie ist die Temperatur um 7 mittwoch
-wie ist die Temperatur um 7 mittwoch in {location}
-wie ist die Temperatur um 7 montag
-wie ist die Temperatur um 7 montag in {location}
-wie ist die Temperatur um 7 morgen
-wie ist die Temperatur um 7 morgen in {location}
-wie ist die Temperatur um 7 samstag
-wie ist die Temperatur um 7 samstag in {location}
-wie ist die Temperatur um 7 sonntag
-wie ist die Temperatur um 7 sonntag in {location}
-wie ist die Temperatur um 8 dienstag
-wie ist die Temperatur um 8 dienstag in {location}
-wie ist die Temperatur um 8 donnerstag
-wie ist die Temperatur um 8 donnerstag in {location}
-wie ist die Temperatur um 8 freitag
-wie ist die Temperatur um 8 freitag in {location}
-wie ist die Temperatur um 8 mittwoch
-wie ist die Temperatur um 8 mittwoch in {location}
-wie ist die Temperatur um 8 montag
-wie ist die Temperatur um 8 montag in {location}
-wie ist die Temperatur um 8 morgen
-wie ist die Temperatur um 8 morgen in {location}
-wie ist die Temperatur um 8 samstag
-wie ist die Temperatur um 8 samstag in {location}
-wie ist die Temperatur um 8 sonntag
-wie ist die Temperatur um 8 sonntag in {location}
-wie ist die Temperatur um 9 dienstag
-wie ist die Temperatur um 9 dienstag in {location}
-wie ist die Temperatur um 9 donnerstag
-wie ist die Temperatur um 9 donnerstag in {location}
-wie ist die Temperatur um 9 freitag
-wie ist die Temperatur um 9 freitag in {location}
-wie ist die Temperatur um 9 mittwoch
-wie ist die Temperatur um 9 mittwoch in {location}
-wie ist die Temperatur um 9 montag
-wie ist die Temperatur um 9 montag in {location}
-wie ist die Temperatur um 9 morgen
-wie ist die Temperatur um 9 morgen in {location}
-wie ist die Temperatur um 9 samstag
-wie ist die Temperatur um 9 samstag in {location}
-wie ist die Temperatur um 9 sonntag
-wie ist die Temperatur um 9 sonntag in {location}
-wie kalt wird es  sein
-wie kalt wird es heute Abend sein
-wie kalt wird es heute Nacht sein
-wie kalt wird es heute sein
-wie warm wird es heute Morgen
-wie warm wird es heute Morgen in {location}
-wie warm wird es heute Nacht
-wie warm wird es heute Nacht in {location}
-wird es  heiß sein
-wird es  kalt sein
-wird es heute Abend  kühl sein
-wird es heute Abend heiß sein
-wird es heute Abend in {location} kühl sein
-wird es heute Abend kalt sein
-wird es heute Nacht heiß sein
-wird es heute Nacht kalt sein
-wird es heute heiß sein
-wird es heute kalt sein
-wird es morgen Nachmittag  voraussichtlich brütend heiß
-wird es morgen Nachmittag in {location} voraussichtlich brütend heiß
-Spitzentemperatur für Dienstag
-Spitzentemperatur für Donnerstag
-Spitzentemperatur für Freitag
-Spitzentemperatur für Mittwoch
-Spitzentemperatur für Montag
-Spitzentemperatur für Samstag
-Spitzentemperatur für Sonntag
-Spitzentemperatur für heute
-Spitzentemperatur für morgen
-Wie hoch ist die höchste Höchsttempertur in {location}
-Wie hoch ist die höchste Höchsttempertur in {location} am dienstag
-Wie hoch ist die höchste Höchsttempertur in {location} am donnerstag
-Wie hoch ist die höchste Höchsttempertur in {location} am freitag
-Wie hoch ist die höchste Höchsttempertur in {location} am mittwoch
-Wie hoch ist die höchste Höchsttempertur in {location} am montag
-Wie hoch ist die höchste Höchsttempertur in {location} am morgen
-Wie hoch ist die höchste Höchsttempertur in {location} am samstag
-Wie hoch ist die höchste Höchsttempertur in {location} am sonntag
-Wie hoch ist die höchste Höchsttempertur in {location} dieses dienstag
-Wie hoch ist die höchste Höchsttempertur in {location} dieses donnerstag
-Wie hoch ist die höchste Höchsttempertur in {location} dieses freitag
-Wie hoch ist die höchste Höchsttempertur in {location} dieses mittwoch
-Wie hoch ist die höchste Höchsttempertur in {location} dieses montag
-Wie hoch ist die höchste Höchsttempertur in {location} dieses morgen
-Wie hoch ist die höchste Höchsttempertur in {location} dieses samstag
-Wie hoch ist die höchste Höchsttempertur in {location} dieses sonntag
-Wie hoch ist die höchste Höchsttempertur in {location} nächstes dienstag
-Wie hoch ist die höchste Höchsttempertur in {location} nächstes donnerstag
-Wie hoch ist die höchste Höchsttempertur in {location} nächstes freitag
-Wie hoch ist die höchste Höchsttempertur in {location} nächstes mittwoch
-Wie hoch ist die höchste Höchsttempertur in {location} nächstes montag
-Wie hoch ist die höchste Höchsttempertur in {location} nächstes morgen
-Wie hoch ist die höchste Höchsttempertur in {location} nächstes samstag
-Wie hoch ist die höchste Höchsttempertur in {location} nächstes sonntag
-Wie hoch ist die höchste Temperatur
-Wie hoch ist die höchste Temperatur dienstag Morgen
-Wie hoch ist die höchste Temperatur dienstag Nacht
-Wie hoch ist die höchste Temperatur donnerstag Morgen
-Wie hoch ist die höchste Temperatur donnerstag Nacht
-Wie hoch ist die höchste Temperatur freitag Morgen
-Wie hoch ist die höchste Temperatur freitag Nacht
-Wie hoch ist die höchste Temperatur in {location}
-Wie hoch ist die höchste Temperatur in {location} am dienstag
-Wie hoch ist die höchste Temperatur in {location} am donnerstag
-Wie hoch ist die höchste Temperatur in {location} am freitag
-Wie hoch ist die höchste Temperatur in {location} am mittwoch
-Wie hoch ist die höchste Temperatur in {location} am montag
-Wie hoch ist die höchste Temperatur in {location} am morgen
-Wie hoch ist die höchste Temperatur in {location} am samstag
-Wie hoch ist die höchste Temperatur in {location} am sonntag
-Wie hoch ist die höchste Temperatur in {location} dieses dienstag
-Wie hoch ist die höchste Temperatur in {location} dieses donnerstag
-Wie hoch ist die höchste Temperatur in {location} dieses freitag
-Wie hoch ist die höchste Temperatur in {location} dieses mittwoch
-Wie hoch ist die höchste Temperatur in {location} dieses montag
-Wie hoch ist die höchste Temperatur in {location} dieses morgen
-Wie hoch ist die höchste Temperatur in {location} dieses samstag
-Wie hoch ist die höchste Temperatur in {location} dieses sonntag
-Wie hoch ist die höchste Temperatur in {location} nächstes dienstag
-Wie hoch ist die höchste Temperatur in {location} nächstes donnerstag
-Wie hoch ist die höchste Temperatur in {location} nächstes freitag
-Wie hoch ist die höchste Temperatur in {location} nächstes mittwoch
-Wie hoch ist die höchste Temperatur in {location} nächstes montag
-Wie hoch ist die höchste Temperatur in {location} nächstes morgen
-Wie hoch ist die höchste Temperatur in {location} nächstes samstag
-Wie hoch ist die höchste Temperatur in {location} nächstes sonntag
-Wie hoch ist die höchste Temperatur mittwoch Morgen
-Wie hoch ist die höchste Temperatur mittwoch Nacht
-Wie hoch ist die höchste Temperatur montag Morgen
-Wie hoch ist die höchste Temperatur montag Nacht
-Wie hoch ist die höchste Temperatur morgen Morgen
-Wie hoch ist die höchste Temperatur morgen Nacht
-Wie hoch ist die höchste Temperatur samstag Morgen
-Wie hoch ist die höchste Temperatur samstag Nacht
-Wie hoch ist die höchste Temperatur sonntag Morgen
-Wie hoch ist die höchste Temperatur sonntag Nacht
-Wie hoch ist die maximale Höchsttempertur in {location}
-Wie hoch ist die maximale Höchsttempertur in {location} am dienstag
-Wie hoch ist die maximale Höchsttempertur in {location} am donnerstag
-Wie hoch ist die maximale Höchsttempertur in {location} am freitag
-Wie hoch ist die maximale Höchsttempertur in {location} am mittwoch
-Wie hoch ist die maximale Höchsttempertur in {location} am montag
-Wie hoch ist die maximale Höchsttempertur in {location} am morgen
-Wie hoch ist die maximale Höchsttempertur in {location} am samstag
-Wie hoch ist die maximale Höchsttempertur in {location} am sonntag
-Wie hoch ist die maximale Höchsttempertur in {location} dieses dienstag
-Wie hoch ist die maximale Höchsttempertur in {location} dieses donnerstag
-Wie hoch ist die maximale Höchsttempertur in {location} dieses freitag
-Wie hoch ist die maximale Höchsttempertur in {location} dieses mittwoch
-Wie hoch ist die maximale Höchsttempertur in {location} dieses montag
-Wie hoch ist die maximale Höchsttempertur in {location} dieses morgen
-Wie hoch ist die maximale Höchsttempertur in {location} dieses samstag
-Wie hoch ist die maximale Höchsttempertur in {location} dieses sonntag
-Wie hoch ist die maximale Höchsttempertur in {location} nächstes dienstag
-Wie hoch ist die maximale Höchsttempertur in {location} nächstes donnerstag
-Wie hoch ist die maximale Höchsttempertur in {location} nächstes freitag
-Wie hoch ist die maximale Höchsttempertur in {location} nächstes mittwoch
-Wie hoch ist die maximale Höchsttempertur in {location} nächstes montag
-Wie hoch ist die maximale Höchsttempertur in {location} nächstes morgen
-Wie hoch ist die maximale Höchsttempertur in {location} nächstes samstag
-Wie hoch ist die maximale Höchsttempertur in {location} nächstes sonntag
-Wie hoch ist die maximale Temperatur
-Wie hoch ist die maximale Temperatur dienstag Morgen
-Wie hoch ist die maximale Temperatur dienstag Nacht
-Wie hoch ist die maximale Temperatur donnerstag Morgen
-Wie hoch ist die maximale Temperatur donnerstag Nacht
-Wie hoch ist die maximale Temperatur freitag Morgen
-Wie hoch ist die maximale Temperatur freitag Nacht
-Wie hoch ist die maximale Temperatur in {location}
-Wie hoch ist die maximale Temperatur in {location} am dienstag
-Wie hoch ist die maximale Temperatur in {location} am donnerstag
-Wie hoch ist die maximale Temperatur in {location} am freitag
-Wie hoch ist die maximale Temperatur in {location} am mittwoch
-Wie hoch ist die maximale Temperatur in {location} am montag
-Wie hoch ist die maximale Temperatur in {location} am morgen
-Wie hoch ist die maximale Temperatur in {location} am samstag
-Wie hoch ist die maximale Temperatur in {location} am sonntag
-Wie hoch ist die maximale Temperatur in {location} dieses dienstag
-Wie hoch ist die maximale Temperatur in {location} dieses donnerstag
-Wie hoch ist die maximale Temperatur in {location} dieses freitag
-Wie hoch ist die maximale Temperatur in {location} dieses mittwoch
-Wie hoch ist die maximale Temperatur in {location} dieses montag
-Wie hoch ist die maximale Temperatur in {location} dieses morgen
-Wie hoch ist die maximale Temperatur in {location} dieses samstag
-Wie hoch ist die maximale Temperatur in {location} dieses sonntag
-Wie hoch ist die maximale Temperatur in {location} nächstes dienstag
-Wie hoch ist die maximale Temperatur in {location} nächstes donnerstag
-Wie hoch ist die maximale Temperatur in {location} nächstes freitag
-Wie hoch ist die maximale Temperatur in {location} nächstes mittwoch
-Wie hoch ist die maximale Temperatur in {location} nächstes montag
-Wie hoch ist die maximale Temperatur in {location} nächstes morgen
-Wie hoch ist die maximale Temperatur in {location} nächstes samstag
-Wie hoch ist die maximale Temperatur in {location} nächstes sonntag
-Wie hoch ist die maximale Temperatur mittwoch Morgen
-Wie hoch ist die maximale Temperatur mittwoch Nacht
-Wie hoch ist die maximale Temperatur montag Morgen
-Wie hoch ist die maximale Temperatur montag Nacht
-Wie hoch ist die maximale Temperatur morgen Morgen
-Wie hoch ist die maximale Temperatur morgen Nacht
-Wie hoch ist die maximale Temperatur samstag Morgen
-Wie hoch ist die maximale Temperatur samstag Nacht
-Wie hoch ist die maximale Temperatur sonntag Morgen
-Wie hoch ist die maximale Temperatur sonntag Nacht
-Wie hoch ist die oberste Höchsttempertur in {location}
-Wie hoch ist die oberste Höchsttempertur in {location} am dienstag
-Wie hoch ist die oberste Höchsttempertur in {location} am donnerstag
-Wie hoch ist die oberste Höchsttempertur in {location} am freitag
-Wie hoch ist die oberste Höchsttempertur in {location} am mittwoch
-Wie hoch ist die oberste Höchsttempertur in {location} am montag
-Wie hoch ist die oberste Höchsttempertur in {location} am morgen
-Wie hoch ist die oberste Höchsttempertur in {location} am samstag
-Wie hoch ist die oberste Höchsttempertur in {location} am sonntag
-Wie hoch ist die oberste Höchsttempertur in {location} dieses dienstag
-Wie hoch ist die oberste Höchsttempertur in {location} dieses donnerstag
-Wie hoch ist die oberste Höchsttempertur in {location} dieses freitag
-Wie hoch ist die oberste Höchsttempertur in {location} dieses mittwoch
-Wie hoch ist die oberste Höchsttempertur in {location} dieses montag
-Wie hoch ist die oberste Höchsttempertur in {location} dieses morgen
-Wie hoch ist die oberste Höchsttempertur in {location} dieses samstag
-Wie hoch ist die oberste Höchsttempertur in {location} dieses sonntag
-Wie hoch ist die oberste Höchsttempertur in {location} nächstes dienstag
-Wie hoch ist die oberste Höchsttempertur in {location} nächstes donnerstag
-Wie hoch ist die oberste Höchsttempertur in {location} nächstes freitag
-Wie hoch ist die oberste Höchsttempertur in {location} nächstes mittwoch
-Wie hoch ist die oberste Höchsttempertur in {location} nächstes montag
-Wie hoch ist die oberste Höchsttempertur in {location} nächstes morgen
-Wie hoch ist die oberste Höchsttempertur in {location} nächstes samstag
-Wie hoch ist die oberste Höchsttempertur in {location} nächstes sonntag
-Wie hoch ist die oberste Temperatur in {location}
-Wie hoch ist die oberste Temperatur in {location} am dienstag
-Wie hoch ist die oberste Temperatur in {location} am donnerstag
-Wie hoch ist die oberste Temperatur in {location} am freitag
-Wie hoch ist die oberste Temperatur in {location} am mittwoch
-Wie hoch ist die oberste Temperatur in {location} am montag
-Wie hoch ist die oberste Temperatur in {location} am morgen
-Wie hoch ist die oberste Temperatur in {location} am samstag
-Wie hoch ist die oberste Temperatur in {location} am sonntag
-Wie hoch ist die oberste Temperatur in {location} dieses dienstag
-Wie hoch ist die oberste Temperatur in {location} dieses donnerstag
-Wie hoch ist die oberste Temperatur in {location} dieses freitag
-Wie hoch ist die oberste Temperatur in {location} dieses mittwoch
-Wie hoch ist die oberste Temperatur in {location} dieses montag
-Wie hoch ist die oberste Temperatur in {location} dieses morgen
-Wie hoch ist die oberste Temperatur in {location} dieses samstag
-Wie hoch ist die oberste Temperatur in {location} dieses sonntag
-Wie hoch ist die oberste Temperatur in {location} nächstes dienstag
-Wie hoch ist die oberste Temperatur in {location} nächstes donnerstag
-Wie hoch ist die oberste Temperatur in {location} nächstes freitag
-Wie hoch ist die oberste Temperatur in {location} nächstes mittwoch
-Wie hoch ist die oberste Temperatur in {location} nächstes montag
-Wie hoch ist die oberste Temperatur in {location} nächstes morgen
-Wie hoch ist die oberste Temperatur in {location} nächstes samstag
-Wie hoch ist die oberste Temperatur in {location} nächstes sonntag
 welche Höchsttemperatur wird erwartet
-welche Höchsttemperatur wird erwartet Dienstag
-welche Höchsttemperatur wird erwartet Donnerstag
-welche Höchsttemperatur wird erwartet Freitag
-welche Höchsttemperatur wird erwartet Mittwoch
-welche Höchsttemperatur wird erwartet Montag
-welche Höchsttemperatur wird erwartet Samstag
-welche Höchsttemperatur wird erwartet Sonntag
-welche Höchsttemperatur wird erwartet heute
-welche Höchsttemperatur wird erwartet morgen
-wie heiß wird es
-wie heiß wird es  in {location}
-wie heiß wird es Dienstag
-wie heiß wird es Dienstag in {location}
-wie heiß wird es Donnerstag
-wie heiß wird es Donnerstag in {location}
-wie heiß wird es Freitag
-wie heiß wird es Freitag in {location}
-wie heiß wird es Mittwoch
-wie heiß wird es Mittwoch in {location}
-wie heiß wird es Montag
-wie heiß wird es Montag in {location}
-wie heiß wird es Samstag
-wie heiß wird es Samstag in {location}
-wie heiß wird es Sonntag
-wie heiß wird es Sonntag in {location}
-wie heiß wird es heute
-wie heiß wird es heute in {location}
-wie heiß wird es morgen
-wie heiß wird es morgen in {location}
-Vorhersage der Mindesttemperatur
-Wie hoch ist die minimale Temperatur
-Wie hoch ist die minimale Temperatur dienstag Morgen
-Wie hoch ist die minimale Temperatur dienstag Nacht
-Wie hoch ist die minimale Temperatur donnerstag Morgen
-Wie hoch ist die minimale Temperatur donnerstag Nacht
-Wie hoch ist die minimale Temperatur freitag Morgen
-Wie hoch ist die minimale Temperatur freitag Nacht
-Wie hoch ist die minimale Temperatur mittwoch Morgen
-Wie hoch ist die minimale Temperatur mittwoch Nacht
-Wie hoch ist die minimale Temperatur montag Morgen
-Wie hoch ist die minimale Temperatur montag Nacht
-Wie hoch ist die minimale Temperatur morgen Morgen
-Wie hoch ist die minimale Temperatur morgen Nacht
-Wie hoch ist die minimale Temperatur samstag Morgen
-Wie hoch ist die minimale Temperatur samstag Nacht
-Wie hoch ist die minimale Temperatur sonntag Morgen
-Wie hoch ist die minimale Temperatur sonntag Nacht
-Wie hoch ist die niedrigste Temperatur
-Wie hoch ist die niedrigste Temperatur dienstag Morgen
-Wie hoch ist die niedrigste Temperatur dienstag Nacht
-Wie hoch ist die niedrigste Temperatur donnerstag Morgen
-Wie hoch ist die niedrigste Temperatur donnerstag Nacht
-Wie hoch ist die niedrigste Temperatur freitag Morgen
-Wie hoch ist die niedrigste Temperatur freitag Nacht
-Wie hoch ist die niedrigste Temperatur in {location}
-Wie hoch ist die niedrigste Temperatur in {location}  dienstag Morgen
-Wie hoch ist die niedrigste Temperatur in {location}  dienstag Nacht
-Wie hoch ist die niedrigste Temperatur in {location}  donnerstag Morgen
-Wie hoch ist die niedrigste Temperatur in {location}  donnerstag Nacht
-Wie hoch ist die niedrigste Temperatur in {location}  freitag Morgen
-Wie hoch ist die niedrigste Temperatur in {location}  freitag Nacht
-Wie hoch ist die niedrigste Temperatur in {location}  mittwoch Morgen
-Wie hoch ist die niedrigste Temperatur in {location}  mittwoch Nacht
-Wie hoch ist die niedrigste Temperatur in {location}  montag Morgen
-Wie hoch ist die niedrigste Temperatur in {location}  montag Nacht
-Wie hoch ist die niedrigste Temperatur in {location}  morgen Morgen
-Wie hoch ist die niedrigste Temperatur in {location}  morgen Nacht
-Wie hoch ist die niedrigste Temperatur in {location}  samstag Morgen
-Wie hoch ist die niedrigste Temperatur in {location}  samstag Nacht
-Wie hoch ist die niedrigste Temperatur in {location}  sonntag Morgen
-Wie hoch ist die niedrigste Temperatur in {location}  sonntag Nacht
-Wie hoch ist die niedrigste Temperatur mittwoch Morgen
-Wie hoch ist die niedrigste Temperatur mittwoch Nacht
-Wie hoch ist die niedrigste Temperatur montag Morgen
-Wie hoch ist die niedrigste Temperatur montag Nacht
-Wie hoch ist die niedrigste Temperatur morgen Morgen
-Wie hoch ist die niedrigste Temperatur morgen Nacht
-Wie hoch ist die niedrigste Temperatur samstag Morgen
-Wie hoch ist die niedrigste Temperatur samstag Nacht
-Wie hoch ist die niedrigste Temperatur sonntag Morgen
-Wie hoch ist die niedrigste Temperatur sonntag Nacht
-muss ich   mit Frost rechnen
-muss ich  in {location} mit Frost rechnen
-muss ich Dienstag  mit Frost rechnen
-muss ich Dienstag in {location} mit Frost rechnen
-muss ich Donnerstag  mit Frost rechnen
-muss ich Donnerstag in {location} mit Frost rechnen
-muss ich Freitag  mit Frost rechnen
-muss ich Freitag in {location} mit Frost rechnen
-muss ich Mittwoch  mit Frost rechnen
-muss ich Mittwoch in {location} mit Frost rechnen
-muss ich Montag  mit Frost rechnen
-muss ich Montag in {location} mit Frost rechnen
-muss ich Samstag  mit Frost rechnen
-muss ich Samstag in {location} mit Frost rechnen
-muss ich Sonntag  mit Frost rechnen
-muss ich Sonntag in {location} mit Frost rechnen
-muss ich heute Nacht  mit Frost rechnen
+wird es heute [(Abend|Nacht)] (heiß|kalt) sein
+(Wie|wie) ist die Temperatur in {location}
+wie (heiß|kalt|kühl|warm) ist es gerade jetzt
+wie (heiß|kalt|kühl|warm) ist es in {location}
+wie (heiß|kalt) wird es heute sein
+wie (warm|kalt) wird es heute Nacht
+wie (heiß|kalt) wird es in {location}
+ist es (heiß|kalt|warm) draußen in {location}
+muss ich [(Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)] mit Frost rechnen
+Wie ist die Temperatur (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) Morgen
+Wie ist die Temperatur (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen) Nacht
+Wie hoch ist die (höchste|maximale|minimale|niedrigste) Temperatur
+Wie ist die aktuelle Temperatur [(draußen|heute|jetzt)]
+Sag mir die Temperatur in {location}
+brauche ich in {location} eine Jacke
+brauche ich [heute] eine einen Mantel
+wie heiß oder kalt ist es
+wie warm wird es heute Morgen
+wird es heute Abend kühl sein
+werden Temperaturen unter dem Gefrierpunkt erwartet
+wird es unter den Gefrierpunkt fallen
+wie (heiß|kalt) wird es (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen) in {location}
+wie (heiß|kalt) wird es heute (Abend|Nacht) sein
+wie ist die Temperatur um (1|10|11|12|2|3|4|5|6|7|8|9) (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag)
+(Wie|wie) ist die Temperatur in {location} jetzt
+werden (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) Temperaturen unter dem Gefrierpunkt erwartet
+wird es (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) unter den Gefrierpunkt fallen
+Wie hoch ist die Temperatur in (Celsius|Fahrenheit)
+Wie ist die Temperatur in {location} (draußen|heute)
+was ist die nächtliche Tiefsttemperatur für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)
+brauche ich in {location} eine einen Mantel
+brauche ich heute in {location} eine Jacke
+wird es morgen Nachmittag voraussichtlich brütend heiß
+muss ich in {location} mit Frost rechnen
+muss ich heute Nacht mit Frost rechnen
+wie ist die Temperatur um (1|10|11|12|2|3|4|5|6|7|8|9) (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag) in {location}
+werden [(Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)] in {location} Temperaturen unter dem Gefrierpunkt erwartet
+wird es [(Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)] in {location} unter den Gefrierpunkt fallen
+was ist die nächtliche Tiefsttemperatur für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) in {location}
+Wie hoch ist die Temperatur in {location} in (Celsius|Fahrenheit)
+wird es morgen Nachmittag in {location} voraussichtlich brütend heiß
 muss ich heute Nacht in {location} mit Frost rechnen
-muss ich morgen  mit Frost rechnen
-muss ich morgen in {location} mit Frost rechnen
-was ist die nächtliche Tiefsttemperatur für Dienstag
-was ist die nächtliche Tiefsttemperatur für Dienstag in {location}
-was ist die nächtliche Tiefsttemperatur für Donnerstag
-was ist die nächtliche Tiefsttemperatur für Donnerstag in {location}
-was ist die nächtliche Tiefsttemperatur für Freitag
-was ist die nächtliche Tiefsttemperatur für Freitag in {location}
-was ist die nächtliche Tiefsttemperatur für Mittwoch
-was ist die nächtliche Tiefsttemperatur für Mittwoch in {location}
-was ist die nächtliche Tiefsttemperatur für Montag
-was ist die nächtliche Tiefsttemperatur für Montag in {location}
-was ist die nächtliche Tiefsttemperatur für Samstag
-was ist die nächtliche Tiefsttemperatur für Samstag in {location}
-was ist die nächtliche Tiefsttemperatur für Sonntag
-was ist die nächtliche Tiefsttemperatur für Sonntag in {location}
+Wie hoch ist die (höchste|maximale|minimale|niedrigste) Temperatur (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag) (Morgen|Nacht)
+wie (heiß|kalt|kühl|warm) ist es in {location} gerade jetzt
+wie (warm|kalt) wird es heute Nacht in {location}
+muss ich (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) in {location} mit Frost rechnen
+Wie hoch ist die (höchste|maximale|oberste) Höchsttempertur in {location}
+Wie hoch ist die (höchste|maximale|oberste|niedrigste) Temperatur in {location}
+Wie hoch ist die aktuelle Temperatur in (Celsius|Fahrenheit)
+brauche ich heute in {location} eine einen Mantel
+wie heiß oder kalt ist es gerade jetzt
+wie heiß oder kalt ist es in {location}
+Wie ist die Temperatur heute Nacht in {location}
+wie warm wird es heute Morgen in {location}
+wird es heute Abend in {location} kühl sein
 was ist die nächtliche Tiefsttemperatur für heute Nacht
+werden heute Nacht Temperaturen unter dem Gefrierpunkt erwartet
+wird es heute Nacht unter den Gefrierpunkt fallen
+Wie hoch ist die (höchste|maximale|oberste) (Höchsttempertur|Temperatur) in {location} (am|dieses|nächstes) (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag)
+Wie hoch ist die niedrigste Temperatur in {location} (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag) (Morgen|Nacht)
+Wie hoch ist die aktuelle Temperatur in {location} in (Celsius|Fahrenheit)
+wie heiß oder kalt ist es in {location} gerade jetzt
 was ist die nächtliche Tiefsttemperatur für heute Nacht in {location}
-was ist die nächtliche Tiefsttemperatur für morgen
-was ist die nächtliche Tiefsttemperatur für morgen in {location}
-werden   Temperaturen unter dem Gefrierpunkt erwartet
-werden  in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden Dienstag  Temperaturen unter dem Gefrierpunkt erwartet
-werden Dienstag in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden Donnerstag  Temperaturen unter dem Gefrierpunkt erwartet
-werden Donnerstag in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden Freitag  Temperaturen unter dem Gefrierpunkt erwartet
-werden Freitag in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden Mittwoch  Temperaturen unter dem Gefrierpunkt erwartet
-werden Mittwoch in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden Montag  Temperaturen unter dem Gefrierpunkt erwartet
-werden Montag in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden Samstag  Temperaturen unter dem Gefrierpunkt erwartet
-werden Samstag in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden Sonntag  Temperaturen unter dem Gefrierpunkt erwartet
-werden Sonntag in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden heute Nacht  Temperaturen unter dem Gefrierpunkt erwartet
 werden heute Nacht in {location} Temperaturen unter dem Gefrierpunkt erwartet
-werden morgen  Temperaturen unter dem Gefrierpunkt erwartet
-werden morgen in {location} Temperaturen unter dem Gefrierpunkt erwartet
-wie kalt wird es
-wie kalt wird es  in {location}
-wie kalt wird es Dienstag
-wie kalt wird es Dienstag in {location}
-wie kalt wird es Donnerstag
-wie kalt wird es Donnerstag in {location}
-wie kalt wird es Freitag
-wie kalt wird es Freitag in {location}
-wie kalt wird es Mittwoch
-wie kalt wird es Mittwoch in {location}
-wie kalt wird es Montag
-wie kalt wird es Montag in {location}
-wie kalt wird es Samstag
-wie kalt wird es Samstag in {location}
-wie kalt wird es Sonntag
-wie kalt wird es Sonntag in {location}
-wie kalt wird es heute
-wie kalt wird es heute Nacht
-wie kalt wird es heute Nacht in {location}
-wie kalt wird es heute in {location}
-wie kalt wird es morgen
-wie kalt wird es morgen in {location}
-wird es   unter den Gefrierpunkt fallen
-wird es  in {location} unter den Gefrierpunkt fallen
-wird es Dienstag  unter den Gefrierpunkt fallen
-wird es Dienstag in {location} unter den Gefrierpunkt fallen
-wird es Donnerstag  unter den Gefrierpunkt fallen
-wird es Donnerstag in {location} unter den Gefrierpunkt fallen
-wird es Freitag  unter den Gefrierpunkt fallen
-wird es Freitag in {location} unter den Gefrierpunkt fallen
-wird es Mittwoch  unter den Gefrierpunkt fallen
-wird es Mittwoch in {location} unter den Gefrierpunkt fallen
-wird es Montag  unter den Gefrierpunkt fallen
-wird es Montag in {location} unter den Gefrierpunkt fallen
-wird es Samstag  unter den Gefrierpunkt fallen
-wird es Samstag in {location} unter den Gefrierpunkt fallen
-wird es Sonntag  unter den Gefrierpunkt fallen
-wird es Sonntag in {location} unter den Gefrierpunkt fallen
-wird es heute Nacht  unter den Gefrierpunkt fallen
 wird es heute Nacht in {location} unter den Gefrierpunkt fallen
-wird es morgen  unter den Gefrierpunkt fallen
-wird es morgen in {location} unter den Gefrierpunkt fallen
+wie (heiß|kalt) wird es (sein|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen)
+(Wie|wie) ist die Temperatur jetzt
+Wie ist die Temperatur (draußen|heute)
+welche Höchsttemperatur wird erwartet (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen)
+brauche ich heute eine Jacke
+aktuelle Temperatur
+Spitzentemperatur für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen)
+Vorhersage der Mindesttemperatur

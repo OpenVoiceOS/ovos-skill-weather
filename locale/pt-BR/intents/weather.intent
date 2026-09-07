@@ -1,1912 +1,234 @@
+vai (chover|nevar) na (quarta|quinta|segunda|sexta|terça)
+vai (chover|nevar) no (domingo|sábado)
+como (está|parece) o tempo
+está (agradável|bom|claro) lá fora
+algum (alerta|aviso) para amanhã
+clima (durante|para) a semana
+vai estar (agradável|frio|quente) amanhã
+previsão horária para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
 como está lá fora
-como está o tempo
-como está o tempo agora
-como está o tempo atualmente
-como está o tempo em {location}
-como parece o tempo
-como parece o tempo em {location}
-condições climáticas atuais
+vai haver tempestade amanhã
+mostre-me a previsão semanal
+o clima da semana
+algum (alerta|aviso) para a (quarta|quinta|segunda|sexta|terça)
+algum (alerta|aviso) para o (domingo|sábado)
+como (estará|está) o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+vai estar (agradável|frio|quente) na (quarta|quinta|segunda|sexta|terça)
+vai estar (agradável|frio|quente) no (domingo|sábado)
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (meia-noite|noite)
+vai (chover|nevar) amanhã em {location}
+vai (chover|nevar) depois de amanhã
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
+clima nos próximos (2|3|4|5|6|7) dias
+como está o tempo (agora|atualmente)
+a previsão na próxima (quarta|quinta|segunda|sexta|terça)
+a previsão na próximo (domingo|sábado)
+o tempo na próxima (quarta|quinta|segunda|sexta|terça)
+o tempo na próximo (domingo|sábado)
+vai haver tempestade na (quarta|quinta|segunda|sexta|terça)
+vai haver tempestade no (domingo|sábado)
 condições climáticas atuais em {location}
 diga-me a previsão do tempo
-diga-me a previsão do tempo em {location}
-está agradável lá fora
-está bom lá fora
-está claro lá fora
-me dê a atualização do tempo atual
-me dê a atualização do tempo atual em {location}
-me dê a atualização do tempo mais recente
-me dê a atualização do tempo mais recente em {location}
-o que está acontecendo com o clima
-o que está acontecendo com o clima  em {location}
-o que está acontecendo com o clima agora
-o que está acontecendo com o clima agora em {location}
-o que está acontecendo com o clima hoje
-o que está acontecendo com o clima hoje em {location}
-qual é a previsão do tempo
-qual é a previsão do tempo em {location}
-você pode me dizer  o clima
-você pode me dizer  o clima  em {location}
-você pode me dizer  o clima agora
-você pode me dizer  o clima agora em {location}
-você pode me dizer  o clima atualmente
-você pode me dizer  o clima atualmente em {location}
-você pode me dizer sobre o clima
-você pode me dizer sobre o clima  em {location}
-você pode me dizer sobre o clima agora
-você pode me dizer sobre o clima agora em {location}
-você pode me dizer sobre o clima atualmente
-você pode me dizer sobre o clima atualmente em {location}
-a previsão na próxima quarta
-a previsão na próxima quarta em {location}
-a previsão na próxima quinta
-a previsão na próxima quinta em {location}
-a previsão na próxima segunda
-a previsão na próxima segunda em {location}
-a previsão na próxima sexta
-a previsão na próxima sexta em {location}
-a previsão na próxima terça
-a previsão na próxima terça em {location}
-a previsão na próximo domingo
-a previsão na próximo domingo em {location}
-a previsão na próximo sábado
-a previsão na próximo sábado em {location}
-algum alerta para  amanhã
-algum alerta para  amanhã em {location}
-algum alerta para a quarta
-algum alerta para a quarta em {location}
-algum alerta para a quinta
-algum alerta para a quinta em {location}
-algum alerta para a segunda
-algum alerta para a segunda em {location}
-algum alerta para a sexta
-algum alerta para a sexta em {location}
-algum alerta para a terça
-algum alerta para a terça em {location}
-algum alerta para depois de amanhã
-algum alerta para depois de amanhã em {location}
-algum alerta para o domingo
-algum alerta para o domingo em {location}
-algum alerta para o sábado
-algum alerta para o sábado em {location}
-algum aviso para  amanhã
-algum aviso para  amanhã em {location}
-algum aviso para a quarta
-algum aviso para a quarta em {location}
-algum aviso para a quinta
-algum aviso para a quinta em {location}
-algum aviso para a segunda
-algum aviso para a segunda em {location}
-algum aviso para a sexta
-algum aviso para a sexta em {location}
-algum aviso para a terça
-algum aviso para a terça em {location}
-algum aviso para depois de amanhã
-algum aviso para depois de amanhã em {location}
-algum aviso para o domingo
-algum aviso para o domingo em {location}
-algum aviso para o sábado
-algum aviso para o sábado em {location}
-como estará o tempo  amanhã
-como estará o tempo  amanhã em {location}
-como estará o tempo depois de amanhã
-como estará o tempo depois de amanhã em {location}
-como estará o tempo domingo
-como estará o tempo domingo em {location}
-como estará o tempo quarta
-como estará o tempo quarta em {location}
-como estará o tempo quinta
-como estará o tempo quinta em {location}
-como estará o tempo segunda
-como estará o tempo segunda em {location}
-como estará o tempo sexta
-como estará o tempo sexta em {location}
-como estará o tempo sábado
-como estará o tempo sábado em {location}
-como estará o tempo terça
-como estará o tempo terça em {location}
-como está a previsão na próxima quarta
-como está a previsão na próxima quarta em {location}
-como está a previsão na próxima quinta
-como está a previsão na próxima quinta em {location}
-como está a previsão na próxima segunda
-como está a previsão na próxima segunda em {location}
-como está a previsão na próxima sexta
-como está a previsão na próxima sexta em {location}
-como está a previsão na próxima terça
-como está a previsão na próxima terça em {location}
-como está a previsão na próximo domingo
-como está a previsão na próximo domingo em {location}
-como está a previsão na próximo sábado
-como está a previsão na próximo sábado em {location}
-como está o tempo  amanhã
-como está o tempo  amanhã em {location}
-como está o tempo depois de amanhã
-como está o tempo depois de amanhã em {location}
-como está o tempo domingo
-como está o tempo domingo em {location}
-como está o tempo em {location}  amanhã
-como está o tempo em {location} depois de amanhã
-como está o tempo em {location} na quarta
-como está o tempo em {location} na quinta
-como está o tempo em {location} na segunda
-como está o tempo em {location} na sexta
-como está o tempo em {location} na terça
-como está o tempo em {location} no domingo
-como está o tempo em {location} no sábado
-como está o tempo na próxima quarta
-como está o tempo na próxima quarta em {location}
-como está o tempo na próxima quinta
-como está o tempo na próxima quinta em {location}
-como está o tempo na próxima segunda
-como está o tempo na próxima segunda em {location}
-como está o tempo na próxima sexta
-como está o tempo na próxima sexta em {location}
-como está o tempo na próxima terça
-como está o tempo na próxima terça em {location}
-como está o tempo na próximo domingo
-como está o tempo na próximo domingo em {location}
-como está o tempo na próximo sábado
-como está o tempo na próximo sábado em {location}
-como está o tempo quarta
-como está o tempo quarta em {location}
-como está o tempo quinta
-como está o tempo quinta em {location}
-como está o tempo segunda
-como está o tempo segunda em {location}
-como está o tempo sexta
-como está o tempo sexta em {location}
-como está o tempo sábado
-como está o tempo sábado em {location}
-como está o tempo terça
-como está o tempo terça em {location}
-me diga a previsão na próxima quarta
-me diga a previsão na próxima quarta em {location}
-me diga a previsão na próxima quinta
-me diga a previsão na próxima quinta em {location}
-me diga a previsão na próxima segunda
-me diga a previsão na próxima segunda em {location}
-me diga a previsão na próxima sexta
-me diga a previsão na próxima sexta em {location}
-me diga a previsão na próxima terça
-me diga a previsão na próxima terça em {location}
-me diga a previsão na próximo domingo
-me diga a previsão na próximo domingo em {location}
-me diga a previsão na próximo sábado
-me diga a previsão na próximo sábado em {location}
-me diga o tempo na próxima quarta
-me diga o tempo na próxima quarta em {location}
-me diga o tempo na próxima quinta
-me diga o tempo na próxima quinta em {location}
-me diga o tempo na próxima segunda
-me diga o tempo na próxima segunda em {location}
-me diga o tempo na próxima sexta
-me diga o tempo na próxima sexta em {location}
-me diga o tempo na próxima terça
-me diga o tempo na próxima terça em {location}
-me diga o tempo na próximo domingo
-me diga o tempo na próximo domingo em {location}
-me diga o tempo na próximo sábado
-me diga o tempo na próximo sábado em {location}
-o que devo esperar  amanhã
-o que devo esperar  amanhã em {location}
-o que devo esperar depois de amanhã
-o que devo esperar depois de amanhã em {location}
-o que devo esperar na quarta
-o que devo esperar na quarta em {location}
-o que devo esperar na quinta
-o que devo esperar na quinta em {location}
-o que devo esperar na segunda
-o que devo esperar na segunda em {location}
-o que devo esperar na sexta
-o que devo esperar na sexta em {location}
-o que devo esperar na terça
-o que devo esperar na terça em {location}
-o que devo esperar no domingo
-o que devo esperar no domingo em {location}
-o que devo esperar no sábado
-o que devo esperar no sábado em {location}
-o tempo na próxima quarta
-o tempo na próxima quarta em {location}
-o tempo na próxima quinta
-o tempo na próxima quinta em {location}
-o tempo na próxima segunda
-o tempo na próxima segunda em {location}
-o tempo na próxima sexta
-o tempo na próxima sexta em {location}
-o tempo na próxima terça
-o tempo na próxima terça em {location}
-o tempo na próximo domingo
-o tempo na próximo domingo em {location}
-o tempo na próximo sábado
-o tempo na próximo sábado em {location}
-qual é a previsão de temperatura para  amanhã
-qual é a previsão de temperatura para  amanhã em {location}
-qual é a previsão de temperatura para a quarta
-qual é a previsão de temperatura para a quarta em {location}
-qual é a previsão de temperatura para a quinta
-qual é a previsão de temperatura para a quinta em {location}
-qual é a previsão de temperatura para a segunda
-qual é a previsão de temperatura para a segunda em {location}
-qual é a previsão de temperatura para a sexta
-qual é a previsão de temperatura para a sexta em {location}
-qual é a previsão de temperatura para a terça
-qual é a previsão de temperatura para a terça em {location}
-qual é a previsão de temperatura para depois de amanhã
-qual é a previsão de temperatura para depois de amanhã em {location}
-qual é a previsão de temperatura para o domingo
-qual é a previsão de temperatura para o domingo em {location}
-qual é a previsão de temperatura para o sábado
-qual é a previsão de temperatura para o sábado em {location}
-qual é a previsão na próxima quarta
-qual é a previsão na próxima quarta em {location}
-qual é a previsão na próxima quinta
-qual é a previsão na próxima quinta em {location}
-qual é a previsão na próxima segunda
-qual é a previsão na próxima segunda em {location}
-qual é a previsão na próxima sexta
-qual é a previsão na próxima sexta em {location}
-qual é a previsão na próxima terça
-qual é a previsão na próxima terça em {location}
-qual é a previsão na próximo domingo
-qual é a previsão na próximo domingo em {location}
-qual é a previsão na próximo sábado
-qual é a previsão na próximo sábado em {location}
-qual é a previsão para   amanhã
-qual é a previsão para   amanhã em {location}
-qual é a previsão para depois de  amanhã
-qual é a previsão para depois de  amanhã em {location}
-qual é a previsão para domingo
-qual é a previsão para domingo em {location}
-qual é a previsão para quarta
-qual é a previsão para quarta em {location}
-qual é a previsão para quinta
-qual é a previsão para quinta em {location}
-qual é a previsão para segunda
-qual é a previsão para segunda em {location}
-qual é a previsão para sexta
-qual é a previsão para sexta em {location}
-qual é a previsão para sábado
-qual é a previsão para sábado em {location}
-qual é a previsão para terça
-qual é a previsão para terça em {location}
-qual é o tempo na próxima quarta
-qual é o tempo na próxima quarta em {location}
-qual é o tempo na próxima quinta
-qual é o tempo na próxima quinta em {location}
-qual é o tempo na próxima segunda
-qual é o tempo na próxima segunda em {location}
-qual é o tempo na próxima sexta
-qual é o tempo na próxima sexta em {location}
-qual é o tempo na próxima terça
-qual é o tempo na próxima terça em {location}
-qual é o tempo na próximo domingo
-qual é o tempo na próximo domingo em {location}
-qual é o tempo na próximo sábado
-qual é o tempo na próximo sábado em {location}
-vai chover  amanhã
-vai chover  amanhã em {location}
-vai chover depois de amanhã
-vai chover depois de amanhã em {location}
-vai chover na quarta
-vai chover na quarta em {location}
-vai chover na quinta
-vai chover na quinta em {location}
-vai chover na segunda
-vai chover na segunda em {location}
-vai chover na sexta
-vai chover na sexta em {location}
-vai chover na terça
-vai chover na terça em {location}
-vai chover no domingo
-vai chover no domingo em {location}
-vai chover no sábado
-vai chover no sábado em {location}
-vai estar agradável  amanhã
-vai estar agradável  amanhã em {location}
-vai estar agradável depois de amanhã
-vai estar agradável depois de amanhã em {location}
-vai estar agradável na quarta
-vai estar agradável na quarta em {location}
-vai estar agradável na quinta
-vai estar agradável na quinta em {location}
-vai estar agradável na segunda
-vai estar agradável na segunda em {location}
-vai estar agradável na sexta
-vai estar agradável na sexta em {location}
-vai estar agradável na terça
-vai estar agradável na terça em {location}
-vai estar agradável no domingo
-vai estar agradável no domingo em {location}
-vai estar agradável no sábado
-vai estar agradável no sábado em {location}
-vai estar frio  amanhã
-vai estar frio  amanhã em {location}
-vai estar frio depois de amanhã
-vai estar frio depois de amanhã em {location}
-vai estar frio na quarta
-vai estar frio na quarta em {location}
-vai estar frio na quinta
-vai estar frio na quinta em {location}
-vai estar frio na segunda
-vai estar frio na segunda em {location}
-vai estar frio na sexta
-vai estar frio na sexta em {location}
-vai estar frio na terça
-vai estar frio na terça em {location}
-vai estar frio no domingo
-vai estar frio no domingo em {location}
-vai estar frio no sábado
-vai estar frio no sábado em {location}
-vai estar quente  amanhã
-vai estar quente  amanhã em {location}
-vai estar quente depois de amanhã
-vai estar quente depois de amanhã em {location}
-vai estar quente na quarta
-vai estar quente na quarta em {location}
-vai estar quente na quinta
-vai estar quente na quinta em {location}
-vai estar quente na segunda
-vai estar quente na segunda em {location}
-vai estar quente na sexta
-vai estar quente na sexta em {location}
-vai estar quente na terça
-vai estar quente na terça em {location}
-vai estar quente no domingo
-vai estar quente no domingo em {location}
-vai estar quente no sábado
-vai estar quente no sábado em {location}
-vai haver tempestade  amanhã
-vai haver tempestade  amanhã em {location}
-vai haver tempestade depois de amanhã
-vai haver tempestade depois de amanhã em {location}
-vai haver tempestade na quarta
-vai haver tempestade na quarta em {location}
-vai haver tempestade na quinta
-vai haver tempestade na quinta em {location}
-vai haver tempestade na segunda
-vai haver tempestade na segunda em {location}
-vai haver tempestade na sexta
-vai haver tempestade na sexta em {location}
-vai haver tempestade na terça
-vai haver tempestade na terça em {location}
-vai haver tempestade no domingo
-vai haver tempestade no domingo em {location}
-vai haver tempestade no sábado
-vai haver tempestade no sábado em {location}
-vai nevar  amanhã
-vai nevar  amanhã em {location}
-vai nevar depois de amanhã
-vai nevar depois de amanhã em {location}
-vai nevar na quarta
-vai nevar na quarta em {location}
-vai nevar na quinta
-vai nevar na quinta em {location}
-vai nevar na segunda
-vai nevar na segunda em {location}
-vai nevar na sexta
-vai nevar na sexta em {location}
-vai nevar na terça
-vai nevar na terça em {location}
-vai nevar no domingo
-vai nevar no domingo em {location}
-vai nevar no sábado
-vai nevar no sábado em {location}
-Qual é a previsão para amanhã às 1 da manhã
-Qual é a previsão para amanhã às 1 da manhã em {location}
-Qual é a previsão para amanhã às 1 da tarde
-Qual é a previsão para amanhã às 1 da tarde em {location}
-Qual é a previsão para amanhã às 10 da manhã
-Qual é a previsão para amanhã às 10 da manhã em {location}
-Qual é a previsão para amanhã às 10 da tarde
-Qual é a previsão para amanhã às 10 da tarde em {location}
-Qual é a previsão para amanhã às 11 da manhã
-Qual é a previsão para amanhã às 11 da manhã em {location}
-Qual é a previsão para amanhã às 11 da tarde
-Qual é a previsão para amanhã às 11 da tarde em {location}
-Qual é a previsão para amanhã às 12 da manhã
-Qual é a previsão para amanhã às 12 da manhã em {location}
-Qual é a previsão para amanhã às 12 da tarde
-Qual é a previsão para amanhã às 12 da tarde em {location}
-Qual é a previsão para amanhã às 2 da manhã
-Qual é a previsão para amanhã às 2 da manhã em {location}
-Qual é a previsão para amanhã às 2 da tarde
-Qual é a previsão para amanhã às 2 da tarde em {location}
-Qual é a previsão para amanhã às 3 da manhã
-Qual é a previsão para amanhã às 3 da manhã em {location}
-Qual é a previsão para amanhã às 3 da tarde
-Qual é a previsão para amanhã às 3 da tarde em {location}
-Qual é a previsão para amanhã às 4 da manhã
-Qual é a previsão para amanhã às 4 da manhã em {location}
-Qual é a previsão para amanhã às 4 da tarde
-Qual é a previsão para amanhã às 4 da tarde em {location}
-Qual é a previsão para amanhã às 5 da manhã
-Qual é a previsão para amanhã às 5 da manhã em {location}
-Qual é a previsão para amanhã às 5 da tarde
-Qual é a previsão para amanhã às 5 da tarde em {location}
-Qual é a previsão para amanhã às 6 da manhã
-Qual é a previsão para amanhã às 6 da manhã em {location}
-Qual é a previsão para amanhã às 6 da tarde
-Qual é a previsão para amanhã às 6 da tarde em {location}
-Qual é a previsão para amanhã às 7 da manhã
-Qual é a previsão para amanhã às 7 da manhã em {location}
-Qual é a previsão para amanhã às 7 da tarde
-Qual é a previsão para amanhã às 7 da tarde em {location}
-Qual é a previsão para amanhã às 8 da manhã
-Qual é a previsão para amanhã às 8 da manhã em {location}
-Qual é a previsão para amanhã às 8 da tarde
-Qual é a previsão para amanhã às 8 da tarde em {location}
-Qual é a previsão para amanhã às 9 da manhã
-Qual é a previsão para amanhã às 9 da manhã em {location}
-Qual é a previsão para amanhã às 9 da tarde
-Qual é a previsão para amanhã às 9 da tarde em {location}
-Qual é a previsão para domingo às 1 da manhã
-Qual é a previsão para domingo às 1 da manhã em {location}
-Qual é a previsão para domingo às 1 da tarde
-Qual é a previsão para domingo às 1 da tarde em {location}
-Qual é a previsão para domingo às 10 da manhã
-Qual é a previsão para domingo às 10 da manhã em {location}
-Qual é a previsão para domingo às 10 da tarde
-Qual é a previsão para domingo às 10 da tarde em {location}
-Qual é a previsão para domingo às 11 da manhã
-Qual é a previsão para domingo às 11 da manhã em {location}
-Qual é a previsão para domingo às 11 da tarde
-Qual é a previsão para domingo às 11 da tarde em {location}
-Qual é a previsão para domingo às 12 da manhã
-Qual é a previsão para domingo às 12 da manhã em {location}
-Qual é a previsão para domingo às 12 da tarde
-Qual é a previsão para domingo às 12 da tarde em {location}
-Qual é a previsão para domingo às 2 da manhã
-Qual é a previsão para domingo às 2 da manhã em {location}
-Qual é a previsão para domingo às 2 da tarde
-Qual é a previsão para domingo às 2 da tarde em {location}
-Qual é a previsão para domingo às 3 da manhã
-Qual é a previsão para domingo às 3 da manhã em {location}
-Qual é a previsão para domingo às 3 da tarde
-Qual é a previsão para domingo às 3 da tarde em {location}
-Qual é a previsão para domingo às 4 da manhã
-Qual é a previsão para domingo às 4 da manhã em {location}
-Qual é a previsão para domingo às 4 da tarde
-Qual é a previsão para domingo às 4 da tarde em {location}
-Qual é a previsão para domingo às 5 da manhã
-Qual é a previsão para domingo às 5 da manhã em {location}
-Qual é a previsão para domingo às 5 da tarde
-Qual é a previsão para domingo às 5 da tarde em {location}
-Qual é a previsão para domingo às 6 da manhã
-Qual é a previsão para domingo às 6 da manhã em {location}
-Qual é a previsão para domingo às 6 da tarde
-Qual é a previsão para domingo às 6 da tarde em {location}
-Qual é a previsão para domingo às 7 da manhã
-Qual é a previsão para domingo às 7 da manhã em {location}
-Qual é a previsão para domingo às 7 da tarde
-Qual é a previsão para domingo às 7 da tarde em {location}
-Qual é a previsão para domingo às 8 da manhã
-Qual é a previsão para domingo às 8 da manhã em {location}
-Qual é a previsão para domingo às 8 da tarde
-Qual é a previsão para domingo às 8 da tarde em {location}
-Qual é a previsão para domingo às 9 da manhã
-Qual é a previsão para domingo às 9 da manhã em {location}
-Qual é a previsão para domingo às 9 da tarde
-Qual é a previsão para domingo às 9 da tarde em {location}
-Qual é a previsão para quarta às 1 da manhã
-Qual é a previsão para quarta às 1 da manhã em {location}
-Qual é a previsão para quarta às 1 da tarde
-Qual é a previsão para quarta às 1 da tarde em {location}
-Qual é a previsão para quarta às 10 da manhã
-Qual é a previsão para quarta às 10 da manhã em {location}
-Qual é a previsão para quarta às 10 da tarde
-Qual é a previsão para quarta às 10 da tarde em {location}
-Qual é a previsão para quarta às 11 da manhã
-Qual é a previsão para quarta às 11 da manhã em {location}
-Qual é a previsão para quarta às 11 da tarde
-Qual é a previsão para quarta às 11 da tarde em {location}
-Qual é a previsão para quarta às 12 da manhã
-Qual é a previsão para quarta às 12 da manhã em {location}
-Qual é a previsão para quarta às 12 da tarde
-Qual é a previsão para quarta às 12 da tarde em {location}
-Qual é a previsão para quarta às 2 da manhã
-Qual é a previsão para quarta às 2 da manhã em {location}
-Qual é a previsão para quarta às 2 da tarde
-Qual é a previsão para quarta às 2 da tarde em {location}
-Qual é a previsão para quarta às 3 da manhã
-Qual é a previsão para quarta às 3 da manhã em {location}
-Qual é a previsão para quarta às 3 da tarde
-Qual é a previsão para quarta às 3 da tarde em {location}
-Qual é a previsão para quarta às 4 da manhã
-Qual é a previsão para quarta às 4 da manhã em {location}
-Qual é a previsão para quarta às 4 da tarde
-Qual é a previsão para quarta às 4 da tarde em {location}
-Qual é a previsão para quarta às 5 da manhã
-Qual é a previsão para quarta às 5 da manhã em {location}
-Qual é a previsão para quarta às 5 da tarde
-Qual é a previsão para quarta às 5 da tarde em {location}
-Qual é a previsão para quarta às 6 da manhã
-Qual é a previsão para quarta às 6 da manhã em {location}
-Qual é a previsão para quarta às 6 da tarde
-Qual é a previsão para quarta às 6 da tarde em {location}
-Qual é a previsão para quarta às 7 da manhã
-Qual é a previsão para quarta às 7 da manhã em {location}
-Qual é a previsão para quarta às 7 da tarde
-Qual é a previsão para quarta às 7 da tarde em {location}
-Qual é a previsão para quarta às 8 da manhã
-Qual é a previsão para quarta às 8 da manhã em {location}
-Qual é a previsão para quarta às 8 da tarde
-Qual é a previsão para quarta às 8 da tarde em {location}
-Qual é a previsão para quarta às 9 da manhã
-Qual é a previsão para quarta às 9 da manhã em {location}
-Qual é a previsão para quarta às 9 da tarde
-Qual é a previsão para quarta às 9 da tarde em {location}
-Qual é a previsão para quinta às 1 da manhã
-Qual é a previsão para quinta às 1 da manhã em {location}
-Qual é a previsão para quinta às 1 da tarde
-Qual é a previsão para quinta às 1 da tarde em {location}
-Qual é a previsão para quinta às 10 da manhã
-Qual é a previsão para quinta às 10 da manhã em {location}
-Qual é a previsão para quinta às 10 da tarde
-Qual é a previsão para quinta às 10 da tarde em {location}
-Qual é a previsão para quinta às 11 da manhã
-Qual é a previsão para quinta às 11 da manhã em {location}
-Qual é a previsão para quinta às 11 da tarde
-Qual é a previsão para quinta às 11 da tarde em {location}
-Qual é a previsão para quinta às 12 da manhã
-Qual é a previsão para quinta às 12 da manhã em {location}
-Qual é a previsão para quinta às 12 da tarde
-Qual é a previsão para quinta às 12 da tarde em {location}
-Qual é a previsão para quinta às 2 da manhã
-Qual é a previsão para quinta às 2 da manhã em {location}
-Qual é a previsão para quinta às 2 da tarde
-Qual é a previsão para quinta às 2 da tarde em {location}
-Qual é a previsão para quinta às 3 da manhã
-Qual é a previsão para quinta às 3 da manhã em {location}
-Qual é a previsão para quinta às 3 da tarde
-Qual é a previsão para quinta às 3 da tarde em {location}
-Qual é a previsão para quinta às 4 da manhã
-Qual é a previsão para quinta às 4 da manhã em {location}
-Qual é a previsão para quinta às 4 da tarde
-Qual é a previsão para quinta às 4 da tarde em {location}
-Qual é a previsão para quinta às 5 da manhã
-Qual é a previsão para quinta às 5 da manhã em {location}
-Qual é a previsão para quinta às 5 da tarde
-Qual é a previsão para quinta às 5 da tarde em {location}
-Qual é a previsão para quinta às 6 da manhã
-Qual é a previsão para quinta às 6 da manhã em {location}
-Qual é a previsão para quinta às 6 da tarde
-Qual é a previsão para quinta às 6 da tarde em {location}
-Qual é a previsão para quinta às 7 da manhã
-Qual é a previsão para quinta às 7 da manhã em {location}
-Qual é a previsão para quinta às 7 da tarde
-Qual é a previsão para quinta às 7 da tarde em {location}
-Qual é a previsão para quinta às 8 da manhã
-Qual é a previsão para quinta às 8 da manhã em {location}
-Qual é a previsão para quinta às 8 da tarde
-Qual é a previsão para quinta às 8 da tarde em {location}
-Qual é a previsão para quinta às 9 da manhã
-Qual é a previsão para quinta às 9 da manhã em {location}
-Qual é a previsão para quinta às 9 da tarde
-Qual é a previsão para quinta às 9 da tarde em {location}
-Qual é a previsão para segunda às 1 da manhã
-Qual é a previsão para segunda às 1 da manhã em {location}
-Qual é a previsão para segunda às 1 da tarde
-Qual é a previsão para segunda às 1 da tarde em {location}
-Qual é a previsão para segunda às 10 da manhã
-Qual é a previsão para segunda às 10 da manhã em {location}
-Qual é a previsão para segunda às 10 da tarde
-Qual é a previsão para segunda às 10 da tarde em {location}
-Qual é a previsão para segunda às 11 da manhã
-Qual é a previsão para segunda às 11 da manhã em {location}
-Qual é a previsão para segunda às 11 da tarde
-Qual é a previsão para segunda às 11 da tarde em {location}
-Qual é a previsão para segunda às 12 da manhã
-Qual é a previsão para segunda às 12 da manhã em {location}
-Qual é a previsão para segunda às 12 da tarde
-Qual é a previsão para segunda às 12 da tarde em {location}
-Qual é a previsão para segunda às 2 da manhã
-Qual é a previsão para segunda às 2 da manhã em {location}
-Qual é a previsão para segunda às 2 da tarde
-Qual é a previsão para segunda às 2 da tarde em {location}
-Qual é a previsão para segunda às 3 da manhã
-Qual é a previsão para segunda às 3 da manhã em {location}
-Qual é a previsão para segunda às 3 da tarde
-Qual é a previsão para segunda às 3 da tarde em {location}
-Qual é a previsão para segunda às 4 da manhã
-Qual é a previsão para segunda às 4 da manhã em {location}
-Qual é a previsão para segunda às 4 da tarde
-Qual é a previsão para segunda às 4 da tarde em {location}
-Qual é a previsão para segunda às 5 da manhã
-Qual é a previsão para segunda às 5 da manhã em {location}
-Qual é a previsão para segunda às 5 da tarde
-Qual é a previsão para segunda às 5 da tarde em {location}
-Qual é a previsão para segunda às 6 da manhã
-Qual é a previsão para segunda às 6 da manhã em {location}
-Qual é a previsão para segunda às 6 da tarde
-Qual é a previsão para segunda às 6 da tarde em {location}
-Qual é a previsão para segunda às 7 da manhã
-Qual é a previsão para segunda às 7 da manhã em {location}
-Qual é a previsão para segunda às 7 da tarde
-Qual é a previsão para segunda às 7 da tarde em {location}
-Qual é a previsão para segunda às 8 da manhã
-Qual é a previsão para segunda às 8 da manhã em {location}
-Qual é a previsão para segunda às 8 da tarde
-Qual é a previsão para segunda às 8 da tarde em {location}
-Qual é a previsão para segunda às 9 da manhã
-Qual é a previsão para segunda às 9 da manhã em {location}
-Qual é a previsão para segunda às 9 da tarde
-Qual é a previsão para segunda às 9 da tarde em {location}
-Qual é a previsão para sexta às 1 da manhã
-Qual é a previsão para sexta às 1 da manhã em {location}
-Qual é a previsão para sexta às 1 da tarde
-Qual é a previsão para sexta às 1 da tarde em {location}
-Qual é a previsão para sexta às 10 da manhã
-Qual é a previsão para sexta às 10 da manhã em {location}
-Qual é a previsão para sexta às 10 da tarde
-Qual é a previsão para sexta às 10 da tarde em {location}
-Qual é a previsão para sexta às 11 da manhã
-Qual é a previsão para sexta às 11 da manhã em {location}
-Qual é a previsão para sexta às 11 da tarde
-Qual é a previsão para sexta às 11 da tarde em {location}
-Qual é a previsão para sexta às 12 da manhã
-Qual é a previsão para sexta às 12 da manhã em {location}
-Qual é a previsão para sexta às 12 da tarde
-Qual é a previsão para sexta às 12 da tarde em {location}
-Qual é a previsão para sexta às 2 da manhã
-Qual é a previsão para sexta às 2 da manhã em {location}
-Qual é a previsão para sexta às 2 da tarde
-Qual é a previsão para sexta às 2 da tarde em {location}
-Qual é a previsão para sexta às 3 da manhã
-Qual é a previsão para sexta às 3 da manhã em {location}
-Qual é a previsão para sexta às 3 da tarde
-Qual é a previsão para sexta às 3 da tarde em {location}
-Qual é a previsão para sexta às 4 da manhã
-Qual é a previsão para sexta às 4 da manhã em {location}
-Qual é a previsão para sexta às 4 da tarde
-Qual é a previsão para sexta às 4 da tarde em {location}
-Qual é a previsão para sexta às 5 da manhã
-Qual é a previsão para sexta às 5 da manhã em {location}
-Qual é a previsão para sexta às 5 da tarde
-Qual é a previsão para sexta às 5 da tarde em {location}
-Qual é a previsão para sexta às 6 da manhã
-Qual é a previsão para sexta às 6 da manhã em {location}
-Qual é a previsão para sexta às 6 da tarde
-Qual é a previsão para sexta às 6 da tarde em {location}
-Qual é a previsão para sexta às 7 da manhã
-Qual é a previsão para sexta às 7 da manhã em {location}
-Qual é a previsão para sexta às 7 da tarde
-Qual é a previsão para sexta às 7 da tarde em {location}
-Qual é a previsão para sexta às 8 da manhã
-Qual é a previsão para sexta às 8 da manhã em {location}
-Qual é a previsão para sexta às 8 da tarde
-Qual é a previsão para sexta às 8 da tarde em {location}
-Qual é a previsão para sexta às 9 da manhã
-Qual é a previsão para sexta às 9 da manhã em {location}
-Qual é a previsão para sexta às 9 da tarde
-Qual é a previsão para sexta às 9 da tarde em {location}
-Qual é a previsão para sábado às 1 da manhã
-Qual é a previsão para sábado às 1 da manhã em {location}
-Qual é a previsão para sábado às 1 da tarde
-Qual é a previsão para sábado às 1 da tarde em {location}
-Qual é a previsão para sábado às 10 da manhã
-Qual é a previsão para sábado às 10 da manhã em {location}
-Qual é a previsão para sábado às 10 da tarde
-Qual é a previsão para sábado às 10 da tarde em {location}
-Qual é a previsão para sábado às 11 da manhã
-Qual é a previsão para sábado às 11 da manhã em {location}
-Qual é a previsão para sábado às 11 da tarde
-Qual é a previsão para sábado às 11 da tarde em {location}
-Qual é a previsão para sábado às 12 da manhã
-Qual é a previsão para sábado às 12 da manhã em {location}
-Qual é a previsão para sábado às 12 da tarde
-Qual é a previsão para sábado às 12 da tarde em {location}
-Qual é a previsão para sábado às 2 da manhã
-Qual é a previsão para sábado às 2 da manhã em {location}
-Qual é a previsão para sábado às 2 da tarde
-Qual é a previsão para sábado às 2 da tarde em {location}
-Qual é a previsão para sábado às 3 da manhã
-Qual é a previsão para sábado às 3 da manhã em {location}
-Qual é a previsão para sábado às 3 da tarde
-Qual é a previsão para sábado às 3 da tarde em {location}
-Qual é a previsão para sábado às 4 da manhã
-Qual é a previsão para sábado às 4 da manhã em {location}
-Qual é a previsão para sábado às 4 da tarde
-Qual é a previsão para sábado às 4 da tarde em {location}
-Qual é a previsão para sábado às 5 da manhã
-Qual é a previsão para sábado às 5 da manhã em {location}
-Qual é a previsão para sábado às 5 da tarde
-Qual é a previsão para sábado às 5 da tarde em {location}
-Qual é a previsão para sábado às 6 da manhã
-Qual é a previsão para sábado às 6 da manhã em {location}
-Qual é a previsão para sábado às 6 da tarde
-Qual é a previsão para sábado às 6 da tarde em {location}
-Qual é a previsão para sábado às 7 da manhã
-Qual é a previsão para sábado às 7 da manhã em {location}
-Qual é a previsão para sábado às 7 da tarde
-Qual é a previsão para sábado às 7 da tarde em {location}
-Qual é a previsão para sábado às 8 da manhã
-Qual é a previsão para sábado às 8 da manhã em {location}
-Qual é a previsão para sábado às 8 da tarde
-Qual é a previsão para sábado às 8 da tarde em {location}
-Qual é a previsão para sábado às 9 da manhã
-Qual é a previsão para sábado às 9 da manhã em {location}
-Qual é a previsão para sábado às 9 da tarde
-Qual é a previsão para sábado às 9 da tarde em {location}
-Qual é a previsão para terça às 1 da manhã
-Qual é a previsão para terça às 1 da manhã em {location}
-Qual é a previsão para terça às 1 da tarde
-Qual é a previsão para terça às 1 da tarde em {location}
-Qual é a previsão para terça às 10 da manhã
-Qual é a previsão para terça às 10 da manhã em {location}
-Qual é a previsão para terça às 10 da tarde
-Qual é a previsão para terça às 10 da tarde em {location}
-Qual é a previsão para terça às 11 da manhã
-Qual é a previsão para terça às 11 da manhã em {location}
-Qual é a previsão para terça às 11 da tarde
-Qual é a previsão para terça às 11 da tarde em {location}
-Qual é a previsão para terça às 12 da manhã
-Qual é a previsão para terça às 12 da manhã em {location}
-Qual é a previsão para terça às 12 da tarde
-Qual é a previsão para terça às 12 da tarde em {location}
-Qual é a previsão para terça às 2 da manhã
-Qual é a previsão para terça às 2 da manhã em {location}
-Qual é a previsão para terça às 2 da tarde
-Qual é a previsão para terça às 2 da tarde em {location}
-Qual é a previsão para terça às 3 da manhã
-Qual é a previsão para terça às 3 da manhã em {location}
-Qual é a previsão para terça às 3 da tarde
-Qual é a previsão para terça às 3 da tarde em {location}
-Qual é a previsão para terça às 4 da manhã
-Qual é a previsão para terça às 4 da manhã em {location}
-Qual é a previsão para terça às 4 da tarde
-Qual é a previsão para terça às 4 da tarde em {location}
-Qual é a previsão para terça às 5 da manhã
-Qual é a previsão para terça às 5 da manhã em {location}
-Qual é a previsão para terça às 5 da tarde
-Qual é a previsão para terça às 5 da tarde em {location}
-Qual é a previsão para terça às 6 da manhã
-Qual é a previsão para terça às 6 da manhã em {location}
-Qual é a previsão para terça às 6 da tarde
-Qual é a previsão para terça às 6 da tarde em {location}
-Qual é a previsão para terça às 7 da manhã
-Qual é a previsão para terça às 7 da manhã em {location}
-Qual é a previsão para terça às 7 da tarde
-Qual é a previsão para terça às 7 da tarde em {location}
-Qual é a previsão para terça às 8 da manhã
-Qual é a previsão para terça às 8 da manhã em {location}
-Qual é a previsão para terça às 8 da tarde
-Qual é a previsão para terça às 8 da tarde em {location}
-Qual é a previsão para terça às 9 da manhã
-Qual é a previsão para terça às 9 da manhã em {location}
-Qual é a previsão para terça às 9 da tarde
-Qual é a previsão para terça às 9 da tarde em {location}
-a previsão às 1 da manhã
-a previsão às 1 da manhã em {location}
-a previsão às 1 da tarde
-a previsão às 1 da tarde em {location}
-a previsão às 10 da manhã
-a previsão às 10 da manhã em {location}
-a previsão às 10 da tarde
-a previsão às 10 da tarde em {location}
-a previsão às 11 da manhã
-a previsão às 11 da manhã em {location}
-a previsão às 11 da tarde
-a previsão às 11 da tarde em {location}
-a previsão às 12 da manhã
-a previsão às 12 da manhã em {location}
-a previsão às 12 da tarde
-a previsão às 12 da tarde em {location}
-a previsão às 2 da manhã
-a previsão às 2 da manhã em {location}
-a previsão às 2 da tarde
-a previsão às 2 da tarde em {location}
-a previsão às 3 da manhã
-a previsão às 3 da manhã em {location}
-a previsão às 3 da tarde
-a previsão às 3 da tarde em {location}
-a previsão às 4 da manhã
-a previsão às 4 da manhã em {location}
-a previsão às 4 da tarde
-a previsão às 4 da tarde em {location}
-a previsão às 5 da manhã
-a previsão às 5 da manhã em {location}
-a previsão às 5 da tarde
-a previsão às 5 da tarde em {location}
-a previsão às 6 da manhã
-a previsão às 6 da manhã em {location}
-a previsão às 6 da tarde
-a previsão às 6 da tarde em {location}
-a previsão às 7 da manhã
-a previsão às 7 da manhã em {location}
-a previsão às 7 da tarde
-a previsão às 7 da tarde em {location}
-a previsão às 8 da manhã
-a previsão às 8 da manhã em {location}
-a previsão às 8 da tarde
-a previsão às 8 da tarde em {location}
-a previsão às 9 da manhã
-a previsão às 9 da manhã em {location}
-a previsão às 9 da tarde
-a previsão às 9 da tarde em {location}
-como está a previsão às 1 da manhã
-como está a previsão às 1 da manhã em {location}
-como está a previsão às 1 da tarde
-como está a previsão às 1 da tarde em {location}
-como está a previsão às 10 da manhã
-como está a previsão às 10 da manhã em {location}
-como está a previsão às 10 da tarde
-como está a previsão às 10 da tarde em {location}
-como está a previsão às 11 da manhã
-como está a previsão às 11 da manhã em {location}
-como está a previsão às 11 da tarde
-como está a previsão às 11 da tarde em {location}
-como está a previsão às 12 da manhã
-como está a previsão às 12 da manhã em {location}
-como está a previsão às 12 da tarde
-como está a previsão às 12 da tarde em {location}
-como está a previsão às 2 da manhã
-como está a previsão às 2 da manhã em {location}
-como está a previsão às 2 da tarde
-como está a previsão às 2 da tarde em {location}
-como está a previsão às 3 da manhã
-como está a previsão às 3 da manhã em {location}
-como está a previsão às 3 da tarde
-como está a previsão às 3 da tarde em {location}
-como está a previsão às 4 da manhã
-como está a previsão às 4 da manhã em {location}
-como está a previsão às 4 da tarde
-como está a previsão às 4 da tarde em {location}
-como está a previsão às 5 da manhã
-como está a previsão às 5 da manhã em {location}
-como está a previsão às 5 da tarde
-como está a previsão às 5 da tarde em {location}
-como está a previsão às 6 da manhã
-como está a previsão às 6 da manhã em {location}
-como está a previsão às 6 da tarde
-como está a previsão às 6 da tarde em {location}
-como está a previsão às 7 da manhã
-como está a previsão às 7 da manhã em {location}
-como está a previsão às 7 da tarde
-como está a previsão às 7 da tarde em {location}
-como está a previsão às 8 da manhã
-como está a previsão às 8 da manhã em {location}
-como está a previsão às 8 da tarde
-como está a previsão às 8 da tarde em {location}
-como está a previsão às 9 da manhã
-como está a previsão às 9 da manhã em {location}
-como está a previsão às 9 da tarde
-como está a previsão às 9 da tarde em {location}
-como está o tempo amanhã ao meio-dia
-como está o tempo amanhã ao meio-dia em {location}
-como está o tempo amanhã de manhã
-como está o tempo amanhã de manhã em {location}
-como está o tempo amanhã à tarde
-como está o tempo amanhã à tarde em {location}
-como está o tempo domingo ao meio-dia
-como está o tempo domingo ao meio-dia em {location}
-como está o tempo domingo de manhã
-como está o tempo domingo de manhã em {location}
-como está o tempo domingo à tarde
-como está o tempo domingo à tarde em {location}
-como está o tempo em {location} amanhã ao meio-dia
-como está o tempo em {location} amanhã de manhã
-como está o tempo em {location} amanhã à tarde
-como está o tempo em {location} domingo ao meio-dia
-como está o tempo em {location} domingo de manhã
-como está o tempo em {location} domingo à tarde
-como está o tempo em {location} quarta ao meio-dia
-como está o tempo em {location} quarta de manhã
-como está o tempo em {location} quarta à tarde
-como está o tempo em {location} quinta ao meio-dia
-como está o tempo em {location} quinta de manhã
-como está o tempo em {location} quinta à tarde
-como está o tempo em {location} segunda ao meio-dia
-como está o tempo em {location} segunda de manhã
-como está o tempo em {location} segunda à tarde
-como está o tempo em {location} sexta ao meio-dia
-como está o tempo em {location} sexta de manhã
-como está o tempo em {location} sexta à tarde
-como está o tempo em {location} sábado ao meio-dia
-como está o tempo em {location} sábado de manhã
-como está o tempo em {location} sábado à tarde
-como está o tempo em {location} terça ao meio-dia
-como está o tempo em {location} terça de manhã
-como está o tempo em {location} terça à tarde
-como está o tempo quarta ao meio-dia
-como está o tempo quarta ao meio-dia em {location}
-como está o tempo quarta de manhã
-como está o tempo quarta de manhã em {location}
-como está o tempo quarta à tarde
-como está o tempo quarta à tarde em {location}
-como está o tempo quinta ao meio-dia
-como está o tempo quinta ao meio-dia em {location}
-como está o tempo quinta de manhã
-como está o tempo quinta de manhã em {location}
-como está o tempo quinta à tarde
-como está o tempo quinta à tarde em {location}
-como está o tempo segunda ao meio-dia
-como está o tempo segunda ao meio-dia em {location}
-como está o tempo segunda de manhã
-como está o tempo segunda de manhã em {location}
-como está o tempo segunda à tarde
-como está o tempo segunda à tarde em {location}
-como está o tempo sexta ao meio-dia
-como está o tempo sexta ao meio-dia em {location}
-como está o tempo sexta de manhã
-como está o tempo sexta de manhã em {location}
-como está o tempo sexta à tarde
-como está o tempo sexta à tarde em {location}
-como está o tempo sábado ao meio-dia
-como está o tempo sábado ao meio-dia em {location}
-como está o tempo sábado de manhã
-como está o tempo sábado de manhã em {location}
-como está o tempo sábado à tarde
-como está o tempo sábado à tarde em {location}
-como está o tempo terça ao meio-dia
-como está o tempo terça ao meio-dia em {location}
-como está o tempo terça de manhã
-como está o tempo terça de manhã em {location}
-como está o tempo terça à tarde
-como está o tempo terça à tarde em {location}
-como está o tempo às 1 da manhã
-como está o tempo às 1 da manhã em {location}
-como está o tempo às 1 da tarde
-como está o tempo às 1 da tarde em {location}
-como está o tempo às 10 da manhã
-como está o tempo às 10 da manhã em {location}
-como está o tempo às 10 da tarde
-como está o tempo às 10 da tarde em {location}
-como está o tempo às 11 da manhã
-como está o tempo às 11 da manhã em {location}
-como está o tempo às 11 da tarde
-como está o tempo às 11 da tarde em {location}
-como está o tempo às 12 da manhã
-como está o tempo às 12 da manhã em {location}
-como está o tempo às 12 da tarde
-como está o tempo às 12 da tarde em {location}
-como está o tempo às 2 da manhã
-como está o tempo às 2 da manhã em {location}
-como está o tempo às 2 da tarde
-como está o tempo às 2 da tarde em {location}
-como está o tempo às 3 da manhã
-como está o tempo às 3 da manhã em {location}
-como está o tempo às 3 da tarde
-como está o tempo às 3 da tarde em {location}
-como está o tempo às 4 da manhã
-como está o tempo às 4 da manhã em {location}
-como está o tempo às 4 da tarde
-como está o tempo às 4 da tarde em {location}
-como está o tempo às 5 da manhã
-como está o tempo às 5 da manhã em {location}
-como está o tempo às 5 da tarde
-como está o tempo às 5 da tarde em {location}
-como está o tempo às 6 da manhã
-como está o tempo às 6 da manhã em {location}
-como está o tempo às 6 da tarde
-como está o tempo às 6 da tarde em {location}
-como está o tempo às 7 da manhã
-como está o tempo às 7 da manhã em {location}
-como está o tempo às 7 da tarde
-como está o tempo às 7 da tarde em {location}
-como está o tempo às 8 da manhã
-como está o tempo às 8 da manhã em {location}
-como está o tempo às 8 da tarde
-como está o tempo às 8 da tarde em {location}
-como está o tempo às 9 da manhã
-como está o tempo às 9 da manhã em {location}
-como está o tempo às 9 da tarde
-como está o tempo às 9 da tarde em {location}
-diga-me como está o tempo amanhã de manhã
-diga-me como está o tempo amanhã de manhã em {location}
-diga-me como está o tempo amanhã à noite
-diga-me como está o tempo amanhã à noite em {location}
-diga-me como está o tempo amanhã à tarde
-diga-me como está o tempo amanhã à tarde em {location}
-diga-me como está o tempo domingo de manhã
-diga-me como está o tempo domingo de manhã em {location}
-diga-me como está o tempo domingo à noite
-diga-me como está o tempo domingo à noite em {location}
-diga-me como está o tempo domingo à tarde
-diga-me como está o tempo domingo à tarde em {location}
-diga-me como está o tempo quarta de manhã
-diga-me como está o tempo quarta de manhã em {location}
-diga-me como está o tempo quarta à noite
-diga-me como está o tempo quarta à noite em {location}
-diga-me como está o tempo quarta à tarde
-diga-me como está o tempo quarta à tarde em {location}
-diga-me como está o tempo quinta de manhã
-diga-me como está o tempo quinta de manhã em {location}
-diga-me como está o tempo quinta à noite
-diga-me como está o tempo quinta à noite em {location}
-diga-me como está o tempo quinta à tarde
-diga-me como está o tempo quinta à tarde em {location}
-diga-me como está o tempo segunda de manhã
-diga-me como está o tempo segunda de manhã em {location}
-diga-me como está o tempo segunda à noite
-diga-me como está o tempo segunda à noite em {location}
-diga-me como está o tempo segunda à tarde
-diga-me como está o tempo segunda à tarde em {location}
-diga-me como está o tempo sexta de manhã
-diga-me como está o tempo sexta de manhã em {location}
-diga-me como está o tempo sexta à noite
-diga-me como está o tempo sexta à noite em {location}
-diga-me como está o tempo sexta à tarde
-diga-me como está o tempo sexta à tarde em {location}
-diga-me como está o tempo sábado de manhã
-diga-me como está o tempo sábado de manhã em {location}
-diga-me como está o tempo sábado à noite
-diga-me como está o tempo sábado à noite em {location}
-diga-me como está o tempo sábado à tarde
-diga-me como está o tempo sábado à tarde em {location}
-diga-me como está o tempo terça de manhã
-diga-me como está o tempo terça de manhã em {location}
-diga-me como está o tempo terça à noite
-diga-me como está o tempo terça à noite em {location}
-diga-me como está o tempo terça à tarde
-diga-me como está o tempo terça à tarde em {location}
-me diga a previsão às 1 da manhã
-me diga a previsão às 1 da manhã em {location}
-me diga a previsão às 1 da tarde
-me diga a previsão às 1 da tarde em {location}
-me diga a previsão às 10 da manhã
-me diga a previsão às 10 da manhã em {location}
-me diga a previsão às 10 da tarde
-me diga a previsão às 10 da tarde em {location}
-me diga a previsão às 11 da manhã
-me diga a previsão às 11 da manhã em {location}
-me diga a previsão às 11 da tarde
-me diga a previsão às 11 da tarde em {location}
-me diga a previsão às 12 da manhã
-me diga a previsão às 12 da manhã em {location}
-me diga a previsão às 12 da tarde
-me diga a previsão às 12 da tarde em {location}
-me diga a previsão às 2 da manhã
-me diga a previsão às 2 da manhã em {location}
-me diga a previsão às 2 da tarde
-me diga a previsão às 2 da tarde em {location}
-me diga a previsão às 3 da manhã
-me diga a previsão às 3 da manhã em {location}
-me diga a previsão às 3 da tarde
-me diga a previsão às 3 da tarde em {location}
-me diga a previsão às 4 da manhã
-me diga a previsão às 4 da manhã em {location}
-me diga a previsão às 4 da tarde
-me diga a previsão às 4 da tarde em {location}
-me diga a previsão às 5 da manhã
-me diga a previsão às 5 da manhã em {location}
-me diga a previsão às 5 da tarde
-me diga a previsão às 5 da tarde em {location}
-me diga a previsão às 6 da manhã
-me diga a previsão às 6 da manhã em {location}
-me diga a previsão às 6 da tarde
-me diga a previsão às 6 da tarde em {location}
-me diga a previsão às 7 da manhã
-me diga a previsão às 7 da manhã em {location}
-me diga a previsão às 7 da tarde
-me diga a previsão às 7 da tarde em {location}
-me diga a previsão às 8 da manhã
-me diga a previsão às 8 da manhã em {location}
-me diga a previsão às 8 da tarde
-me diga a previsão às 8 da tarde em {location}
-me diga a previsão às 9 da manhã
-me diga a previsão às 9 da manhã em {location}
-me diga a previsão às 9 da tarde
-me diga a previsão às 9 da tarde em {location}
-me diga o tempo às 1 da manhã
-me diga o tempo às 1 da manhã em {location}
-me diga o tempo às 1 da tarde
-me diga o tempo às 1 da tarde em {location}
-me diga o tempo às 10 da manhã
-me diga o tempo às 10 da manhã em {location}
-me diga o tempo às 10 da tarde
-me diga o tempo às 10 da tarde em {location}
-me diga o tempo às 11 da manhã
-me diga o tempo às 11 da manhã em {location}
-me diga o tempo às 11 da tarde
-me diga o tempo às 11 da tarde em {location}
-me diga o tempo às 12 da manhã
-me diga o tempo às 12 da manhã em {location}
-me diga o tempo às 12 da tarde
-me diga o tempo às 12 da tarde em {location}
-me diga o tempo às 2 da manhã
-me diga o tempo às 2 da manhã em {location}
-me diga o tempo às 2 da tarde
-me diga o tempo às 2 da tarde em {location}
-me diga o tempo às 3 da manhã
-me diga o tempo às 3 da manhã em {location}
-me diga o tempo às 3 da tarde
-me diga o tempo às 3 da tarde em {location}
-me diga o tempo às 4 da manhã
-me diga o tempo às 4 da manhã em {location}
-me diga o tempo às 4 da tarde
-me diga o tempo às 4 da tarde em {location}
-me diga o tempo às 5 da manhã
-me diga o tempo às 5 da manhã em {location}
-me diga o tempo às 5 da tarde
-me diga o tempo às 5 da tarde em {location}
-me diga o tempo às 6 da manhã
-me diga o tempo às 6 da manhã em {location}
-me diga o tempo às 6 da tarde
-me diga o tempo às 6 da tarde em {location}
-me diga o tempo às 7 da manhã
-me diga o tempo às 7 da manhã em {location}
-me diga o tempo às 7 da tarde
-me diga o tempo às 7 da tarde em {location}
-me diga o tempo às 8 da manhã
-me diga o tempo às 8 da manhã em {location}
-me diga o tempo às 8 da tarde
-me diga o tempo às 8 da tarde em {location}
-me diga o tempo às 9 da manhã
-me diga o tempo às 9 da manhã em {location}
-me diga o tempo às 9 da tarde
-me diga o tempo às 9 da tarde em {location}
-o tempo às 1 da manhã
-o tempo às 1 da manhã em {location}
-o tempo às 1 da tarde
-o tempo às 1 da tarde em {location}
-o tempo às 10 da manhã
-o tempo às 10 da manhã em {location}
-o tempo às 10 da tarde
-o tempo às 10 da tarde em {location}
-o tempo às 11 da manhã
-o tempo às 11 da manhã em {location}
-o tempo às 11 da tarde
-o tempo às 11 da tarde em {location}
-o tempo às 12 da manhã
-o tempo às 12 da manhã em {location}
-o tempo às 12 da tarde
-o tempo às 12 da tarde em {location}
-o tempo às 2 da manhã
-o tempo às 2 da manhã em {location}
-o tempo às 2 da tarde
-o tempo às 2 da tarde em {location}
-o tempo às 3 da manhã
-o tempo às 3 da manhã em {location}
-o tempo às 3 da tarde
-o tempo às 3 da tarde em {location}
-o tempo às 4 da manhã
-o tempo às 4 da manhã em {location}
-o tempo às 4 da tarde
-o tempo às 4 da tarde em {location}
-o tempo às 5 da manhã
-o tempo às 5 da manhã em {location}
-o tempo às 5 da tarde
-o tempo às 5 da tarde em {location}
-o tempo às 6 da manhã
-o tempo às 6 da manhã em {location}
-o tempo às 6 da tarde
-o tempo às 6 da tarde em {location}
-o tempo às 7 da manhã
-o tempo às 7 da manhã em {location}
-o tempo às 7 da tarde
-o tempo às 7 da tarde em {location}
-o tempo às 8 da manhã
-o tempo às 8 da manhã em {location}
-o tempo às 8 da tarde
-o tempo às 8 da tarde em {location}
-o tempo às 9 da manhã
-o tempo às 9 da manhã em {location}
-o tempo às 9 da tarde
-o tempo às 9 da tarde em {location}
-previsão horária para amanhã
-previsão horária para amanhã em {location}
-previsão horária para domingo
-previsão horária para domingo em {location}
-previsão horária para quarta
-previsão horária para quarta em {location}
-previsão horária para quinta
-previsão horária para quinta em {location}
-previsão horária para segunda
-previsão horária para segunda em {location}
-previsão horária para sexta
-previsão horária para sexta em {location}
-previsão horária para sábado
-previsão horária para sábado em {location}
-previsão horária para terça
-previsão horária para terça em {location}
-previsão para amanhã ao meio-dia
-previsão para amanhã ao meio-dia em {location}
-previsão para amanhã à meia-noite
-previsão para amanhã à meia-noite em {location}
-previsão para amanhã à noite
-previsão para amanhã à noite em {location}
-previsão para amanhã às 1 da manhã
-previsão para amanhã às 1 da manhã em {location}
-previsão para amanhã às 1 da tarde
-previsão para amanhã às 1 da tarde em {location}
-previsão para amanhã às 10 da manhã
-previsão para amanhã às 10 da manhã em {location}
-previsão para amanhã às 10 da tarde
-previsão para amanhã às 10 da tarde em {location}
-previsão para amanhã às 11 da manhã
-previsão para amanhã às 11 da manhã em {location}
-previsão para amanhã às 11 da tarde
-previsão para amanhã às 11 da tarde em {location}
-previsão para amanhã às 12 da manhã
-previsão para amanhã às 12 da manhã em {location}
-previsão para amanhã às 12 da tarde
-previsão para amanhã às 12 da tarde em {location}
-previsão para amanhã às 2 da manhã
-previsão para amanhã às 2 da manhã em {location}
-previsão para amanhã às 2 da tarde
-previsão para amanhã às 2 da tarde em {location}
-previsão para amanhã às 3 da manhã
-previsão para amanhã às 3 da manhã em {location}
-previsão para amanhã às 3 da tarde
-previsão para amanhã às 3 da tarde em {location}
-previsão para amanhã às 4 da manhã
-previsão para amanhã às 4 da manhã em {location}
-previsão para amanhã às 4 da tarde
-previsão para amanhã às 4 da tarde em {location}
-previsão para amanhã às 5 da manhã
-previsão para amanhã às 5 da manhã em {location}
-previsão para amanhã às 5 da tarde
-previsão para amanhã às 5 da tarde em {location}
-previsão para amanhã às 6 da manhã
-previsão para amanhã às 6 da manhã em {location}
-previsão para amanhã às 6 da tarde
-previsão para amanhã às 6 da tarde em {location}
-previsão para amanhã às 7 da manhã
-previsão para amanhã às 7 da manhã em {location}
-previsão para amanhã às 7 da tarde
-previsão para amanhã às 7 da tarde em {location}
-previsão para amanhã às 8 da manhã
-previsão para amanhã às 8 da manhã em {location}
-previsão para amanhã às 8 da tarde
-previsão para amanhã às 8 da tarde em {location}
-previsão para amanhã às 9 da manhã
-previsão para amanhã às 9 da manhã em {location}
-previsão para amanhã às 9 da tarde
-previsão para amanhã às 9 da tarde em {location}
-previsão para domingo ao meio-dia
-previsão para domingo ao meio-dia em {location}
-previsão para domingo à meia-noite
-previsão para domingo à meia-noite em {location}
-previsão para domingo à noite
-previsão para domingo à noite em {location}
-previsão para domingo às 1 da manhã
-previsão para domingo às 1 da manhã em {location}
-previsão para domingo às 1 da tarde
-previsão para domingo às 1 da tarde em {location}
-previsão para domingo às 10 da manhã
-previsão para domingo às 10 da manhã em {location}
-previsão para domingo às 10 da tarde
-previsão para domingo às 10 da tarde em {location}
-previsão para domingo às 11 da manhã
-previsão para domingo às 11 da manhã em {location}
-previsão para domingo às 11 da tarde
-previsão para domingo às 11 da tarde em {location}
-previsão para domingo às 12 da manhã
-previsão para domingo às 12 da manhã em {location}
-previsão para domingo às 12 da tarde
-previsão para domingo às 12 da tarde em {location}
-previsão para domingo às 2 da manhã
-previsão para domingo às 2 da manhã em {location}
-previsão para domingo às 2 da tarde
-previsão para domingo às 2 da tarde em {location}
-previsão para domingo às 3 da manhã
-previsão para domingo às 3 da manhã em {location}
-previsão para domingo às 3 da tarde
-previsão para domingo às 3 da tarde em {location}
-previsão para domingo às 4 da manhã
-previsão para domingo às 4 da manhã em {location}
-previsão para domingo às 4 da tarde
-previsão para domingo às 4 da tarde em {location}
-previsão para domingo às 5 da manhã
-previsão para domingo às 5 da manhã em {location}
-previsão para domingo às 5 da tarde
-previsão para domingo às 5 da tarde em {location}
-previsão para domingo às 6 da manhã
-previsão para domingo às 6 da manhã em {location}
-previsão para domingo às 6 da tarde
-previsão para domingo às 6 da tarde em {location}
-previsão para domingo às 7 da manhã
-previsão para domingo às 7 da manhã em {location}
-previsão para domingo às 7 da tarde
-previsão para domingo às 7 da tarde em {location}
-previsão para domingo às 8 da manhã
-previsão para domingo às 8 da manhã em {location}
-previsão para domingo às 8 da tarde
-previsão para domingo às 8 da tarde em {location}
-previsão para domingo às 9 da manhã
-previsão para domingo às 9 da manhã em {location}
-previsão para domingo às 9 da tarde
-previsão para domingo às 9 da tarde em {location}
-previsão para quarta ao meio-dia
-previsão para quarta ao meio-dia em {location}
-previsão para quarta à meia-noite
-previsão para quarta à meia-noite em {location}
-previsão para quarta à noite
-previsão para quarta à noite em {location}
-previsão para quarta às 1 da manhã
-previsão para quarta às 1 da manhã em {location}
-previsão para quarta às 1 da tarde
-previsão para quarta às 1 da tarde em {location}
-previsão para quarta às 10 da manhã
-previsão para quarta às 10 da manhã em {location}
-previsão para quarta às 10 da tarde
-previsão para quarta às 10 da tarde em {location}
-previsão para quarta às 11 da manhã
-previsão para quarta às 11 da manhã em {location}
-previsão para quarta às 11 da tarde
-previsão para quarta às 11 da tarde em {location}
-previsão para quarta às 12 da manhã
-previsão para quarta às 12 da manhã em {location}
-previsão para quarta às 12 da tarde
-previsão para quarta às 12 da tarde em {location}
-previsão para quarta às 2 da manhã
-previsão para quarta às 2 da manhã em {location}
-previsão para quarta às 2 da tarde
-previsão para quarta às 2 da tarde em {location}
-previsão para quarta às 3 da manhã
-previsão para quarta às 3 da manhã em {location}
-previsão para quarta às 3 da tarde
-previsão para quarta às 3 da tarde em {location}
-previsão para quarta às 4 da manhã
-previsão para quarta às 4 da manhã em {location}
-previsão para quarta às 4 da tarde
-previsão para quarta às 4 da tarde em {location}
-previsão para quarta às 5 da manhã
-previsão para quarta às 5 da manhã em {location}
-previsão para quarta às 5 da tarde
-previsão para quarta às 5 da tarde em {location}
-previsão para quarta às 6 da manhã
-previsão para quarta às 6 da manhã em {location}
-previsão para quarta às 6 da tarde
-previsão para quarta às 6 da tarde em {location}
-previsão para quarta às 7 da manhã
-previsão para quarta às 7 da manhã em {location}
-previsão para quarta às 7 da tarde
-previsão para quarta às 7 da tarde em {location}
-previsão para quarta às 8 da manhã
-previsão para quarta às 8 da manhã em {location}
-previsão para quarta às 8 da tarde
-previsão para quarta às 8 da tarde em {location}
-previsão para quarta às 9 da manhã
-previsão para quarta às 9 da manhã em {location}
-previsão para quarta às 9 da tarde
-previsão para quarta às 9 da tarde em {location}
-previsão para quinta ao meio-dia
-previsão para quinta ao meio-dia em {location}
-previsão para quinta à meia-noite
-previsão para quinta à meia-noite em {location}
-previsão para quinta à noite
-previsão para quinta à noite em {location}
-previsão para quinta às 1 da manhã
-previsão para quinta às 1 da manhã em {location}
-previsão para quinta às 1 da tarde
-previsão para quinta às 1 da tarde em {location}
-previsão para quinta às 10 da manhã
-previsão para quinta às 10 da manhã em {location}
-previsão para quinta às 10 da tarde
-previsão para quinta às 10 da tarde em {location}
-previsão para quinta às 11 da manhã
-previsão para quinta às 11 da manhã em {location}
-previsão para quinta às 11 da tarde
-previsão para quinta às 11 da tarde em {location}
-previsão para quinta às 12 da manhã
-previsão para quinta às 12 da manhã em {location}
-previsão para quinta às 12 da tarde
-previsão para quinta às 12 da tarde em {location}
-previsão para quinta às 2 da manhã
-previsão para quinta às 2 da manhã em {location}
-previsão para quinta às 2 da tarde
-previsão para quinta às 2 da tarde em {location}
-previsão para quinta às 3 da manhã
-previsão para quinta às 3 da manhã em {location}
-previsão para quinta às 3 da tarde
-previsão para quinta às 3 da tarde em {location}
-previsão para quinta às 4 da manhã
-previsão para quinta às 4 da manhã em {location}
-previsão para quinta às 4 da tarde
-previsão para quinta às 4 da tarde em {location}
-previsão para quinta às 5 da manhã
-previsão para quinta às 5 da manhã em {location}
-previsão para quinta às 5 da tarde
-previsão para quinta às 5 da tarde em {location}
-previsão para quinta às 6 da manhã
-previsão para quinta às 6 da manhã em {location}
-previsão para quinta às 6 da tarde
-previsão para quinta às 6 da tarde em {location}
-previsão para quinta às 7 da manhã
-previsão para quinta às 7 da manhã em {location}
-previsão para quinta às 7 da tarde
-previsão para quinta às 7 da tarde em {location}
-previsão para quinta às 8 da manhã
-previsão para quinta às 8 da manhã em {location}
-previsão para quinta às 8 da tarde
-previsão para quinta às 8 da tarde em {location}
-previsão para quinta às 9 da manhã
-previsão para quinta às 9 da manhã em {location}
-previsão para quinta às 9 da tarde
-previsão para quinta às 9 da tarde em {location}
-previsão para segunda ao meio-dia
-previsão para segunda ao meio-dia em {location}
-previsão para segunda à meia-noite
-previsão para segunda à meia-noite em {location}
-previsão para segunda à noite
-previsão para segunda à noite em {location}
-previsão para segunda às 1 da manhã
-previsão para segunda às 1 da manhã em {location}
-previsão para segunda às 1 da tarde
-previsão para segunda às 1 da tarde em {location}
-previsão para segunda às 10 da manhã
-previsão para segunda às 10 da manhã em {location}
-previsão para segunda às 10 da tarde
-previsão para segunda às 10 da tarde em {location}
-previsão para segunda às 11 da manhã
-previsão para segunda às 11 da manhã em {location}
-previsão para segunda às 11 da tarde
-previsão para segunda às 11 da tarde em {location}
-previsão para segunda às 12 da manhã
-previsão para segunda às 12 da manhã em {location}
-previsão para segunda às 12 da tarde
-previsão para segunda às 12 da tarde em {location}
-previsão para segunda às 2 da manhã
-previsão para segunda às 2 da manhã em {location}
-previsão para segunda às 2 da tarde
-previsão para segunda às 2 da tarde em {location}
-previsão para segunda às 3 da manhã
-previsão para segunda às 3 da manhã em {location}
-previsão para segunda às 3 da tarde
-previsão para segunda às 3 da tarde em {location}
-previsão para segunda às 4 da manhã
-previsão para segunda às 4 da manhã em {location}
-previsão para segunda às 4 da tarde
-previsão para segunda às 4 da tarde em {location}
-previsão para segunda às 5 da manhã
-previsão para segunda às 5 da manhã em {location}
-previsão para segunda às 5 da tarde
-previsão para segunda às 5 da tarde em {location}
-previsão para segunda às 6 da manhã
-previsão para segunda às 6 da manhã em {location}
-previsão para segunda às 6 da tarde
-previsão para segunda às 6 da tarde em {location}
-previsão para segunda às 7 da manhã
-previsão para segunda às 7 da manhã em {location}
-previsão para segunda às 7 da tarde
-previsão para segunda às 7 da tarde em {location}
-previsão para segunda às 8 da manhã
-previsão para segunda às 8 da manhã em {location}
-previsão para segunda às 8 da tarde
-previsão para segunda às 8 da tarde em {location}
-previsão para segunda às 9 da manhã
-previsão para segunda às 9 da manhã em {location}
-previsão para segunda às 9 da tarde
-previsão para segunda às 9 da tarde em {location}
-previsão para sexta ao meio-dia
-previsão para sexta ao meio-dia em {location}
-previsão para sexta à meia-noite
-previsão para sexta à meia-noite em {location}
-previsão para sexta à noite
-previsão para sexta à noite em {location}
-previsão para sexta às 1 da manhã
-previsão para sexta às 1 da manhã em {location}
-previsão para sexta às 1 da tarde
-previsão para sexta às 1 da tarde em {location}
-previsão para sexta às 10 da manhã
-previsão para sexta às 10 da manhã em {location}
-previsão para sexta às 10 da tarde
-previsão para sexta às 10 da tarde em {location}
-previsão para sexta às 11 da manhã
-previsão para sexta às 11 da manhã em {location}
-previsão para sexta às 11 da tarde
-previsão para sexta às 11 da tarde em {location}
-previsão para sexta às 12 da manhã
-previsão para sexta às 12 da manhã em {location}
-previsão para sexta às 12 da tarde
-previsão para sexta às 12 da tarde em {location}
-previsão para sexta às 2 da manhã
-previsão para sexta às 2 da manhã em {location}
-previsão para sexta às 2 da tarde
-previsão para sexta às 2 da tarde em {location}
-previsão para sexta às 3 da manhã
-previsão para sexta às 3 da manhã em {location}
-previsão para sexta às 3 da tarde
-previsão para sexta às 3 da tarde em {location}
-previsão para sexta às 4 da manhã
-previsão para sexta às 4 da manhã em {location}
-previsão para sexta às 4 da tarde
-previsão para sexta às 4 da tarde em {location}
-previsão para sexta às 5 da manhã
-previsão para sexta às 5 da manhã em {location}
-previsão para sexta às 5 da tarde
-previsão para sexta às 5 da tarde em {location}
-previsão para sexta às 6 da manhã
-previsão para sexta às 6 da manhã em {location}
-previsão para sexta às 6 da tarde
-previsão para sexta às 6 da tarde em {location}
-previsão para sexta às 7 da manhã
-previsão para sexta às 7 da manhã em {location}
-previsão para sexta às 7 da tarde
-previsão para sexta às 7 da tarde em {location}
-previsão para sexta às 8 da manhã
-previsão para sexta às 8 da manhã em {location}
-previsão para sexta às 8 da tarde
-previsão para sexta às 8 da tarde em {location}
-previsão para sexta às 9 da manhã
-previsão para sexta às 9 da manhã em {location}
-previsão para sexta às 9 da tarde
-previsão para sexta às 9 da tarde em {location}
-previsão para sábado ao meio-dia
-previsão para sábado ao meio-dia em {location}
-previsão para sábado à meia-noite
-previsão para sábado à meia-noite em {location}
-previsão para sábado à noite
-previsão para sábado à noite em {location}
-previsão para sábado às 1 da manhã
-previsão para sábado às 1 da manhã em {location}
-previsão para sábado às 1 da tarde
-previsão para sábado às 1 da tarde em {location}
-previsão para sábado às 10 da manhã
-previsão para sábado às 10 da manhã em {location}
-previsão para sábado às 10 da tarde
-previsão para sábado às 10 da tarde em {location}
-previsão para sábado às 11 da manhã
-previsão para sábado às 11 da manhã em {location}
-previsão para sábado às 11 da tarde
-previsão para sábado às 11 da tarde em {location}
-previsão para sábado às 12 da manhã
-previsão para sábado às 12 da manhã em {location}
-previsão para sábado às 12 da tarde
-previsão para sábado às 12 da tarde em {location}
-previsão para sábado às 2 da manhã
-previsão para sábado às 2 da manhã em {location}
-previsão para sábado às 2 da tarde
-previsão para sábado às 2 da tarde em {location}
-previsão para sábado às 3 da manhã
-previsão para sábado às 3 da manhã em {location}
-previsão para sábado às 3 da tarde
-previsão para sábado às 3 da tarde em {location}
-previsão para sábado às 4 da manhã
-previsão para sábado às 4 da manhã em {location}
-previsão para sábado às 4 da tarde
-previsão para sábado às 4 da tarde em {location}
-previsão para sábado às 5 da manhã
-previsão para sábado às 5 da manhã em {location}
-previsão para sábado às 5 da tarde
-previsão para sábado às 5 da tarde em {location}
-previsão para sábado às 6 da manhã
-previsão para sábado às 6 da manhã em {location}
-previsão para sábado às 6 da tarde
-previsão para sábado às 6 da tarde em {location}
-previsão para sábado às 7 da manhã
-previsão para sábado às 7 da manhã em {location}
-previsão para sábado às 7 da tarde
-previsão para sábado às 7 da tarde em {location}
-previsão para sábado às 8 da manhã
-previsão para sábado às 8 da manhã em {location}
-previsão para sábado às 8 da tarde
-previsão para sábado às 8 da tarde em {location}
-previsão para sábado às 9 da manhã
-previsão para sábado às 9 da manhã em {location}
-previsão para sábado às 9 da tarde
-previsão para sábado às 9 da tarde em {location}
-previsão para terça ao meio-dia
-previsão para terça ao meio-dia em {location}
-previsão para terça à meia-noite
-previsão para terça à meia-noite em {location}
-previsão para terça à noite
-previsão para terça à noite em {location}
-previsão para terça às 1 da manhã
-previsão para terça às 1 da manhã em {location}
-previsão para terça às 1 da tarde
-previsão para terça às 1 da tarde em {location}
-previsão para terça às 10 da manhã
-previsão para terça às 10 da manhã em {location}
-previsão para terça às 10 da tarde
-previsão para terça às 10 da tarde em {location}
-previsão para terça às 11 da manhã
-previsão para terça às 11 da manhã em {location}
-previsão para terça às 11 da tarde
-previsão para terça às 11 da tarde em {location}
-previsão para terça às 12 da manhã
-previsão para terça às 12 da manhã em {location}
-previsão para terça às 12 da tarde
-previsão para terça às 12 da tarde em {location}
-previsão para terça às 2 da manhã
-previsão para terça às 2 da manhã em {location}
-previsão para terça às 2 da tarde
-previsão para terça às 2 da tarde em {location}
-previsão para terça às 3 da manhã
-previsão para terça às 3 da manhã em {location}
-previsão para terça às 3 da tarde
-previsão para terça às 3 da tarde em {location}
-previsão para terça às 4 da manhã
-previsão para terça às 4 da manhã em {location}
-previsão para terça às 4 da tarde
-previsão para terça às 4 da tarde em {location}
-previsão para terça às 5 da manhã
-previsão para terça às 5 da manhã em {location}
-previsão para terça às 5 da tarde
-previsão para terça às 5 da tarde em {location}
-previsão para terça às 6 da manhã
-previsão para terça às 6 da manhã em {location}
-previsão para terça às 6 da tarde
-previsão para terça às 6 da tarde em {location}
-previsão para terça às 7 da manhã
-previsão para terça às 7 da manhã em {location}
-previsão para terça às 7 da tarde
-previsão para terça às 7 da tarde em {location}
-previsão para terça às 8 da manhã
-previsão para terça às 8 da manhã em {location}
-previsão para terça às 8 da tarde
-previsão para terça às 8 da tarde em {location}
-previsão para terça às 9 da manhã
-previsão para terça às 9 da manhã em {location}
-previsão para terça às 9 da tarde
-previsão para terça às 9 da tarde em {location}
-qual está o tempo em {location} amanhã ao meio-dia
-qual está o tempo em {location} amanhã de manhã
-qual está o tempo em {location} amanhã à tarde
-qual está o tempo em {location} domingo ao meio-dia
-qual está o tempo em {location} domingo de manhã
-qual está o tempo em {location} domingo à tarde
-qual está o tempo em {location} quarta ao meio-dia
-qual está o tempo em {location} quarta de manhã
-qual está o tempo em {location} quarta à tarde
-qual está o tempo em {location} quinta ao meio-dia
-qual está o tempo em {location} quinta de manhã
-qual está o tempo em {location} quinta à tarde
-qual está o tempo em {location} segunda ao meio-dia
-qual está o tempo em {location} segunda de manhã
-qual está o tempo em {location} segunda à tarde
-qual está o tempo em {location} sexta ao meio-dia
-qual está o tempo em {location} sexta de manhã
-qual está o tempo em {location} sexta à tarde
-qual está o tempo em {location} sábado ao meio-dia
-qual está o tempo em {location} sábado de manhã
-qual está o tempo em {location} sábado à tarde
-qual está o tempo em {location} terça ao meio-dia
-qual está o tempo em {location} terça de manhã
-qual está o tempo em {location} terça à tarde
-qual o tempo amanhã ao meio-dia
-qual o tempo amanhã ao meio-dia em {location}
-qual o tempo amanhã de manhã
-qual o tempo amanhã de manhã em {location}
-qual o tempo amanhã à tarde
-qual o tempo amanhã à tarde em {location}
-qual o tempo domingo ao meio-dia
-qual o tempo domingo ao meio-dia em {location}
-qual o tempo domingo de manhã
-qual o tempo domingo de manhã em {location}
-qual o tempo domingo à tarde
-qual o tempo domingo à tarde em {location}
-qual o tempo quarta ao meio-dia
-qual o tempo quarta ao meio-dia em {location}
-qual o tempo quarta de manhã
-qual o tempo quarta de manhã em {location}
-qual o tempo quarta à tarde
-qual o tempo quarta à tarde em {location}
-qual o tempo quinta ao meio-dia
-qual o tempo quinta ao meio-dia em {location}
-qual o tempo quinta de manhã
-qual o tempo quinta de manhã em {location}
-qual o tempo quinta à tarde
-qual o tempo quinta à tarde em {location}
-qual o tempo segunda ao meio-dia
-qual o tempo segunda ao meio-dia em {location}
-qual o tempo segunda de manhã
-qual o tempo segunda de manhã em {location}
-qual o tempo segunda à tarde
-qual o tempo segunda à tarde em {location}
-qual o tempo sexta ao meio-dia
-qual o tempo sexta ao meio-dia em {location}
-qual o tempo sexta de manhã
-qual o tempo sexta de manhã em {location}
-qual o tempo sexta à tarde
-qual o tempo sexta à tarde em {location}
-qual o tempo sábado ao meio-dia
-qual o tempo sábado ao meio-dia em {location}
-qual o tempo sábado de manhã
-qual o tempo sábado de manhã em {location}
-qual o tempo sábado à tarde
-qual o tempo sábado à tarde em {location}
-qual o tempo terça ao meio-dia
-qual o tempo terça ao meio-dia em {location}
-qual o tempo terça de manhã
-qual o tempo terça de manhã em {location}
-qual o tempo terça à tarde
-qual o tempo terça à tarde em {location}
-qual é a previsão às 1 da manhã
-qual é a previsão às 1 da manhã em {location}
-qual é a previsão às 1 da tarde
-qual é a previsão às 1 da tarde em {location}
-qual é a previsão às 10 da manhã
-qual é a previsão às 10 da manhã em {location}
-qual é a previsão às 10 da tarde
-qual é a previsão às 10 da tarde em {location}
-qual é a previsão às 11 da manhã
-qual é a previsão às 11 da manhã em {location}
-qual é a previsão às 11 da tarde
-qual é a previsão às 11 da tarde em {location}
-qual é a previsão às 12 da manhã
-qual é a previsão às 12 da manhã em {location}
-qual é a previsão às 12 da tarde
-qual é a previsão às 12 da tarde em {location}
-qual é a previsão às 2 da manhã
-qual é a previsão às 2 da manhã em {location}
-qual é a previsão às 2 da tarde
-qual é a previsão às 2 da tarde em {location}
-qual é a previsão às 3 da manhã
-qual é a previsão às 3 da manhã em {location}
-qual é a previsão às 3 da tarde
-qual é a previsão às 3 da tarde em {location}
-qual é a previsão às 4 da manhã
-qual é a previsão às 4 da manhã em {location}
-qual é a previsão às 4 da tarde
-qual é a previsão às 4 da tarde em {location}
-qual é a previsão às 5 da manhã
-qual é a previsão às 5 da manhã em {location}
-qual é a previsão às 5 da tarde
-qual é a previsão às 5 da tarde em {location}
-qual é a previsão às 6 da manhã
-qual é a previsão às 6 da manhã em {location}
-qual é a previsão às 6 da tarde
-qual é a previsão às 6 da tarde em {location}
-qual é a previsão às 7 da manhã
-qual é a previsão às 7 da manhã em {location}
-qual é a previsão às 7 da tarde
-qual é a previsão às 7 da tarde em {location}
-qual é a previsão às 8 da manhã
-qual é a previsão às 8 da manhã em {location}
-qual é a previsão às 8 da tarde
-qual é a previsão às 8 da tarde em {location}
-qual é a previsão às 9 da manhã
-qual é a previsão às 9 da manhã em {location}
-qual é a previsão às 9 da tarde
-qual é a previsão às 9 da tarde em {location}
-qual é o tempo às 1 da manhã
-qual é o tempo às 1 da manhã em {location}
-qual é o tempo às 1 da tarde
-qual é o tempo às 1 da tarde em {location}
-qual é o tempo às 10 da manhã
-qual é o tempo às 10 da manhã em {location}
-qual é o tempo às 10 da tarde
-qual é o tempo às 10 da tarde em {location}
-qual é o tempo às 11 da manhã
-qual é o tempo às 11 da manhã em {location}
-qual é o tempo às 11 da tarde
-qual é o tempo às 11 da tarde em {location}
-qual é o tempo às 12 da manhã
-qual é o tempo às 12 da manhã em {location}
-qual é o tempo às 12 da tarde
-qual é o tempo às 12 da tarde em {location}
-qual é o tempo às 2 da manhã
-qual é o tempo às 2 da manhã em {location}
-qual é o tempo às 2 da tarde
-qual é o tempo às 2 da tarde em {location}
-qual é o tempo às 3 da manhã
-qual é o tempo às 3 da manhã em {location}
-qual é o tempo às 3 da tarde
-qual é o tempo às 3 da tarde em {location}
-qual é o tempo às 4 da manhã
-qual é o tempo às 4 da manhã em {location}
-qual é o tempo às 4 da tarde
-qual é o tempo às 4 da tarde em {location}
-qual é o tempo às 5 da manhã
-qual é o tempo às 5 da manhã em {location}
-qual é o tempo às 5 da tarde
-qual é o tempo às 5 da tarde em {location}
-qual é o tempo às 6 da manhã
-qual é o tempo às 6 da manhã em {location}
-qual é o tempo às 6 da tarde
-qual é o tempo às 6 da tarde em {location}
-qual é o tempo às 7 da manhã
-qual é o tempo às 7 da manhã em {location}
-qual é o tempo às 7 da tarde
-qual é o tempo às 7 da tarde em {location}
-qual é o tempo às 8 da manhã
-qual é o tempo às 8 da manhã em {location}
-qual é o tempo às 8 da tarde
-qual é o tempo às 8 da tarde em {location}
-qual é o tempo às 9 da manhã
-qual é o tempo às 9 da manhã em {location}
-qual é o tempo às 9 da tarde
-qual é o tempo às 9 da tarde em {location}
-Atualização do clima para o fim de semana
-Atualização do clima para sábado e domingo
-Atualização do tempo para o fim de semana em {location}
-Atualização do tempo para o sábado e domingo em {location}
-Previsão do clima para o fim de semana
-Previsão do clima para sábado e domingo
-Previsão do tempo para o fim de semana em {location}
-Previsão do tempo para o sábado e domingo em {location}
-Qual é a previsão para  fim de semana
-Qual é a previsão para  fim de semana em {location}
-Qual é a previsão para  sábado e domingo
-Qual é a previsão para  sábado e domingo em {location}
-Qual é a previsão para o próximo fim de semana
-Qual é a previsão para o próximo fim de semana em {location}
-Qual é a previsão para o próximo sábado e domingo
-Qual é a previsão para o próximo sábado e domingo em {location}
-algum alerta  para o fim de semana
-algum alerta  para o fim de semana em {location}
-algum alerta climático para o fim de semana
-algum alerta metereológico para o fim de semana
-algum alerta metereológico para o fim de semana em {location}
-algum aviso  para o fim de semana
-algum aviso  para o fim de semana em {location}
-algum aviso climático para o fim de semana
-algum aviso metereológico para o fim de semana
-algum aviso metereológico para o fim de semana em {location}
-como está o tempo durante fim de semana
-como está o tempo durante fim de semana em {location}
-como está o tempo durante sábado e domingo
-como está o tempo durante sábado e domingo em {location}
-como está o tempo neste fim de semana
-como está o tempo neste fim de semana em {location}
-como está o tempo no fim de semana
-como está o tempo no sábado e domingo
-como está o tempo sábado e domingo
-como está o tempo sábado e domingo em {location}
-diga-me a previsão do tempo fim de semana em {location}
-diga-me a previsão do tempo sábado e domingo em {location}
-diga-me o tempo fim de semana em {location}
-diga-me o tempo sábado e domingo em {location}
-diga-me previsão para o fim de semana
-diga-me previsão para sábado e domingo
-estará bom neste fim de semana
-estará claro neste fim de semana
-estará claro neste fim de semana em {location}
-estará ensolarado neste fim de semana
-estará ensolarado neste fim de semana em {location}
-estará quente neste fim de semana em {location}
-posso planejar atividades ao ar livre neste fim de semana
-posso planejar atividades ao ar livre neste fim de semana em {location}
-posso planejar atividades fora neste fim de semana em {location}
+o que devo esperar amanhã
 previsão para fim de semana
-previsão para fim de semana em {location}
 previsão para sábado e domingo
-previsão para sábado e domingo em {location}
-vai chover este fim de semana
-vai chover este fim de semana em {location}
 vai chover sábado e domingo
+previsão semanal para o clima
+vai (chover|nevar) na (quarta|quinta|segunda|sexta|terça) em {location}
+vai (chover|nevar) no (domingo|sábado) em {location}
+a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+como (está|parece) o tempo em {location}
+algum (alerta|aviso) para amanhã em {location}
+algum (alerta|aviso) para depois de amanhã
+estará (bom|claro|ensolarado) neste fim de semana
+clima (durante|para) a semana em {location}
+vai estar (agradável|frio|quente) amanhã em {location}
+vai estar (agradável|frio|quente) depois de amanhã
+previsão horária para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde
+o que devo esperar na (quarta|quinta|segunda|sexta|terça)
+o que devo esperar no (domingo|sábado)
+qual é a previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+qual é a previsão do tempo
+você pode me dizer o clima
+vai haver tempestade amanhã em {location}
+vai haver tempestade depois de amanhã
+diga-me previsão para sábado e domingo
+vai chover este fim de semana
+vai fazer sol sábado e domingo
+como está o tempo esta semana
+diga-me a previsão para esta semana
+mostre-me a previsão de 7 dias
+mostre-me a previsão semanal em {location}
+o clima da semana em {location}
+vai (chover|nevar) amanhã
+condições climáticas atuais
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+algum (alerta|aviso) para a (quarta|quinta|segunda|sexta|terça) em {location}
+algum (alerta|aviso) para o (domingo|sábado) em {location}
+como (estará|está) o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+vai estar (agradável|frio|quente) na (quarta|quinta|segunda|sexta|terça) em {location}
+vai estar (agradável|frio|quente) no (domingo|sábado) em {location}
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (meia-noite|noite) em {location}
+(Atualização|Previsão) do clima para sábado e domingo
+como (estará|está) o tempo depois de amanhã
+vai (chover|nevar) depois de amanhã em {location}
+algum (alerta|aviso) para o fim de semana
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia em {location}
+clima nos próximos (2|3|4|5|6|7) dias em {location}
+a previsão na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+a previsão na próximo (domingo|sábado) em {location}
+o tempo na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+o tempo na próximo (domingo|sábado) em {location}
+vai haver tempestade na (quarta|quinta|segunda|sexta|terça) em {location}
+vai haver tempestade no (domingo|sábado) em {location}
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde
+Qual é a previsão para (2|3|4|5|6|7) dias
+você pode me dizer o clima (agora|atualmente)
+como está a previsão na próxima (quarta|quinta|segunda|sexta|terça)
+como está a previsão na próximo (domingo|sábado)
+como está o tempo na próxima (quarta|quinta|segunda|sexta|terça)
+como está o tempo na próximo (domingo|sábado)
+me diga a previsão na próxima (quarta|quinta|segunda|sexta|terça)
+me diga a previsão na próximo (domingo|sábado)
+me diga o tempo na próxima (quarta|quinta|segunda|sexta|terça)
+me diga o tempo na próximo (domingo|sábado)
+qual é a previsão na próxima (quarta|quinta|segunda|sexta|terça)
+qual é a previsão na próximo (domingo|sábado)
+qual é o tempo na próxima (quarta|quinta|segunda|sexta|terça)
+qual é o tempo na próximo (domingo|sábado)
+diga-me a previsão do tempo em {location}
+me dê a atualização do tempo atual
+o que está acontecendo com o clima
+você pode me dizer sobre o clima
+como está o tempo em {location} amanhã
+o que devo esperar amanhã em {location}
+o que devo esperar depois de amanhã
+como está o tempo sábado e domingo
+diga-me previsão para o fim de semana
+previsão para fim de semana em {location}
+previsão para sábado e domingo em {location}
 vai chover sábado e domingo em {location}
 vai fazer sol este fim de semana
+previsão semanal para o clima em {location}
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+(como|qual) está o tempo em {location} (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
+(como|qual) está o tempo em {location} (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+(como|qual) está o tempo em {location} (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde
+como (estará|está) o tempo depois de amanhã em {location}
+algum (alerta|aviso) para o fim de semana em {location}
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia em {location}
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã em {location}
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde em {location}
+Qual é a previsão para (2|3|4|5|6|7) dias em {location}
+você pode me dizer o clima [(agora|atualmente)] em {location}
+como está a previsão na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+como está a previsão na próximo (domingo|sábado) em {location}
+como está o tempo na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+como está o tempo na próximo (domingo|sábado) em {location}
+me diga a previsão na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+me diga a previsão na próximo (domingo|sábado) em {location}
+me diga o tempo na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+me diga o tempo na próximo (domingo|sábado) em {location}
+qual é a previsão na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+qual é a previsão na próximo (domingo|sábado) em {location}
+qual é o tempo na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+qual é o tempo na próximo (domingo|sábado) em {location}
+qual é a previsão de temperatura para a (quarta|quinta|segunda|sexta|terça)
+qual é a previsão de temperatura para o (domingo|sábado)
+me dê a atualização do tempo atual em {location}
+o que está acontecendo com o clima em {location}
+você pode me dizer sobre o clima em {location}
+como está o tempo em {location} depois de amanhã
+o que devo esperar depois de amanhã em {location}
+como está o tempo sábado e domingo em {location}
 vai fazer sol este fim de semana em {location}
-vai fazer sol sábado e domingo
-vai fazer sol sábado e domingo em {location}
 vai haver tempestade este fim de semana em {location}
+algum (alerta|aviso) (climático|metereológico) para o fim de semana
+a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+como está a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+como está o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+diga-me como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (noite|tarde)
+me diga a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+me diga o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+qual é a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+qual é o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+(Atualização|Previsão) do clima para o fim de semana
+algum (alerta|aviso) para depois de amanhã em {location}
+estará (claro|ensolarado|quente) neste fim de semana em {location}
+vai estar (agradável|frio|quente) depois de amanhã em {location}
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia em {location}
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã em {location}
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde em {location}
+como está o tempo (durante|neste|no) fim de semana
+como está o tempo (durante|no) sábado e domingo
+o que devo esperar na (quarta|quinta|segunda|sexta|terça) em {location}
+o que devo esperar no (domingo|sábado) em {location}
+qual é a previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+diga-me como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+o que está acontecendo com o clima (agora|hoje)
+você pode me dizer sobre o clima (agora|atualmente)
+como está o tempo em {location} na (quarta|quinta|segunda|sexta|terça)
+como está o tempo em {location} no (domingo|sábado)
+me dê a atualização do tempo mais recente
+qual é a previsão do tempo em {location}
+qual é a previsão de temperatura para amanhã
+qual é a previsão para depois de amanhã
+vai haver tempestade depois de amanhã em {location}
+Qual é a previsão para fim de semana
+Qual é a previsão para sábado e domingo
+diga-me o tempo fim de semana em {location}
+diga-me o tempo sábado e domingo em {location}
+vai chover este fim de semana em {location}
+vai fazer sol sábado e domingo em {location}
 vai haver tempestade sábado e domingo em {location}
-Qual é a previsão para 2 dias
-Qual é a previsão para 2 dias em {location}
-Qual é a previsão para 3 dias
-Qual é a previsão para 3 dias em {location}
-Qual é a previsão para 4 dias
-Qual é a previsão para 4 dias em {location}
-Qual é a previsão para 5 dias
-Qual é a previsão para 5 dias em {location}
-Qual é a previsão para 6 dias
-Qual é a previsão para 6 dias em {location}
-Qual é a previsão para 7 dias
-Qual é a previsão para 7 dias em {location}
-clima durante a semana
-clima durante a semana em {location}
-clima nos próximos 2 dias
-clima nos próximos 2 dias em {location}
-clima nos próximos 3 dias
-clima nos próximos 3 dias em {location}
-clima nos próximos 4 dias
-clima nos próximos 4 dias em {location}
-clima nos próximos 5 dias
-clima nos próximos 5 dias em {location}
-clima nos próximos 6 dias
-clima nos próximos 6 dias em {location}
-clima nos próximos 7 dias
-clima nos próximos 7 dias em {location}
-clima para a semana
-clima para a semana em {location}
 como está a previsão do tempo esta semana
-como está a previsão do tempo esta semana em {location}
-como está o tempo esta semana
 como está o tempo esta semana em {location}
 diga-me a previsão do tempo para esta semana
-diga-me a previsão do tempo para esta semana em {location}
-diga-me a previsão para esta semana
 diga-me a previsão para esta semana em {location}
-mostre-me a previsão de 7 dias
 mostre-me a previsão de 7 dias em {location}
-mostre-me a previsão semanal
-mostre-me a previsão semanal em {location}
-o clima da semana
-o clima da semana em {location}
-previsão semanal para o clima
-previsão semanal para o clima em {location}
 qual é a previsão para os próximos dias
+Qual é a previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+como está a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+como está o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+diga-me como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (noite|tarde) em {location}
+me diga a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+me diga o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+qual é a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+qual é o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+(Atualização|Previsão) do tempo para o fim de semana em {location}
+(Atualização|Previsão) do tempo para o sábado e domingo em {location}
+algum (alerta|aviso) metereológico para o fim de semana em {location}
+como está o tempo (durante|neste) fim de semana em {location}
+diga-me como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã em {location}
+o que está acontecendo com o clima (agora|hoje) em {location}
+você pode me dizer sobre o clima (agora|atualmente) em {location}
+me dê a atualização do tempo mais recente em {location}
+qual é a previsão de temperatura para amanhã em {location}
+qual é a previsão de temperatura para depois de amanhã
+qual é a previsão para depois de amanhã em {location}
+Qual é a previsão para fim de semana em {location}
+Qual é a previsão para sábado e domingo em {location}
+Qual é a previsão para o próximo fim de semana
+Qual é a previsão para o próximo sábado e domingo
+como está o tempo durante sábado e domingo em {location}
+diga-me a previsão do tempo fim de semana em {location}
+diga-me a previsão do tempo sábado e domingo em {location}
+posso planejar atividades ao ar livre neste fim de semana
+posso planejar atividades fora neste fim de semana em {location}
+como está a previsão do tempo esta semana em {location}
+diga-me a previsão do tempo para esta semana em {location}
 qual é a previsão para os próximos dias em {location}
+qual é a previsão de temperatura para a (quarta|quinta|segunda|sexta|terça) em {location}
+qual é a previsão de temperatura para o (domingo|sábado) em {location}
+Qual é a previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+qual é a previsão de temperatura para depois de amanhã em {location}
+Qual é a previsão para o próximo fim de semana em {location}
+Qual é a previsão para o próximo sábado e domingo em {location}
+posso planejar atividades ao ar livre neste fim de semana em {location}
