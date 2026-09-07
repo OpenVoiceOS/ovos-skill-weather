@@ -37,7 +37,7 @@ LANG = "en-US"
 
 def _matches_intent(msg_type: str, skill_id: str, intent_file: str) -> bool:
     """Check whether ``msg_type`` is the matched-intent event for
-    ``intent_file`` (eg. ``current_weather.intent``), tolerant of which
+    ``intent_file`` (eg. ``weather.intent``), tolerant of which
     pipeline tier matched it.
 
     Compare case-insensitively against the basename with the ``.intent``
@@ -131,16 +131,16 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
     # -- padacioso intents (.intent files) --------------------------------
 
     def test_tell_me_the_weather(self):
-        self._assert_intent("can you tell me the weather", "current_weather.intent")
+        self._assert_intent("can you tell me the weather", "weather.intent")
 
-    def test_hourly_forecast(self):
-        self._assert_intent("what's the forecast at 1 pm", "hourly_forecast.intent")
+    def test_forecast_for_a_specific_time(self):
+        self._assert_intent("what's the forecast at 1 pm", "weather.intent")
 
     def test_weather_alerts_tomorrow(self):
-        self._assert_intent("any weather alerts for tomorrow", "daily_forecast.intent")
+        self._assert_intent("any weather alerts for tomorrow", "weather.intent")
 
     def test_what_is_the_temperature(self):
-        self._assert_intent("what is the temperature", "current_temperature.intent")
+        self._assert_intent("what is the temperature", "temperature.intent")
 
     def test_current_humidity(self):
         self._assert_intent("current humidity", "humidity.intent")
@@ -176,13 +176,13 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         self._assert_intent("is it cloudy", "weather_condition.intent")
 
     def test_is_it_hot(self):
-        self._assert_intent("is it hot", "is_hot.intent")
+        self._assert_intent("is it hot", "is_hot_or_cold.intent")
 
     def test_is_it_hot_or_cold_with_location(self):
-        self._assert_intent("is it hot today in Lawrence kansas", "is_hot.intent")
+        self._assert_intent("is it hot today in Lawrence kansas", "is_hot_or_cold.intent")
 
     def test_will_it_be_cold(self):
-        self._assert_intent("will it be cold tomorrow", "is_cold.intent")
+        self._assert_intent("will it be cold tomorrow", "is_hot_or_cold.intent")
 
     def test_general_weather(self):
         self._assert_intent(
@@ -190,11 +190,7 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         )
 
     def test_weather(self):
-        # bare "weather" is claimed by current_weather.intent, not
-        # weather.intent: the latter's location-bearing templates require
-        # either "forecast" or "in {location}" so the two files never tie
-        # on this phrase.
-        self._assert_intent("weather", "current_weather.intent")
+        self._assert_intent("weather", "weather.intent")
 
     def test_forecast(self):
         self._assert_intent("forecast", "weather.intent")
