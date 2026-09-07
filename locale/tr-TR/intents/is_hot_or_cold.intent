@@ -1,0 +1,8 @@
+(Bugün|Yarın|{day} günü) hava soğuk olacak mı [{location} için]
+Dışarısı şu anda soğuk mu [{location} için]
+(Bugün|Yarın) hava serin olacak mı [{location} için]
+Bugün mont almalı mıyım [{location} için]
+(Bugün|Yarın|{day} günü) hava sıcak olacak mı [{location} için]
+Dışarısı şu anda sıcak mı [{location} için]
+Bugün hava çok mu sıcak olacak [{location} için]
+Bugün güneş kremi gerekir mi [{location} için]

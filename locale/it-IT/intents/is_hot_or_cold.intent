@@ -1,0 +1,8 @@
+Farà freddo (oggi|domani|{day}) [a {location}]
+Fa freddo adesso fuori [a {location}]
+Farà fresco (oggi|domani) [a {location}]
+Devo prendere una giacca oggi [a {location}]
+Farà caldo (oggi|domani|{day}) [a {location}]
+Fa caldo adesso fuori [a {location}]
+Farà molto caldo oggi [a {location}]
+Mi serve la crema solare oggi [a {location}]
