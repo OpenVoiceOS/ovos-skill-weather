@@ -232,3 +232,5 @@ Sag mir das Wetter in {location}
 Gib mir die Wettervorhersage für {location}
 Wetter in {location}
 Wettervorhersage für {location}
+wie ist das Wetter in {unit}
+wie ist das Wetter in {unit} in {location}

@@ -181,3 +181,5 @@ Fortæl mig vejret i {location}
 Giv mig vejrudsigten for {location}
 Vejret i {location}
 Vejrudsigt for {location}
+hvad er vejret i {unit}
+hvad er vejret i {unit} i {location}

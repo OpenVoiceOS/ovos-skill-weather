@@ -470,3 +470,5 @@ Dime el tiempo en {location}
 Dame el pronóstico del tiempo en {location}
 Tiempo en {location}
 Pronóstico del tiempo en {location}
+¿qué tiempo hace en {unit}?
+¿cuál es el clima en {unit} en {location}?

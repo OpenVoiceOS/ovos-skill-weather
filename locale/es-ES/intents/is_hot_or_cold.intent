@@ -16,3 +16,5 @@
 ¿Necesito protector solar en {location}?
 ¿Está caliente afuera en {location}?
 ¿Hará calor esta noche en {location}?
+¿Hará calor el {day} en {location}?
+¿Hará frío el {day} en {location}?

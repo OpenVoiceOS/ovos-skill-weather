@@ -503,3 +503,5 @@ Quin oratge farà a {location}?
 Dona'm la previsió del temps a {location}
 Previsió del temps a {location}
 Temps a {location}
+quin temps fa en {unit}
+quin temps fa en {unit} a {location}

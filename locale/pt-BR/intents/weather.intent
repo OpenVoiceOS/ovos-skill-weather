@@ -240,3 +240,5 @@ Me diga o tempo em {location}
 Me dê a previsão do tempo para {location}
 Tempo em {location}
 Previsão do tempo para {location}
+como está o tempo em {unit}
+qual é o clima em {unit} em {location}
