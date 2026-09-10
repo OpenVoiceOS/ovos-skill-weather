@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.3.2a1) (2026-09-10)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.3.1a1...1.3.2a1)
+
+**Merged pull requests:**
+
+- fix: locale vocab and slot gaps that misreport temperature and sky [\#256](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/256) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.3.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.3.1a1) (2026-09-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.3.0a1...1.3.1a1)
@@ -375,17 +383,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.4...1.0.5a1)
 
-**Merged pull requests:**
-
-- es-es/translate [\#152](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/152) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-
 ## [1.0.4](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.4) (2025-06-08)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.4a1...1.0.4)
-
-**Merged pull requests:**
-
-- Release 1.0.4a1 [\#151](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/151) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 ## [1.0.4a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.4a1) (2025-06-08)
 
@@ -394,10 +394,6 @@
 ## [1.0.3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.3) (2025-06-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.3a1...1.0.3)
-
-**Merged pull requests:**
-
-- Release 1.0.3a1 [\#150](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/150) ([github-actions[bot]](https://github.com/apps/github-actions))
 
 ## [1.0.3a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.3a1) (2025-06-07)
 
