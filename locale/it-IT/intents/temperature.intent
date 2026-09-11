@@ -11,3 +11,21 @@ Che temperatura è prevista nel pomeriggio [a {location}]
 Qual è la temperatura minima (oggi|stanotte) [a {location}]
 Quanto freddo farà stanotte [a {location}]
 Ci sarà gelo stanotte [a {location}]
+Quanti gradi sono previsti
+Quanti gradi sono previsti a {location}
+Quanti gradi sono previsti oggi
+Quanti gradi sono previsti oggi a {location}
+Quanti gradi sono previsti domani
+Quanti gradi sono previsti domani a {location}
+Dimmi la temperatura
+Dimmi la temperatura a {location}
+Dimmi la temperatura oggi
+Dimmi la temperatura oggi a {location}
+Dimmi la temperatura domani
+Dimmi la temperatura domani a {location}
+Che temperatura avremo
+Che temperatura avremo a {location}
+Che temperatura avremo oggi
+Che temperatura avremo oggi a {location}
+Che temperatura avremo domani
+Che temperatura avremo domani a {location}

@@ -11,3 +11,21 @@ Zein tenperatura espero da arratsaldean [{location}]
 Zein izango da tenperatura minimoa (gaur|gaueko) [{location}]
 Zenbateko hotza egingo du gauean [{location}]
 Izotza egingo du gaur gauean [{location}]
+Zenbat gradu espero dira
+Zenbat gradu espero dira {location}
+Zenbat gradu espero dira gaur
+Zenbat gradu espero dira gaur {location}
+Zenbat gradu espero dira bihar
+Zenbat gradu espero dira bihar {location}
+Esan tenperatura
+Esan tenperatura {location}
+Esan tenperatura gaur
+Esan tenperatura gaur {location}
+Esan tenperatura bihar
+Esan tenperatura bihar {location}
+Zer tenperatura izango dugu
+Zer tenperatura izango dugu {location}
+Zer tenperatura izango dugu gaur
+Zer tenperatura izango dugu gaur {location}
+Zer tenperatura izango dugu bihar
+Zer tenperatura izango dugu bihar {location}

@@ -1,3 +1,15 @@
 A che ora sorge il sole (oggi|domani) [a {location}]
 Quando c'è l'alba oggi [a {location}]
 A che ora fa giorno domani [a {location}]
+A che ora sorge il sole
+A che ora sorge il sole a {location}
+A che ora sorge il sole oggi
+A che ora sorge il sole oggi a {location}
+A che ora sorge il sole domani
+A che ora sorge il sole domani a {location}
+Dimmi l'ora dell'alba
+Dimmi l'ora dell'alba a {location}
+Dimmi l'ora dell'alba oggi
+Dimmi l'ora dell'alba oggi a {location}
+Dimmi l'ora dell'alba domani
+Dimmi l'ora dell'alba domani a {location}

@@ -22,3 +22,267 @@ ci saranno nuvole oggi
 ci saranno nuvole oggi a {location}
 ci saranno nuvole domani
 ci saranno nuvole domani a {location}
+piove
+piove a {location}
+piove oggi
+piove oggi a {location}
+piove domani
+piove domani a {location}
+pioverà
+pioverà a {location}
+pioverà oggi
+pioverà oggi a {location}
+pioverà domani
+pioverà domani a {location}
+ci sarà pioggia
+ci sarà pioggia a {location}
+ci sarà pioggia oggi
+ci sarà pioggia oggi a {location}
+ci sarà pioggia domani
+ci sarà pioggia domani a {location}
+è prevista pioggia
+è prevista pioggia a {location}
+è prevista pioggia oggi
+è prevista pioggia oggi a {location}
+è prevista pioggia domani
+è prevista pioggia domani a {location}
+ci sono rovesci
+ci sono rovesci a {location}
+ci sono rovesci oggi
+ci sono rovesci oggi a {location}
+ci sono rovesci domani
+ci sono rovesci domani a {location}
+avremo pioggia
+avremo pioggia a {location}
+avremo pioggia oggi
+avremo pioggia oggi a {location}
+avremo pioggia domani
+avremo pioggia domani a {location}
+mi serve l'ombrello
+mi serve l'ombrello a {location}
+mi serve l'ombrello oggi
+mi serve l'ombrello oggi a {location}
+mi serve l'ombrello domani
+mi serve l'ombrello domani a {location}
+è piovoso
+è piovoso a {location}
+è piovoso oggi
+è piovoso oggi a {location}
+è piovoso domani
+è piovoso domani a {location}
+nevica
+nevica a {location}
+nevica oggi
+nevica oggi a {location}
+nevica domani
+nevica domani a {location}
+nevicherà
+nevicherà a {location}
+nevicherà oggi
+nevicherà oggi a {location}
+nevicherà domani
+nevicherà domani a {location}
+ci sarà neve
+ci sarà neve a {location}
+ci sarà neve oggi
+ci sarà neve oggi a {location}
+ci sarà neve domani
+ci sarà neve domani a {location}
+è prevista neve
+è prevista neve a {location}
+è prevista neve oggi
+è prevista neve oggi a {location}
+è prevista neve domani
+è prevista neve domani a {location}
+cadrà neve
+cadrà neve a {location}
+cadrà neve oggi
+cadrà neve oggi a {location}
+cadrà neve domani
+cadrà neve domani a {location}
+avremo neve
+avremo neve a {location}
+avremo neve oggi
+avremo neve oggi a {location}
+avremo neve domani
+avremo neve domani a {location}
+c'è nevischio
+c'è nevischio a {location}
+c'è nevischio oggi
+c'è nevischio oggi a {location}
+c'è nevischio domani
+c'è nevischio domani a {location}
+ci sarà ghiaccio
+ci sarà ghiaccio a {location}
+ci sarà ghiaccio oggi
+ci sarà ghiaccio oggi a {location}
+ci sarà ghiaccio domani
+ci sarà ghiaccio domani a {location}
+c'è il sole
+c'è il sole a {location}
+c'è il sole oggi
+c'è il sole oggi a {location}
+c'è il sole domani
+c'è il sole domani a {location}
+ci sarà il sole
+ci sarà il sole a {location}
+ci sarà il sole oggi
+ci sarà il sole oggi a {location}
+ci sarà il sole domani
+ci sarà il sole domani a {location}
+è sereno
+è sereno a {location}
+è sereno oggi
+è sereno oggi a {location}
+è sereno domani
+è sereno domani a {location}
+sarà sereno
+sarà sereno a {location}
+sarà sereno oggi
+sarà sereno oggi a {location}
+sarà sereno domani
+sarà sereno domani a {location}
+c'è cielo sereno
+c'è cielo sereno a {location}
+c'è cielo sereno oggi
+c'è cielo sereno oggi a {location}
+c'è cielo sereno domani
+c'è cielo sereno domani a {location}
+è soleggiato
+è soleggiato a {location}
+è soleggiato oggi
+è soleggiato oggi a {location}
+è soleggiato domani
+è soleggiato domani a {location}
+avremo il sole
+avremo il sole a {location}
+avremo il sole oggi
+avremo il sole oggi a {location}
+avremo il sole domani
+avremo il sole domani a {location}
+c'è cielo azzurro
+c'è cielo azzurro a {location}
+c'è cielo azzurro oggi
+c'è cielo azzurro oggi a {location}
+c'è cielo azzurro domani
+c'è cielo azzurro domani a {location}
+avremo nuvole
+avremo nuvole a {location}
+avremo nuvole oggi
+avremo nuvole oggi a {location}
+avremo nuvole domani
+avremo nuvole domani a {location}
+è molto nuvoloso
+è molto nuvoloso a {location}
+è molto nuvoloso oggi
+è molto nuvoloso oggi a {location}
+è molto nuvoloso domani
+è molto nuvoloso domani a {location}
+ci sono molte nuvole
+ci sono molte nuvole a {location}
+ci sono molte nuvole oggi
+ci sono molte nuvole oggi a {location}
+ci sono molte nuvole domani
+ci sono molte nuvole domani a {location}
+sarà tutto nuvoloso
+sarà tutto nuvoloso a {location}
+sarà tutto nuvoloso oggi
+sarà tutto nuvoloso oggi a {location}
+sarà tutto nuvoloso domani
+sarà tutto nuvoloso domani a {location}
+c'è nebbia
+c'è nebbia a {location}
+c'è nebbia oggi
+c'è nebbia oggi a {location}
+c'è nebbia domani
+c'è nebbia domani a {location}
+ci sarà nebbia
+ci sarà nebbia a {location}
+ci sarà nebbia oggi
+ci sarà nebbia oggi a {location}
+ci sarà nebbia domani
+ci sarà nebbia domani a {location}
+è prevista nebbia
+è prevista nebbia a {location}
+è prevista nebbia oggi
+è prevista nebbia oggi a {location}
+è prevista nebbia domani
+è prevista nebbia domani a {location}
+è nebbioso
+è nebbioso a {location}
+è nebbioso oggi
+è nebbioso oggi a {location}
+è nebbioso domani
+è nebbioso domani a {location}
+avremo nebbia
+avremo nebbia a {location}
+avremo nebbia oggi
+avremo nebbia oggi a {location}
+avremo nebbia domani
+avremo nebbia domani a {location}
+c'è foschia
+c'è foschia a {location}
+c'è foschia oggi
+c'è foschia oggi a {location}
+c'è foschia domani
+c'è foschia domani a {location}
+ci sarà foschia
+ci sarà foschia a {location}
+ci sarà foschia oggi
+ci sarà foschia oggi a {location}
+ci sarà foschia domani
+ci sarà foschia domani a {location}
+arriva la nebbia
+arriva la nebbia a {location}
+arriva la nebbia oggi
+arriva la nebbia oggi a {location}
+arriva la nebbia domani
+arriva la nebbia domani a {location}
+c'è un temporale
+c'è un temporale a {location}
+c'è un temporale oggi
+c'è un temporale oggi a {location}
+c'è un temporale domani
+c'è un temporale domani a {location}
+ci sarà un temporale
+ci sarà un temporale a {location}
+ci sarà un temporale oggi
+ci sarà un temporale oggi a {location}
+ci sarà un temporale domani
+ci sarà un temporale domani a {location}
+è previsto un temporale
+è previsto un temporale a {location}
+è previsto un temporale oggi
+è previsto un temporale oggi a {location}
+è previsto un temporale domani
+è previsto un temporale domani a {location}
+avremo un temporale
+avremo un temporale a {location}
+avremo un temporale oggi
+avremo un temporale oggi a {location}
+avremo un temporale domani
+avremo un temporale domani a {location}
+ci sono tuoni
+ci sono tuoni a {location}
+ci sono tuoni oggi
+ci sono tuoni oggi a {location}
+ci sono tuoni domani
+ci sono tuoni domani a {location}
+ci saranno fulmini
+ci saranno fulmini a {location}
+ci saranno fulmini oggi
+ci saranno fulmini oggi a {location}
+ci saranno fulmini domani
+ci saranno fulmini domani a {location}
+c'è allerta meteo
+c'è allerta meteo a {location}
+c'è allerta meteo oggi
+c'è allerta meteo oggi a {location}
+c'è allerta meteo domani
+c'è allerta meteo domani a {location}
+c'è tempesta
+c'è tempesta a {location}
+c'è tempesta oggi
+c'è tempesta oggi a {location}
+c'è tempesta domani
+c'è tempesta domani a {location}
