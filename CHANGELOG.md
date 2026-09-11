@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.0a2) (2026-09-11)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.0a1...1.4.0a2)
+
+**Merged pull requests:**
+
+- Fix dead ¿/¡ leading punctuation in es-ES intent templates [\#260](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/260) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.0a1) (2026-09-11)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.3.2a1...1.4.0a1)
@@ -375,17 +383,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.6a1...1.0.6)
 
-**Merged pull requests:**
-
-- Release 1.0.6a1 [\#156](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/156) ([github-actions[bot]](https://github.com/apps/github-actions))
-
 ## [1.0.6a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.6a1) (2025-07-30)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.5a1...1.0.6a1)
-
-**Merged pull requests:**
-
-- fix: translation mistakes [\#155](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/155) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.5a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.5a1) (2025-06-14)
 
