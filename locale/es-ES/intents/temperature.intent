@@ -1,158 +1,158 @@
-¿Hará [mucho] (calor|frío) esta (noche?|tarde?)
-¿Va a hacer (calor|frío) (?|hoy?)
+Hará [mucho] (calor|frío) esta (noche|tarde)
+Va a hacer (calor|frío) (|hoy)
 (Dime|Muéstrame) la temperatura ahora [mismo]
 (Previsión|Pronóstico) de [la] temperatura mínima
-(¿Debería|¿Debo) esperar heladas en {location}?
-(¿Debería|¿Debo) esperar heladas [mañana] ?
-¿Hace (calor|frío) afuera en {location}?
-¿Se (esperan|prevén) temperaturas gélidas ?
-¿Hace mucho (bochorno|calor|fresco|frío) ahora mismo?
-¿Hará mucho (calor|frío) en {location}?
-¿Hará mucho (calor|frío) mañana ?
-¿Hará fresco esta (noche|tarde) ?
-¿Cuál es la temperatura (?|afuera?|ahora?|hoy?)
+(Debería|Debo) esperar heladas en {location}
+(Debería|Debo) esperar heladas [mañana] 
+Hace (calor|frío) afuera en {location}
+Se (esperan|prevén) temperaturas gélidas 
+Hace mucho (bochorno|calor|fresco|frío) ahora mismo
+Hará mucho (calor|frío) en {location}
+Hará mucho (calor|frío) mañana 
+Hará fresco esta (noche|tarde) 
+Cuál es la temperatura (|afuera|ahora|hoy)
 Pico de temperatura para (hoy|mañana)
 Actualización de la temperatura actual
-¿Hará mucho calor hoy ?
-¿Habrá temperaturas bajo cero ?
-(¿Hace|¿Hará) mucho (calor|frío) ?
-¿Hace (calor|frío) afuera ?
-¿Hace mucho (bochorno|fresco) ?
-¿Hará mucho (calor|frío) hoy?
-(¿Necesitaría|¿Necesito) una (abrigo|chaqueta) hoy en {location}?
-(¿Debería|¿Debo) esperar heladas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál (es|será) la temperatura (mayor|máxima|mínima) ?
-¿Hará mucho (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
+Hará mucho calor hoy 
+Habrá temperaturas bajo cero 
+(Hace|Hará) mucho (calor|frío) 
+Hace (calor|frío) afuera 
+Hace mucho (bochorno|fresco) 
+Hará mucho (calor|frío) hoy
+(Necesitaría|Necesito) una (abrigo|chaqueta) hoy en {location}
+(Debería|Debo) esperar heladas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál (es|será) la temperatura (mayor|máxima|mínima) 
+Hará mucho (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 (Dime|Muéstrame) la temperatura en este (instante|momento)
-¿Va a hacer (calor|frío) esta (noche?|tarde?)
+Va a hacer (calor|frío) esta (noche|tarde)
 (Dime|Muéstrame) la temperatura ahora en {location}
 (Previsión|Pronóstico) de temperatura para esta noche
-(¿Debería|¿Debo) esperar heladas esta noche ?
-(¿Debería|¿Debo) esperar heladas mañana en {location}?
-¿Hay (previsión|pronóstico) de temperaturas gélidas ?
-¿Se (esperan|prevén) temperaturas bajo cero ?
-¿Se (esperan|prevén) temperaturas gélidas en {location}?
-¿Se (esperan|prevén) temperaturas gélidas mañana ?
-¿Hace mucho (bochorno|calor|fresco|frío) en {location} ?
-¿Hará mucho (calor|frío) esta noche ?
-¿Hará mucho (calor|frío) mañana en {location}?
-¿Hará fresco esta (noche|tarde) en {location}?
-¿Cuál es la temperatura (actual|afuera|ahora|hoy) ?
-¿Cuál es la temperatura actual (afuera?|ahora?|hoy?)
+(Debería|Debo) esperar heladas esta noche 
+(Debería|Debo) esperar heladas mañana en {location}
+Hay (previsión|pronóstico) de temperaturas gélidas 
+Se (esperan|prevén) temperaturas bajo cero 
+Se (esperan|prevén) temperaturas gélidas en {location}
+Se (esperan|prevén) temperaturas gélidas mañana 
+Hace mucho (bochorno|calor|fresco|frío) en {location} 
+Hará mucho (calor|frío) esta noche 
+Hará mucho (calor|frío) mañana en {location}
+Hará fresco esta (noche|tarde) en {location}
+Cuál es la temperatura (actual|afuera|ahora|hoy) 
+Cuál es la temperatura actual (afuera|ahora|hoy)
 Pico de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
-¿Cuál es la temperatura ahora mismo?
-¿Cuál es la temperatura en {location}?
-¿Hará mucho calor esta mañana ?
-¿Hará mucho calor hoy en {location}?
-¿Habrá temperaturas bajo cero en {location}?
-¿Habrá temperaturas bajo cero mañana ?
-(¿Debería|¿Debo) esperar heladas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Hará mucho (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál (es|será) la temperatura más (alta|elevada|baja) ?
-¿Se (esperan|prevén) temperaturas gélidas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál es la temperatura mayor (esperada|prevista) (hoy?|mañana?)
+Cuál es la temperatura ahora mismo
+Cuál es la temperatura en {location}
+Hará mucho calor esta mañana 
+Hará mucho calor hoy en {location}
+Habrá temperaturas bajo cero en {location}
+Habrá temperaturas bajo cero mañana 
+(Debería|Debo) esperar heladas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Hará mucho (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál (es|será) la temperatura más (alta|elevada|baja) 
+Se (esperan|prevén) temperaturas gélidas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál es la temperatura mayor (esperada|prevista) (hoy|mañana)
 (Dime|Muéstrame) la temperatura ahora mismo en {location}
-(¿Debería|¿Debo) esperar heladas esta noche en {location}?
-¿Hay (previsión|pronóstico) de temperaturas bajo cero ?
-¿Hay (previsión|pronóstico) de temperaturas gélidas en {location}?
-¿Hay (previsión|pronóstico) de temperaturas gélidas mañana ?
-¿Se (esperan|prevén) temperaturas bajo cero en {location}?
-¿Se (esperan|prevén) temperaturas bajo cero mañana ?
-¿Se (esperan|prevén) temperaturas gélidas esta noche ?
-¿Se (esperan|prevén) temperaturas gélidas mañana en {location}?
-¿Hace mucho (bochorno|calor|fresco|frío) en {location} ahora mismo?
-¿Hará mucho (calor|frío) esta noche en {location}?
-¿Cuál es la temperatura (afuera|ahora|hoy) en {location}?
-¿Habrá temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál es la temperatura en grados (Celsius?|Centígrados?|Fahrenheit?)
-¿Cuál es la temperatura en {location} (?|ahora?)
-¿Cuál es la temperatura en este instante?
-¿Cuál es la temperatura esta noche ?
-¿Hará mucho calor esta mañana en {location}?
-¿Habrá temperaturas bajo cero esta noche ?
-¿Habrá temperaturas bajo cero mañana en {location}?
-¿Cuál (es|será) la temperatura (mayor|máxima|mínima) en {location} (?|mañana?)
-¿Cuál es la temperatura más (alta|elevada) (esperada|prevista) (hoy?|mañana?)
+(Debería|Debo) esperar heladas esta noche en {location}
+Hay (previsión|pronóstico) de temperaturas bajo cero 
+Hay (previsión|pronóstico) de temperaturas gélidas en {location}
+Hay (previsión|pronóstico) de temperaturas gélidas mañana 
+Se (esperan|prevén) temperaturas bajo cero en {location}
+Se (esperan|prevén) temperaturas bajo cero mañana 
+Se (esperan|prevén) temperaturas gélidas esta noche 
+Se (esperan|prevén) temperaturas gélidas mañana en {location}
+Hace mucho (bochorno|calor|fresco|frío) en {location} ahora mismo
+Hará mucho (calor|frío) esta noche en {location}
+Cuál es la temperatura (afuera|ahora|hoy) en {location}
+Habrá temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál es la temperatura en grados (Celsius|Centígrados|Fahrenheit)
+Cuál es la temperatura en {location} (|ahora)
+Cuál es la temperatura en este instante
+Cuál es la temperatura esta noche 
+Hará mucho calor esta mañana en {location}
+Habrá temperaturas bajo cero esta noche 
+Habrá temperaturas bajo cero mañana en {location}
+Cuál (es|será) la temperatura (mayor|máxima|mínima) en {location} (|mañana)
+Cuál es la temperatura más (alta|elevada) (esperada|prevista) (hoy|mañana)
 (Dime|Muéstrame) la temperatura en este (instante|momento) en {location}
-¿Se (esperan|prevén) temperaturas gélidas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Hay (previsión|pronóstico) de temperaturas gélidas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Se (esperan|prevén) temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál (es|será) la temperatura mañana por la (mañana?|noche?)
-¿Cuál es la temperatura mayor (esperada|prevista) el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
+Se (esperan|prevén) temperaturas gélidas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Hay (previsión|pronóstico) de temperaturas gélidas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Se (esperan|prevén) temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál (es|será) la temperatura mañana por la (mañana|noche)
+Cuál es la temperatura mayor (esperada|prevista) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
 (Previsión|Pronóstico) de temperatura para mañana por la mañana
-¿Cuál (es|será) la temperatura mínima que hará ?
-¿Hay (previsión|pronóstico) de temperaturas bajo cero en {location}?
-¿Hay (previsión|pronóstico) de temperaturas bajo cero mañana ?
-¿Hay (previsión|pronóstico) de temperaturas gélidas esta noche ?
-¿Hay (previsión|pronóstico) de temperaturas gélidas mañana en {location}?
-¿Se (esperan|prevén) temperaturas bajo cero esta noche ?
-¿Se (esperan|prevén) temperaturas bajo cero mañana en {location}?
-¿Se (esperan|prevén) temperaturas gélidas esta noche en {location}?
-¿Habrá temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál es la temperatura actual en grados (Celsius?|Centígrados?|Fahrenheit?)
-¿Cuál es la temperatura en {location} ahora mismo?
-¿Cuál es la temperatura esta noche en {location}?
-¿Habrá temperaturas bajo cero esta noche en {location}?
-¿Cuál (es|será) la temperatura (mayor|máxima|mínima) en {location} (el|este) (lunes?|domingo?|jueves?|martes?|miércoles?|sábado?|viernes?)
-¿Cuál (es|será) la temperatura (mayor|máxima) el por la (mañana?|noche?)
-¿Cuál (es|será) la temperatura (mayor|máxima|mínima) mañana por la (mañana?|noche?)
-¿Cuál (es|será) la temperatura el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana?|noche?)
-¿Cuál (es|será) la temperatura más (alta|elevada|baja) en {location} (?|mañana?)
-¿Cuál es la temperatura más (alta|elevada) (esperada|prevista) el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
-¿Cuál (es|será) la temperatura a (la|las) 13 mañana ?
-¿Cuál (es|será) la temperatura a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) mañana ?
-¿Hay (previsión|pronóstico) de temperaturas gélidas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Se (esperan|prevén) temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Hay (previsión|pronóstico) de temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál (es|será) la temperatura mínima hoy por la (mañana?|noche?)
-¿Cuál es la temperatura mayor que se (espera|prevé) (hoy?|mañana?)
-¿Cuál (es|será) la temperatura a la 1 mañana ?
-¿Cuál (es|será) la temperatura más baja que hará ?
-¿Cuál (es|será) la temperatura mínima que hará en {location}?
-¿Cuál (es|será) la temperatura mínima que hará hoy ?
-¿Hay (previsión|pronóstico) de temperaturas bajo cero esta noche ?
-¿Hay (previsión|pronóstico) de temperaturas bajo cero mañana en {location}?
-¿Hay (previsión|pronóstico) de temperaturas gélidas esta noche en {location}?
-¿Se (esperan|prevén) temperaturas bajo cero esta noche en {location}?
-¿Cuál es la temperatura en {location} en grados (Celsius?|Centígrados?|Fahrenheit?)
-¿Cuál es la temperatura en {location} en este instante?
-¿Cuál (es|será) la temperatura (mayor|máxima|mínima) el (domingo|jueves|lunes|miércoles|sábado|viernes) por la (mañana?|noche?)
-¿Cuál (es|será) la temperatura más (alta|elevada|baja) en {location} (el|este) (lunes?|domingo?|jueves?|martes?|miércoles?|sábado?|viernes?)
-¿Cuál (es|será) la temperatura a (la|las) 13 el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál (es|será) la temperatura a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál (es|será) la temperatura (mayor|máxima|mínima) en {location} el próximo (lunes?|domingo?|jueves?|martes?|miércoles?|sábado?|viernes?)
-¿Cuál (es|será) la temperatura más (alta|elevada) el por la (mañana?|noche?)
-¿Cuál (es|será) la temperatura más (alta|elevada|baja) mañana por la (mañana?|noche?)
-¿Cuál es la temperatura más (alta|elevada) que se (espera|prevé) (hoy?|mañana?)
-¿Cuál (es|será) la temperatura a (la|las) 13 mañana en {location}?
-¿Cuál (es|será) la temperatura a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) mañana en {location}?
-¿Hay (previsión|pronóstico) de temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál (es|será) la temperatura a la 1 el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál (es|será) la temperatura más baja hoy por la (mañana?|noche?)
-¿Cuál (es|será) la temperatura mínima el martes por la (mañana?|noche?)
-¿Cuál es la temperatura mayor que se (espera|prevé) el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
-¿Cuál (es|será) la temperatura a la 1 mañana en {location}?
-¿Cuál (es|será) la temperatura más baja que hará en {location}?
-¿Cuál (es|será) la temperatura más baja que hará hoy ?
-¿Cuál (es|será) la temperatura mínima que hará hoy en {location}?
-¿Hay (previsión|pronóstico) de temperaturas bajo cero esta noche en {location}?
-¿Cuál es la temperatura actual en {location} en grados (Celsius?|Centígrados?|Fahrenheit?)
-¿Cuál (es|será) la temperatura más (alta|elevada|baja) el (domingo|jueves|lunes|miércoles|sábado|viernes) por la (mañana?|noche?)
-¿Cuál (es|será) la temperatura a (la|las) 13 el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál (es|será) la temperatura a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál (es|será) la temperatura más (alta|elevada|baja) en {location} el próximo (lunes?|domingo?|jueves?|martes?|miércoles?|sábado?|viernes?)
-¿Cuál es la temperatura más (alta|elevada) que se (espera|prevé) el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
-¿Cuál (es|será) la temperatura a la 1 el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál (es|será) la temperatura más baja el martes por la (mañana?|noche?)
-¿Se (espera|prevé|pronostica) que haga calor intenso mañana por la tarde ?
-¿Se (espera|prevé|pronostica) que haga mucho calor mañana por la tarde ?
-¿Cuál (es|será) la temperatura más baja que hará hoy en {location}?
-¿Cuál será la temperatura mínima durante la noche de (domingo|hoy|mañana|sábado|viernes) ?
-¿Cuál será la temperatura mínima durante la noche del (jueves|lunes|martes|miércoles) ?
-¿Hará (calor|frío) (?|hoy?)
-¿Se (espera|prevé|pronostica) que haga calor intenso mañana por la tarde en {location}?
-¿Se (espera|prevé|pronostica) que haga mucho calor mañana por la tarde en {location}?
-¿Se (espera|prevé|pronostica) que haga un calor intenso mañana por la tarde ?
-¿Cuál será la temperatura mínima durante la noche de (domingo|hoy|mañana|sábado|viernes) en {location}?
-¿Cuál será la temperatura mínima durante la noche del (jueves|lunes|martes|miércoles) en {location}?
-¿Se (espera|prevé|pronostica) que haga un calor intenso mañana por la tarde en {location}?
+Cuál (es|será) la temperatura mínima que hará 
+Hay (previsión|pronóstico) de temperaturas bajo cero en {location}
+Hay (previsión|pronóstico) de temperaturas bajo cero mañana 
+Hay (previsión|pronóstico) de temperaturas gélidas esta noche 
+Hay (previsión|pronóstico) de temperaturas gélidas mañana en {location}
+Se (esperan|prevén) temperaturas bajo cero esta noche 
+Se (esperan|prevén) temperaturas bajo cero mañana en {location}
+Se (esperan|prevén) temperaturas gélidas esta noche en {location}
+Habrá temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál es la temperatura actual en grados (Celsius|Centígrados|Fahrenheit)
+Cuál es la temperatura en {location} ahora mismo
+Cuál es la temperatura esta noche en {location}
+Habrá temperaturas bajo cero esta noche en {location}
+Cuál (es|será) la temperatura (mayor|máxima|mínima) en {location} (el|este) (lunes|domingo|jueves|martes|miércoles|sábado|viernes)
+Cuál (es|será) la temperatura (mayor|máxima) el por la (mañana|noche)
+Cuál (es|será) la temperatura (mayor|máxima|mínima) mañana por la (mañana|noche)
+Cuál (es|será) la temperatura el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|noche)
+Cuál (es|será) la temperatura más (alta|elevada|baja) en {location} (|mañana)
+Cuál es la temperatura más (alta|elevada) (esperada|prevista) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
+Cuál (es|será) la temperatura a (la|las) 13 mañana 
+Cuál (es|será) la temperatura a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) mañana 
+Hay (previsión|pronóstico) de temperaturas gélidas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Se (esperan|prevén) temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Hay (previsión|pronóstico) de temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál (es|será) la temperatura mínima hoy por la (mañana|noche)
+Cuál es la temperatura mayor que se (espera|prevé) (hoy|mañana)
+Cuál (es|será) la temperatura a la 1 mañana 
+Cuál (es|será) la temperatura más baja que hará 
+Cuál (es|será) la temperatura mínima que hará en {location}
+Cuál (es|será) la temperatura mínima que hará hoy 
+Hay (previsión|pronóstico) de temperaturas bajo cero esta noche 
+Hay (previsión|pronóstico) de temperaturas bajo cero mañana en {location}
+Hay (previsión|pronóstico) de temperaturas gélidas esta noche en {location}
+Se (esperan|prevén) temperaturas bajo cero esta noche en {location}
+Cuál es la temperatura en {location} en grados (Celsius|Centígrados|Fahrenheit)
+Cuál es la temperatura en {location} en este instante
+Cuál (es|será) la temperatura (mayor|máxima|mínima) el (domingo|jueves|lunes|miércoles|sábado|viernes) por la (mañana|noche)
+Cuál (es|será) la temperatura más (alta|elevada|baja) en {location} (el|este) (lunes|domingo|jueves|martes|miércoles|sábado|viernes)
+Cuál (es|será) la temperatura a (la|las) 13 el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál (es|será) la temperatura a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál (es|será) la temperatura (mayor|máxima|mínima) en {location} el próximo (lunes|domingo|jueves|martes|miércoles|sábado|viernes)
+Cuál (es|será) la temperatura más (alta|elevada) el por la (mañana|noche)
+Cuál (es|será) la temperatura más (alta|elevada|baja) mañana por la (mañana|noche)
+Cuál es la temperatura más (alta|elevada) que se (espera|prevé) (hoy|mañana)
+Cuál (es|será) la temperatura a (la|las) 13 mañana en {location}
+Cuál (es|será) la temperatura a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) mañana en {location}
+Hay (previsión|pronóstico) de temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál (es|será) la temperatura a la 1 el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál (es|será) la temperatura más baja hoy por la (mañana|noche)
+Cuál (es|será) la temperatura mínima el martes por la (mañana|noche)
+Cuál es la temperatura mayor que se (espera|prevé) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
+Cuál (es|será) la temperatura a la 1 mañana en {location}
+Cuál (es|será) la temperatura más baja que hará en {location}
+Cuál (es|será) la temperatura más baja que hará hoy 
+Cuál (es|será) la temperatura mínima que hará hoy en {location}
+Hay (previsión|pronóstico) de temperaturas bajo cero esta noche en {location}
+Cuál es la temperatura actual en {location} en grados (Celsius|Centígrados|Fahrenheit)
+Cuál (es|será) la temperatura más (alta|elevada|baja) el (domingo|jueves|lunes|miércoles|sábado|viernes) por la (mañana|noche)
+Cuál (es|será) la temperatura a (la|las) 13 el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál (es|será) la temperatura a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál (es|será) la temperatura más (alta|elevada|baja) en {location} el próximo (lunes|domingo|jueves|martes|miércoles|sábado|viernes)
+Cuál es la temperatura más (alta|elevada) que se (espera|prevé) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
+Cuál (es|será) la temperatura a la 1 el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál (es|será) la temperatura más baja el martes por la (mañana|noche)
+Se (espera|prevé|pronostica) que haga calor intenso mañana por la tarde 
+Se (espera|prevé|pronostica) que haga mucho calor mañana por la tarde 
+Cuál (es|será) la temperatura más baja que hará hoy en {location}
+Cuál será la temperatura mínima durante la noche de (domingo|hoy|mañana|sábado|viernes) 
+Cuál será la temperatura mínima durante la noche del (jueves|lunes|martes|miércoles) 
+Hará (calor|frío) (|hoy)
+Se (espera|prevé|pronostica) que haga calor intenso mañana por la tarde en {location}
+Se (espera|prevé|pronostica) que haga mucho calor mañana por la tarde en {location}
+Se (espera|prevé|pronostica) que haga un calor intenso mañana por la tarde 
+Cuál será la temperatura mínima durante la noche de (domingo|hoy|mañana|sábado|viernes) en {location}
+Cuál será la temperatura mínima durante la noche del (jueves|lunes|martes|miércoles) en {location}
+Se (espera|prevé|pronostica) que haga un calor intenso mañana por la tarde en {location}
