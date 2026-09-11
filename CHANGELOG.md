@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.0a1) (2026-09-11)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.3.2a1...1.4.0a1)
+
+**Merged pull requests:**
+
+- feat: locale balance — en-US fr-FR pt-PT eu-ES it-IT kab sv-SE oc-FR [\#255](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/255) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.3.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.3.2a1) (2026-09-10)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.3.1a1...1.3.2a1)
