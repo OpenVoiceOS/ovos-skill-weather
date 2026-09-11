@@ -1,34 +1,34 @@
 (Condición|Estado)
-(¿Lloverá|¿Nevará) mañana ?
+(Lloverá|Nevará) mañana 
 actual del (clima|tiempo)
-¿Está despejado afuera?
-(¿Lloverá|¿Nevará) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
+Está despejado afuera
+(Lloverá|Nevará) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 (Previsión|Pronóstico) por (hora|horas) para mañana
 El (clima|tiempo) (de|durante|para) la semana
-¿Hará (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
+Hará (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 (Cuéntame|Dime) acerca de el tiempo
-(¿Lloverá|¿Nevará) después de mañana ?
-(¿Lloverá|¿Nevará) [pasado] mañana en {location}?
+(Lloverá|Nevará) después de mañana 
+(Lloverá|Nevará) [pasado] mañana en {location}
 (Previsión|Pronóstico) para mañana a medianoche
-¿Cómo (está|va) el tiempo ?
-¿Hará (calor|frío) mañana en {location}?
-¿Hará (calor|frío) [pasado] mañana ?
-¿Qué (debería|debo|puedo) esperar mañana ?
+Cómo (está|va) el tiempo 
+Hará (calor|frío) mañana en {location}
+Hará (calor|frío) [pasado] mañana 
+Qué (debería|debo|puedo) esperar mañana 
 El (clima|tiempo) de esta semana
 actual del (clima|tiempo) en {location}
-¿Qué tal (está|pinta|va) el tiempo?
+Qué tal (está|pinta|va) el tiempo
 La meteorología (de|durante|para) la semana
-¿Habrá tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cómo está el día afuera?
-¿Hace un buen día afuera?
-¿Qué tiempo hace en {location}?
-¿Qué tiempo hace hoy ?
-¿Habrá tormenta mañana en {location}?
-¿Habrá tormenta [pasado] mañana ?
-¿Habrá una tormenta mañana ?
-¿Hará buen clima mañana ?
-¿Lloverá el sábado y domingo?
-¿Lloverá este fin de semana?
+Habrá tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cómo está el día afuera
+Hace un buen día afuera
+Qué tiempo hace en {location}
+Qué tiempo hace hoy 
+Habrá tormenta mañana en {location}
+Habrá tormenta [pasado] mañana 
+Habrá una tormenta mañana 
+Hará buen clima mañana 
+Lloverá el sábado y domingo
+Lloverá este fin de semana
 La meteorología de esta semana
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13
 El (clima|tiempo) en los (próximos|venideros) (2|3|4|5|6|7) días
@@ -37,75 +37,75 @@ El (clima|tiempo) en los (próximos|venideros) (2|3|4|5|6|7) días
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3)
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (4|5|6|7|8|9)
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|tarde)
-(¿Podrías|¿Puedes) (decirme|informarme) cómo está el tiempo ?
+(Podrías|Puedes) (decirme|informarme) cómo está el tiempo 
 (Previsión|Pronóstico) por (hora|horas) para mañana en {location}
 El (clima|tiempo) (de|durante|para) la semana en {location}
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1
-¿Qué (debería|debo|puedo) esperar el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Va a hacer (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
+Qué (debería|debo|puedo) esperar el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Va a hacer (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 La meteorología en los (próximos|venideros) (2|3|4|5|6|7) días
 (Cuéntame|Dime) acerca de el tiempo en {location}
 (Cuéntame|Dime) sobre el pronóstico de el tiempo
 (Dame|Explícame|Muéstrame) la actualización más reciente del tiempo
 (Previsión|Pronóstico) para mañana a medianoche en {location}
-(Hará|¿Hará) buen tiempo este fin de semana?
-¿Hará (calor|frío) después de mañana en {location}?
-¿Qué (debería|debo|puedo) esperar después de mañana ?
-¿Qué (debería|debo|puedo) esperar [pasado] mañana en {location}?
+(Hará|Hará) buen tiempo este fin de semana
+Hará (calor|frío) después de mañana en {location}
+Qué (debería|debo|puedo) esperar después de mañana 
+Qué (debería|debo|puedo) esperar [pasado] mañana en {location}
 El (clima|tiempo) de esta semana en {location}
-¿Qué tal (está|va) el tiempo en {location}?
-¿Cómo se (presenta|prevé) el tiempo mañana ?
+Qué tal (está|va) el tiempo en {location}
+Cómo se (presenta|prevé) el tiempo mañana 
 La meteorología (de|durante|para) la semana en {location}
-¿Va a hacer (calor|frío) mañana en {location}?
-¿Va a hacer (calor|frío) [pasado] mañana ?
-¿Habrá [una] tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Hará buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía?
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde?
-¿Alguna alerta meteorológica para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Algún aviso meteorológico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cómo estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) ?
-¿Qué tiempo hará mañana por la (mañana?|noche?)
-¿Cómo está el pronóstico de el tiempo?
-¿Cómo se presenta el tiempo en {location}?
-¿Cómo va a estar el tiempo ?
-¿Qué tal se presenta el tiempo ?
-¿Qué tiempo hace ahora mismo en {location}?
-¿Qué tiempo hace en este momento ?
-¿Alguna alerta meteorológica para mañana en {location}?
-¿Alguna alerta meteorológica para [pasado] mañana ?
-¿Algún aviso meteorológico para mañana en {location}?
-¿Algún aviso meteorológico para [pasado] mañana ?
-¿Cuál es el pronóstico para mañana ?
-¿Cuál es la previsión para mañana ?
-¿Cómo estará el tiempo mañana en {location}?
-¿Cómo estará el tiempo en {location} mañana?
-¿Cómo estará el tiempo [pasado] mañana ?
-¿Habrá tormenta después de mañana en {location}?
-¿Habrá [una] tormenta después de mañana ?
-¿Habrá [una] tormenta pasado mañana en {location}?
-¿Hará buen clima después de mañana ?
-¿Hará buen clima [pasado] mañana en {location}?
-¿Qué tal estará el tiempo mañana ?
-¿Va a hacer buen clima mañana ?
-¿Qué tiempo hará mañana a mediodía ?
-¿Qué tiempo hará mañana por tarde ?
+Va a hacer (calor|frío) mañana en {location}
+Va a hacer (calor|frío) [pasado] mañana 
+Habrá [una] tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Hará buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde
+Alguna alerta meteorológica para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Algún aviso meteorológico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cómo estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) 
+Qué tiempo hará mañana por la (mañana?|noche?)
+Cómo está el pronóstico de el tiempo
+Cómo se presenta el tiempo en {location}
+Cómo va a estar el tiempo 
+Qué tal se presenta el tiempo 
+Qué tiempo hace ahora mismo en {location}
+Qué tiempo hace en este momento 
+Alguna alerta meteorológica para mañana en {location}
+Alguna alerta meteorológica para [pasado] mañana 
+Algún aviso meteorológico para mañana en {location}
+Algún aviso meteorológico para [pasado] mañana 
+Cuál es el pronóstico para mañana 
+Cuál es la previsión para mañana 
+Cómo estará el tiempo mañana en {location}
+Cómo estará el tiempo en {location} mañana
+Cómo estará el tiempo [pasado] mañana 
+Habrá tormenta después de mañana en {location}
+Habrá [una] tormenta después de mañana 
+Habrá [una] tormenta pasado mañana en {location}
+Hará buen clima después de mañana 
+Hará buen clima [pasado] mañana en {location}
+Qué tal estará el tiempo mañana 
+Va a hacer buen clima mañana 
+Qué tiempo hará mañana a mediodía 
+Qué tiempo hará mañana por tarde 
 Hará buen tiempo el sábado y domingo?
-¿Lloverá el fin de semana en {location}?
+Lloverá el fin de semana en {location}
 La meteorología de esta semana en {location}
 (Previsión|Pronóstico) por (hora|horas) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 (Dime|Explícame|Muéstrame) el tiempo (de|para) mañana por la (mañana|noche|tarde)
-(¿Podrías|¿Puedes) (decirme|informarme) cómo está el tiempo en {location}?
-(¿Podrías|¿Puedes) (decirme|informarme) cómo está el tiempo actualmente ?
+(Podrías|Puedes) (decirme|informarme) cómo está el tiempo en {location}
+(Podrías|Puedes) (decirme|informarme) cómo está el tiempo actualmente 
 (Dime|Explícame|Muéstrame) el (panorama|pronóstico) del tiempo para esta semana
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a medianoche en {location}
 (Previsión|Pronóstico) para mañana a (la|las) 13 en {location}
 (Previsión|Pronóstico) para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
 (Previsión|Pronóstico) para mañana por la (mañana|tarde) en {location}
-¿Va a hacer (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cómo se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) ?
+Va a hacer (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cómo se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) 
 Las condiciones meteorológicas en los (próximos|venideros) (2|3|4|5|6|7) días
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana?|noche?)
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana?|noche?)
 (Cuéntame|Dime) acerca de el pronóstico de el tiempo
 (Dame|Explícame|Muéstrame) la actualización actual del tiempo en {location}
 (Previsión|Pronóstico) para mañana a la 1 en {location}
@@ -116,170 +116,170 @@ Las condiciones meteorológicas en los (próximos|venideros) (2|3|4|5|6|7) días
 (Dime|Explícame|Muéstrame) la previsión del tiempo para esta semana
 (Enséñame|Muéstrame) el pronóstico de los próximos siete días
 (Enséñame|Muéstrame) la previsión de los próximos siete días
-¿Qué (debería|debo|puedo) esperar después de mañana en {location}?
+Qué (debería|debo|puedo) esperar después de mañana en {location}
 El (clima|tiempo) a lo largo de la semana
-¿Cómo se (presenta|prevé) el tiempo mañana en {location}?
-¿Cómo se (presenta|prevé) el tiempo en {location} mañana?
-¿Cómo se (presenta|prevé) el tiempo pasado mañana ?
-¿Qué tal se (presenta|prevé) el tiempo mañana ?
-¿Va a hacer (calor|frío) después de mañana ?
-¿Va a hacer (calor|frío) pasado mañana en {location}?
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía ?
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde ?
+Cómo se (presenta|prevé) el tiempo mañana en {location}
+Cómo se (presenta|prevé) el tiempo en {location} mañana
+Cómo se (presenta|prevé) el tiempo pasado mañana 
+Qué tal se (presenta|prevé) el tiempo mañana 
+Va a hacer (calor|frío) después de mañana 
+Va a hacer (calor|frío) pasado mañana en {location}
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía 
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde 
 Las condiciones meteorológicas de (esta|la) semana en {location}
-¿Alguna alerta meteorológica para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Algún aviso meteorológico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cómo estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}?
-¿Cuál es el pronóstico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Qué tal estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) ?
-¿Va a hacer buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Qué tiempo hará mañana por la (mañana|noche) ?
-¿Cómo estará el tiempo en {location} el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
-¿Cómo va a estar el tiempo en {location}?
-¿Qué tal está el pronóstico de el tiempo?
-¿Qué tal se presenta el tiempo en {location}?
-¿Qué tal va a estar el tiempo ?
-¿Qué tiempo hace en este momento en {location}?
-¿Alguna alerta meteorológica para después de mañana ?
-¿Alguna alerta meteorológica para pasado mañana en {location}?
-¿Algún aviso meteorológico para después de mañana ?
-¿Algún aviso meteorológico para pasado mañana en {location}?
-¿Cuál es el pronóstico para mañana en {location}?
-¿Cuál es el pronóstico para pasado mañana ?
-¿Cuál es la previsión para mañana en {location}?
-¿Cuál es la previsión para pasado mañana ?
-¿Cómo estará el tiempo después de mañana ?
-¿Cómo estará el tiempo en {location} pasado mañana?
-¿Cómo estará el tiempo pasado mañana en {location}?
-¿Habrá una tormenta después de mañana en {location}?
-¿Hará buen clima después de mañana en {location}?
-¿Qué tal estará el tiempo mañana en {location}?
-¿Qué tal estará el tiempo en {location} mañana?
-¿Qué tal estará el tiempo pasado mañana ?
-¿Va a hacer buen clima mañana en {location}?
-¿Va a hacer buen clima pasado mañana ?
-¿Qué tiempo hará en {location} mañana a mediodía?
-¿Qué tiempo hará en {location} mañana por tarde?
-¿Qué tiempo hará mañana a mediodía en {location}?
-¿Qué tiempo hará mañana por tarde en {location}?
-¿Alguna alerta meteorológica para el fin de semana?
-¿Algún aviso meteorológico para el fin de semana?
-¿Cómo está el tiempo el sábado y domingo?
-¿Cómo está el tiempo este fin de semana?
-¿Cómo está la meteo el sábado y domingo?
-¿Cómo está la meteo este fin de semana?
-¿Hará bueno el fin de semana en {location}?
-¿Lloverá el sábado y el domingo en {location}?
+Alguna alerta meteorológica para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Algún aviso meteorológico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cómo estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}
+Cuál es el pronóstico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Qué tal estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) 
+Va a hacer buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Qué tiempo hará mañana por la (mañana|noche) 
+Cómo estará el tiempo en {location} el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
+Cómo va a estar el tiempo en {location}
+Qué tal está el pronóstico de el tiempo
+Qué tal se presenta el tiempo en {location}
+Qué tal va a estar el tiempo 
+Qué tiempo hace en este momento en {location}
+Alguna alerta meteorológica para después de mañana 
+Alguna alerta meteorológica para pasado mañana en {location}
+Algún aviso meteorológico para después de mañana 
+Algún aviso meteorológico para pasado mañana en {location}
+Cuál es el pronóstico para mañana en {location}
+Cuál es el pronóstico para pasado mañana 
+Cuál es la previsión para mañana en {location}
+Cuál es la previsión para pasado mañana 
+Cómo estará el tiempo después de mañana 
+Cómo estará el tiempo en {location} pasado mañana
+Cómo estará el tiempo pasado mañana en {location}
+Habrá una tormenta después de mañana en {location}
+Hará buen clima después de mañana en {location}
+Qué tal estará el tiempo mañana en {location}
+Qué tal estará el tiempo en {location} mañana
+Qué tal estará el tiempo pasado mañana 
+Va a hacer buen clima mañana en {location}
+Va a hacer buen clima pasado mañana 
+Qué tiempo hará en {location} mañana a mediodía
+Qué tiempo hará en {location} mañana por tarde
+Qué tiempo hará mañana a mediodía en {location}
+Qué tiempo hará mañana por tarde en {location}
+Alguna alerta meteorológica para el fin de semana
+Algún aviso meteorológico para el fin de semana
+Cómo está el tiempo el sábado y domingo
+Cómo está el tiempo este fin de semana
+Cómo está la meteo el sábado y domingo
+Cómo está la meteo este fin de semana
+Hará bueno el fin de semana en {location}
+Lloverá el sábado y el domingo en {location}
 La meteorología a lo largo de la semana
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) el (domingo|jueves|lunes) por la (mañana|noche|tarde)
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) el (martes|miércoles|sábado|viernes) por la (mañana|noche|tarde)
 (Dime|Explícame|Muéstrame) el tiempo (de|para) mañana por la (mañana|noche|tarde) en {location}
-(¿Podrías|¿Puedes) (decirme|informarme) cómo está el tiempo ahora mismo en {location}?
+(Podrías|Puedes) (decirme|informarme) cómo está el tiempo ahora mismo en {location}
 (Dime|Explícame|Muéstrame) el (panorama|pronóstico) del tiempo para esta semana en {location}
 Las condiciones meteorológicas en los (próximos|venideros) (2|3|4|5|6|7) días en {location}
-¿Qué tal se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}?
-¿Cuál es el (panorama|pronóstico) para mañana a (la|las) 13 ?
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|noche) en {location}?
-¿Cuál es el (panorama|pronóstico) para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) ?
-¿Qué tal se (presenta|prevé) el tiempo en {location} el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
-¿Qué tiempo hará en {location} el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana?|noche?)
+Qué tal se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}
+Cuál es el (panorama|pronóstico) para mañana a (la|las) 13 
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|noche) en {location}
+Cuál es el (panorama|pronóstico) para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) 
+Qué tal se (presenta|prevé) el tiempo en {location} el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
+Qué tiempo hará en {location} el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana?|noche?)
 (Cuéntame|Dime) acerca de el pronóstico de el tiempo en {location}
 (Dime|Explícame|Muéstrame) la previsión del tiempo para esta semana en {location}
 (Enséñame|Muéstrame) el pronóstico de los próximos siete días en {location}
 (Enséñame|Muéstrame) la previsión de los próximos siete días en {location}
 El (clima|tiempo) a lo largo de la semana en {location}
-¿Cómo (está|pinta) el pronóstico de el tiempo esta semana ?
-¿Cómo (está|pinta) la previsión de el tiempo esta semana ?
-¿Cómo se (presenta|prevé) el tiempo después de mañana en {location}?
-¿Cómo se (presenta|prevé) el tiempo en {location} después de mañana?
-¿Qué tal se (presenta|prevé) el tiempo después de mañana ?
-¿Qué tal se (presenta|prevé) el tiempo en {location} [pasado] mañana?
-¿Qué tal se (presenta|prevé) el tiempo [pasado] mañana en {location}?
-¿Cuál es el (panorama|pronóstico) para mañana a la 1 ?
-¿Cómo está el (clima|tiempo) el sábado y domingo en {location}?
-¿Cómo está el (clima|tiempo) este fin de semana en {location}?
-¿Cuál es el pronóstico para los (próximos|siguientes) días en {location}?
-¿Cuál es la previsión para los (próximos|siguientes) días en {location}?
-¿Cuál es la previsión para mañana a (la|las) 13 ?
-¿Dime el pronóstico de el tiempo a (la|las) 13 ?
-¿Dime la previsión de el tiempo a (la|las) 13 ?
-¿Cuál es la previsión para los próximos (2|3|4|5|6|7) días ?
-¿Cuál es el pronóstico de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál es la previsión de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Dime el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Dime la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál es la previsión para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) ?
-¿Dime el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) ?
-¿Dime la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) ?
-¿Qué tal está el pronóstico de el tiempo en {location}?
-¿Cuál es el pronóstico de temperatura para mañana en {location}?
-¿Cuál es el pronóstico de temperatura para [pasado] mañana ?
-¿Cuál es el pronóstico para después de mañana en {location}?
-¿Cuál es la previsión de temperatura para mañana en {location}?
-¿Cuál es la previsión de temperatura para [pasado] mañana ?
-¿Cuál es la previsión para después de mañana en {location}?
-¿Qué tal estará el tiempo después de mañana en {location}?
-¿Qué tal estará el tiempo en {location} después de mañana?
-¿Va a hacer buen clima después de mañana en {location}?
-¿Cuál es la previsión para mañana a la 1 ?
-¿Dime el pronóstico de el tiempo a la 1 ?
-¿Dime la previsión de el tiempo a la 1 ?
-¿Alguna alerta meteorológica para el fin de semana en {location}?
-¿Algún aviso meteorológico para el fin de semana en {location}?
-¿Caerá un chaparrón el sábado y el domingo en {location}?
-¿Cuál es el pronóstico para el [próximo] fin de semana?
-¿Cuál es el pronóstico para el [próximo] sábado y domingo?
-¿Cuál es la previsión para el [próximo] fin de semana?
-¿Cuál es la previsión para el [próximo] sábado y domingo?
-¿Debería planificar actividades al aire libre este fin de semana?
-¿Va a llover el sábado y el domingo en {location}?
+Cómo (está|pinta) el pronóstico de el tiempo esta semana 
+Cómo (está|pinta) la previsión de el tiempo esta semana 
+Cómo se (presenta|prevé) el tiempo después de mañana en {location}
+Cómo se (presenta|prevé) el tiempo en {location} después de mañana
+Qué tal se (presenta|prevé) el tiempo después de mañana 
+Qué tal se (presenta|prevé) el tiempo en {location} [pasado] mañana
+Qué tal se (presenta|prevé) el tiempo [pasado] mañana en {location}
+Cuál es el (panorama|pronóstico) para mañana a la 1 
+Cómo está el (clima|tiempo) el sábado y domingo en {location}
+Cómo está el (clima|tiempo) este fin de semana en {location}
+Cuál es el pronóstico para los (próximos|siguientes) días en {location}
+Cuál es la previsión para los (próximos|siguientes) días en {location}
+Cuál es la previsión para mañana a (la|las) 13 
+Dime el pronóstico de el tiempo a (la|las) 13 
+Dime la previsión de el tiempo a (la|las) 13 
+Cuál es la previsión para los próximos (2|3|4|5|6|7) días 
+Cuál es el pronóstico de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál es la previsión de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Dime el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Dime la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál es la previsión para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) 
+Dime el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) 
+Dime la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) 
+Qué tal está el pronóstico de el tiempo en {location}
+Cuál es el pronóstico de temperatura para mañana en {location}
+Cuál es el pronóstico de temperatura para [pasado] mañana 
+Cuál es el pronóstico para después de mañana en {location}
+Cuál es la previsión de temperatura para mañana en {location}
+Cuál es la previsión de temperatura para [pasado] mañana 
+Cuál es la previsión para después de mañana en {location}
+Qué tal estará el tiempo después de mañana en {location}
+Qué tal estará el tiempo en {location} después de mañana
+Va a hacer buen clima después de mañana en {location}
+Cuál es la previsión para mañana a la 1 
+Dime el pronóstico de el tiempo a la 1 
+Dime la previsión de el tiempo a la 1 
+Alguna alerta meteorológica para el fin de semana en {location}
+Algún aviso meteorológico para el fin de semana en {location}
+Caerá un chaparrón el sábado y el domingo en {location}
+Cuál es el pronóstico para el [próximo] fin de semana
+Cuál es el pronóstico para el [próximo] sábado y domingo
+Cuál es la previsión para el [próximo] fin de semana
+Cuál es la previsión para el [próximo] sábado y domingo
+Debería planificar actividades al aire libre este fin de semana
+Va a llover el sábado y el domingo en {location}
 La meteorología a lo largo de la semana en {location}
-(¿Lloverá|¿Nevará) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
+(Lloverá|Nevará) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 (Previsión|Pronóstico) semanal del (clima|tiempo)
 (Cuéntame|Dime) sobre el tiempo
-(¿Lloverá|¿Nevará) pasado mañana ?
+(Lloverá|Nevará) pasado mañana 
 (Enséñame|Muéstrame) el pronóstico semanal
 (Enséñame|Muéstrame) la previsión semanal
-¿Cómo (está|pinta|va) el tiempo?
-¿Qué tiempo hace (?|actualmente?|ahora?)
-¿Hace buen tiempo afuera?
+Cómo (está|pinta|va) el tiempo
+Qué tiempo hace (?|actualmente?|ahora?)
+Hace buen tiempo afuera
 (Previsión|Pronóstico) por (hora|horas) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a medianoche
 (Previsión|Pronóstico) semanal del (clima|tiempo) en {location}
-¿Hará (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
+Hará (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 (Previsión|Pronóstico) para mañana a (la|las) 13
-¿Qué (debería|debo|puedo) esperar el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
+Qué (debería|debo|puedo) esperar el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 (Previsión|Pronóstico) para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9)
 (Previsión|Pronóstico) para mañana por la (mañana|tarde)
 (Cuéntame|Dime) sobre el tiempo en {location}
 (Dame|Explícame|Muéstrame) la actualización actual del tiempo
-(¿Lloverá|¿Nevará) después de mañana en {location}?
+(Lloverá|Nevará) después de mañana en {location}
 (Previsión|Pronóstico) para mañana a la 1
-(Hará|¿Hará) sol este fin de semana?
+(Hará|Hará) sol este fin de semana
 (Panorama|Previsión|Pronóstico) para el fin de semana
 (Panorama|Previsión|Pronóstico) para el sábado y domingo
 (Enséñame|Muéstrame) el pronóstico semanal en {location}
 (Enséñame|Muéstrame) la previsión semanal en {location}
-¿Cómo (está|va) el tiempo en {location}?
-¿Hará (calor|frío) después de mañana ?
-¿Hará (calor|frío) pasado mañana en {location}?
-¿Qué (debería|debo|puedo) esperar pasado mañana ?
-¿Estará (despejado|soleado) este fin de semana?
-¿Qué tal (está|va) el tiempo ?
-¿Habrá una tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Hará buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
+Cómo (está|va) el tiempo en {location}
+Hará (calor|frío) después de mañana 
+Hará (calor|frío) pasado mañana en {location}
+Qué (debería|debo|puedo) esperar pasado mañana 
+Estará (despejado|soleado) este fin de semana
+Qué tal (está|va) el tiempo 
+Habrá una tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Hará buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 Las condiciones meteorológicas de (esta|la) semana
-¿Cómo se presenta el tiempo ?
-¿Qué tal está el día afuera?
-¿Qué tiempo hace ahora mismo ?
-¿Qué tiempo hace en este instante?
-¿Qué tiempo hace hoy en {location}?
-¿Habrá una tormenta mañana en {location}?
-¿Habrá una tormenta pasado mañana ?
-¿Hará buen clima pasado mañana ?
-¿Qué tiempo hará mañana a mediodía?
-¿Qué tiempo hará mañana por tarde?
+Cómo se presenta el tiempo 
+Qué tal está el día afuera
+Qué tiempo hace ahora mismo 
+Qué tiempo hace en este instante
+Qué tiempo hace hoy en {location}
+Habrá una tormenta mañana en {location}
+Habrá una tormenta pasado mañana 
+Hará buen clima pasado mañana 
+Qué tiempo hará mañana a mediodía
+Qué tiempo hará mañana por tarde
 Hará sol el sábado y domingo?
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (domingo|jueves|lunes) por la (mañana|noche|tarde)
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (martes|miércoles|sábado|viernes) por la (mañana|noche|tarde)
@@ -291,14 +291,14 @@ El (clima|tiempo) en los (próximos|venideros) (2|3|4|5|6|7) días en {location}
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (4|5|6|7|8|9) en {location}
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|tarde) en {location}
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) mañana por la (mañana|noche|tarde)
-(¿Podrías|¿Puedes) (decirme|informarme) cómo está el tiempo actualmente en {location}?
-(¿Podrías|¿Puedes) (decirme|informarme) cómo está el tiempo ahora mismo ?
+(Podrías|Puedes) (decirme|informarme) cómo está el tiempo actualmente en {location}
+(Podrías|Puedes) (decirme|informarme) cómo está el tiempo ahora mismo 
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 en {location}
 La meteorología en los (próximos|venideros) (2|3|4|5|6|7) días en {location}
-¿Cómo se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}?
-¿Qué tal se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) ?
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|noche) ?
-¿Cómo se (presenta|prevé) el tiempo en {location} el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
+Cómo se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}
+Qué tal se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) 
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|noche) 
+Cómo se (presenta|prevé) el tiempo en {location} el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
 (Cuéntame|Dime) sobre el pronóstico de el tiempo en {location}
 (Dame|Explícame|Muéstrame) la actualización más reciente del tiempo en {location}
 (Actualización|Previsión|Pronóstico) del tiempo el fin de semana en {location}
@@ -307,165 +307,165 @@ La meteorología en los (próximos|venideros) (2|3|4|5|6|7) días en {location}
 (Coméntame|Dime|Muéstrame) el tiempo del sábado y domingo en {location}
 (Dime|Enséñame|Muéstrame) el tiempo previsto para el fin de semana
 (Dime|Enséñame|Muéstrame) el tiempo previsto para el sábado y domingo
-¿Cómo (estará|pinta) el tiempo durante el fin de semana?
-¿Cómo (estará|pinta) el tiempo durante el sábado y domingo?
-¿Cómo se (presenta|prevé) el tiempo después de mañana ?
-¿Cómo se (presenta|prevé) el tiempo en {location} pasado mañana?
-¿Cómo se (presenta|prevé) el tiempo pasado mañana en {location}?
-¿Se espera (calor|sol) este fin de semana en {location}?
-¿Qué tal se (presenta|prevé) el tiempo pasado mañana ?
-¿Va a hacer (calor|frío) después de mañana en {location}?
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía en {location}?
-¿Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde en {location}?
-¿Cuál es el pronóstico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Qué tal estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}?
-¿Va a hacer buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Qué tiempo hará en {location} el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía?
-¿Qué tiempo hará en {location} el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde?
-¿Qué tiempo hará mañana por la (mañana|noche) en {location}?
-¿Cuál es el pronóstico para los (próximos|siguientes) días ?
-¿Cuál es la previsión para los (próximos|siguientes) días ?
-¿Qué tal estará el tiempo en {location} el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
-¿Qué tiempo hará en {location} mañana por la (mañana?|noche?)
-¿Cómo está el pronóstico de el tiempo en {location}?
-¿Qué tal va a estar el tiempo en {location}?
-¿Alguna alerta meteorológica para después de mañana en {location}?
-¿Algún aviso meteorológico para después de mañana en {location}?
-¿Cuál es el pronóstico para después de mañana ?
-¿Cuál es el pronóstico para pasado mañana en {location}?
-¿Cuál es la previsión para después de mañana ?
-¿Cuál es la previsión para pasado mañana en {location}?
-¿Cómo estará el tiempo después de mañana en {location}?
-¿Cómo estará el tiempo en {location} después de mañana?
-¿Qué tal estará el tiempo después de mañana ?
-¿Qué tal estará el tiempo en {location} pasado mañana?
-¿Qué tal estará el tiempo pasado mañana en {location}?
-¿Va a hacer buen clima después de mañana ?
-¿Va a hacer buen clima pasado mañana en {location}?
-¿Caerá un chaparrón el fin de semana en {location}?
-¿Debería planificar actividades de exterior este fin de semana?
-¿Hará bueno el sábado y el domingo en {location}?
-¿Va a llover el fin de semana en {location}?
+Cómo (estará|pinta) el tiempo durante el fin de semana
+Cómo (estará|pinta) el tiempo durante el sábado y domingo
+Cómo se (presenta|prevé) el tiempo después de mañana 
+Cómo se (presenta|prevé) el tiempo en {location} pasado mañana
+Cómo se (presenta|prevé) el tiempo pasado mañana en {location}
+Se espera (calor|sol) este fin de semana en {location}
+Qué tal se (presenta|prevé) el tiempo pasado mañana 
+Va a hacer (calor|frío) después de mañana en {location}
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía en {location}
+Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde en {location}
+Cuál es el pronóstico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Qué tal estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}
+Va a hacer buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Qué tiempo hará en {location} el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía
+Qué tiempo hará en {location} el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde
+Qué tiempo hará mañana por la (mañana|noche) en {location}
+Cuál es el pronóstico para los (próximos|siguientes) días 
+Cuál es la previsión para los (próximos|siguientes) días 
+Qué tal estará el tiempo en {location} el (domingo?|jueves?|lunes?|martes?|miércoles?|sábado?|viernes?)
+Qué tiempo hará en {location} mañana por la (mañana?|noche?)
+Cómo está el pronóstico de el tiempo en {location}
+Qué tal va a estar el tiempo en {location}
+Alguna alerta meteorológica para después de mañana en {location}
+Algún aviso meteorológico para después de mañana en {location}
+Cuál es el pronóstico para después de mañana 
+Cuál es el pronóstico para pasado mañana en {location}
+Cuál es la previsión para después de mañana 
+Cuál es la previsión para pasado mañana en {location}
+Cómo estará el tiempo después de mañana en {location}
+Cómo estará el tiempo en {location} después de mañana
+Qué tal estará el tiempo después de mañana 
+Qué tal estará el tiempo en {location} pasado mañana
+Qué tal estará el tiempo pasado mañana en {location}
+Va a hacer buen clima después de mañana 
+Va a hacer buen clima pasado mañana en {location}
+Caerá un chaparrón el fin de semana en {location}
+Debería planificar actividades de exterior este fin de semana
+Hará bueno el sábado y el domingo en {location}
+Va a llover el fin de semana en {location}
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (domingo|jueves|lunes) por la (mañana|noche|tarde) en {location}
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (martes|miércoles|sábado|viernes) por la (mañana|noche|tarde) en {location}
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) mañana por la (mañana|noche|tarde) en {location}
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13 ?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (10|11|12|14|15) ?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (16|17|18|19|2|20) ?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3) ?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (4|5|6|7|8|9) ?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 ?
-¿Cuál es el (panorama|pronóstico) para mañana a (la|las) 13 en {location}?
-¿Cuál es el (panorama|pronóstico) para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13 ?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (10|11|12|14|15|16|17|18|19|2|20) ?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3|4|5|6|7|8|9) ?
-¿Cómo (está|pinta) el pronóstico de el tiempo esta semana en {location}?
-¿Cómo (está|pinta) la previsión de el tiempo esta semana en {location}?
-¿Qué tal se (presenta|prevé) el tiempo después de mañana en {location}?
-¿Qué tal se (presenta|prevé) el tiempo en {location} después de mañana?
-¿Cuál es el (panorama|pronóstico) para mañana a la 1 en {location}?
-¿Cómo se ve el (clima|tiempo) el sábado y domingo en {location}?
-¿Cómo se ve el (clima|tiempo) este fin de semana en {location}?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 ?
-¿Cuál es la previsión para mañana a (la|las) 13 en {location}?
-¿Dime el pronóstico de el tiempo a (la|las) 13 en {location}?
-¿Dime la previsión de el tiempo a (la|las) 13 en {location}?
-¿Cuál es la previsión para los próximos (2|3|4|5|6|7) días en {location}?
-¿Cuál es el pronóstico de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál es la previsión de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Dime el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Dime la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál es el pronóstico de el tiempo a (la|las) 13 ?
-¿Cuál es la previsión de el tiempo a (la|las) 13 ?
-¿Cuál es la previsión para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}?
-¿Cómo estará el pronóstico de el tiempo a (la|las) 13 ?
-¿Cómo estará la previsión de el tiempo a (la|las) 13 ?
-¿Dime el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}?
-¿Dime la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}?
-¿Cómo estará el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cómo estará la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál es el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) ?
-¿Cuál es la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) ?
-¿Cómo estará el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) ?
-¿Cómo estará la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) ?
-¿Cuál es el pronóstico de temperatura para después de mañana ?
-¿Cuál es el pronóstico de temperatura para pasado mañana en {location}?
-¿Cuál es la previsión de temperatura para después de mañana ?
-¿Cuál es la previsión de temperatura para pasado mañana en {location}?
-¿Cuál es el pronóstico de el tiempo a la 1 ?
-¿Cuál es la previsión de el tiempo a la 1 ?
-¿Cuál es la previsión para mañana a la 1 en {location}?
-¿Cómo estará el pronóstico de el tiempo a la 1 ?
-¿Cómo estará la previsión de el tiempo a la 1 ?
-¿Dime el pronóstico de el tiempo a la 1 en {location}?
-¿Dime la previsión de el tiempo a la 1 en {location}?
-¿Cuál es el pronóstico para el fin de semana en {location}?
-¿Cuál es el pronóstico para el sábado y domingo en {location}?
-¿Cuál es la previsión para el fin de semana en {location}?
-¿Cuál es la previsión para el sábado y domingo en {location}?
-¿Cómo está el tiempo durante el fin de semana en {location}?
-¿Cómo está el tiempo durante el sábado y domingo en {location}?
-¿Debería planificar actividades de exterior este fin de semana en {location}?
-¿Se espera un cielo despejado este fin de semana en {location}?
-¿Cómo se ve el pronóstico de el tiempo esta semana ?
-¿Cómo se ve la previsión de el tiempo esta semana ?
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13 
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (10|11|12|14|15) 
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (16|17|18|19|2|20) 
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3) 
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (4|5|6|7|8|9) 
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 
+Cuál es el (panorama|pronóstico) para mañana a (la|las) 13 en {location}
+Cuál es el (panorama|pronóstico) para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13 
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (10|11|12|14|15|16|17|18|19|2|20) 
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3|4|5|6|7|8|9) 
+Cómo (está|pinta) el pronóstico de el tiempo esta semana en {location}
+Cómo (está|pinta) la previsión de el tiempo esta semana en {location}
+Qué tal se (presenta|prevé) el tiempo después de mañana en {location}
+Qué tal se (presenta|prevé) el tiempo en {location} después de mañana
+Cuál es el (panorama|pronóstico) para mañana a la 1 en {location}
+Cómo se ve el (clima|tiempo) el sábado y domingo en {location}
+Cómo se ve el (clima|tiempo) este fin de semana en {location}
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 
+Cuál es la previsión para mañana a (la|las) 13 en {location}
+Dime el pronóstico de el tiempo a (la|las) 13 en {location}
+Dime la previsión de el tiempo a (la|las) 13 en {location}
+Cuál es la previsión para los próximos (2|3|4|5|6|7) días en {location}
+Cuál es el pronóstico de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál es la previsión de temperatura para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Dime el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Dime la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál es el pronóstico de el tiempo a (la|las) 13 
+Cuál es la previsión de el tiempo a (la|las) 13 
+Cuál es la previsión para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
+Cómo estará el pronóstico de el tiempo a (la|las) 13 
+Cómo estará la previsión de el tiempo a (la|las) 13 
+Dime el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
+Dime la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
+Cómo estará el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cómo estará la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál es el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) 
+Cuál es la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) 
+Cómo estará el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) 
+Cómo estará la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) 
+Cuál es el pronóstico de temperatura para después de mañana 
+Cuál es el pronóstico de temperatura para pasado mañana en {location}
+Cuál es la previsión de temperatura para después de mañana 
+Cuál es la previsión de temperatura para pasado mañana en {location}
+Cuál es el pronóstico de el tiempo a la 1 
+Cuál es la previsión de el tiempo a la 1 
+Cuál es la previsión para mañana a la 1 en {location}
+Cómo estará el pronóstico de el tiempo a la 1 
+Cómo estará la previsión de el tiempo a la 1 
+Dime el pronóstico de el tiempo a la 1 en {location}
+Dime la previsión de el tiempo a la 1 en {location}
+Cuál es el pronóstico para el fin de semana en {location}
+Cuál es el pronóstico para el sábado y domingo en {location}
+Cuál es la previsión para el fin de semana en {location}
+Cuál es la previsión para el sábado y domingo en {location}
+Cómo está el tiempo durante el fin de semana en {location}
+Cómo está el tiempo durante el sábado y domingo en {location}
+Debería planificar actividades de exterior este fin de semana en {location}
+Se espera un cielo despejado este fin de semana en {location}
+Cómo se ve el pronóstico de el tiempo esta semana 
+Cómo se ve la previsión de el tiempo esta semana 
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) el (domingo|jueves|lunes) por la (mañana|noche|tarde) en {location}
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) el (martes|miércoles|sábado|viernes) por la (mañana|noche|tarde) en {location}
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13 en {location}?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (10|11|12|14|15) en {location}?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (16|17|18|19|2|20) en {location}?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3) en {location}?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (4|5|6|7|8|9) en {location}?
-¿Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 en {location}?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13 en {location}?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (10|11|12|14|15|16|17|18|19|2|20) en {location}?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3|4|5|6|7|8|9) en {location}?
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13 en {location}
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (10|11|12|14|15) en {location}
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (16|17|18|19|2|20) en {location}
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3) en {location}
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (4|5|6|7|8|9) en {location}
+Cuál es el (panorama|pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 en {location}
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13 en {location}
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (10|11|12|14|15|16|17|18|19|2|20) en {location}
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a las (21|22|23|24|3|4|5|6|7|8|9) en {location}
 (Coméntame|Dime|Muéstrame) el pronóstico de el tiempo del fin de semana en {location}
 (Coméntame|Dime|Muéstrame) el pronóstico de el tiempo del sábado y domingo en {location}
 (Dime|Enséñame|Muéstrame) el pronóstico de el tiempo previsto para el fin de semana
 (Dime|Enséñame|Muéstrame) el pronóstico de el tiempo previsto para el sábado y domingo
-¿Cómo (estará|pinta) el tiempo a lo largo de el fin de semana?
-¿Cómo (estará|pinta) el tiempo a lo largo de el sábado y domingo?
-¿Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 en {location}?
-¿Cuál es el pronóstico de el tiempo a (la|las) 13 en {location}?
-¿Cuál es la previsión de el tiempo a (la|las) 13 en {location}?
-¿Cómo estará el pronóstico de el tiempo a (la|las) 13 en {location}?
-¿Cómo estará la previsión de el tiempo a (la|las) 13 en {location}?
-¿Cómo estará el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cómo estará la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cuál es el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}?
-¿Cuál es la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}?
-¿Cómo estará el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}?
-¿Cómo estará la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}?
-¿Qué tal estará el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Qué tal estará la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) ?
-¿Cuál es el pronóstico de temperatura para después de mañana en {location}?
-¿Cuál es la previsión de temperatura para después de mañana en {location}?
-¿Cuál es el pronóstico de el tiempo a la 1 en {location}?
-¿Cuál es la previsión de el tiempo a la 1 en {location}?
-¿Cómo estará el pronóstico de el tiempo a la 1 en {location}?
-¿Cómo estará la previsión de el tiempo a la 1 en {location}?
-¿Cuál es el pronóstico para el próximo fin de semana en {location}?
-¿Cuál es el pronóstico para el próximo sábado y domingo en {location}?
-¿Cuál es la previsión para el próximo fin de semana en {location}?
-¿Cuál es la previsión para el próximo sábado y domingo en {location}?
-¿Cómo se prevé el tiempo durante el fin de semana en {location}?
-¿Cómo se prevé el tiempo durante el sábado y domingo en {location}?
-¿Debería planificar actividades al aire libre este fin de semana en {location}?
-¿Cómo se ve el pronóstico de el tiempo esta semana en {location}?
-¿Cómo se ve la previsión de el tiempo esta semana en {location}?
-¿Qué tal estará el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Qué tal estará la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}?
-¿Cómo está el tiempo a lo largo de el fin de semana en {location}?
-¿Cómo está el tiempo a lo largo de el sábado y domingo en {location}?
-¿Cómo se prevé el tiempo a lo largo de el fin de semana en {location}?
-¿Cómo se prevé el tiempo a lo largo de el sábado y domingo en {location}?
-¿Cómo estará el tiempo en {location}?
-¿Cuál es el pronóstico del tiempo en {location}?
-¿Qué tiempo hará hoy en {location}?
-¿Qué tiempo hará mañana en {location}?
+Cómo (estará|pinta) el tiempo a lo largo de el fin de semana
+Cómo (estará|pinta) el tiempo a lo largo de el sábado y domingo
+Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1 en {location}
+Cuál es el pronóstico de el tiempo a (la|las) 13 en {location}
+Cuál es la previsión de el tiempo a (la|las) 13 en {location}
+Cómo estará el pronóstico de el tiempo a (la|las) 13 en {location}
+Cómo estará la previsión de el tiempo a (la|las) 13 en {location}
+Cómo estará el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cómo estará la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cuál es el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
+Cuál es la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
+Cómo estará el pronóstico de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
+Cómo estará la previsión de el tiempo a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
+Qué tal estará el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Qué tal estará la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Cuál es el pronóstico de temperatura para después de mañana en {location}
+Cuál es la previsión de temperatura para después de mañana en {location}
+Cuál es el pronóstico de el tiempo a la 1 en {location}
+Cuál es la previsión de el tiempo a la 1 en {location}
+Cómo estará el pronóstico de el tiempo a la 1 en {location}
+Cómo estará la previsión de el tiempo a la 1 en {location}
+Cuál es el pronóstico para el próximo fin de semana en {location}
+Cuál es el pronóstico para el próximo sábado y domingo en {location}
+Cuál es la previsión para el próximo fin de semana en {location}
+Cuál es la previsión para el próximo sábado y domingo en {location}
+Cómo se prevé el tiempo durante el fin de semana en {location}
+Cómo se prevé el tiempo durante el sábado y domingo en {location}
+Debería planificar actividades al aire libre este fin de semana en {location}
+Cómo se ve el pronóstico de el tiempo esta semana en {location}
+Cómo se ve la previsión de el tiempo esta semana en {location}
+Qué tal estará el pronóstico de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Qué tal estará la previsión de el tiempo el próximo (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Cómo está el tiempo a lo largo de el fin de semana en {location}
+Cómo está el tiempo a lo largo de el sábado y domingo en {location}
+Cómo se prevé el tiempo a lo largo de el fin de semana en {location}
+Cómo se prevé el tiempo a lo largo de el sábado y domingo en {location}
+Cómo estará el tiempo en {location}
+Cuál es el pronóstico del tiempo en {location}
+Qué tiempo hará hoy en {location}
+Qué tiempo hará mañana en {location}
 Dime el tiempo en {location}
 Dame el pronóstico del tiempo en {location}
 Tiempo en {location}

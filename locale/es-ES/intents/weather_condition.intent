@@ -1,278 +1,278 @@
 (está|estará) nublado [(hoy|mañana)] en {location}
 (hay|habrá) nubes [(hoy|mañana)] en {location}
-¿Está el (cielo|día) (apagado|feo|gris|triste) ?
-(¿Debería|¿Debo) llevar mi paraguas (?|hoy?)
-(¿Existe|¿Hay) posibilidad de lluvia (?|hoy?)
-(¿Hace|¿Hará|¿Hay) sol hoy en {location}?
-(¿Debería|¿Debo) tomar precauciones si llueve?
-(¿Caerá|¿Habrá) una nevada hoy ?
-(¿Caerá|¿Habrá|¿Hay) tormenta hoy en {location}?
-(¿Existen|¿Hay) alertas por tormenta ?
-(¿Habrá|¿Hay) truenos y relámpagos ?
-(¿Habrá|¿Hay) una tormenta eléctrica ?
-¿Hay (niebla|nieve) [hoy] en {location}?
-¿Se (espera|prevé) niebla en {location}?
-¿Está (lloviendo|nevado|nevando) [hoy] en {location}?
-¿Necesito (protegerme|resguardarme) de la lluvia?
-¿Se (espera|prevé) lluvia después ?
-¿Se (espera|prevé|pronostica) lluvia para {location}?
+Está el (cielo|día) (apagado|feo|gris|triste) 
+(Debería|Debo) llevar mi paraguas (?|hoy?)
+(Existe|Hay) posibilidad de lluvia (?|hoy?)
+(Hace|Hará|Hay) sol hoy en {location}
+(Debería|Debo) tomar precauciones si llueve
+(Caerá|Habrá) una nevada hoy 
+(Caerá|Habrá|Hay) tormenta hoy en {location}
+(Existen|Hay) alertas por tormenta 
+(Habrá|Hay) truenos y relámpagos 
+(Habrá|Hay) una tormenta eléctrica 
+Hay (niebla|nieve) [hoy] en {location}
+Se (espera|prevé) niebla en {location}
+Está (lloviendo|nevado|nevando) [hoy] en {location}
+Necesito (protegerme|resguardarme) de la lluvia
+Se (espera|prevé) lluvia después 
+Se (espera|prevé|pronostica) lluvia para {location}
 Se (espera|prevé) tormenta en {location}?
 Se (espera|prevé) [una] tormenta ?
-¿Se (espera|prevé|pronostica) tormenta eléctrica ?
-¿Está el cielo (cubierto|despejado|soleado) ?
-¿Habrá niebla esta (mañana|tarde) ?
-¿Va a llover (hoy|mañana?|mucho) ?
-¿Cuánta nieve se (calcula|espera|prevé) ?
-¿Hay nubosidad alguna en {location}?
-¿Hay nubosidad alguna [hoy] ?
-¿Puedo esperar cielos despejados ?
-¿Puedo esperar sol en {location}?
-¿Hay niebla afuera en {location}?
-¿Hay niebla ahora mismo ?
-¿Debería llevar un paraguas conmigo?
-¿Es probable que llueva ?
-¿Hay pronóstico de lluvia ?
-¿Lloverá con intensidad en {location}?
-¿Necesito llevar una chaqueta impermeable?
-¿Necesito prepararme para una tormenta?
-¿Se espera lluvia en {location}?
-¿Será un día lluvioso ?
-¿Va a llover en {location}?
+Se (espera|prevé|pronostica) tormenta eléctrica 
+Está el cielo (cubierto|despejado|soleado) 
+Habrá niebla esta (mañana|tarde) 
+Va a llover (hoy|mañana?|mucho) 
+Cuánta nieve se (calcula|espera|prevé) 
+Hay nubosidad alguna en {location}
+Hay nubosidad alguna [hoy] 
+Puedo esperar cielos despejados 
+Puedo esperar sol en {location}
+Hay niebla afuera en {location}
+Hay niebla ahora mismo 
+Debería llevar un paraguas conmigo
+Es probable que llueva 
+Hay pronóstico de lluvia 
+Lloverá con intensidad en {location}
+Necesito llevar una chaqueta impermeable
+Necesito prepararme para una tormenta
+Se espera lluvia en {location}
+Será un día lluvioso 
+Va a llover en {location}
 Hay previsión de tormenta ?
-¿Habrá tormenta [eléctrica] en {location}?
-¿Habrá una tormenta en {location}?
-(¿Debería|¿Debo) (alarmarme|preocuparme) por la (niebla|lluvia) ?
-(¿Debería|¿Debo) estar (preparada|preparado) para la lluvia?
-(¿Debería|¿Debo) tener (cuidado|precaución) con las lluvias?
-(¿Debería|¿Debo) tener (cuidado|precaución) con los chubascos?
-(¿Existe|¿Hay) alguna alerta (de|por) tormenta ?
-¿Está el (cielo|día) (apagado|feo|gris|triste) en {location}?
-(¿Debería|¿Debo) prepararme para la (nevada|nieve) ?
-(¿Cabe|¿Existe) la posibilidad de lluvia mañana?
-(¿Debería|¿Debo) llevar mis botas de agua?
-(¿Debería|¿Debo) llevar un paraguas al parque?
-(¿Necesitaría|¿Necesito) prepararme para la lluvia ?
-(¿Caerá|¿Habrá) una nevada esta noche ?
-(¿Caerá|¿Habrá) una nevada hoy en {location}?
-(¿Caerá|¿Habrá|¿Hay) una tormenta hoy en {location}?
-(¿Existen|¿Hay) alertas por tormenta en {location}?
-(¿Existen|¿Hay) avisos por clima severo ?
-(¿Habrá|¿Hay) truenos y relámpagos en {location}?
-(¿Habrá|¿Hay) truenos y relámpagos hoy ?
-(¿Habrá|¿Hay) una tormenta eléctrica en {location}?
-(¿Habrá|¿Hay) una tormenta eléctrica hoy ?
-¿Se (espera|prevé) lluvia después en {location}?
-¿Se (espera|prevé) lluvia más tarde ?
+Habrá tormenta [eléctrica] en {location}
+Habrá una tormenta en {location}
+(Debería|Debo) (alarmarme|preocuparme) por la (niebla|lluvia) 
+(Debería|Debo) estar (preparada|preparado) para la lluvia
+(Debería|Debo) tener (cuidado|precaución) con las lluvias
+(Debería|Debo) tener (cuidado|precaución) con los chubascos
+(Existe|Hay) alguna alerta (de|por) tormenta 
+Está el (cielo|día) (apagado|feo|gris|triste) en {location}
+(Debería|Debo) prepararme para la (nevada|nieve) 
+(Cabe|Existe) la posibilidad de lluvia mañana
+(Debería|Debo) llevar mis botas de agua
+(Debería|Debo) llevar un paraguas al parque
+(Necesitaría|Necesito) prepararme para la lluvia 
+(Caerá|Habrá) una nevada esta noche 
+(Caerá|Habrá) una nevada hoy en {location}
+(Caerá|Habrá|Hay) una tormenta hoy en {location}
+(Existen|Hay) alertas por tormenta en {location}
+(Existen|Hay) avisos por clima severo 
+(Habrá|Hay) truenos y relámpagos en {location}
+(Habrá|Hay) truenos y relámpagos hoy 
+(Habrá|Hay) una tormenta eléctrica en {location}
+(Habrá|Hay) una tormenta eléctrica hoy 
+Se (espera|prevé) lluvia después en {location}
+Se (espera|prevé) lluvia más tarde 
 Se (espera|prevé) una tormenta en {location}?
-¿Se (espera|prevé|pronostica) tormenta eléctrica en {location}?
-¿Se (espera|prevé|pronostica) una tormenta eléctrica ?
-¿Habrá niebla (densa|espesa) esta noche ?
-¿Está el cielo (cubierto|despejado|soleado) en {location}?
-¿Está el cielo (cubierto|despejado|soleado) hoy ?
-¿Habrá niebla esta (mañana|tarde) en {location}?
-¿Va a llover (hoy|mañana?|mucho) en {location}?
-¿Cuánta nieve se (calcula|espera|prevé) en {location}?
-¿Necesito vestirme para el (clima|tiempo) lluvioso?
-¿Está el cielo con sol ?
-¿Está el cielo sin nubes ?
-¿Hay nubosidad alguna hoy en {location}?
-¿Puedo esperar cielos despejados en {location}?
-¿Hay niebla ahora mismo en {location}?
-¿Hay niebla en el exterior ?
-¿Es probable que llueva en {location}?
-¿Es probable que llueva hoy ?
-¿Hay pronóstico de lluvia para {location}?
-¿Lloverá durante el fin de semana?
-¿Necesito llevar un paraguas al evento?
-¿Será un día lluvioso en {location}?
-¿Va a llover con intensidad ?
-¿Debería esperar acumulación de nieve ?
-¿Se producirá una nevada hoy ?
+Se (espera|prevé|pronostica) tormenta eléctrica en {location}
+Se (espera|prevé|pronostica) una tormenta eléctrica 
+Habrá niebla (densa|espesa) esta noche 
+Está el cielo (cubierto|despejado|soleado) en {location}
+Está el cielo (cubierto|despejado|soleado) hoy 
+Habrá niebla esta (mañana|tarde) en {location}
+Va a llover (hoy|mañana?|mucho) en {location}
+Cuánta nieve se (calcula|espera|prevé) en {location}
+Necesito vestirme para el (clima|tiempo) lluvioso
+Está el cielo con sol 
+Está el cielo sin nubes 
+Hay nubosidad alguna hoy en {location}
+Puedo esperar cielos despejados en {location}
+Hay niebla ahora mismo en {location}
+Hay niebla en el exterior 
+Es probable que llueva en {location}
+Es probable que llueva hoy 
+Hay pronóstico de lluvia para {location}
+Lloverá durante el fin de semana
+Necesito llevar un paraguas al evento
+Será un día lluvioso en {location}
+Va a llover con intensidad 
+Debería esperar acumulación de nieve 
+Se producirá una nevada hoy 
 Hay previsión de tormenta en {location}?
 Hay previsión de una tormenta ?
-¿Debo dentro por las tormentas ?
-¿Hay pronóstico de tormenta eléctrica ?
-¿Necesito prepararme para una tormenta ?
-¿Se producirá tormenta hoy en {location}?
-(¿Debería|¿Debo) (empacar|preparar) un (chubasquero|impermeable) para el viaje?
-(¿Debería|¿Debo) (alarmarme|preocuparme) por la (niebla|lluvia) en {location}?
-¿La niebla (afectará|alterará|condicionará) mi (camino|desplazamiento|recorrido|trayecto|viaje) diario (?|a{location}?)
-(¿Debería|¿Debo) (alarmarme|preocuparme) por la niebla hoy ?
-(¿Debería|¿Debo) tener (cuidado|precaución) con las lluvias intermitentes?
-(¿Debería|¿Debo) ir con (cuidado|precaución) con las lluvias?
-(¿Debería|¿Debo) ir con (cuidado|precaución) con los chubascos?
-(¿Debería|¿Debo) llevar un (gorro|sombrero) para la lluvia?
-(¿Existe|¿Hay) alguna alerta (de|por) tormenta en {location}?
-(¿Existe|¿Hay) alguna alerta (de|por) tormenta hoy ?
-¿Se (espera|prevé) niebla (densa|espesa) esta noche ?
+Debo dentro por las tormentas 
+Hay pronóstico de tormenta eléctrica 
+Necesito prepararme para una tormenta 
+Se producirá tormenta hoy en {location}
+(Debería|Debo) (empacar|preparar) un (chubasquero|impermeable) para el viaje
+(Debería|Debo) (alarmarme|preocuparme) por la (niebla|lluvia) en {location}
+La niebla (afectará|alterará|condicionará) mi (camino|desplazamiento|recorrido|trayecto|viaje) diario (?|a{location}?)
+(Debería|Debo) (alarmarme|preocuparme) por la niebla hoy 
+(Debería|Debo) tener (cuidado|precaución) con las lluvias intermitentes
+(Debería|Debo) ir con (cuidado|precaución) con las lluvias
+(Debería|Debo) ir con (cuidado|precaución) con los chubascos
+(Debería|Debo) llevar un (gorro|sombrero) para la lluvia
+(Existe|Hay) alguna alerta (de|por) tormenta en {location}
+(Existe|Hay) alguna alerta (de|por) tormenta hoy 
+Se (espera|prevé) niebla (densa|espesa) esta noche 
 Se (espera|prevé) un (evento|fenómeno) meteorológico severo ?
-(¿Debería|¿Debo) prepararme para la (nevada|nieve) en {location}?
-¿Hay (alertas|avisos) de niebla (funcionando|vigentes) en {location}?
-¿Se (espera|prevé) lluvia por la (noche|tarde) ?
-(¿Debería|¿Debo) llevar un paraguas en mi (bolsa?|bolso?)
-(¿Cabe|¿Existe) la posibilidad de que llueva mañana?
-(¿Necesitaría|¿Necesito) prepararme para la lluvia en {location}?
-(¿Caerá|¿Habrá) una nevada esta noche en {location}?
-(¿Existen|¿Hay) advertencias por condiciones meteorológicas severas ?
-(¿Existen|¿Hay) avisos por clima severo en {location}?
-(¿Habrá|¿Hay) truenos y relámpagos hoy en {location}?
-(¿Habrá|¿Hay) una tormenta eléctrica hoy en {location}?
-¿Se (espera|prevé) lluvia más tarde en {location}?
-¿Se (espera|prevé) nieve en el pronóstico ?
-¿Se (espera|prevé) nieve en el pronóstico| ?
-¿Se (espera|prevé) nieve en la previsión ?
-¿Se (espera|prevé) nieve en la previsión| ?
-¿Se (espera|prevé|pronostica) una tormenta eléctrica en {location}?
-¿Habrá niebla (densa|espesa) esta noche en {location}?
-¿Hay visibilidad (baja|reducida) por la niebla ?
-¿Está el cielo (cubierto|despejado|soleado) hoy en {location}?
-¿Se producirá una (nevada|tormenta) hoy en {location}?
-¿Está el cielo con sol en {location}?
-¿Está el cielo con sol hoy ?
-¿Está el cielo cubierto ahora mismo ?
-¿Está el cielo sin nubes en {location}?
-¿Está el cielo sin nubes hoy ?
-¿Está el cielo sin una nube ?
-¿Qué tan despejado está el cielo ?
-¿Hay niebla en el exterior en {location}?
-¿Es probable que llueva hoy en {location}?
-¿Existe la posibilidad de que llueva ?
-¿Va a llover con intensidad en {location}?
-¿Debería esperar acumulación de nieve en {location}?
-¿Debería esperar una acumulación de nieve ?
-¿Debería prepararme para acumulación de nieve ?
-¿Se producirá una nevada esta noche ?
+(Debería|Debo) prepararme para la (nevada|nieve) en {location}
+Hay (alertas|avisos) de niebla (funcionando|vigentes) en {location}
+Se (espera|prevé) lluvia por la (noche|tarde) 
+(Debería|Debo) llevar un paraguas en mi (bolsa?|bolso?)
+(Cabe|Existe) la posibilidad de que llueva mañana
+(Necesitaría|Necesito) prepararme para la lluvia en {location}
+(Caerá|Habrá) una nevada esta noche en {location}
+(Existen|Hay) advertencias por condiciones meteorológicas severas 
+(Existen|Hay) avisos por clima severo en {location}
+(Habrá|Hay) truenos y relámpagos hoy en {location}
+(Habrá|Hay) una tormenta eléctrica hoy en {location}
+Se (espera|prevé) lluvia más tarde en {location}
+Se (espera|prevé) nieve en el pronóstico 
+Se (espera|prevé) nieve en el pronóstico| 
+Se (espera|prevé) nieve en la previsión 
+Se (espera|prevé) nieve en la previsión| 
+Se (espera|prevé|pronostica) una tormenta eléctrica en {location}
+Habrá niebla (densa|espesa) esta noche en {location}
+Hay visibilidad (baja|reducida) por la niebla 
+Está el cielo (cubierto|despejado|soleado) hoy en {location}
+Se producirá una (nevada|tormenta) hoy en {location}
+Está el cielo con sol en {location}
+Está el cielo con sol hoy 
+Está el cielo cubierto ahora mismo 
+Está el cielo sin nubes en {location}
+Está el cielo sin nubes hoy 
+Está el cielo sin una nube 
+Qué tan despejado está el cielo 
+Hay niebla en el exterior en {location}
+Es probable que llueva hoy en {location}
+Existe la posibilidad de que llueva 
+Va a llover con intensidad en {location}
+Debería esperar acumulación de nieve en {location}
+Debería esperar una acumulación de nieve 
+Debería prepararme para acumulación de nieve 
+Se producirá una nevada esta noche 
 Hay previsión de una tormenta en {location}?
-¿Debería quedarme dentro por las tormentas ?
-¿Debo dentro debido a las tormentas ?
-¿Debo dentro por el mal tiempo ?
-¿Debo dentro por las tormentas en {location}?
-¿Debo en casa por las tormentas ?
-¿Es probable que haya tormenta eléctrica ?
-¿Hay pronóstico de tormenta eléctrica en {location}?
-¿Hay pronóstico de una tormenta eléctrica ?
-¿Necesito prepararme para una tormenta en {location}?
-(¿Debería|¿Debo) (alarmarme|preocuparme) por la niebla hoy en {location}?
-(¿Debería|¿Debo) ir con (cuidado|precaución) con las lluvias intermitentes?
-(¿Existe|¿Hay) alguna alerta (de|por) tormenta hoy en {location}?
-¿Se (espera|prevé) niebla (densa|espesa) esta noche en {location}?
+Debería quedarme dentro por las tormentas 
+Debo dentro debido a las tormentas 
+Debo dentro por el mal tiempo 
+Debo dentro por las tormentas en {location}
+Debo en casa por las tormentas 
+Es probable que haya tormenta eléctrica 
+Hay pronóstico de tormenta eléctrica en {location}
+Hay pronóstico de una tormenta eléctrica 
+Necesito prepararme para una tormenta en {location}
+(Debería|Debo) (alarmarme|preocuparme) por la niebla hoy en {location}
+(Debería|Debo) ir con (cuidado|precaución) con las lluvias intermitentes
+(Existe|Hay) alguna alerta (de|por) tormenta hoy en {location}
+Se (espera|prevé) niebla (densa|espesa) esta noche en {location}
 Se (espera|prevé) un (evento|fenómeno) meteorológico severo en {location}?
-¿Se (espera|prevé) lluvia por la (noche|tarde) en {location}?
-¿Se (espera|prevé) nieve en el pronóstico (de|en) {location}?
-¿Se (espera|prevé) nieve en la previsión (de|en) {location}?
-¿Se (espera|prevé) que las carreteras estén (heladas|nevadas) ?
-(¿Existen|¿Hay) advertencias por condiciones meteorológicas severas en {location}?
-¿Se (espera|prevé) nieve en el pronóstico| en {location}?
-¿Se (espera|prevé) nieve en la previsión| en {location}?
-¿Hay visibilidad (baja|reducida) debido a la niebla ?
-¿Hay visibilidad (baja|reducida) por la niebla en {location}?
+Se (espera|prevé) lluvia por la (noche|tarde) en {location}
+Se (espera|prevé) nieve en el pronóstico (de|en) {location}
+Se (espera|prevé) nieve en la previsión (de|en) {location}
+Se (espera|prevé) que las carreteras estén (heladas|nevadas) 
+(Existen|Hay) advertencias por condiciones meteorológicas severas en {location}
+Se (espera|prevé) nieve en el pronóstico| en {location}
+Se (espera|prevé) nieve en la previsión| en {location}
+Hay visibilidad (baja|reducida) debido a la niebla 
+Hay visibilidad (baja|reducida) por la niebla en {location}
 Hay previsión de un (evento|fenómeno) meteorológico severo ?
-¿Necesito un paraguas para mi (camino|desplazamiento|recorrido|trayecto|viaje) diario ?
-¿Está el cielo con sol hoy en {location}?
-¿Está el cielo cubierto ahora mismo en {location}?
-¿Está el cielo sin nubes hoy en {location}?
-¿Está el cielo sin una nube en {location}?
-¿Está el cielo sin una nube hoy ?
-¿Qué tan despejado está el cielo en {location}?
-¿Debería tener un plan b para la lluvia?
-¿Existe la posibilidad de que llueva en {location}?
-¿Existe la posibilidad de que llueva hoy ?
-¿Va a llover durante el fin de semana?
-¿Debería esperar una acumulación de nieve en {location}?
-¿Debería prepararme para acumulación de nieve en {location}?
-¿Debería prepararme para una acumulación de nieve ?
-¿Se producirá una nevada esta noche en {location}?
-¿Debería quedarme dentro debido a las tormentas ?
-¿Debería quedarme dentro por el mal tiempo ?
-¿Debería quedarme dentro por las tormentas en {location}?
-¿Debería quedarme en casa por las tormentas ?
-¿Debo dentro a causa de las tormentas ?
-¿Debo dentro debido a el mal tiempo ?
-¿Debo dentro debido a las tormentas en {location}?
-¿Debo dentro por el mal tiempo en {location}?
-¿Debo en casa debido a las tormentas ?
-¿Debo en casa por el mal tiempo ?
-¿Debo en casa por las tormentas en {location}?
-¿Es probable que haya tormenta eléctrica en {location}?
-¿Es probable que haya una tormenta eléctrica ?
-¿Hay pronóstico de una tormenta eléctrica en {location}?
-¿La niebla (afectará|alterará|condicionará) mi (camino|desplazamiento|recorrido|trayecto|viaje) diario al trabajo (?|a{location}?)
-¿Se (espera|prevé) que las carreteras estén (heladas|nevadas) en {location}?
-(¿Aparece|¿Hay|¿Sale) lluvia en el pronóstico del tiempo para {location}?
-(¿Aparece|¿Hay|¿Sale) lluvia en la previsión del tiempo para {location}?
-¿Hay visibilidad (baja|reducida) a causa de la niebla ?
-¿Hay visibilidad (baja|reducida) debido a la niebla en {location}?
+Necesito un paraguas para mi (camino|desplazamiento|recorrido|trayecto|viaje) diario 
+Está el cielo con sol hoy en {location}
+Está el cielo cubierto ahora mismo en {location}
+Está el cielo sin nubes hoy en {location}
+Está el cielo sin una nube en {location}
+Está el cielo sin una nube hoy 
+Qué tan despejado está el cielo en {location}
+Debería tener un plan b para la lluvia
+Existe la posibilidad de que llueva en {location}
+Existe la posibilidad de que llueva hoy 
+Va a llover durante el fin de semana
+Debería esperar una acumulación de nieve en {location}
+Debería prepararme para acumulación de nieve en {location}
+Debería prepararme para una acumulación de nieve 
+Se producirá una nevada esta noche en {location}
+Debería quedarme dentro debido a las tormentas 
+Debería quedarme dentro por el mal tiempo 
+Debería quedarme dentro por las tormentas en {location}
+Debería quedarme en casa por las tormentas 
+Debo dentro a causa de las tormentas 
+Debo dentro debido a el mal tiempo 
+Debo dentro debido a las tormentas en {location}
+Debo dentro por el mal tiempo en {location}
+Debo en casa debido a las tormentas 
+Debo en casa por el mal tiempo 
+Debo en casa por las tormentas en {location}
+Es probable que haya tormenta eléctrica en {location}
+Es probable que haya una tormenta eléctrica 
+Hay pronóstico de una tormenta eléctrica en {location}
+La niebla (afectará|alterará|condicionará) mi (camino|desplazamiento|recorrido|trayecto|viaje) diario al trabajo (?|a{location}?)
+Se (espera|prevé) que las carreteras estén (heladas|nevadas) en {location}
+(Aparece|Hay|Sale) lluvia en el pronóstico del tiempo para {location}
+(Aparece|Hay|Sale) lluvia en la previsión del tiempo para {location}
+Hay visibilidad (baja|reducida) a causa de la niebla 
+Hay visibilidad (baja|reducida) debido a la niebla en {location}
 Hay previsión de un (evento|fenómeno) meteorológico severo en {location}?
-¿Necesito un paraguas para mi (camino|desplazamiento|recorrido|trayecto|viaje) diario al trabajo?
-¿Está el cielo sin una nube hoy en {location}?
-¿Debería tener un plan de respaldo para la lluvia?
-¿Existe la posibilidad de que llueva hoy en {location}?
-¿Debería prepararme para una acumulación de nieve en {location}?
-¿Debería quedarme dentro a causa de las tormentas ?
-¿Debería quedarme dentro debido a el mal tiempo ?
-¿Debería quedarme dentro debido a las tormentas en {location}?
-¿Debería quedarme dentro por el mal tiempo en {location}?
-¿Debería quedarme en casa debido a las tormentas ?
-¿Debería quedarme en casa por el mal tiempo ?
-¿Debería quedarme en casa por las tormentas en {location}?
-¿Debo dentro a causa de el mal tiempo ?
-¿Debo dentro a causa de las tormentas en {location}?
-¿Debo dentro debido a el mal tiempo en {location}?
-¿Debo en casa a causa de las tormentas ?
-¿Debo en casa debido a el mal tiempo ?
-¿Debo en casa debido a las tormentas en {location}?
-¿Debo en casa por el mal tiempo en {location}?
-¿Es probable que haya una tormenta eléctrica en {location}?
+Necesito un paraguas para mi (camino|desplazamiento|recorrido|trayecto|viaje) diario al trabajo
+Está el cielo sin una nube hoy en {location}
+Debería tener un plan de respaldo para la lluvia
+Existe la posibilidad de que llueva hoy en {location}
+Debería prepararme para una acumulación de nieve en {location}
+Debería quedarme dentro a causa de las tormentas 
+Debería quedarme dentro debido a el mal tiempo 
+Debería quedarme dentro debido a las tormentas en {location}
+Debería quedarme dentro por el mal tiempo en {location}
+Debería quedarme en casa debido a las tormentas 
+Debería quedarme en casa por el mal tiempo 
+Debería quedarme en casa por las tormentas en {location}
+Debo dentro a causa de el mal tiempo 
+Debo dentro a causa de las tormentas en {location}
+Debo dentro debido a el mal tiempo en {location}
+Debo en casa a causa de las tormentas 
+Debo en casa debido a el mal tiempo 
+Debo en casa debido a las tormentas en {location}
+Debo en casa por el mal tiempo en {location}
+Es probable que haya una tormenta eléctrica en {location}
 (está|estará) nublado [(hoy|mañana)]
 (hay|habrá) nubes [(hoy|mañana)]
-(¿Caerán|¿Habrá) chubascos (?|hoy?)
-(¿Hace|¿Hay) sol ?
-(¿Lloverá|¿Llueve) en {location}?
-(¿Lloverá|¿Llueve) [hoy] ?
-¿Hay (niebla|nieve) ?
-¿Está (lloviendo|nevado|nevando) ?
-¿Habrá (precipitaciones|tormenta) ?
-¿Lloverá (mañana?|mucho) ?
-¿Habrá precipitaciones hoy?
-(¿Caerán|¿Habrá) lluvias breves (?|hoy?)
-¿Se (esperan|prevé) precipitaciones (?|hoy?)
-(¿Hace|¿Hay) sol en {location}?
-(¿Hace|¿Hará|¿Hay) sol hoy ?
-(¿Lloverá|¿Llueve|¿Nevará) hoy en {location}?
-(¿Necesitaría|¿Necesito) un paraguas mañana?
-¿Hay (niebla|nieve) hoy ?
-¿Se (espera|prevé) niebla ?
-¿Está (lloviendo|nevado|nevando) hoy ?
-¿Lloverá (mañana?|mucho) en {location}?
-¿Se (espera|prevé|pronostica) lluvia ?
-¿Necesito un (chubasquero|impermeable) mañana?
-¿Necesito llevar un (chubasquero?|impermeable?)
-¿Va a llover (?|afuera?)
-¿Puedo esperar sol ?
-¿Hay niebla afuera ?
-¿Lloverá con intensidad ?
-¿Habrá tormenta eléctrica ?
-¿Habrá una tormenta ?
-¿Lloverá afuera?
-¿Hay visibilidad (baja|reducida) a causa de la niebla en {location}?
-¿Debería quedarme dentro a causa de el mal tiempo ?
-¿Debería quedarme dentro a causa de las tormentas en {location}?
-¿Debería quedarme dentro debido a el mal tiempo en {location}?
-¿Debería quedarme en casa a causa de las tormentas ?
-¿Debería quedarme en casa debido a el mal tiempo ?
-¿Debería quedarme en casa debido a las tormentas en {location}?
-¿Debería quedarme en casa por el mal tiempo en {location}?
-¿Debo dentro a causa de el mal tiempo en {location}?
-¿Debo en casa a causa de el mal tiempo ?
-¿Debo en casa a causa de las tormentas en {location}?
-¿Debo en casa debido a el mal tiempo en {location}?
-¿Debería quedarme dentro a causa de el mal tiempo en {location}?
-¿Debería quedarme en casa a causa de el mal tiempo ?
-¿Debería quedarme en casa a causa de las tormentas en {location}?
-¿Debería quedarme en casa debido a el mal tiempo en {location}?
-¿Debo en casa a causa de el mal tiempo en {location}?
-¿Debería quedarme en casa a causa de el mal tiempo en {location}?
-¿debo llevar un chubasquero
-¿debo llevar un paraguas
-¿necesito un chubasquero
-¿necesito un paraguas
+(Caerán|Habrá) chubascos (?|hoy?)
+(Hace|Hay) sol 
+(Lloverá|Llueve) en {location}
+(Lloverá|Llueve) [hoy] 
+Hay (niebla|nieve) 
+Está (lloviendo|nevado|nevando) 
+Habrá (precipitaciones|tormenta) 
+Lloverá (mañana?|mucho) 
+Habrá precipitaciones hoy
+(Caerán|Habrá) lluvias breves (?|hoy?)
+Se (esperan|prevé) precipitaciones (?|hoy?)
+(Hace|Hay) sol en {location}
+(Hace|Hará|Hay) sol hoy 
+(Lloverá|Llueve|Nevará) hoy en {location}
+(Necesitaría|Necesito) un paraguas mañana
+Hay (niebla|nieve) hoy 
+Se (espera|prevé) niebla 
+Está (lloviendo|nevado|nevando) hoy 
+Lloverá (mañana?|mucho) en {location}
+Se (espera|prevé|pronostica) lluvia 
+Necesito un (chubasquero|impermeable) mañana
+Necesito llevar un (chubasquero?|impermeable?)
+Va a llover (?|afuera?)
+Puedo esperar sol 
+Hay niebla afuera 
+Lloverá con intensidad 
+Habrá tormenta eléctrica 
+Habrá una tormenta 
+Lloverá afuera
+Hay visibilidad (baja|reducida) a causa de la niebla en {location}
+Debería quedarme dentro a causa de el mal tiempo 
+Debería quedarme dentro a causa de las tormentas en {location}
+Debería quedarme dentro debido a el mal tiempo en {location}
+Debería quedarme en casa a causa de las tormentas 
+Debería quedarme en casa debido a el mal tiempo 
+Debería quedarme en casa debido a las tormentas en {location}
+Debería quedarme en casa por el mal tiempo en {location}
+Debo dentro a causa de el mal tiempo en {location}
+Debo en casa a causa de el mal tiempo 
+Debo en casa a causa de las tormentas en {location}
+Debo en casa debido a el mal tiempo en {location}
+Debería quedarme dentro a causa de el mal tiempo en {location}
+Debería quedarme en casa a causa de el mal tiempo 
+Debería quedarme en casa a causa de las tormentas en {location}
+Debería quedarme en casa debido a el mal tiempo en {location}
+Debo en casa a causa de el mal tiempo en {location}
+Debería quedarme en casa a causa de el mal tiempo en {location}
+debo llevar un chubasquero
+debo llevar un paraguas
+necesito un chubasquero
+necesito un paraguas
