@@ -1,0 +1,27 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Météo",
+  "description": "Consultez la météo actuelle, les prévisions, l'humidité et les prochaines pluies. Vous pouvez aussi demander la météo d'une autre ville. Les données proviennent d'Open-Meteo.",
+  "examples": [
+    "Quel temps fait-il en ce moment ?",
+    "Quelle température fait-il ?",
+    "Quel temps fera-t-il demain ?",
+    "Quel temps fait-il à Houston ?",
+    "Quelle température fera-t-il demain à Paris en celsius ?",
+    "Quelle sera la température maximale demain ?",
+    "À quelle heure le soleil se couche-t-il ?",
+    "Va-t-il neiger à Baltimore ?",
+    "Quelle est l'humidité ?",
+    "Quel temps fera-t-il ce week-end ?",
+    "Quand va-t-il pleuvoir ?"
+  ],
+  "tags": [
+    "météo",
+    "prévisions",
+    "pluie",
+    "humidité",
+    "neige",
+    "température"
+  ]
+}

@@ -1,0 +1,44 @@
+Blir det kallt (idag|imorgon|på {day}) [i {location}]
+Är det kallt ute nu [i {location}]
+Blir det svalt (idag|imorgon) [i {location}]
+Behöver jag jacka idag [i {location}]
+Blir det varmt (idag|imorgon|på {day}) [i {location}]
+Är det varmt ute nu [i {location}]
+Blir det riktigt varmt idag [i {location}]
+Behöver jag solkräm idag [i {location}]
+Blir det varmt
+Blir det varmt i {location}
+Blir det varmt idag
+Blir det varmt idag i {location}
+Blir det varmt imorgon
+Blir det varmt imorgon i {location}
+Är det varmt
+Är det varmt i {location}
+Är det varmt idag
+Är det varmt idag i {location}
+Är det varmt imorgon
+Är det varmt imorgon i {location}
+Väntas det varmt
+Väntas det varmt i {location}
+Väntas det varmt idag
+Väntas det varmt idag i {location}
+Väntas det varmt imorgon
+Väntas det varmt imorgon i {location}
+Blir det kallt
+Blir det kallt i {location}
+Blir det kallt idag
+Blir det kallt idag i {location}
+Blir det kallt imorgon
+Blir det kallt imorgon i {location}
+Är det kallt
+Är det kallt i {location}
+Är det kallt idag
+Är det kallt idag i {location}
+Är det kallt imorgon
+Är det kallt imorgon i {location}
+Väntas det kallt
+Väntas det kallt i {location}
+Väntas det kallt idag
+Väntas det kallt idag i {location}
+Väntas det kallt imorgon
+Väntas det kallt imorgon i {location}

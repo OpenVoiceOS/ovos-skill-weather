@@ -1,0 +1,507 @@
+(Com|Quin|Quina) és (oratge|previsió|temps) (a|de) {location}?
+(Quin|Quina) (meteorologia|oratge|temps) hi ha (actualment?|ara?)
+(Quin|Quina) (meteorologia|oratge|temps) fa ara mateix?
+(demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al (matí|vespre) a {location}?
+Farà (bo|calor|fred) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+[(Condicions|Estat)] de l'oratge (actual|ara) .
+[(Condicions|Estat)] del temps (actual|ara) .
+(demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la (nit|vesprada) ?
+(Ensenya'm|Mostra'm) l'oratge setmanal (a|de) {location}.
+de l'oratge (actual|ara) (a|de) {location}.
+del temps (actual|ara) (a|de) {location}.
+(Com|com) està el temps ?
+(Com|com) està l'oratge a {location}?
+(Com|com) està la meteorologia ?
+(Nevarà|Plourà) després de demà ?
+(Ensenya'm|Mostra'm) el temps setmanal .
+(Ensenya'm|Mostra'm) la meteorologia setmanal .
+(L'oratge|Meteorologia|Oratge|Temps) de la setmana .
+Farà (bo|sol) dissabte i diumenge?
+Plourà (aquest|este) cap de setmana?
+Fa bon (dia|temps) a fora?
+Fa bon (dia|temps) al carrer?
+Com està l'oratge (ara|avui|hui) ?
+de la previsió (a|de) {location}?
+de la meteorologia (actual|ara) .
+Hi haurà tempesta (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Quin temps farà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Què m'he d'esperar (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+El tempsde la setmana (.|a{location}.|de{location}.)
+la meteorologiade la setmana (.|a{location}.|de{location}.)
+Com pinta el temps ?
+Com pinta l'oratge a {location}?
+Com pinta la meteorologia ?
+Em pots dir l'oratge ?
+Quin temps fa [a] fora?
+de l'oratge ara mateix .
+del temps ara mateix .
+L'oratge pel cap de setmana.
+L'oratge per dissabte i diumenge.
+L'oratge durant la setmana .
+Previsió del temps setmanal .
+(Com|Quin|Quina) és (el|l'|la) (oratge|previsió|temps) (a|de) {location}?
+(Digue'm|Digues-me|Explica'm) l'oratge (d'|per) (aquesta|esta) setmana .
+(Condicions|Estat) de l'oratge (actual|ara) (a|de) {location}.
+(Condicions|Estat) del temps (actual|ara) (a|de) {location}.
+(Quin|Quina) (meteorologia|oratge|temps) hi ha ara mateix?
+Farà (bo|sol) (aquest|este) cap de setmana?
+(demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la (nit|vesprada) a {location}?
+Com (està|pinta) l'oratge (d'aquesta|d'esta) setmana .
+l'oratge dels (pròxims|següents) (2|3|4|5|6|7) dies .
+(Condicions|Estat) de la meteorologia (actual|ara) .
+(Ensenya'm|Mostra'm) el temps setmanal (a|de) {location}.
+(Ensenya'm|Mostra'm) la meteorologia setmanal (a|de) {location}.
+(L'oratge|Meteorologia|Oratge|Temps) de la setmana (a|de) {location}.
+de la meteorologia (actual|ara) (a|de) {location}.
+Digues-me l'oratge el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+(Com|com) està el temps a {location}?
+(Com|com) està la meteorologia a {location}?
+(Condicions|Estat) de l'oratge ara mateix .
+(Condicions|Estat) del temps ara mateix .
+(Nevarà|Plourà) després de demà a {location}?
+(Actualització|Previsió) meteorològica de dissabte i diumenge?
+(Actualització|Previsió) meteorològica del cap de setmana?
+(Digue'm|Digues-me|Explica'm) l'oratge de dissabte i diumenge?
+(Digue'm|Digues-me|Explica'm) l'oratge del cap de setmana?
+Farà (bo|calor|fred) després de demà ?
+Previsió per (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a mitjanit ?
+Previsió per (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al migdia ?
+El temps (de|durant) la setmana .
+La meteorologia (de|durant) la setmana .
+Com està l'oratge (ara|avui|hui) a {location}?
+Hi haurà tempesta (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Quin temps farà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Què m'he d'esperar (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Com està el temps (ara|avui|hui) ?
+Com està la meteorologia (ara|avui|hui) ?
+Em pots dir l'oratge (actualment|ara) ?
+de l'oratge ara mateix (a|de) {location}.
+del temps ara mateix (a|de) {location}.
+Algun avís del temps (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Alguna alerta del temps (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Quin temps hi haurà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Quina temperatura està prevista (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Previsió per hores de (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) .
+L'oratge durant la setmana (a|de) {location}.
+Previsió del temps setmanal (a|de) {location}.
+Quin temps farà a {location} (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge?|divendres)
+Com està l'oratge ara mateix ?
+Com pinta el temps a {location}?
+Com pinta la meteorologia a {location}?
+Dona'm l'última actualització de l'oratge .
+Dona'm l'última actualització del temps .
+Em pots dir el temps ?
+Em pots dir l'oratge a {location}?
+Em pots dir la meteorologia ?
+de la meteorologia ara mateix .
+El temps pel cap de setmana.
+El temps per dissabte i diumenge.
+La meteorologia pel cap de setmana.
+La meteorologia per dissabte i diumenge.
+Plourà dissabte i diumenge a {location}.
+Quin temps farà dissabte i diumenge?
+Quin és l'oratge dissabte i diumenge?
+(Digue'm|Digues-me|Explica'm) l'oratge (d'|per) (aquesta|esta) setmana (a|de) {location}.
+(Digue'm|Digues-me|Explica'm) el temps (d'|per) (aquesta|esta) setmana .
+(Digue'm|Digues-me|Explica'm) la meteorologia (d'|per) (aquesta|esta) setmana .
+Com (està|pinta) l'oratge (d'aquesta|d'esta) setmana (a|de) {location}.
+l'oratge dels (pròxims|següents) (2|3|4|5|6|7) dies (a|de) {location}.
+(Condicions|Estat) de la meteorologia (actual|ara) (a|de) {location}.
+(Quin|Quina) és l'oratge el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Digues-me la (meteorologia|previsió) el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Com (està|pinta) el temps (d'aquesta|d'esta) setmana .
+Com (està|pinta) la meteorologia (d'aquesta|d'esta) setmana .
+Digues-me l'oratge el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+El temps dels (pròxims|següents) (2|3|4|5|6|7) dies .
+la meteorologia dels (pròxims|següents) (2|3|4|5|6|7) dies .
+(Condicions|Estat) de l'oratge ara mateix (a|de) {location}.
+(Condicions|Estat) del temps ara mateix (a|de) {location}.
+El temps (de|durant) la setmana (a|de) {location}.
+La meteorologia (de|durant) la setmana (a|de) {location}.
+Quin temps farà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al (matí|migdia|vespre) ?
+Com està l'oratge el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Digues-me el temps el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Previsió per hores de (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) (a|de) {location}.
+(Condicions|Estat) de la meteorologia ara mateix .
+(Actualització|Previsió) de l'oratge de dissabte i diumenge?
+(Actualització|Previsió) de l'oratge del cap de setmana?
+(Actualització|Previsió) del temps de dissabte i diumenge?
+(Actualització|Previsió) del temps del cap de setmana?
+(Digue'm|Digues-me|Explica'm) el temps de dissabte i diumenge?
+(Digue'm|Digues-me|Explica'm) el temps del cap de setmana?
+(Digue'm|Digues-me|Explica'm) la meteorologia de dissabte i diumenge?
+(Digue'm|Digues-me|Explica'm) la meteorologia del cap de setmana?
+(Meteorologia|Oratge|Temps) pel cap de setmana a {location}?
+(Meteorologia|Oratge|Temps) per dissabte i diumenge a {location}?
+(Ensenya'm|Mostra'm) l'oratge dels pròxims 7 dies .
+(Ensenya'm|Mostra'm) la previsió del temps setmanal .
+Farà (bo|calor|fred) després de demà a {location}?
+Plourà (aquest|este) cap de setmana a {location}.
+Previsió per (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la nit ?
+Previsió per (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a mitjanit a {location}?
+Previsió per (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al migdia a {location}?
+Farà bon dia (aquest|este) cap de setmana?
+Quin temps farà (aquest|este) cap de setmana?
+Quin és l'oratge (aquest|este) cap de setmana?
+Com està el temps (ara|avui|hui) a {location}?
+Com està la meteorologia (ara|avui|hui) a {location}?
+Em pots dir l'oratge (actualment|ara) a {location}?
+Algun avís del temps (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Alguna alerta del temps (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Quin temps hi haurà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Quina temperatura està prevista (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Quin és l'oratge pels (pròxims|següents) dies ?
+Em pots dir el temps (actualment|ara) ?
+Em pots dir la meteorologia (actualment|ara) ?
+de la meteorologia ara mateix (a|de) {location}.
+Quina és la previsió per (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Com estarà el temps a {location} (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge?|divendres)
+Quin temps farà dissabte i diumenge (?|vinent?)
+Quin és l'oratge dissabte i diumenge (?|vinent?)
+Com està el temps ara mateix ?
+Com està l'oratge ara mateix a {location}?
+Com està la meteorologia ara mateix ?
+Dona'm l'última actualització de l'oratge a {location}.
+Dona'm l'última actualització de la meteorologia .
+Dona'm l'última actualització del temps a {location}.
+Dona'm la darrera actualització de l'oratge .
+Dona'm la darrera actualització del temps .
+Em pots dir el temps a {location}?
+Em pots dir l'oratge ara mateix ?
+Em pots dir la meteorologia a {location}?
+Hi haurà tempesta després de demà ?
+Quin temps farà després de demà ?
+Què m'he d'esperar després de demà ?
+Farà bo dissabte i diumenge a {location}.
+Previsió del temps pel cap de setmana.
+Previsió del temps per dissabte i diumenge.
+Quin serà l'oratge durant dissabte i diumenge?
+Quin temps farà durant dissabte i diumenge?
+Quina és la meteorologia dissabte i diumenge?
+Previsió del temps de la setmana .
+(Digue'm|Digues-me|Explica'm) el temps (d'|per) (aquesta|esta) setmana (a|de) {location}.
+(Digue'm|Digues-me|Explica'm) la meteorologia (d'|per) (aquesta|esta) setmana (a|de) {location}.
+(Quin|Quina) és la (meteorologia|previsió) el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+(Quin|Quina) és l'oratge el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Digues-me la (meteorologia|previsió) el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Com (està|pinta) el temps (d'aquesta|d'esta) setmana (a|de) {location}.
+Com (està|pinta) la meteorologia (d'aquesta|d'esta) setmana (a|de) {location}.
+Digues-me l'oratge a (la|les) (1|10|11|12|2|3|4|5|6|7|8|9) del (matí|migdia|vespre) ?
+El temps dels (pròxims|següents) (2|3|4|5|6|7) dies (a|de) {location}.
+la meteorologia dels (pròxims|següents) (2|3|4|5|6|7) dies (a|de) {location}.
+(Quin|Quina) és el temps el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Com està la (meteorologia|previsió) el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Farà (bo|calor|sol) (aquest|este) cap de setmana a {location}?
+Quin temps farà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al (matí|migdia|vespre) a {location}?
+Com està l'oratge el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Digues-me el temps el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Quin temps farà pels (pròxims|següents) (2|3|4|5|6|7) dies ?
+Quin és l'oratge pels (pròxims|següents) (2|3|4|5|6|7) dies ?
+(Condicions|Estat) de la meteorologia ara mateix (a|de) {location}.
+(Ensenya'm|Mostra'm) l'oratge dels pròxims 7 dies (a|de) {location}.
+(Ensenya'm|Mostra'm) la previsió del temps setmanal (a|de) {location}.
+Com estarà el temps (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al (matí|migdia|vespre) ?
+Com està el temps el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Quin temps farà a {location} (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al (matí?|migdia?|vespre?)
+(Actualització|Previsió) meteorològica de dissabte i diumenge a {location}.
+(Actualització|Previsió) meteorològica del cap de setmana a {location}.
+(Ensenya'm|Mostra'm) el temps dels pròxims 7 dies .
+(Ensenya'm|Mostra'm) la meteorologia dels pròxims 7 dies .
+Previsió per (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la nit a {location}?
+Farà bo (aquest|este) cap de setmana a {location}.
+Quin temps farà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la vesprada ?
+Quina és la meteorologia (aquest|este) cap de setmana?
+Tu organitzaries activitats exteriors (aquest|este) cap de setmana?
+Quin és l'oratge pels (pròxims|següents) dies a {location}?
+Em pots dir el temps (actualment|ara) a {location}?
+Em pots dir la meteorologia (actualment|ara) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Quin és el temps pels (pròxims|següents) dies ?
+Quina és la meteorologia pels (pròxims|següents) dies ?
+Previsió del temps de la setmana (a|de) {location}.
+Quin temps farà el cap de setmana (?|vinent?)
+Quin és l'oratge el cap de setmana (?|vinent?)
+Quina és la meteorologia dissabte i diumenge (?|vinent?)
+Com està el temps ara mateix a {location}?
+Com està la meteorologia ara mateix a {location}?
+Dona'm l'última actualització de la meteorologia a {location}.
+Dona'm la darrera actualització de l'oratge a {location}.
+Dona'm la darrera actualització de la meteorologia .
+Dona'm la darrera actualització del temps a {location}.
+Em pots dir el temps ara mateix ?
+Em pots dir l'oratge ara mateix a {location}?
+Em pots dir la meteorologia ara mateix ?
+Algun avís del temps després de demà ?
+Alguna alerta del temps després de demà ?
+Hi haurà tempesta després de demà a {location}?
+Quin temps farà a {location} després de demà
+Quin temps farà després de demà a {location}?
+Quin temps hi haurà després de demà ?
+Quina temperatura està prevista després de demà ?
+Què m'he d'esperar després de demà a {location}?
+Hi haurà tempesta dissabte i diumenge a {location}.
+Quin serà l'oratge dissabte i diumenge a {location}?
+Quin serà l'oratge durant el cap de setmana?
+Quin temps farà dissabte i diumenge a {location}?
+Quin temps farà dissabte i diumenge que ve?
+Quin temps farà durant el cap de setmana?
+Quin és l'oratge dissabte i diumenge que ve?
+Quina és la meteorologia durant dissabte i diumenge?
+(Quin|Quina) (meteorologia|oratge|temps) fa (actualment?|ara?)
+(Com|Quin|Quina) és [(el|l'|la)] (horatge?|previsió?|temps?)
+(Nevarà|Plourà) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+(demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al (matí|vespre) ?
+(Meteorologia|Oratge|Temps) setmanal (a|de) {location}.
+Farà (bo|calor|fred) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+El (tempsd'aquesta|tempsd'esta) setmana (.|a{location}.|de{location}.)
+la (meteorologiad'aquesta|meteorologiad'esta) setmana (.|a{location}.|de{location}.)
+(Com|com) està l'oratge ?
+(Ensenya'm|Mostra'm) l'oratge setmanal .
+Quin (oratge|temps) hi ha?
+de l'oratge (a|de) {location}?
+del temps (a|de) {location}?
+l'oratgede la setmana (.|a{location}.|de{location}.)
+Com pinta l'oratge ?
+Fa bo a fora?
+Fa bo al carrer?
+de la previsió ?
+Quina meteorologia hi ha?
+Plourà dissabte i diumenge?
+(Nevarà|Plourà) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+(l'oratged'aquesta|l'oratged'esta) setmana (.|a{location}.|de{location}.)
+(Digue'm|Digues-me) el temps
+(Digue'm|Digues-me) la meteorologia
+(Meteorologia|Oratge|Temps) setmanal .
+Quin (oratge|temps) fa?
+de l'oratge ?
+del temps ?
+Quina meteorologia fa?
+(Quin|Quina) és la (meteorologia|previsió) el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Com (està|pinta) l'oratge a (la|les) (1|10|11|12|2|3) del (matí|migdia|vespre) ?
+Com (està|pinta) l'oratge a (la|les) (4|5|6|7|8|9) del (matí|migdia|vespre) ?
+Digues-me la (meteorologia|previsió) a (la|les) (1|10|11|12|2|3) del (matí|migdia|vespre) ?
+Digues-me la (meteorologia|previsió) a (la|les) (4|5|6|7|8|9) del (matí|migdia|vespre) ?
+Previsió per (demà|dijous|dilluns|dimarts) a (la|les) (1|10|11) del (matí|migdia|vespre) .
+Previsió per (demà|dijous|dilluns|dimarts) a (la|les) (12|2|3) del (matí|migdia|vespre) .
+Previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (1|10|11) del (matí|migdia|vespre) .
+Previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (12|2|3) del (matí|migdia|vespre) .
+Previsió per (demà|dijous|dilluns|dimarts) a (la|les) (4|5|6) del (matí|migdia|vespre) .
+Previsió per (demà|dijous|dilluns|dimarts) a (la|les) (7|8|9) del (matí|migdia|vespre) .
+Previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (4|5|6) del (matí|migdia|vespre) .
+Previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (7|8|9) del (matí|migdia|vespre) .
+Digues-me l'oratge a (la|les) (1|10|11|12|2|3|4|5|6|7|8|9) del (matí|migdia|vespre) a {location}?
+(Quin|Quina) és el temps el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+(Digue'm|Digues-me|Explica'm) la previsió del temps (d'|per) (aquesta|esta) setmana .
+Com està la (meteorologia|previsió) el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Digues-me l'oratge a (la|les) (1|10|11|12|2|3|4|5|6|7|8|9) de la (nit|tarda|vesprada) ?
+Digues-me el temps a (la|les) (1|10|11|12|2|3|4|5|6|7|8|9) del (matí|migdia|vespre) ?
+Quin temps farà pels (pròxims|següents) (2|3|4|5|6|7) dies a {location}?
+Quin és l'oratge pels (pròxims|següents) (2|3|4|5|6|7) dies a {location}?
+Com (està|pinta) la previsió del temps (d'aquesta|d'esta) setmana .
+Com estarà el temps (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al (matí|migdia|vespre) a {location}?
+Com està el temps el (proper|pròxim|següent) (dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Quina és la meteorologia pels (pròxims|següents) (2|3|4|5|6|7) dies ?
+(Ensenya'm|Mostra'm) el temps dels pròxims 7 dies (a|de) {location}.
+(Ensenya'm|Mostra'm) la meteorologia dels pròxims 7 dies (a|de) {location}.
+Com estarà el temps a {location} (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al (matí?|migdia?|vespre?)
+(Actualització|Previsió) de l'oratge de dissabte i diumenge a {location}.
+(Actualització|Previsió) de l'oratge del cap de setmana a {location}.
+(Actualització|Previsió) del temps de dissabte i diumenge a {location}.
+(Actualització|Previsió) del temps del cap de setmana a {location}.
+(Digue'm|Digues-me|Explica'm) la previsió del temps de dissabte i diumenge?
+(Digue'm|Digues-me|Explica'm) la previsió del temps del cap de setmana?
+Quin temps farà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la vesprada a {location}?
+Hi haurà tempesta (aquest|este) cap de setmana a {location}.
+Com estarà el temps (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la vesprada ?
+Quin temps farà a {location} (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la vesprada?
+Quin és el temps pels (pròxims|següents) dies a {location}?
+Quina és la meteorologia pels (pròxims|següents) dies a {location}?
+Quina és la meteorologia el cap de setmana (?|vinent?)
+Dona'm la darrera actualització de la meteorologia a {location}.
+Em pots dir el temps ara mateix a {location}?
+Em pots dir la meteorologia ara mateix a {location}?
+Algun avís del temps després de demà a {location}?
+Alguna alerta del temps després de demà a {location}?
+Com estarà el temps a {location} després de demà
+Quin temps hi haurà després de demà a {location}?
+Quina temperatura està prevista després de demà a {location}?
+Quina és la previsió per després de demà ?
+Hi ha algun avís meteorològic pel cap de setmana?
+Hi ha alguna alerta meteorològica pel cap de setmana?
+Previsió del temps pel cap de setmana a {location}?
+Previsió del temps per dissabte i diumenge a {location}?
+Quin serà l'oratge el cap de setmana a {location}?
+Quin temps farà el cap de setmana a {location}?
+Quin temps farà el cap de setmana que ve?
+Quin és l'oratge el cap de setmana que ve?
+Quina és la meteorologia dissabte i diumenge a {location}?
+Quina és la meteorologia dissabte i diumenge que ve?
+Quina és la meteorologia durant el cap de setmana?
+Quina és la previsió del temps dissabte i diumenge?
+Parla'm
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (1|10|11) del (matí|migdia|vespre) ?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (12|2|3) del (matí|migdia|vespre) ?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (4|5|6) del (matí|migdia|vespre) ?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (7|8|9) del (matí|migdia|vespre) ?
+Previsió per (demà|dijous) a (la|les) (1|10|11) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (dilluns|dimarts) a (la|les) (1|10|11) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (demà|dijous) a (la|les) (12|2|3) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (dilluns|dimarts) a (la|les) (12|2|3) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (dimecres|dissabte) a (la|les) (1|10|11) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (diumenge|divendres) a (la|les) (1|10|11) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (dimecres|dissabte) a (la|les) (12|2|3) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (diumenge|divendres) a (la|les) (12|2|3) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (demà|dijous) a (la|les) (4|5|6) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (dilluns|dimarts) a (la|les) (4|5|6) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (demà|dijous) a (la|les) (7|8|9) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (dilluns|dimarts) a (la|les) (7|8|9) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (dimecres|dissabte) a (la|les) (4|5|6) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (diumenge|divendres) a (la|les) (4|5|6) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (dimecres|dissabte) a (la|les) (7|8|9) del (matí|migdia|vespre) (a|de) {location}.
+Previsió per (diumenge|divendres) a (la|les) (7|8|9) del (matí|migdia|vespre) (a|de) {location}.
+Com (està|pinta) l'oratge a (la|les) (1|10|11|12|2|3) del (matí|migdia|vespre) a {location}?
+Com (està|pinta) l'oratge a (la|les) (4|5|6|7|8|9) del (matí|migdia|vespre) a {location}?
+Digues-me la (meteorologia|previsió) a (la|les) (1|10|11|12|2|3) del (matí|migdia|vespre) a {location}?
+Digues-me la (meteorologia|previsió) a (la|les) (4|5|6|7|8|9) del (matí|migdia|vespre) a {location}?
+Com (està|pinta) l'oratge a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) ?
+Com (està|pinta) l'oratge a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) ?
+Digues-me la (meteorologia|previsió) a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) ?
+Digues-me la (meteorologia|previsió) a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) ?
+Previsió per (demà|dijous|dilluns|dimarts) a (la|les) (1|10|11) de la (nit|tarda|vesprada) .
+Previsió per (demà|dijous|dilluns|dimarts) a (la|les) (12|2|3) de la (nit|tarda|vesprada) .
+Previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (1|10|11) de la (nit|tarda|vesprada) .
+Previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (12|2|3) de la (nit|tarda|vesprada) .
+Previsió per (demà|dijous|dilluns|dimarts) a (la|les) (4|5|6) de la (nit|tarda|vesprada) .
+Previsió per (demà|dijous|dilluns|dimarts) a (la|les) (7|8|9) de la (nit|tarda|vesprada) .
+Previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (4|5|6) de la (nit|tarda|vesprada) .
+Previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (7|8|9) de la (nit|tarda|vesprada) .
+(Digue'm|Digues-me|Explica'm) la previsió del temps (d'|per) (aquesta|esta) setmana (a|de) {location}.
+Com (està|pinta) el temps a (la|les) (1|10|11|12|2|3) del (matí|migdia|vespre) ?
+Com (està|pinta) el temps a (la|les) (4|5|6|7|8|9) del (matí|migdia|vespre) ?
+Digues-me l'oratge a (la|les) (1|10|11|12|2|3|4|5|6|7|8|9) de la (nit|tarda|vesprada) a {location}?
+Digues-me el temps a (la|les) (1|10|11|12|2|3|4|5|6|7|8|9) del (matí|migdia|vespre) a {location}?
+Digues-me el temps a (la|les) (1|10|11|12|2|3|4|5|6|7|8|9) de la (nit|tarda|vesprada) ?
+Com (està|pinta) la previsió del temps (d'aquesta|d'esta) setmana (a|de) {location}.
+Quina és la meteorologia pels (pròxims|següents) (2|3|4|5|6|7) dies a {location}?
+(Ensenya'm|Mostra'm) la previsió del temps dels pròxims 7 dies .
+Com estarà el temps (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la vesprada a {location}?
+Com estarà el temps a {location} (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la vesprada?
+Quina és la previsió del temps (aquest|este) cap de setmana?
+Tu organitzaries activitats a l'aire lliure (aquest|este) cap de setmana?
+És bona idea organitzar activitats exteriors (aquest|este) cap de setmana?
+Quina és la previsió del temps pels (pròxims|següents) dies ?
+Quina és la previsió del temps dissabte i diumenge (?|vinent?)
+Quina és la previsió per després de demà a {location}?
+Quin serà l'oratge dissabte i diumenge que ve a {location}?
+Quin temps farà dissabte i diumenge que ve a {location}?
+Quina és la meteorologia el cap de setmana a {location}?
+Quina és la meteorologia el cap de setmana que ve?
+Quina és la previsió del temps durant dissabte i diumenge?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (1|10|11) del (matí|migdia|vespre) a {location}?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (12|2|3) del (matí|migdia|vespre) a {location}?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (4|5|6) del (matí|migdia|vespre) a {location}?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (7|8|9) del (matí|migdia|vespre) a {location}?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (1|10|11) de la (nit|tarda|vesprada) ?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (12|2|3) de la (nit|tarda|vesprada) ?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (4|5|6) de la (nit|tarda|vesprada) ?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (7|8|9) de la (nit|tarda|vesprada) ?
+Previsió per (demà|dijous) a (la|les) (1|10|11) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (dilluns|dimarts) a (la|les) (1|10|11) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (demà|dijous) a (la|les) (12|2|3) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (dilluns|dimarts) a (la|les) (12|2|3) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (dimecres|dissabte) a (la|les) (1|10|11) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (diumenge|divendres) a (la|les) (1|10|11) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (dimecres|dissabte) a (la|les) (12|2|3) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (diumenge|divendres) a (la|les) (12|2|3) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (demà|dijous) a (la|les) (4|5|6) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (dilluns|dimarts) a (la|les) (4|5|6) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (demà|dijous) a (la|les) (7|8|9) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (dilluns|dimarts) a (la|les) (7|8|9) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (dimecres|dissabte) a (la|les) (4|5|6) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (diumenge|divendres) a (la|les) (4|5|6) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (dimecres|dissabte) a (la|les) (7|8|9) de la (nit|tarda|vesprada) (a|de) {location}.
+Previsió per (diumenge|divendres) a (la|les) (7|8|9) de la (nit|tarda|vesprada) (a|de) {location}.
+Com (està|pinta) l'oratge a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) a {location}?
+Com (està|pinta) l'oratge a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) a {location}?
+Digues-me la (meteorologia|previsió) a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) a {location}?
+Digues-me la (meteorologia|previsió) a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) a {location}?
+Com (està|pinta) el temps a (la|les) (1|10|11|12|2|3) del (matí|migdia|vespre) a {location}?
+Com (està|pinta) el temps a (la|les) (4|5|6|7|8|9) del (matí|migdia|vespre) a {location}?
+Com (està|pinta) el temps a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) ?
+Com (està|pinta) el temps a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) ?
+Digues-me el temps a (la|les) (1|10|11|12|2|3|4|5|6|7|8|9) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió del temps pels (pròxims|següents) (2|3|4|5|6|7) dies ?
+(Ensenya'm|Mostra'm) la previsió del temps dels pròxims 7 dies (a|de) {location}.
+Quina és la previsió del temps pels (pròxims|següents) dies a {location}?
+Quina és la previsió del temps el cap de setmana (?|vinent?)
+Hi ha algun avís meteorològic pel cap de setmana a {location}?
+Hi ha alguna alerta meteorològica pel cap de setmana a {location}?
+Quin serà l'oratge el cap de setmana que ve a {location}?
+Quin temps farà el cap de setmana que ve a {location}?
+Quina és la meteorologia dissabte i diumenge que ve a {location}?
+Quina és la previsió del temps dissabte i diumenge a {location}?
+Quina és la previsió del temps dissabte i diumenge que ve?
+Quina és la previsió del temps durant el cap de setmana?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (1|10|11) de la (nit|tarda|vesprada) a {location}?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (12|2|3) de la (nit|tarda|vesprada) a {location}?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (4|5|6) de la (nit|tarda|vesprada) a {location}?
+Com (està|pinta) la (meteorologia|previsió) a (la|les) (7|8|9) de la (nit|tarda|vesprada) a {location}?
+Com (està|pinta) el temps a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) a {location}?
+Com (està|pinta) el temps a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (1|10|11) del (matí|migdia|vespre) ?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (12|2|3) del (matí|migdia|vespre) ?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (1|10|11) del (matí|migdia|vespre) ?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (12|2|3) del (matí|migdia|vespre) ?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (4|5|6) del (matí|migdia|vespre) ?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (7|8|9) del (matí|migdia|vespre) ?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (4|5|6) del (matí|migdia|vespre) ?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (7|8|9) del (matí|migdia|vespre) ?
+Quina és la previsió del temps pels (pròxims|següents) (2|3|4|5|6|7) dies a {location}?
+És bona idea organitzar activitats a l'aire lliure (aquest|este) cap de setmana?
+Quina és la meteorologia el cap de setmana que ve a {location}?
+Quina és la previsió del temps el cap de setmana a {location}?
+Quina és la previsió del temps el cap de setmana que ve?
+(Digue'm|Digues-me) l'oratge
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (1|10|11) del (matí|migdia|vespre) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (12|2|3) del (matí|migdia|vespre) a {location}?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (1|10|11) del (matí|migdia|vespre) a {location}?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (12|2|3) del (matí|migdia|vespre) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (4|5|6) del (matí|migdia|vespre) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (7|8|9) del (matí|migdia|vespre) a {location}?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (4|5|6) del (matí|migdia|vespre) a {location}?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (7|8|9) del (matí|migdia|vespre) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (1|10|11) de la (nit|tarda|vesprada) ?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (12|2|3) de la (nit|tarda|vesprada) ?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (1|10|11) de la (nit|tarda|vesprada) ?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (12|2|3) de la (nit|tarda|vesprada) ?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (4|5|6) de la (nit|tarda|vesprada) ?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (7|8|9) de la (nit|tarda|vesprada) ?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (4|5|6) de la (nit|tarda|vesprada) ?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (7|8|9) de la (nit|tarda|vesprada) ?
+És bona idea organitzar activitats al carrer (aquest|este) cap de setmana a {location}?
+Quina és la previsió del temps dissabte i diumenge que ve a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (1|10|11) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (12|2|3) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (1|10|11) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (12|2|3) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (4|5|6) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió per (demà|dijous|dilluns|dimarts) a (la|les) (7|8|9) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (4|5|6) de la (nit|tarda|vesprada) a {location}?
+Quina és la previsió per (dimecres|dissabte|diumenge|divendres) a (la|les) (7|8|9) de la (nit|tarda|vesprada) a {location}?
+És bona idea organitzar activitats a l'aire lliure (aquest|este) cap de setmana a {location}?
+Quina és la previsió del temps el cap de setmana que ve a {location}?
+Digues-me el temps (de dissabte i diumenge|del cap de setmana) a {location}.
+Digues-me l'oratge (de dissabte i diumenge|del cap de setmana) a {location}.
+Digues-me la meteorologia (de dissabte i diumenge|del cap de setmana) a {location}.
+Digues-me la previsió del temps (de dissabte i diumenge|del cap de setmana) a {location}.
+Com estarà el temps a {location}?
+Quina és la previsió del temps a {location}?
+Quin temps farà avui a {location}?
+Digues-me el temps a {location}
+Digues-me la previsió a {location}
+Quin oratge farà a {location}?
+Dona'm la previsió del temps a {location}
+Previsió del temps a {location}
+Temps a {location}
+quin temps fa en {unit}
+quin temps fa en {unit} a {location}

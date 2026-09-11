@@ -1,0 +1,64 @@
+Zein da eguraldiaren iragarpena hurrengo (bi|hiru|lau|bost|sei|zazpi) egunetarako [{location}]
+Nolako eguraldia egingo du datorren astean [{location}]
+Erakutsi asteko iragarpena [{location}]
+Nolako eguraldia dago orain [{location}]
+Nolakoa da kanpoko eguraldia [{location}]
+Esan iezadazu nolako eguraldia dagoen [{location}]
+Nolakoa dago kanpoa gaur [{location}]
+Nolako eguraldia egingo du (gaur|bihar|etzi) [{location}]
+Zein da eguraldiaren iragarpena (gaurko|biharko) [{location}]
+Euria egingo du (gaur|bihar) [{location}]
+Nolako eguraldia egingo du (astelehenean|asteartean|asteazkenean|osteguna|ostirala|larunbatean|igandean) [{location}]
+Nolako eguraldia egingo du (gaur gauean|gaur arratsean|bihar goizean) [{location}]
+Zein da iragarpena (gaur gauerako|bihar goizerako) [{location}]
+Euria egingo du gaur gauean [{location}]
+Nolako eguraldia dago {unit} arabera
+Zein da biharko iragarpena [{location}]
+Erakutsi eguraldiaren iragarpena [{location}]
+Nolako eguraldia dago {location}
+Zein da asteburuko iragarpena [{location}]
+Eguraldi ona egingo du asteburuan [{location}]
+Nolako eguraldia egingo du larunbatean eta igandean [{location}]
+Kanpoko plan bat egin dezaket asteburuan [{location}]
+Zer eguraldi espero da
+Zer eguraldi espero da {location}
+Zer eguraldi espero da gaur
+Zer eguraldi espero da gaur {location}
+Zer eguraldi espero da bihar
+Zer eguraldi espero da bihar {location}
+Esan eguraldiaren iragarpena
+Esan eguraldiaren iragarpena {location}
+Esan eguraldiaren iragarpena gaur
+Esan eguraldiaren iragarpena gaur {location}
+Esan eguraldiaren iragarpena bihar
+Esan eguraldiaren iragarpena bihar {location}
+Nolako eguraldia izango da
+Nolako eguraldia izango da {location}
+Nolako eguraldia izango da gaur
+Nolako eguraldia izango da gaur {location}
+Nolako eguraldia izango da bihar
+Nolako eguraldia izango da bihar {location}
+Emadazu eguraldiaren iragarpena
+Emadazu eguraldiaren iragarpena {location}
+Emadazu eguraldiaren iragarpena gaur
+Emadazu eguraldiaren iragarpena gaur {location}
+Emadazu eguraldiaren iragarpena bihar
+Emadazu eguraldiaren iragarpena bihar {location}
+Zer eguraldi izango dugu
+Zer eguraldi izango dugu {location}
+Zer eguraldi izango dugu gaur
+Zer eguraldi izango dugu gaur {location}
+Zer eguraldi izango dugu bihar
+Zer eguraldi izango dugu bihar {location}
+Nola dago zerua
+Nola dago zerua {location}
+Nola dago zerua gaur
+Nola dago zerua gaur {location}
+Nola dago zerua bihar
+Nola dago zerua bihar {location}
+Jakin nahi dut iragarpena
+Jakin nahi dut iragarpena {location}
+Jakin nahi dut iragarpena gaur
+Jakin nahi dut iragarpena gaur {location}
+Jakin nahi dut iragarpena bihar
+Jakin nahi dut iragarpena bihar {location}

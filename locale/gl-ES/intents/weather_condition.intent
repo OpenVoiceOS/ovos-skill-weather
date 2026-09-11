@@ -1,0 +1,147 @@
+(hai|vai) sol
+(está|estará) nubrado
+(hai|haberá) nubes
+(espérase|hai) néboa
+(agárdase|hai|prevese) neve
+(haberá|hai) treboada
+está (cuberto|chovendo|nevando)
+vai chover
+haberá tormenta
+(hai|vai) sol en {location}
+(está|estará) nubrado en {location}
+(hai|haberá) nubes en {location}
+(espérase|hai) néboa en {location}
+(agárdase|hai|prevese) neve en {location}
+(haberá|hai) treboada en {location}
+está (cuberto|chovendo|nevando) en {location}
+hai (previsión|probabilidades) de chuvia
+vai estar (soleado|nubrado) hoxe
+está a (chover|nevar) [hoxe]
+preciso dun (chuvasqueiro|paraugas) mañá
+vai haber (chuvieiras|precipitacións) [hoxe]
+está o día (cuberto|escuro|gris)
+o ceo está (despexado|soleado|solleiro)
+haberá néboa esta (mañá|tarde)
+debo levar paraugas (comigo|hoxe)
+hai alertas por (tormenta|treboadas)
+está cuberto agora mesmo
+podo esperar ceos despexados
+que tan despexado está
+vai estar nubrado [mañá]
+debería preocuparme pola néboa
+hai néboa agora mesmo
+teño que levar impermeable
+vai chover en {location}
+vai chover a chuzos
+vai chover cando saia?
+canta neve se espera
+na previsión dan neve
+vai nevar esta noite
+haberá tormenta en {location}
+hai lóstregos e tronos
+hai unha treboada hoxe
+vai estar (soleado|nubrado) hoxe en {location}
+está a (chover|nevar) [hoxe] en {location}
+está o día (cuberto|escuro|gris) en {location}
+o ceo está (despexado|soleado|solleiro) en {location}
+haberá néboa esta (mañá|tarde) en {location}
+hai alertas por (tormenta|treboadas) en {location}
+a néboa afectará a miña (condución|viaxe)
+hai probabilidades de que chova [(hoxe|mañá)]
+agárdase que as estradas estean (nevadas|xeadas)
+está cuberto agora mesmo en {location}
+podo esperar ceos despexados en {location}
+que tan despexado está en {location}
+vai estar nubrado [mañá] en {location}
+debería preocuparme pola néboa en {location}
+hai néboa agora mesmo en {location}
+dan chuvia na previsión do tempo
+debo levar as botas de auga
+debo levar un chapeu de chuvia
+hai previsión de chuvia para {location}
+hai probabilidades de chuvia en {location}
+teño que levar paraugas ao evento
+teño que poñer roupa de auga
+teño que prepararme para a chuvia
+teño que prepararme para unha tormenta
+vai chover a chuzos en {location}
+vai chover a fin de semana?
+vai ser un día de chuvia
+canta neve se espera en {location}
+na previsión dan neve en {location}
+vai nevar esta noite en {location}
+debería quedar na casa por treboadas
+está previsto que haxa unha treboada
+hai lóstregos e tronos en {location}
+hai unha treboada hoxe en {location}
+é probable que haxa unha treboada
+(está|estará) nubrado (hoxe|mañá)
+(hai|haberá) nubes (hoxe|mañá)
+(hai|vai) sol hoxe
+(espérase|hai) unha treboada
+está (cuberto|chovendo|nevando) hoxe
+hai (néboa|neve|treboada) hoxe
+vai (chover|nevar) hoxe
+podo esperar sol
+hai néboa fóra
+vai chover mañá
+(está|estará) nubrado (hoxe|mañá) en {location}
+(hai|haberá) nubes (hoxe|mañá) en {location}
+(hai|vai) sol hoxe en {location}
+(espérase|hai) unha treboada en {location}
+está (cuberto|chovendo|nevando) hoxe en {location}
+hai (alertas|avisos) de néboa vixentes
+hai (néboa|neve|treboada) hoxe en {location}
+vai (chover|nevar) hoxe en {location}
+espérase néboa (densa|espesa) esta noite
+o ceo está (despexado|soleado|solleiro) hoxe
+debo prepararme para a (chuvia|neve)
+podo esperar sol en {location}
+debería preocuparme pola néboa hoxe
+hai néboa fóra en {location}
+dan chuvia para máis tarde
+dan chuvia para o serán
+debo levar paraugas ao parque
+debo levar paraugas no bolso
+hai probabilidades de chuvia hoxe
+teño que preocuparme pola chuvia
+teño que protexerme da chuvia
+vai chover mañá en {location}
+debo esperar acumulación de neve
+debo prepararme para unha treboada
+espérase unha situación meteorolóxica adversa
+hai alertas por treboadas hoxe
+hai avisos de tempo severo
+hai lóstregos e tronos hoxe
+hai (alertas|avisos) de néboa vixentes en {location}
+espérase néboa (densa|espesa) esta noite en {location}
+o ceo está (despexado|soleado|solleiro) hoxe en {location}
+debería preocuparme pola néboa hoxe en {location}
+dan chuvia para máis tarde en {location}
+dan chuvia para o serán en {location}
+debo levar un impermeable para a viaxe
+hai probabilidades de chuvia hoxe en {location}
+preciso dun paraugas para ir ao traballo
+teño que preocuparme pola chuvia en {location}
+teño que prepararme por se hai chuvieiras
+teño que tomar precaucións por se chove
+debo esperar acumulación de neve en {location}
+debo prepararme para a neve en {location}
+debería quedar na casa por mal tempo
+debo prepararme para unha treboada en {location}
+espérase unha situación meteorolóxica adversa en {location}
+hai alertas por treboadas hoxe en {location}
+hai avisos de tempo severo en {location}
+hai lóstregos e tronos hoxe en {location}
+a visibilidade está (baixa|reducida) por mor da néboa
+a néboa afectará a miña (condución|viaxe) en {location}
+agárdase que as estradas estean (nevadas|xeadas) en {location}
+dan chuvia na previsión do tempo para {location}
+teño que prepararme para a chuvia en {location}
+vai ser un día de chuvia en {location}
+debería quedar na casa por treboadas en {location}
+está previsto que haxa unha treboada en {location}
+é probable que haxa unha treboada en {location}
+a visibilidade está (baixa|reducida) por mor da néboa en {location}
+debo facer un plan de reserva por se chove
+debería quedar na casa por mal tempo en {location}

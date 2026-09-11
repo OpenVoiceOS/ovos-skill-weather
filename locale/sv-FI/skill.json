@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Sää",
+  "description": "Kysy säätä, ennustetta, odotettua sademäärää ja paljon muuta. Voit kysyä myös muista kaupungeista ympäri maailmaa. Nykyinen sää ja ennusteet tulevat OpenMeteosta.",
+  "examples": [
+    "Millainen sää on?",
+    "Paljonko on lämpötila?",
+    "Millainen ennuste on huomiselle?",
+    "Millainen sää on Turussa?",
+    "Paljonko Pariisissa on huomenna astetta?",
+    "Paljonko huomenna on ylin lämpötila?",
+    "Milloin aurinko laskee?",
+    "Sataako Rovaniemellä lunta?",
+    "Sataako lunta?",
+    "Millainen sää on tiistaina?",
+    "Millainen sää on seuraavat kolme päivää?",
+    "Paljonko on ilmankosteus?",
+    "Millainen sää on tänä viikonloppuna?",
+    "Millainen ennuste on huomiselle Lontoossa?",
+    "Kuinka paljon tuulee?",
+    "Milloin sataa vettä?",
+    "Onko tiistaina kylmä?",
+    "sataako?"
+  ],
+  "tags": [
+    "sää",
+    "ennuste",
+    "sade",
+    "ilmankosteus",
+    "lumi",
+    "lämpötila"
+  ]
+}

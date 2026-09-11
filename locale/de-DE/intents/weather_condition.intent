@@ -1,0 +1,136 @@
+(ist|wird) es bewölkt [(heute|morgen|sein)]
+(gibt|wird) es Wolken [(heute|morgen|geben)]
+(regnet|stürmt) es in {location}
+gibt es (draußen|gerade) Nebel
+wird es (Niederschlag|Schauer) geben
+wird es [(stark|draußen|heute|morgen)] regnen
+wird ein (Sturm|Unwetter) erwartet
+ist der Himmel (klar|sonnig)
+ist es draußen (düster|grau)
+ist es heute (bedeckt|neblig)
+ist ein Gewitter (wahrscheinlich|vorhergesagt)
+gibt es eine Wolkendecke
+kann ich Sonnenschein erwarten
+scheint [heute] die Sonne
+wie klar ist es
+besteht [heute] eine Regenwahrscheinlichkeit
+ist [heute] Regen wahrscheinlich
+wird später Regen erwartet
+ist es schneereich heute
+schneit [heute] in {location}
+wird es heute schneien
+gibt es ein Gewitter
+gibt es heute Sturmwarnungen
+(ist|wird) es bewölkt [(heute|morgen|sein)] in {location}
+(gibt|wird) es Wolken [(heute|morgen|geben)] in {location}
+gibt es (draußen|gerade) Nebel in {location}
+wird es [(heute|morgen)] in {location} regnen
+ist der Himmel (klar|sonnig) in {location}
+wird es heute (Abend|Morgen) Nebel geben
+wird heute Nacht (dichter|dicker) Nebel erwartet
+ist ein Gewitter (wahrscheinlich|vorhergesagt) in {location}
+muss ich mich auf (Regen|Schnee) vorbereiten
+werden die Straßen voraussichtlich (vereist|verschneit) sein
+wird in {location} ein (Sturm|Unwetter) erwartet
+ist es draußen in {location} (düster|grau)
+ist es [heute] in {location} (bedeckt|neblig)
+gibt es in {location} eine Wolkendecke
+kann ich in {location} Sonnenschein erwarten
+scheint [heute] in {location} die Sonne
+wie klar ist es in {location}
+wird Nebel meinen meine Fahrt beeinträchtigen
+ist [heute] in {location} Regen wahrscheinlich
+muss ich Vorkehrungen gegen Regen treffen
+muss ich mich vor Regen schützen
+soll ich [heute] meinen Regenschirm mitbringen
+sollte ich auf Regen vorbereitet sein
+wird es ein regnerischer Tag sein
+wird es in {location} stark regnen
+wird später in {location} Regen erwartet
+ist es schneereich [heute] in {location}
+wird es heute in {location} schneien
+gibt es in {location} ein Gewitter
+gibt es [heute] Donner und Blitz
+gibt es heute in {location} Sturmwarnungen
+sollte ich wegen Stürmen drinnen bleiben
+(ist|wird) es bewölkt sein (heute|morgen)
+(gibt|wird) es Wolken geben (heute|morgen)
+(regnet|stürmt) es heute in {location}
+wird (Nebel|Schnee) erwartet in {location}
+gibt es (Sturmwarnungen|Unwetterwarnungen) in {location}
+ist der Himmel (klar|sonnig) heute
+wird es heute (Niederschlag|Schauer) geben
+gibt es in {location} (Nebelwarnungen|Sturmwarnungen)
+brauche ich morgen einen (Regenmantel|Regenschirm)
+gibt es heute eine Wolkendecke
+kann ich klaren Himmel erwarten
+wird es heute sonnig sein
+wird Nebel meinen Arbeitsweg beeinträchtigen
+ist Regen für {location} vorhergesagt
+ist Regen in der Wettervorhersage
+muss ich auf Regenschauer achten
+muss ich eine Regenjacke mitbringen
+soll ich meine Gummistiefel mitbringen
+sollte ich einen Regenhut mitbringen
+sollte ich einen Regenschirm mitnehmen
+wird am Abend Regen erwartet
+wird es am Wochenende regnen
+ist in {location} Schnee vorhergesagt
+muss ich mit Schneeansammlungen|Schneeverwehungen rechnen
+wie viel Schnee wird erwartet
+wird Schnee in der Vorhersage
+wird es heute Nacht schneien
+gibt es heute ein Gewitter
+wird es ein Gewitter geben
+wird es einen Sturm geben
+(ist|wird) es bewölkt sein (heute|morgen) in {location}
+(gibt|wird) es Wolken geben (heute|morgen) in {location}
+ist der Himmel (klar|sonnig) heute in {location}
+muss ich mich auf einen (Regensturm|Sturm) vorbereiten
+ist die Sicht aufgrund von Nebel (eingeschränkt|schlecht)
+gibt es heute in {location} eine Wolkendecke
+kann ich in {location} klaren Himmel erwarten
+wird es heute in {location} sonnig sein
+sollte ich mir wegen Nebel Sorgen machen?
+wird Nebel meinen Arbeitsweg in {location} beeinträchtigen
+besteht die Möglichkeit, dass es morgen regnet?
+brauche ich einen Regenschirm für meinen Arbeitsweg
+ist Regen in der Wettervorhersage für {location}
+muss ich einen Regenschirm zur Veranstaltung mitbringen
+muss ich mich für regnerisches Wetter anziehen?
+muss ich mir wegen Regen Sorgen machen
+wird am Abend in {location} Regen erwartet
+muss ich mit Schneeansammlungen|Schneeverwehungen rechnen in {location}
+wie viel Schnee wird in {location} erwartet
+wird Schnee in der Vorhersage in {location}
+wird es heute Nacht in {location} schneien
+gibt es in {location} Donner und Blitz
+gibt es heute in {location} ein Gewitter
+sollte ich wegen schlechtem Wetter drinnen bleiben
+wird es in {location} ein Gewitter geben
+wird es in {location} einen Sturm geben
+(regnet|stürmt) es [heute]
+wird (Nebel|Schnee) erwartet
+ist (Regen|Schnee) vorhergesagt
+ist es (bedeckt|neblig|schneereich)
+gibt es (Nebelwarnungen|Sturmwarnungen|Unwetterwarnungen)
+ist die Sicht aufgrund von Nebel in {location} (eingeschränkt|schlecht)
+sollte ich mir wegen Nebel in {location} Sorgen machen?
+muss ich mir wegen Regen in {location} Sorgen machen
+muss ich mich auf einen Sturm in {location} vorbereiten
+sollte ich wegen schlechtem Wetter in {location} drinnen bleiben
+wird es heute (Abend|Morgen) in {location} Nebel geben
+muss ich mich auf (Regen|Schnee) vorbereiten in {location}
+wird heute Nacht in {location} (dichter|dicker) Nebel erwartet
+werden die Straßen in {location} voraussichtlich (vereist|verschneit) sein
+sollte ich mir wegen Nebel heute Sorgen machen?
+wird Nebel meinen meine Fahrt in {location} beeinträchtigen
+soll ich einen Regenschirm in den Park mitbringen
+sollte ich einen Plan B für Regen haben?
+sollte ich einen Regenschirm in meiner Tasche tragen
+sollte ich für die Reise einen Regenmantel einpacken
+wird es in {location} ein regnerischer Tag sein
+gibt es heute in {location} Donner und Blitz
+sollte ich wegen Stürmen in {location} drinnen bleiben
+sollte ich mir wegen Nebel heute in {location} Sorgen machen?
+schneit [heute]

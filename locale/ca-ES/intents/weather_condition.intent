@@ -1,0 +1,171 @@
+S'espera boira (densa|espessa) per (aquesta|esta) nit ?
+El cel està (encapotat|tapat) [(avui|hui)] a {location}?
+És possible que (ploga|plogui) [(avui|hui)] a {location}?
+Hi ha possibilitats que (ploga|plogui) [(avui|hui)] ?
+S'espera que les carreteres (estiguen|estiguin) (gelades|nevades) ?
+(Serà|Tindrem) un dia de pluja a {location}?
+Tindrem (pluja|precipitacions) [durant] el cap de setmana?
+Com de (clar|net) està el cel ?
+Hi ha (alertes|avisos) per boira actives ?
+Tenim visibilitat (baixa|reduïda) per la boira ?
+M'he de (preocupar|preparar) per si plou ?
+S'espera que (ploga|plogui) a la vesprada ?
+S'espera que (ploga|plogui) al vespre a {location}?
+El cel està (encapotat|tapat) ara mateix ?
+Puc esperar que (faci|faça) sol a {location}?
+Hi haurà boira (aquest|este) matí a {location}?
+Hi ha possibilitats que (ploga|plogui) a {location}?
+Hi ha alertes per tempesta [(avui|hui)] ?
+Hi ha llamps i trons [(avui|hui)] ?
+Fa un dia clar today a {location}?
+Hi ha boira al carrer a {location}?
+Hi ha boira ara mateix a {location}?
+Hi haurà boira aquest vespre a {location}?
+Hi haurà boira esta vesprada a {location}?
+M'he de preocupar per la boira ?
+He de prendre precaucions per si plou?
+Hi ha previsió de pluja a {location}?
+La previsió del temps anuncia pluja ?
+La previsió [meteorològica] anuncia pluja a {location}?
+La previsió ha anunciat neu a {location}?
+M'he de preparar per la neu ?
+Hi ha alertes per tempesta a {location}?
+Hi ha alguna alerta per tempesta ?
+Hi ha llamps i trons a {location}?
+Hi ha possibilitats de tempesta a {location}?
+(Hauria|He) de tenir pla (B|alternatiu) per si plou?
+S'espera boira (densa|espessa) per (aquesta|esta) nit a {location}?
+Hi ha possibilitats que (ploga|plogui) (avui|hui) a {location}?
+S'espera que les carreteres (estiguen|estiguin) (gelades|nevades) a {location}?
+Com de (clar|net) està el cel a {location}?
+Hi ha (alertes|avisos) per boira actives a {location}?
+Hi ha (alertes|avisos) per boira en vigor ?
+Tenim visibilitat (baixa|reduïda) per la boira a {location}?
+He de (preparar-me|vigilar) per si hi ha ruixats?
+M'he de (preocupar|preparar) per si plou a {location}?
+S'espera que (ploga|plogui) a la vesprada a {location}?
+El cel està (encapotat|tapat) ara mateix a {location}?
+Hi ha visibilitat (baixa|reduïda) per la boira ?
+Puc esperar que el cel (estiga|estigui) clar ?
+Hi ha alertes per tempesta (avui|hui) a {location}?
+Hi ha llamps i trons (avui|hui) a {location}?
+M'he de preocupar per la boira (avui|hui) ?
+Hi ha alguna alerta per tempesta (avui|hui) ?
+M'he de preocupar per la boira a {location}?
+La previsió del temps anuncia pluja a {location}?
+M'he de preparar per si hi ha aiguats?
+M'he de preparar per acumulacions de neu ?
+M'he de preparar per la neu a {location}?
+Hi ha alguna alerta per tempesta a {location}?
+Hi ha avisos per condicions atmosfèriques adverses ?
+(Fa|Farà) sol (avui|hui) a {location}?
+(està|estarà|serà) ennuvolat [(avui|demà)] a {location}
+Hi ha (nuvolositat|boira|tempesta) (avui|hui) ?
+(Serà|Tindrem) un dia plujós ?
+hi (ha|haurà) núvols a {location}
+Nevarà (aquesta|esta) nit a {location}?
+Hi (ha|haurà) tempesta a {location}?
+Hi ha (nuvolositat|boira) a {location}?
+El cel està (encapotat|tapat) ?
+Fa un dia (clar|gris|trist) ?
+És possible que (ploga|plogui) ?
+Fa sol [today] a {location}?
+Demà em farà falta paraigua?
+He d'agafar paraigua pel viatge?
+La previsió anuncia pluja ?
+M'he d'emportar paraigua al parc?
+M'he d'emportar les botes d'aigua?
+M'he d'endur paraigua a l'esdeveniment?
+M'he de preparar per aiguats?
+Plourà el cap de setmana?
+S'espera pluja després a {location}?
+S'espera pluja més tard ?
+Es preveu neu a {location}?
+Quanta neu s'espera a {location}?
+Hi haurà tempestat a {location}?
+S'esperen condicions atmosfèriques adverses ?
+S'ha anunciat tempesta a {location}?
+hi (ha|haurà) núvols (avui|demà) a {location}
+Hi ha (nuvolositat|boira|tempesta) (avui|hui) a {location}?
+El cel està (encapotat|tapat) (avui|hui) ?
+És possible que (ploga|plogui) (avui|hui) ?
+(Serà|Tindrem) un dia de pluja ?
+(Serà|Tindrem) un dia plujós a {location}?
+Hi ha (possibilitats|previsió) de pluja ?
+M'he de (preparar|vestir) per si plou?
+S'espera que (ploga|plogui) al vespre ?
+Fa un dia (clar|gris|trist) a {location}?
+Puc esperar que (faci|faça) sol ?
+Hi haurà boira (aquest|este) matí ?
+Hi ha possibilitats de pluja (avui?|hui?)
+Fa un dia clar today ?
+Hi ha boira al carrer ?
+Hi ha boira ara mateix ?
+Hi haurà boira aquest vespre ?
+Hi haurà boira esta vesprada ?
+Hi ha possibilitat de pluja demà?
+La previsió meteorològica anuncia pluja ?
+M'he d'emportar el paraigua al parc?
+M'he d'emportar les botes de pluja?
+M'he d'endur paraigua a la bossa?
+M'he de protegir de la pluja?
+Plourà durant el cap de setmana?
+S'espera pluja més tard a {location}?
+La previsió ha anunciat neu ?
+Hi ha possibilitats de tempesta ?
+S'esperen condicions atmosfèriques adverses a {location}?
+(Plou|Plourà|Nevarà) (avui|hui) ?
+(Avui|Hui) (neva|nevarà) ?
+(està|estarà|serà) ennuvolat [(avui|demà)]
+(Plou|Plourà|neva) a {location}?
+hi (ha|haurà) núvols
+S'espera (boira|neu) ?
+Plourà (fort|molt) ?
+Tindrem pluja (?|avui?|hui?)
+tindrem precipitacions (?|avui?|hui?)
+Fa sol ?
+Demà plourà ?
+He d'agafar paraigua?
+M'he d'endur impermeable?
+Plourà a fora?
+S'esperen tempestes ?
+(Plou|Plourà|Nevarà) (avui|hui) a {location}?
+(Avui|Hui) (neva|nevarà) a {location}?
+(Fa|Farà) sol (avui|hui) ?
+hi (ha|haurà) núvols (avui|demà)
+(M'emporto|T'enduries) un barret impermeable?
+S'espera (boira|neu) a {location}?
+Plourà (fort|molt) a {location}?
+Nevarà (aquesta|esta) nit ?
+Hi (ha|haurà) tempesta ?
+Hi ha (nuvolositat|boira) ?
+Hi haurà (ruixats|tempestat) ?
+Hi haurà ruixats (avui?|hui?)
+M'he d'endur paraigua (?|avui?|hui?)
+Fa sol today ?
+Demà em caldrà impermeable?
+Demà plourà a {location}?
+He d'agafar el paraigua?
+S'espera pluja després ?
+Es preveu neu ?
+Quanta neu s'espera ?
+S'esperen tempestes a {location}?
+S'ha anunciat tempesta ?
+Hi ha (alertes|avisos) per boira en vigor a {location}?
+Hi ha visibilitat (baixa|reduïda) per la boira a {location}?
+La boira m'afectarà el (desplaçament|trajecte) a la feina ?
+Puc esperar que el cel (estiga|estigui) clar a {location}?
+M'he de preocupar per la boira (avui|hui) a {location}?
+Hi ha alguna alerta per tempesta (avui|hui) a {location}?
+M'he de preparar per acumulacions de neu a {location}?
+Hi ha avisos per condicions atmosfèriques adverses a {location}?
+M'he de preparar per si hi ha tempesta ?
+M'he de quedar a casa pel mal temps ?
+M'he de quedar a casa per la tempesta ?
+(Plou|Plourà|neva) ?
+Plourà (avui?|hui?)
+La boira m'afectarà el (desplaçament|trajecte) a la feina a {location}?
+Em fa falta el paraigua per anar a la feina?
+M'he de preparar per si hi ha tempesta a {location}?
+M'he de quedar a casa pel mal temps a {location}?
+M'he de quedar a casa per la tempesta a {location}?

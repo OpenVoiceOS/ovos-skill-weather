@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Hava Durumu",
+  "description": "Hava durumunu, tahminleri, beklenen yağışı ve daha fazlasını öğrenin. Dünyanın başka şehirlerini de sorabilirsiniz. Güncel hava durumu ve tahminler OpenMeteo kaynaklıdır.",
+  "examples": [
+    "Hava nasıl?",
+    "Hava kaç derece?",
+    "Yarın hava nasıl olacak?",
+    "İzmir'de hava nasıl?",
+    "Yarın Paris'te hava kaç derece Celsius olacak?",
+    "Yarın en yüksek sıcaklık kaç olacak?",
+    "Güneş ne zaman batıyor?",
+    "Erzurum'da kar yağacak mı?",
+    "Kar yağacak mı?",
+    "Salı günü hava nasıl olacak?",
+    "Önümüzdeki üç gün hava nasıl olacak?",
+    "Nem oranı kaç?",
+    "Bu hafta sonu hava nasıl olacak?",
+    "Yarın Londra'da hava nasıl olacak?",
+    "Rüzgar ne kadar kuvvetli?",
+    "Ne zaman yağmur yağacak?",
+    "Salı günü hava soğuk olacak mı?",
+    "yağmur yağıyor mu?"
+  ],
+  "tags": [
+    "hava durumu",
+    "tahmin",
+    "yağmur",
+    "nem",
+    "kar",
+    "sıcaklık"
+  ]
+}
