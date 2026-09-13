@@ -92,7 +92,6 @@ Hay previsión de tormenta en {location}?
 Hay previsión de una tormenta ?
 Debo dentro por las tormentas 
 Hay pronóstico de tormenta eléctrica 
-Necesito prepararme para una tormenta 
 Se producirá tormenta hoy en {location}
 (Debería|Debo) (empacar|preparar) un (chubasquero|impermeable) para el viaje
 (Debería|Debo) (alarmarme|preocuparme) por la (niebla|lluvia) en {location}
@@ -272,3 +271,7 @@ Debería quedarme en casa a causa de las tormentas en {location}
 Debería quedarme en casa debido a el mal tiempo en {location}
 Debo en casa a causa de el mal tiempo en {location}
 Debería quedarme en casa a causa de el mal tiempo en {location}
+debo llevar un chubasquero
+debo llevar un paraguas
+necesito un chubasquero
+necesito un paraguas
