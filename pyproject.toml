@@ -26,7 +26,7 @@ test = [
     "pytest",
     "pytest-cov",
     "pytest-timeout",
-    "ovoscope>=1.5.0",
+    "ovoscope>=1.8.5a1",
     "ovos-adapt-parser>=1.0.9,<2.0.0",
     "ovos-core[skills_lgpl]>=0.0.5a28",
     "ovos-plugin-manager",
@@ -51,3 +51,10 @@ ovos_skill_weather = ["*.json", "locale/**/*", "gui/**/*", "vocab/**/*", "dialog
 
 [tool.setuptools.dynamic]
 version = {attr = "ovos_skill_weather.version.__version__"}
+
+[tool.pytest.ini_options]
+# A hang must fail the job in minutes, not at the 30-minute runner limit.
+# The thread method dumps every stack and exits even when the main thread
+# is blocked on a lock, where the signal method cannot interrupt it.
+timeout = 600
+timeout_method = "thread"
