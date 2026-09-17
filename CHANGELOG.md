@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.1a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.1a2) (2026-09-17)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.1a1...1.4.1a2)
+
+**Merged pull requests:**
+
+- test: golden utterances for every locale [\#266](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/266) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.1a1) (2026-09-17)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.0a2...1.4.1a1)
