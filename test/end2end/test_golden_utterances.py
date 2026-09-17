@@ -1,6 +1,6 @@
 """Golden-utterance end-to-end coverage for ovos-skill-weather (en-US).
 
-The golden corpus (``golden_utterances.jsonl``) is a vendored slice of the
+The golden corpus (``golden_utterances_en-US.jsonl``) is a vendored slice of the
 shared ovoscope golden-utterance dataset, keyed by
 ``skill_id == "ovos-skill-weather.openvoiceos"``. One shared ``MiniCroft``
 (module-scoped fixture) is booted for the whole suite; every row is its own
@@ -47,7 +47,7 @@ _PIPELINE = [
     "ovos-adapt-pipeline-plugin-low",
 ]
 
-GOLDEN_PATH = Path(__file__).parent / "golden_utterances.jsonl"
+GOLDEN_PATH = Path(__file__).parent / "golden_utterances_en-US.jsonl"
 
 _FAKE_GEOLOCATION = {
     "city": "London",
