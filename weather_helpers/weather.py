@@ -169,61 +169,61 @@ class WeatherCondition:
                 self.icon = "11n"
 
         if weather_code == 0:
-            self.description = "clear-sky"
+            self.description = "clear_sky"
         elif weather_code == 1:
-            self.description = "mainly-clear"
+            self.description = "mainly_clear"
         elif weather_code == 2:
-            self.description = "partly-cloudy"
+            self.description = "partly_cloudy"
         elif weather_code == 3:
             self.description = "overcast"
         elif weather_code == 45:
             self.description = "fog"
         elif weather_code == 48:
-            self.description = "depositing-rime-fog"
+            self.description = "depositing_rime_fog"
         elif weather_code == 51:
-            self.description = "drizzle-light-intensity"
+            self.description = "drizzle_light_intensity"
         elif weather_code == 53:
-            self.description = "drizzle-moderate-intensity"
+            self.description = "drizzle_moderate_intensity"
         elif weather_code == 55:
-            self.description = "drizzle-dense-intensity"
+            self.description = "drizzle_dense_intensity"
         elif weather_code == 56:
-            self.description = "freezing-drizzle-light-intensity"
+            self.description = "freezing_drizzle_light_intensity"
         elif weather_code == 57:
-            self.description = "freezing-drizzle-dense-intensity"
+            self.description = "freezing_drizzle_dense_intensity"
         elif weather_code == 61:
-            self.description = "slight-rain"
+            self.description = "slight_rain"
         elif weather_code == 63:
-            self.description = "moderate-rain"
+            self.description = "moderate_rain"
         elif weather_code == 65:
-            self.description = "heavy-rain"
+            self.description = "heavy_rain"
         elif weather_code == 66:
-            self.description = "freezing-rain-light-intensity"
+            self.description = "freezing_rain_light_intensity"
         elif weather_code == 67:
-            self.description = "freezing-rain-dense-intensity"
+            self.description = "freezing_rain_dense_intensity"
         elif weather_code == 71:
-            self.description = "slight-snow-fall"
+            self.description = "slight_snow_fall"
         elif weather_code == 73:
-            self.description = "moderate-snow-fall"
+            self.description = "moderate_snow_fall"
         elif weather_code == 75:
-            self.description = "heavy-snow-fall"
+            self.description = "heavy_snow_fall"
         elif weather_code == 77:
-            self.description = "snow-grains"
+            self.description = "snow_grains"
         elif weather_code == 80:
-            self.description = "slight-rain-showers"
+            self.description = "slight_rain_showers"
         elif weather_code == 81:
-            self.description = "moderate-rain-showers"
+            self.description = "moderate_rain_showers"
         elif weather_code == 82:
-            self.description = "violent-rain-showers"
+            self.description = "violent_rain_showers"
         elif weather_code == 85:
-            self.description = "slight-snow-showers"
+            self.description = "slight_snow_showers"
         elif weather_code == 86:
-            self.description = "heavy-snow-showers"
+            self.description = "heavy_snow_showers"
         elif weather_code == 95:
             self.description = "thunderstorm"
         elif weather_code == 96:
-            self.description = "thunderstorm-with-slight-hail"
+            self.description = "thunderstorm_with_slight_hail"
         elif weather_code == 99:
-            self.description = "thunderstorm-with-heavy-hail"
+            self.description = "thunderstorm_with_heavy_hail"
         self.id = weather_code
 
     @property
