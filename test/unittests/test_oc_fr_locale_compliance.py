@@ -42,11 +42,11 @@ class TestOcFrResourceBaseNames(unittest.TestCase):
     lowercase ASCII letters, digits, and underscores, and MUST NOT contain
     whitespace; file extensions are likewise lowercase.'
 
-    en-US already ships some non-compliant names of its own (e.g.
-    number-days.voc); a locale is obliged to mirror those exactly for
-    resource lookup to resolve, so a mismatch there is en-US's own defect,
-    not this locale's to carry. This test only holds oc-FR to names that
-    have no en-US file to mirror in the first place - the avoidable case.
+    A locale is obliged to mirror en-US file names exactly for resource
+    lookup to resolve, so a mismatch against an en-US name is en-US's own
+    defect, not this locale's to carry. This test only holds oc-FR to
+    names that have no en-US file to mirror in the first place - the
+    avoidable case.
     """
 
     def test_every_avoidable_oc_fr_base_name_is_compliant(self):

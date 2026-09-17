@@ -140,7 +140,7 @@ class WeatherSkill(OVOSSkill):
             self.voc_match(utterance, "week")
             or self.voc_match(utterance, "couple")
             or self.voc_match(utterance, "few")
-            or self.voc_match(utterance, "number-days")
+            or self.voc_match(utterance, "number_days")
         ):
             return True
         if re.search(r"\bdays?\b", utterance.lower()):
@@ -424,7 +424,7 @@ class WeatherSkill(OVOSSkill):
             try:
                 forecast = weather.get_forecast_for_multiple_hours(intent_data)
             except IndexError:
-                self.speak_dialog("forty-eight-hours-available")
+                self.speak_dialog("forty_eight_hours_available")
             else:
                 dialog = HourlyDialog(intent_data, forecast[0])
                 dialog.build_weather_dialog()
@@ -522,7 +522,7 @@ class WeatherSkill(OVOSSkill):
             try:
                 forecast = weather.get_forecast_for_multiple_days(days)
             except IndexError:
-                self.speak_dialog("seven-days-available")
+                self.speak_dialog("seven_days_available")
                 forecast = weather.get_forecast_for_multiple_days(7)
             dialogs = self._build_forecast_dialogs(forecast, intent_data)
             if SessionManager.get().session_id == "default":
@@ -724,7 +724,7 @@ class WeatherSkill(OVOSSkill):
             weather_config = self._get_weather_config(message)
             intent_data = WeatherIntent(message, weather_config)
         except ValueError:
-            self.speak_dialog("cant-get-forecast")
+            self.speak_dialog("cant_get_forecast")
         else:
             unit = message.data.get("unit")
             _dt = intent_data.intent_datetime
@@ -781,11 +781,11 @@ class WeatherSkill(OVOSSkill):
             except LocationNotFoundError:
                 LOG.exception("City not found.")
                 self.speak_dialog(
-                    "location-not-found", data=dict(location=intent_data.location)
+                    "location_not_found", data=dict(location=intent_data.location)
                 )
             except Exception:
                 LOG.exception("Unexpected error retrieving weather")
-                self.speak_dialog("cant-get-forecast")
+                self.speak_dialog("cant_get_forecast")
 
         return weather
 
@@ -798,7 +798,7 @@ class WeatherSkill(OVOSSkill):
         if exception.response.status_code == 401:
             self.bus.emit(Message("mycroft.not.paired"))
         else:
-            self.speak_dialog("cant-get-forecast")
+            self.speak_dialog("cant_get_forecast")
 
     def _speak_weather(self, dialog: WeatherDialog, wait: bool = False):
         """Instruct device to speak the contents of the specified dialog.
