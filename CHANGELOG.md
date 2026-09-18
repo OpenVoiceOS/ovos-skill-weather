@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.2a1) (2026-09-18)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.1a2...1.4.2a1)
+
+**Merged pull requests:**
+
+- fix: the current sunset past dialog keeps its current prefix [\#268](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/268) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.1a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.1a2) (2026-09-17)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.1a1...1.4.1a2)
@@ -376,10 +384,6 @@
 ## [1.0.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a1) (2025-09-05)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.7a2...1.0.8a1)
-
-**Merged pull requests:**
-
-- fix: explicit dependency [\#162](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/162) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.7a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.7a2) (2025-08-01)
 
