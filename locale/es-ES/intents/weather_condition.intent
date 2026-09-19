@@ -118,9 +118,7 @@ Se (espera|prevé) lluvia por la (noche|tarde)
 (Habrá|Hay) una tormenta eléctrica hoy en {location}
 Se (espera|prevé) lluvia más tarde en {location}
 Se (espera|prevé) nieve en el pronóstico 
-Se (espera|prevé) nieve en el pronóstico| 
 Se (espera|prevé) nieve en la previsión 
-Se (espera|prevé) nieve en la previsión| 
 Se (espera|prevé|pronostica) una tormenta eléctrica en {location}
 Habrá niebla (densa|espesa) esta noche en {location}
 Hay visibilidad (baja|reducida) por la niebla 
@@ -161,8 +159,6 @@ Se (espera|prevé) nieve en el pronóstico (de|en) {location}
 Se (espera|prevé) nieve en la previsión (de|en) {location}
 Se (espera|prevé) que las carreteras estén (heladas|nevadas) 
 (Existen|Hay) advertencias por condiciones meteorológicas severas en {location}
-Se (espera|prevé) nieve en el pronóstico| en {location}
-Se (espera|prevé) nieve en la previsión| en {location}
 Hay visibilidad (baja|reducida) debido a la niebla 
 Hay visibilidad (baja|reducida) por la niebla en {location}
 Hay previsión de un (evento|fenómeno) meteorológico severo ?
