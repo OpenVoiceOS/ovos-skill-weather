@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.3a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.3a1) (2026-09-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.2a1...1.4.3a1)
+
+**Merged pull requests:**
+
+- fix: route the umbrella phrasings that no handler ever registered [\#258](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/258) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.4.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.2a1) (2026-09-18)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.1a2...1.4.2a1)
@@ -377,10 +385,6 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a1...1.0.8a2)
 
-**Merged pull requests:**
-
-- es-es/translate [\#164](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/164) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-
 ## [1.0.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a1) (2025-09-05)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.7a2...1.0.8a1)
@@ -555,15 +559,15 @@
 
 ## [0.1.8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a3...0.1.8)
-
-## [0.1.8a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a3) (2024-11-19)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a2...0.1.8a3)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a2...0.1.8)
 
 ## [0.1.8a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a2) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a2)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a3...0.1.8a2)
+
+## [0.1.8a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a3) (2024-11-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a3)
 
 ## [0.1.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a1) (2024-11-19)
 
