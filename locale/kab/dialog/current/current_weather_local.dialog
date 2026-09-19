@@ -1,0 +1,3 @@
+Tura d {condition} d {temperature} n ddrejat {temperature_unit}.
+Tura d {condition} d {temperature} n ddrejat.
+Akka tura, d {condition} d {temperature} n ddrejat.

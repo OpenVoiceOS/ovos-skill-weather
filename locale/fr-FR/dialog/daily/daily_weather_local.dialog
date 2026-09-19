@@ -1,0 +1,3 @@
+Les prévisions annoncent {condition} {day}, avec un maximum de {high_temperature} et un minimum de {low_temperature}.
+{day}, attendez-vous à {condition}, avec un maximum de {high_temperature} et un minimum de {low_temperature}.
+{day}, le temps sera {condition}, avec un maximum de {high_temperature} et un minimum de {low_temperature}.

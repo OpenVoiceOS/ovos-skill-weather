@@ -1,0 +1,3 @@
+En ce moment, il fait {temperature} degrés.
+Il fait actuellement {temperature} degrés {temperature_unit}.
+Il fait actuellement {temperature} degrés.

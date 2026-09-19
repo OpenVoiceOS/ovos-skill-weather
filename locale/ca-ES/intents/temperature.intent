@@ -1,0 +1,158 @@
+Farà (calor|fred) (aquesta|esta) nit?
+S'espera (gebre|gelada) [(demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres)] ?
+(Digue'm|Digues-me) la temperatura ara.
+(Quantacalor|Quantafred|Quantafresca|Quantcalor|Quantfred|Quantfresca) fa ara mateix?
+(Quantacalor|Quantafred|Quantafresca|Quantcalor|Quantfred|Quantfresca) fa este moment?
+Farà (calor|fred) aquest vespre?
+Farà (calor|fred) esta vesprada?
+S'espera (gebre|gelada) a {location}?
+Necessito l'abric [(avui|hui)] ?
+S'esperen gelades [(demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres)] ?
+Quanta calor farà (avui?|hui?)
+Temperatura màxima per (avui.|demà.|dijous.|dilluns.|dimarts.|dimecres.|dissabte.|diumenge.|divendres.|hui.)
+Actualització de temperatura actual.
+Necessito l'abric a {location}?
+Necessito la jaqueta ?
+Baixarem sota zero ?
+S'esperen gelades a {location}?
+S'espera (gebre|gelada) (aquesta|esta) nit a {location}?
+(Digue'm|Digues-me) la temperatura (a|de) {location} ara.
+Quanta calor (farà|tindrem) (aquest|este) matí ?
+Quanta calor (farà|tindrem) (aquesta|esta) nit ?
+(Quantacalor|Quantafred|Quantafresca|Quantcalor|Quantfred|Quantfresca) fa a {location} ara mateix?
+(Quantacalor|Quantafred|Quantafresca|Quantcalor|Quantfred|Quantfresca) fa a {location} este moment?
+(Quantacalor|Quantcalor) o fred fa ara mateix?
+(Quantacalor|Quantcalor) o fred fa este moment?
+Fa (calor|fred) a fora a {location}.
+Fa (calor|fred) al carrer a {location}.
+S'esperen gelades (aquesta|esta) nit a {location}?
+Necessito la jaqueta [(avui|hui)] a {location}?
+Quina temperatura tindrem (aquesta|esta) nit ?
+Quina temperatura tindrem (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al matí?
+Baixarem sota zero (aquesta|esta) nit ?
+Baixarem sota zero [(demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres)] a {location}?
+Quant de fred farà (aquesta|esta) nit?
+Quant pujarà el termòmetre [(avui|demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres|hui)] ?
+Quant de fred farà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+S'esperen temperatures sota zero [(demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres)] ?
+Quina és la temperatura [actual] (ara?|avui?|hui?)
+Quina temperatura hi ha ara mateix?
+Quina temperatura hi ha este moment?
+Quina és la temperatura a fora?
+Quina és la temperatura al carrer?
+Quina és la temperatura ara mateix?
+Farà fresca aquest vespre a {location}?
+Farà fresca esta vesprada a {location}?
+Quant de fred farà aquest vespre?
+Quant de fred farà esta vesprada?
+Fins on pujarà el termòmetre ?
+Quant pujarà el termòmetre a {location}?
+Quina serà la temperatura màxima ?
+Quant de fred farà a {location}?
+Quina serà la temperatura més baixa
+S'esperen temperatures sota zero a {location}?
+S'espera (gebre|gelada) (aquesta|esta) nit ?
+S'espera (gebre|gelada) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+(Quantacalor|Quantafred|Quantafresca|Quantcalor|Quantfred|Quantfresca) fa a {location} (?|ara?)
+(Quantacalor|Quantcalor) o fred fa (?|ara?)
+(Quantacalor|Quantafred|Quantafresca|Quantcalor|Quantfred|Quantfresca) fa en aquest moment?
+Fa (calor|fred) a fora .
+Fa (calor|fred) al carrer .
+Necessito l'abric (avui|hui) a {location}?
+S'esperen gelades (aquesta|esta) nit ?
+S'esperen gelades (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Necessito la jaqueta (avui|hui) ?
+Quanta calor farà (aquesta|esta) nit?
+Baixarem sota zero (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Quina temperatura hi ha (?|ara?)
+Quant de fred farà (avui?|hui?|?)
+Farà fresca aquest vespre ?
+Farà fresca esta vesprada ?
+Quanta calor farà aquest vespre?
+Quanta calor farà esta vesprada?
+Previsió de la temperatura mínima.
+Quina serà la temperatura mínima
+(Quantacalor|Quantafred|Quantafresca|Quantcalor|Quantfred|Quantfresca) fa (?|ara?)
+Farà (calor|fred) (avui?|hui?)
+(Farà|S'espera) (calda|calorada) demà a la tarda ?
+Quanta calor (farà|tindrem) (aquest|este) matí a {location}?
+Quanta calor (farà|tindrem) (aquesta|esta) nit a {location}?
+(Quantacalor|Quantcalor) o fred fa a {location} (?|ara?)
+(Quantacalor|Quantafred|Quantafresca|Quantcalor|Quantfred|Quantfresca) fa a {location} en aquest moment?
+(Quantacalor|Quantcalor) o fred fa en aquest moment?
+Quina temperatura tindrem (aquesta|esta) nit a {location}?
+Quina temperatura tindrem (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la nit?
+Baixarem sota zero (aquesta|esta) nit a {location}?
+Quina temperatura hi haurà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al matí?
+Quant pujarà el termòmetre (avui|demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres|hui) a {location}?
+Quant de fred farà (aquesta|esta) nit ?
+Quant de fred farà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+S'esperen temperatures sota zero (aquesta|esta) nit ?
+S'esperen temperatures sota zero (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Previsió de la temperatura per (aquesta|esta) nit.
+Fins on pujarà el termòmetre (avui|demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres|hui) ?
+Quina serà la temperatura més (alta|baixa) ?
+Quina temperatura hi ha a {location} (?|ara?)
+Quina és la temperatura en graus (Celsius?|Fahrenheit?)
+Quina és la temperatura a {location} (ara?|avui?|hui?)
+Quina temperatura hi ha en aquest moment?
+Quina és la temperatura actual a fora?
+Quina és la temperatura actual al carrer?
+Quina és la temperatura actual ara mateix?
+Quina temperatura tindrem a la nit ?
+Fins on pujarà el termòmetre a {location}?
+(Farà|S'espera) (calda|calorada) demà a la tarda a {location}?
+Quina serà la temperatura (màxima|mínima) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al matí?
+Quina és la temperatura (actual|d'ara) en graus (Celsius?|Fahrenheit?)
+(Quantacalor|Quantcalor) o fred fa a {location} ara mateix?
+(Quantacalor|Quantcalor) o fred fa a {location} este moment?
+(Farà|S'espera) calor abrasadora demà a la tarda ?
+S'ha anunciat (calda|calorada) demà a la tarda ?
+Quina temperatura hi haurà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la nit?
+Quant de fred farà (aquesta|esta) nit a {location}?
+S'esperen temperatures sota zero (aquesta|esta) nit a {location}?
+Fins on pujarà el termòmetre (avui|demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres|hui) a {location}?
+Quina serà la mínima temperatura nocturna (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Quina serà la temperatura més baixa (avui|hui) ?
+Quina temperatura hi ha a {location} ara mateix?
+Quina temperatura hi ha a {location} este moment?
+Quina és la temperatura a {location} a fora?
+Quina és la temperatura a {location} al carrer?
+Previsió de la temperatura per demà al matí.
+Quina temperatura tindrem a la nit a {location}?
+Quina serà la temperatura màxima a {location} ?
+Quina serà la temperatura més baixa a {location}?
+Quina serà la temperatura (màxima|mínima) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la nit?
+Quina serà la temperatura més (alta|baixa) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) al matí?
+Quina serà la temperatura màxima a {location} (aquest|este) (demà?|dijous?|dilluns?|dimarts?|dimecres?|dissabte?|diumenge?|divendres?)
+(Quantacalor|Quantcalor) o fred fa a {location} en aquest moment?
+(Farà|S'espera) calor abrasadora demà a la tarda a {location}?
+S'ha anunciat (calda|calorada) demà a la tarda a {location}?
+Quina serà la temperatura més (alta|baixa) a {location} ?
+Quina serà la mínima temperatura nocturna (aquesta|esta) nit ?
+Quina serà la mínima temperatura nocturna (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Quina serà la temperatura més baixa (avui|hui) a {location}?
+Quina és la temperatura a {location} en graus (Celsius?|Fahrenheit?)
+Quina és la temperatura ara mateix en graus (Celsius?|Fahrenheit?)
+Quina és la màxima temperatura que s'espera per (?|avui?|demà?|dijous?|dilluns?|dimarts?|dimecres?|dissabte?|diumenge?|divendres?|hui?)
+Quina serà la temperatura més baixa a {location} (demà?|dijous?|dilluns?|dimarts?|dimecres?|dissabte?|diumenge?|divendres?)
+Quina temperatura hi ha a {location} en aquest moment?
+S'ha anunciat calor abrasadora demà a la tarda ?
+Quina serà la temperatura més (alta|baixa) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a la nit?
+Quina és la temperatura (actual|d'ara) a {location} en graus (Celsius?|Fahrenheit?)
+Quina serà la temperatura més (alta|baixa) a {location} aquest (demà?|dijous?|dilluns?|dimarts?|dimecres?|dissabte?|diumenge?|divendres?)
+Quina serà la temperatura màxima a {location} el (proper|pròxim) (demà?|dijous?|dilluns?|dimarts?|dimecres?|dissabte?|diumenge?|divendres?)
+Quina serà la mínima temperatura nocturna (aquesta|esta) nit a {location}?
+Quina serà la temperatura més alta a {location} este (demà?|dijous?|dilluns?|dimarts?|dimecres?|dissabte?|diumenge?|divendres?)
+S'ha anunciat calor abrasadora demà a la tarda a {location}?
+Quina temperatura hi haurà a (la|les) (1|10|11|12|2|3) del (matí|migdia|vespre) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) ?
+Quina temperatura hi haurà a (la|les) (4|5|6|7|8|9) del (matí|migdia|vespre) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) ?
+Quina serà la temperatura més (alta|baixa) a {location} el proper (demà?|dijous?|dilluns?|dimarts?|dimecres?|dissabte?|diumenge?|divendres?)
+Quina és la temperatura ara mateix a {location} en graus (Celsius?|Fahrenheit?)
+Quina serà la temperatura més alta a {location} el pròxim (demà?|dijous?|dilluns?|dimarts?|dimecres?|dissabte?|diumenge?|divendres?)
+Quina temperatura hi haurà a (la|les) (1|10|11|12|2|3) del (matí|migdia|vespre) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) a {location}?
+Quina temperatura hi haurà a (la|les) (4|5|6|7|8|9) del (matí|migdia|vespre) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) a {location}?
+Quina temperatura hi haurà a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) ?
+Quina temperatura hi haurà a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) ?
+Quina temperatura hi haurà a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) a {location}?
+Quina temperatura hi haurà a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) a {location}?

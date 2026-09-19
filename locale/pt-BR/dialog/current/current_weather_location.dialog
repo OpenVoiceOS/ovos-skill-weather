@@ -1,0 +1,3 @@
+Atualmente está {condition} e faz {temperature} graus {temperature_unit} em {location}.
+Neste momento, está {condition} com temperatura de {temperature} graus em {location}.
+{location} tem {condition} e no momento uma temperatura de {temperature} graus.

@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Väder",
+  "description": "Få väderläget, prognoser, väntad nederbörd och mycket mer. Du kan också fråga om andra städer i världen. Aktuellt väder och prognoser kommer från OpenMeteo.",
+  "examples": [
+    "Hur är vädret?",
+    "Hur varmt är det?",
+    "Vad är prognosen för imorgon?",
+    "Hur är vädret i Göteborg?",
+    "Hur många grader Celsius blir det i Paris imorgon?",
+    "Hur varmt blir det imorgon?",
+    "När går solen ner?",
+    "Kommer det att snöa i Kiruna?",
+    "Kommer det att snöa?",
+    "Hur blir vädret på tisdag?",
+    "Hur blir vädret de närmaste tre dagarna?",
+    "Hur hög är luftfuktigheten?",
+    "Hur blir vädret i helgen?",
+    "Vad är prognosen för imorgon i London?",
+    "Hur mycket blåser det?",
+    "När kommer det att regna?",
+    "Blir det kallt på tisdag?",
+    "regnar det?"
+  ],
+  "tags": [
+    "väder",
+    "prognos",
+    "regn",
+    "luftfuktighet",
+    "snö",
+    "temperatur"
+  ]
+}

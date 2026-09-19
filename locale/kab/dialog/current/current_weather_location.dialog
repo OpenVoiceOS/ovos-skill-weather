@@ -1,0 +1,3 @@
+Tura d {condition} d {temperature} n ddrejat {temperature_unit} di {location}.
+Akka tura, d {condition} d {temperature} n ddrejat di {location}.
+{location} tesɛa {condition} d {temperature} n ddrejat tura.

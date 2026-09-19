@@ -1,0 +1,3 @@
+Tura llan {temperature} n ddrejat di {location}.
+Tura llan {temperature} n ddrejat {temperature_unit} di {location}.
+Akka tura, llan {temperature} n ddrejat di {location}.

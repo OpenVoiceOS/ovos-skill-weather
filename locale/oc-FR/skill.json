@@ -1,0 +1,34 @@
+{
+ "skill_id": "ovos-skill-weather.openvoiceos",
+ "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+ "name": "Temps",
+ "description": "Obtenètz las condicions meteorologicas, las previsions, las precipitacions esperadas e fòrça mai! Podètz tanben demandar per autre vilas del mond. Las condicions actualas e las previsions meteorologicas provenon de OpenMeteo",
+ "examples": [
+ "Quin temps fa?",
+ "Quina es la temperatura?",
+ "Quina es la prevision de deman?",
+ "Quin temps fa a Houston?",
+ "Quin temperatura farà deman a París en gras Celsius?",
+ "Quin temperatura maximala farà deman?",
+ "Quora es la ponduda de sol?",
+ "Nevarà a Baltimore?",
+ "Nevarà?",
+ "Quin temps farà dimars?",
+ "Quin temps farà los prèps tres jorns?",
+ "Quin umiditat fa?",
+ "Quin temps farà aquela dimenjada?",
+ "Quina es la prevision a Londres per deman?",
+ "Quin vent fa?",
+ "Quand tornarà plòure?",
+ "Farà fred dimars?",
+ "plòu?"
+ ],
+ "tags": [
+ "meteorologia",
+ "prevision",
+ "pluèja",
+ "umiditat",
+ "nèu",
+ "temperatura"
+ ]
+}

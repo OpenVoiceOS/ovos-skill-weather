@@ -1,0 +1,244 @@
+vai (chover|nevar) na (quarta|quinta|segunda|sexta|terça)
+vai (chover|nevar) no (domingo|sábado)
+como (está|parece) o tempo
+está (agradável|bom|claro) lá fora
+algum (alerta|aviso) para amanhã
+clima (durante|para) a semana
+vai estar (agradável|frio|quente) amanhã
+previsão horária para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+como está lá fora
+vai haver tempestade amanhã
+mostre-me a previsão semanal
+o clima da semana
+algum (alerta|aviso) para a (quarta|quinta|segunda|sexta|terça)
+algum (alerta|aviso) para o (domingo|sábado)
+como (estará|está) o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+vai estar (agradável|frio|quente) na (quarta|quinta|segunda|sexta|terça)
+vai estar (agradável|frio|quente) no (domingo|sábado)
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (meia-noite|noite)
+vai (chover|nevar) amanhã em {location}
+vai (chover|nevar) depois de amanhã
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
+clima nos próximos (2|3|4|5|6|7) dias
+como está o tempo (agora|atualmente)
+a previsão na próxima (quarta|quinta|segunda|sexta|terça)
+a previsão na próximo (domingo|sábado)
+o tempo na próxima (quarta|quinta|segunda|sexta|terça)
+o tempo na próximo (domingo|sábado)
+vai haver tempestade na (quarta|quinta|segunda|sexta|terça)
+vai haver tempestade no (domingo|sábado)
+condições climáticas atuais em {location}
+diga-me a previsão do tempo
+o que devo esperar amanhã
+previsão para fim de semana
+previsão para sábado e domingo
+vai chover sábado e domingo
+previsão semanal para o clima
+vai (chover|nevar) na (quarta|quinta|segunda|sexta|terça) em {location}
+vai (chover|nevar) no (domingo|sábado) em {location}
+a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+como (está|parece) o tempo em {location}
+algum (alerta|aviso) para amanhã em {location}
+algum (alerta|aviso) para depois de amanhã
+estará (bom|claro|ensolarado) neste fim de semana
+clima (durante|para) a semana em {location}
+vai estar (agradável|frio|quente) amanhã em {location}
+vai estar (agradável|frio|quente) depois de amanhã
+previsão horária para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde
+o que devo esperar na (quarta|quinta|segunda|sexta|terça)
+o que devo esperar no (domingo|sábado)
+qual é a previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+qual é a previsão do tempo
+você pode me dizer o clima
+vai haver tempestade amanhã em {location}
+vai haver tempestade depois de amanhã
+diga-me previsão para sábado e domingo
+vai chover este fim de semana
+vai fazer sol sábado e domingo
+como está o tempo esta semana
+diga-me a previsão para esta semana
+mostre-me a previsão de 7 dias
+mostre-me a previsão semanal em {location}
+o clima da semana em {location}
+vai (chover|nevar) amanhã
+condições climáticas atuais
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+algum (alerta|aviso) para a (quarta|quinta|segunda|sexta|terça) em {location}
+algum (alerta|aviso) para o (domingo|sábado) em {location}
+como (estará|está) o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+vai estar (agradável|frio|quente) na (quarta|quinta|segunda|sexta|terça) em {location}
+vai estar (agradável|frio|quente) no (domingo|sábado) em {location}
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (meia-noite|noite) em {location}
+(Atualização|Previsão) do clima para sábado e domingo
+como (estará|está) o tempo depois de amanhã
+vai (chover|nevar) depois de amanhã em {location}
+algum (alerta|aviso) para o fim de semana
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia em {location}
+clima nos próximos (2|3|4|5|6|7) dias em {location}
+a previsão na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+a previsão na próximo (domingo|sábado) em {location}
+o tempo na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+o tempo na próximo (domingo|sábado) em {location}
+vai haver tempestade na (quarta|quinta|segunda|sexta|terça) em {location}
+vai haver tempestade no (domingo|sábado) em {location}
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde
+Qual é a previsão para (2|3|4|5|6|7) dias
+você pode me dizer o clima (agora|atualmente)
+como está a previsão na próxima (quarta|quinta|segunda|sexta|terça)
+como está a previsão na próximo (domingo|sábado)
+como está o tempo na próxima (quarta|quinta|segunda|sexta|terça)
+como está o tempo na próximo (domingo|sábado)
+me diga a previsão na próxima (quarta|quinta|segunda|sexta|terça)
+me diga a previsão na próximo (domingo|sábado)
+me diga o tempo na próxima (quarta|quinta|segunda|sexta|terça)
+me diga o tempo na próximo (domingo|sábado)
+qual é a previsão na próxima (quarta|quinta|segunda|sexta|terça)
+qual é a previsão na próximo (domingo|sábado)
+qual é o tempo na próxima (quarta|quinta|segunda|sexta|terça)
+qual é o tempo na próximo (domingo|sábado)
+diga-me a previsão do tempo em {location}
+me dê a atualização do tempo atual
+o que está acontecendo com o clima
+você pode me dizer sobre o clima
+como está o tempo em {location} amanhã
+o que devo esperar amanhã em {location}
+o que devo esperar depois de amanhã
+como está o tempo sábado e domingo
+diga-me previsão para o fim de semana
+previsão para fim de semana em {location}
+previsão para sábado e domingo em {location}
+vai chover sábado e domingo em {location}
+vai fazer sol este fim de semana
+previsão semanal para o clima em {location}
+previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+(como|qual) está o tempo em {location} (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
+(como|qual) está o tempo em {location} (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+(como|qual) está o tempo em {location} (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde
+como (estará|está) o tempo depois de amanhã em {location}
+algum (alerta|aviso) para o fim de semana em {location}
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia em {location}
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã em {location}
+como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde em {location}
+Qual é a previsão para (2|3|4|5|6|7) dias em {location}
+você pode me dizer o clima [(agora|atualmente)] em {location}
+como está a previsão na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+como está a previsão na próximo (domingo|sábado) em {location}
+como está o tempo na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+como está o tempo na próximo (domingo|sábado) em {location}
+me diga a previsão na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+me diga a previsão na próximo (domingo|sábado) em {location}
+me diga o tempo na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+me diga o tempo na próximo (domingo|sábado) em {location}
+qual é a previsão na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+qual é a previsão na próximo (domingo|sábado) em {location}
+qual é o tempo na próxima (quarta|quinta|segunda|sexta|terça) em {location}
+qual é o tempo na próximo (domingo|sábado) em {location}
+qual é a previsão de temperatura para a (quarta|quinta|segunda|sexta|terça)
+qual é a previsão de temperatura para o (domingo|sábado)
+me dê a atualização do tempo atual em {location}
+o que está acontecendo com o clima em {location}
+você pode me dizer sobre o clima em {location}
+como está o tempo em {location} depois de amanhã
+o que devo esperar depois de amanhã em {location}
+como está o tempo sábado e domingo em {location}
+vai fazer sol este fim de semana em {location}
+vai haver tempestade este fim de semana em {location}
+algum (alerta|aviso) (climático|metereológico) para o fim de semana
+a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+como está a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+como está o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+diga-me como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (noite|tarde)
+me diga a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+me diga o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+qual é a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+qual é o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+(Atualização|Previsão) do clima para o fim de semana
+algum (alerta|aviso) para depois de amanhã em {location}
+estará (claro|ensolarado|quente) neste fim de semana em {location}
+vai estar (agradável|frio|quente) depois de amanhã em {location}
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia em {location}
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã em {location}
+qual o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à tarde em {location}
+como está o tempo (durante|neste|no) fim de semana
+como está o tempo (durante|no) sábado e domingo
+o que devo esperar na (quarta|quinta|segunda|sexta|terça) em {location}
+o que devo esperar no (domingo|sábado) em {location}
+qual é a previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+diga-me como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+o que está acontecendo com o clima (agora|hoje)
+você pode me dizer sobre o clima (agora|atualmente)
+como está o tempo em {location} na (quarta|quinta|segunda|sexta|terça)
+como está o tempo em {location} no (domingo|sábado)
+me dê a atualização do tempo mais recente
+qual é a previsão do tempo em {location}
+qual é a previsão de temperatura para amanhã
+qual é a previsão para depois de amanhã
+vai haver tempestade depois de amanhã em {location}
+Qual é a previsão para fim de semana
+Qual é a previsão para sábado e domingo
+diga-me o tempo fim de semana em {location}
+diga-me o tempo sábado e domingo em {location}
+vai chover este fim de semana em {location}
+vai fazer sol sábado e domingo em {location}
+vai haver tempestade sábado e domingo em {location}
+como está a previsão do tempo esta semana
+como está o tempo esta semana em {location}
+diga-me a previsão do tempo para esta semana
+diga-me a previsão para esta semana em {location}
+mostre-me a previsão de 7 dias em {location}
+qual é a previsão para os próximos dias
+Qual é a previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
+como está a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+como está o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+diga-me como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (noite|tarde) em {location}
+me diga a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+me diga o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+qual é a previsão às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+qual é o tempo às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+(Atualização|Previsão) do tempo para o fim de semana em {location}
+(Atualização|Previsão) do tempo para o sábado e domingo em {location}
+algum (alerta|aviso) metereológico para o fim de semana em {location}
+como está o tempo (durante|neste) fim de semana em {location}
+diga-me como está o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã em {location}
+o que está acontecendo com o clima (agora|hoje) em {location}
+você pode me dizer sobre o clima (agora|atualmente) em {location}
+me dê a atualização do tempo mais recente em {location}
+qual é a previsão de temperatura para amanhã em {location}
+qual é a previsão de temperatura para depois de amanhã
+qual é a previsão para depois de amanhã em {location}
+Qual é a previsão para fim de semana em {location}
+Qual é a previsão para sábado e domingo em {location}
+Qual é a previsão para o próximo fim de semana
+Qual é a previsão para o próximo sábado e domingo
+como está o tempo durante sábado e domingo em {location}
+diga-me a previsão do tempo fim de semana em {location}
+diga-me a previsão do tempo sábado e domingo em {location}
+posso planejar atividades ao ar livre neste fim de semana
+posso planejar atividades fora neste fim de semana em {location}
+como está a previsão do tempo esta semana em {location}
+diga-me a previsão do tempo para esta semana em {location}
+qual é a previsão para os próximos dias em {location}
+qual é a previsão de temperatura para a (quarta|quinta|segunda|sexta|terça) em {location}
+qual é a previsão de temperatura para o (domingo|sábado) em {location}
+Qual é a previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) em {location}
+qual é a previsão de temperatura para depois de amanhã em {location}
+Qual é a previsão para o próximo fim de semana em {location}
+Qual é a previsão para o próximo sábado e domingo em {location}
+posso planejar atividades ao ar livre neste fim de semana em {location}
+Como vai estar o tempo em {location}?
+Qual é a previsão do tempo para {location}?
+Que tempo vai fazer hoje em {location}?
+Que tempo vai fazer amanhã em {location}?
+Me diga o tempo em {location}
+Me dê a previsão do tempo para {location}
+Tempo em {location}
+Previsão do tempo para {location}
+como está o tempo em {unit}
+qual é o clima em {unit} em {location}

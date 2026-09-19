@@ -1,0 +1,8 @@
+Będzie (dziś|jutro|w {day}) zimno [w {location}]
+Czy jest teraz zimno na zewnątrz [w {location}]
+Będzie chłodno (dziś|jutro) [w {location}]
+Czy potrzebuję dziś kurtki [w {location}]
+Będzie (dziś|jutro|w {day}) gorąco [w {location}]
+Czy jest teraz ciepło na zewnątrz [w {location}]
+Będzie dziś upał [w {location}]
+Czy potrzebuję dziś kremu z filtrem [w {location}]
