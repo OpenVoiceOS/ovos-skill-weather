@@ -76,7 +76,7 @@ sollte ich einen Regenschirm mitnehmen
 wird am Abend Regen erwartet
 wird es am Wochenende regnen
 ist in {location} Schnee vorhergesagt
-muss ich mit Schneeansammlungen|Schneeverwehungen rechnen
+muss ich mit (Schneeansammlungen|Schneeverwehungen) rechnen
 wie viel Schnee wird erwartet
 wird Schnee in der Vorhersage
 wird es heute Nacht schneien
@@ -100,7 +100,7 @@ muss ich einen Regenschirm zur Veranstaltung mitbringen
 muss ich mich für regnerisches Wetter anziehen?
 muss ich mir wegen Regen Sorgen machen
 wird am Abend in {location} Regen erwartet
-muss ich mit Schneeansammlungen|Schneeverwehungen rechnen in {location}
+muss ich mit (Schneeansammlungen|Schneeverwehungen) rechnen in {location}
 wie viel Schnee wird in {location} erwartet
 wird Schnee in der Vorhersage in {location}
 wird es heute Nacht in {location} schneien
