@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.5a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.5a1) (2026-09-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.4a1...1.4.5a1)
+
+**Merged pull requests:**
+
+- fix\(locale\): restore the slot names the translations renamed [\#273](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/273) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.4a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.4a1) (2026-09-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.3a1...1.4.4a1)
@@ -369,17 +377,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a4...1.0.8a5)
 
-**Merged pull requests:**
-
-- da-dk/translate [\#168](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/168) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-
 ## [1.0.8a4](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a4) (2026-01-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a3...1.0.8a4)
-
-**Merged pull requests:**
-
-- es-es/translate [\#169](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/169) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 ## [1.0.8a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a3) (2025-09-29)
 
