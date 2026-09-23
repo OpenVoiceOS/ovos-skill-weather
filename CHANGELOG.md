@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.8a1) (2026-09-23)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.7a1...1.4.8a1)
+
+**Merged pull requests:**
+
+- fix\(locale\): split bare-pipe lines into one value per line [\#278](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/278) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.7a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.7a1) (2026-09-23)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.6a1...1.4.7a1)
@@ -371,10 +379,6 @@
 ## [1.0.8a8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a8) (2026-01-20)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a7...1.0.8a8)
-
-**Merged pull requests:**
-
-- es-es/translate [\#175](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/175) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 ## [1.0.8a7](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a7) (2026-01-19)
 
