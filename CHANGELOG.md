@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.6a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.6a1) (2026-09-23)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.5a1...1.4.6a1)
+
+**Merged pull requests:**
+
+- fix: test floor ovoscope\>=1.8.5a1 and a thread-method pytest timeout [\#263](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/263) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.5a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.5a1) (2026-09-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.4a1...1.4.5a1)
