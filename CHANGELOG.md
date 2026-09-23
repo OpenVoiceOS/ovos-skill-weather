@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.7a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.7a1) (2026-09-23)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.6a1...1.4.7a1)
+
+**Merged pull requests:**
+
+- fix\(locale\): restore {day} in the ca-ES and oc-FR moderate-wind line [\#276](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/276) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.6a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.6a1) (2026-09-23)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.5a1...1.4.6a1)
@@ -375,11 +383,6 @@
 ## [1.0.8a6](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a6) (2026-01-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a5...1.0.8a6)
-
-**Merged pull requests:**
-
-- ca-es/translate [\#173](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/173) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
-- gl-es/translate [\#172](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/172) ([gitlocalize-app[bot]](https://github.com/apps/gitlocalize-app))
 
 ## [1.0.8a5](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a5) (2026-01-19)
 
