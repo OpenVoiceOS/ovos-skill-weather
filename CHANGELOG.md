@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.9a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.9a1) (2026-09-24)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.8a1...1.4.9a1)
+
+**Merged pull requests:**
+
+- fix\(sv-FI,fi-FI\): split the mixed sv-FI tree into Swedish and Finnish locales [\#280](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/280) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.8a1) (2026-09-23)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.7a1...1.4.8a1)
@@ -371,10 +379,6 @@
 ## [1.0.8a9](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a9) (2026-03-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a8...1.0.8a9)
-
-**Merged pull requests:**
-
-- Complete French weather intent coverage [\#177](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/177) ([goldyfruit](https://github.com/goldyfruit))
 
 ## [1.0.8a8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a8) (2026-01-20)
 
