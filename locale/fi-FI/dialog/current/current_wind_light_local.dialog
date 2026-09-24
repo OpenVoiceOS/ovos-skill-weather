@@ -1,0 +1,2 @@
+Tuuli on kevyt {speed} {speed_unit} {direction}:sta
+Tänään tuulee kevyesti {direction}:sta {speed}:llä {speed_unit}:lla.

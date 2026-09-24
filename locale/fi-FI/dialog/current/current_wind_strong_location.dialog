@@ -1,0 +1,3 @@
+Tuuli on erittäin voimakas {direction} {location} tänään, {speed} {speed_unit} {speed} {location} {speed_unit}
+Tällä hetkellä tuuli on {direction} {speed} {speed_unit} {location}, hyvä päivä pysyä sisällä.
+{location} on tänään kova tuuli, {speed} {speed_unit} {speed} {speed_unit}

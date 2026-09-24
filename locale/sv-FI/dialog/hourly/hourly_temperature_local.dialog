@@ -1,2 +1,2 @@
-Se on noin {temperature} astetta {time} asteessa.
-{time}:ssa se on {temperature} astetta.
+Det kommer att vara ungefär {temperature} grader i {time}
+I {time} kommer det att vara {temperature} grader.

@@ -1,0 +1,5 @@
+Ennuste {day} on {condition} ja korkein {high_temperature} ja matalin {low_temperature}.
+Odotettavissa {condition}, korkeimmillaan {high_temperature} ja alhaisimmillaan {low_temperature} {day} {day}
+{day} korkein on {high_temperature} ja matalin {low_temperature}, ja {condition}
+{day} odottaa {condition}, korkeimmillaan {high_temperature} ja alhaisimmillaan {low_temperature}.
+{day} se on {condition} ja korkein {high_temperature} ja matalin {low_temperature}.

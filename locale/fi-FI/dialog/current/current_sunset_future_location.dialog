@@ -1,0 +1,3 @@
+auringonlasku on {time} tänään {location}:ssä.
+aurinko laskee {time} tänään {location}:ssä {time}:ssa.
+{location}:ssa aurinko laskee tänään {time}:ssä.

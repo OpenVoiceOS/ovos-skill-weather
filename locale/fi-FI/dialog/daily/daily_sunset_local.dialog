@@ -1,0 +1,4 @@
+auringonlasku on {time} {day}
+aurinko laskee {time} {day}
+aurinko laskee {time} {day} {time} {day}
+{day} aurinko laskee {time}

@@ -39,12 +39,15 @@ def test_every_locale_can_reach_the_high_temperature():
     low temperature, which is the answer it wanted anyway.
     """
     # These four cannot reach it either, and no phrasing in this repository
-    # tells us which word they should carry: cs-CZ and sv-FI hold words from
+    # tells us which word they should carry: cs-CZ and fi-FI hold words from
     # another language entirely, and pl-PL and ru-RU hold an adjective where
-    # their sentences use an adverb. Naming them keeps the check strict for
-    # every other locale and fails the moment a fifth appears; each wants a
-    # native speaker rather than a guess.
-    WANTS_A_NATIVE_SPEAKER = {"cs-CZ", "pl-PL", "ru-RU", "sv-FI"}
+    # their sentences use an adverb. fi-FI's `is_hot_or_cold.intent` is a
+    # placeholder copy of the Swedish original awaiting a Finnish
+    # translation, so it cannot match its own Finnish `hot.voc` yet. Naming
+    # them keeps the check strict for every other locale and fails the
+    # moment a fifth appears; each wants a native speaker rather than a
+    # guess.
+    WANTS_A_NATIVE_SPEAKER = {"cs-CZ", "fi-FI", "pl-PL", "ru-RU"}
 
     unreachable = []
     for locale in sorted(LOCALES.iterdir()):

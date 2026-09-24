@@ -1,2 +1,2 @@
-{location}:ssa se on noin {temperature} astetta {time}:ssa.
-{time}:ssa se on {temperature} astetta {location}:ssa.
+I {location} kommer det att vara ungefär {temperature} grader i {time}
+I {time} kommer det att vara {temperature} grader i {location}

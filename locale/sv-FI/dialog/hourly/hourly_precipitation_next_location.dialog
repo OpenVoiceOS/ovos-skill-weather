@@ -1,2 +1,2 @@
-Ennusteen mukaan on {percent} mahdollisuus {precipitation} {location}:ssa {time}:ssa {precipitation}:stä {location}:een.
-{location}:ssa on {percent} mahdollisuus {precipitation}:een {time}:ssa.
+I {location} finns det en {percent} chans att {precipitation} kommer att inträffa vid {time}
+Prognosen visar på {percent} chans för {precipitation} i {location} på {time}

@@ -1,4 +1,3 @@
-auringonlasku on {time} {day}
-aurinko laskee {time} {day}
-aurinko laskee {time} {day} {time} {day}
-{day} aurinko laskee {time}
+solen går ner vid {time} {day}
+solnedgången kommer att vara vid {time} {day}
+{day} solen går ner vid {time}
