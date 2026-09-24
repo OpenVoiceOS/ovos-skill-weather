@@ -1,3 +1,2 @@
 {day} будет {condition}, с максимумом {high_temperature} и минимумом {low_temperature} в {location}.
 {day}, {location} будет иметь максимум на {high_temperature} и минимум на {low_temperature}, а {condition}
-Прогноз {day} - {high_temperature} для максимума и {low_temperature} для минимума в {location}.
