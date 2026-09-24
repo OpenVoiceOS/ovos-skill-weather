@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.10a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.10a1) (2026-09-24)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.9a1...1.4.10a1)
+
+**Merged pull requests:**
+
+- fix\(locale\): resolve .dialog slot-set spec-lint findings on dev [\#282](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/282) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.9a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.9a1) (2026-09-24)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.8a1...1.4.9a1)
@@ -371,10 +379,6 @@
 ## [1.0.9a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.9a1) (2026-03-24)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.8a9...1.0.9a1)
-
-**Merged pull requests:**
-
-- fix: rename bare lang code locale directories [\#179](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/179) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
 
 ## [1.0.8a9](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.8a9) (2026-03-09)
 
