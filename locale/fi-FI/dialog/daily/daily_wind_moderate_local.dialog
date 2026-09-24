@@ -1,0 +1,3 @@
+Ennusteen mukaan tuulee kohtalainen tuuli {direction}:sta {speed} {speed_unit} {day}:ssa.
+Tuuli on kohtalainen, noin {speed} {speed_unit} alkaen {direction} {day}
+Voit odottaa kohtalaista tuulta noin {speed} {speed_unit} {day} {speed_unit} {day}

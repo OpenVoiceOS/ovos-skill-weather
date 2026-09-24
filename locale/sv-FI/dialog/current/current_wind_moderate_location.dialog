@@ -1,2 +1,2 @@
-Tällä hetkellä tuuli on kohtalainen {speed} {speed_unit} {direction}:sta {location}:een.
-Tänään on hieman tuulista {location}:ssa, tällä hetkellä {speed} {speed_unit}:ssa.
+Det är lite blåsigt i {location} idag, för närvarande {speed} {speed_unit}
+För närvarande är vinden måttlig {speed} {speed_unit} från {direction} i {location}

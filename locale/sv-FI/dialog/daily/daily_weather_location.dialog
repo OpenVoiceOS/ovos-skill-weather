@@ -1,3 +1,3 @@
-Ennuste {day} on {high_temperature} korkealle ja {low_temperature} matalalle {location}:ssa.
-{day} se on {condition}, korkeimmillaan {high_temperature} ja matalimmillaan {low_temperature} {location}:ssä.
-{day}, {location} on korkeimmillaan {high_temperature} ja alhaisimmillaan {low_temperature}, ja {condition}
+Prognosen {day} är {high_temperature} för en hög och {low_temperature} för en låg i {location}.
+{day} det kommer att vara {condition}, med en hög av {high_temperature} och en låg av {low_temperature} i {location}
+{day}, {location} kommer att ha en högsta nivå på {high_temperature} och en lägsta nivå på {low_temperature}, med {condition}

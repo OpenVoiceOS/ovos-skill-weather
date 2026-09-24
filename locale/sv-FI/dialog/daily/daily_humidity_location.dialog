@@ -1,2 +1,2 @@
-{day} {location}:n ennusteessa kosteus on {percent}.
-{location} {day}:n kosteus on {percent}.
+Fuktigheten i {location} {day} blir {percent}
+{day} prognosen i {location} anger en luftfuktighet på {percent}

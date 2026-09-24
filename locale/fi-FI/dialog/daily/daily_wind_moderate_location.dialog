@@ -1,0 +1,3 @@
+Ennuste {day} ennustaa {location} kohtalaista tuulta {direction}:sta {speed}:sta {speed_unit}:sta {speed}:sta {speed_unit}:sta
+Tuuli on kohtalainen vuonna {location} {day}, noin {speed} {speed_unit} {direction}
+Voit odottaa tuulta noin {speed} {speed_unit} {location} {day}:ssa {speed_unit} {location} {day}:ssa

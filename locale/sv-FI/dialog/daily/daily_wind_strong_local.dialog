@@ -1,2 +1,2 @@
-Tuuli on kova {direction}:sta {speed}:n {speed_unit}:n {day}:n {speed}:n {speed_unit}:n {day}:n suunnasta.
-Tuuli on yhtä voimakas kuin {speed} {speed_unit} {day} {speed_unit} {day}
+Det kommer att blåsa stark vind från {direction} i {speed} {speed_unit} {day}
+Vinden kommer att vara lika stark som {speed} {speed_unit} {day}

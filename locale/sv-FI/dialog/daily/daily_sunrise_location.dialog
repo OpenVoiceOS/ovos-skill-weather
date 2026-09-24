@@ -1,3 +1,3 @@
-aurinko nousee {time} {day} {location}:ssa {time} {day}:ssä
-vuonna {location} auringonnousu on {time} {day} {time} {day}
-{day} aurinko nousee {time}:ssä {location}:ssa
+i {location} kommer soluppgången att vara vid {time} {day}
+solen går upp vid {time} {day} i {location}
+{day} solen går upp vid {time} i {location}

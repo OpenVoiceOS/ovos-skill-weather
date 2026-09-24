@@ -1,2 +1,2 @@
-{day} se on niinkin alhainen kuin {temperature} astetta {location}:ssa.
-{day}, {location} on yhtä alhainen kuin {temperature} astetta.
+{day} kommer det att vara så lågt som {temperature} grader i {location}
+{day}, {location} kommer att vara så lågt som {temperature} grader.

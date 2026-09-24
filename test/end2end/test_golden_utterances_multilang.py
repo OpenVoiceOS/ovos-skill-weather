@@ -44,9 +44,9 @@ _IGNORE = [
 END2END_DIR = Path(__file__).parent
 
 LANGS = [
-    "ca-ES", "cs-CZ", "da-DK", "de-DE", "es-ES", "eu-ES", "fr-FR",
-    "gl-ES", "hu-HU", "it-IT", "kab", "nl-NL", "oc-FR", "pl-PL",
-    "pt-BR", "pt-PT", "ru-RU", "sv-FI", "sv-SE", "tr-TR",
+    "ca-ES", "cs-CZ", "da-DK", "de-DE", "es-ES", "eu-ES", "fi-FI",
+    "fr-FR", "gl-ES", "hu-HU", "it-IT", "kab", "nl-NL", "oc-FR",
+    "pl-PL", "pt-BR", "pt-PT", "ru-RU", "sv-FI", "sv-SE", "tr-TR",
 ]
 
 _FAKE_GEOLOCATION = {

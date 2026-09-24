@@ -1,4 +1,4 @@
-Myöhemmin se on {condition} ja noin {temperature} astetta.
-Myöhemmin se on {condition} ja {temperature} astetta.
-Noin {temperature} astetta {condition}:llä
-Se on {condition}, ja lämpötila on lähellä {temperature}.
+Det blir {condition}, med temperaturer nära {temperature}
+Runt {temperature} grader med {condition}
+Senare kommer det att vara {condition} och runt {temperature} grader.
+Senare kommer det att vara {condition} och {temperature} grader.

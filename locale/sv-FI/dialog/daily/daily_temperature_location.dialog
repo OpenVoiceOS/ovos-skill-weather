@@ -1,2 +1,2 @@
-{day} se on {temperature} astetta {location}:ssa.
-{day}, {location} lämpötila on {temperature} astetta.
+{day} det blir {temperature} grader om {location}
+{day}, {location} har en temperatur på {temperature} grader.

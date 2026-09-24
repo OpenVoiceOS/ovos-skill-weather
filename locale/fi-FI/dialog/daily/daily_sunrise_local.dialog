@@ -1,0 +1,3 @@
+auringonnousu on klo {time} {day}
+aurinko nousee {time} {day}
+{day} aurinko nousee {time}

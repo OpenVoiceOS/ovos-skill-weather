@@ -1,0 +1,4 @@
+Myöhemmin se on {condition} {location}:ssä, ja lämpötila on noin {temperature}.
+{location} on noin {temperature} astetta {condition}:n kanssa.
+{location} on {temperature}:n ja {condition}:n ympärillä.
+{location} sää lähitunteina on {condition} ja {temperature} astetta.

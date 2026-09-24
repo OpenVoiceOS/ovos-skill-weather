@@ -1,2 +1,2 @@
-Tuuli on kevyt {speed} {speed_unit} {direction}:sta
-Tänään tuulee kevyesti {direction}:sta {speed}:llä {speed_unit}:lla.
+Idag blåser det lätt från {direction} på {speed} {speed_unit}
+Vinden är svag vid {speed} {speed_unit} från {direction}
