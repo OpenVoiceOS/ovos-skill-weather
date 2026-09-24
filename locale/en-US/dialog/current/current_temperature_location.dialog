@@ -1,3 +1,1 @@
-It's currently {temperature} degrees in {location}.
 It's currently {temperature} degrees {temperature_unit} in {location}.
-Right now, it's {temperature} degrees in {location}.

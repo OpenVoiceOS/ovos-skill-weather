@@ -1,3 +1,1 @@
 Det er i øjeblikket {condition} og {temperature} grader {temperature_unit} i {location}.
-Lige nu er det {condition} og {temperature} grader i {location}.
-{location} har {condition} og er i øjeblikket {temperature} grader.

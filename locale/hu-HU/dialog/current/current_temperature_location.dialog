@@ -1,2 +1,1 @@
-Jelenleg {temperature} fok van {location}-ben.
 Jelenleg {temperature} fok van {temperature_unit}-ben {location}-ben.

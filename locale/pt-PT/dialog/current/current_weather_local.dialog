@@ -1,3 +1,1 @@
-Actualmente, estão {condition} e {temperature} graus.
 Actualmente, são {condition} e {temperature} graus {temperature_unit}.
-Neste momento, estão {condition} e {temperature} graus.
