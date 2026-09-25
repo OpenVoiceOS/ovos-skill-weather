@@ -310,10 +310,28 @@ class WeatherSkill(OVOSSkill):
             message: Message Bus event information from the intent parser
         """
         intent_data = self._get_intent_data(message)
+        # The sun times live on the daily forecast and nowhere else:
+        # WeatherReport.current is hourly[0], and the hourly block carries no
+        # sunrise or sunset, so weather.current.sunrise is None. The daily
+        # forecast is therefore always the data source here.
+        #
+        # It must not also decide the dialog. Forcing DAILY for both made
+        # get_dialog_for_timeframe return DailyDialog every time, so the eight
+        # current_sun*.dialog files that ship were unreachable and a user
+        # asking after sunset heard the daily wording. When the request names
+        # no day, the timeframe the intent parser set is put back before the
+        # dialog is chosen, and the current dialog is reachable again.
+        #
+        # Only CURRENT is put back. HourlyDialog defines no sun builders, so
+        # restoring HOURLY would raise AttributeError; that request keeps the
+        # daily dialog, which is the behaviour it already had.
+        requested_timeframe = intent_data.timeframe
         intent_data.timeframe = DAILY
         weather = self._get_weather(intent_data)
         if weather is not None:
             intent_weather = weather.get_weather_for_intent(intent_data)
+            if requested_timeframe == CURRENT:
+                intent_data.timeframe = requested_timeframe
             dialog = get_dialog_for_timeframe(intent_data, intent_weather)
             dialog.build_sunrise_dialog()
             if SessionManager.get().session_id == "default":
@@ -328,10 +346,28 @@ class WeatherSkill(OVOSSkill):
             message: Message Bus event information from the intent parser
         """
         intent_data = self._get_intent_data(message)
+        # The sun times live on the daily forecast and nowhere else:
+        # WeatherReport.current is hourly[0], and the hourly block carries no
+        # sunrise or sunset, so weather.current.sunset is None. The daily
+        # forecast is therefore always the data source here.
+        #
+        # It must not also decide the dialog. Forcing DAILY for both made
+        # get_dialog_for_timeframe return DailyDialog every time, so the eight
+        # current_sun*.dialog files that ship were unreachable and a user
+        # asking after sunset heard the daily wording. When the request names
+        # no day, the timeframe the intent parser set is put back before the
+        # dialog is chosen, and the current dialog is reachable again.
+        #
+        # Only CURRENT is put back. HourlyDialog defines no sun builders, so
+        # restoring HOURLY would raise AttributeError; that request keeps the
+        # daily dialog, which is the behaviour it already had.
+        requested_timeframe = intent_data.timeframe
         intent_data.timeframe = DAILY
         weather = self._get_weather(intent_data)
         if weather is not None:
             intent_weather = weather.get_weather_for_intent(intent_data)
+            if requested_timeframe == CURRENT:
+                intent_data.timeframe = requested_timeframe
             dialog = get_dialog_for_timeframe(intent_data, intent_weather)
             dialog.build_sunset_dialog()
             if SessionManager.get().session_id == "default":
