@@ -4,10 +4,8 @@ Quin (meteorologia|temps) fa ara meteis?
 (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin|ser) a {location}?
 Farà (bon|calor|fred) (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 [(de Condicions|Estat)] del temps (actual|ara) .
-[(de Condicions|Estat)] del temps (actual|ara) .
 (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la (nuèch|serada) ?
 (Ensenha-me|Mòstra-me) lo temps setmanièr (a|de) {location}.
-del temps (actual|ara) (a|de) {location}.
 del temps (actual|ara) (a|de) {location}.
 (Cossí|cossí) es lo temps ?
 (Cossí|cossí) es lo temps a {location}?
@@ -34,7 +32,6 @@ Cossí pinta la meteorologia ?
 Me pòdes dire lo temps ?
 Quin temps fa [a] defòra?
 del temps ara meteis .
-del temps ara meteis .
 Lo temps per la dimenjada.
 Lo temps per dissabte e dimenge.
 Lo temps pendent la setmana .
@@ -42,21 +39,17 @@ Prevision del temps setmanièr .
 (Cossí|Quin) es (çò|lo |la) (temps|prevision) (a|de) {location}?
 (Diga-me|Explica-me) lo temps (de |per) aquela setmana .
 (De Condicions|Estat) del temps (actual|ara) (a|de) {location}.
-(De Condicions|Estat) del temps (actual|ara) (a|de) {location}.
 Quin (meteorologia|temps) i a ara meteis?
 Farà (bon|sol) aquel dimenjada?
 (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la (nuèch|serada) a {location}?
 Cossí (es|penche) lo temps d'aquela setmana .
 lo temps dels (prèps|seguents) (2|3|4|5|6|7) de jorns .
 (De Condicions|Estat) de la meteorologia (actual|ara) .
-(Ensenha-me|Mòstra-me) lo temps setmanièr (a|de) {location}.
 (Ensenha-me|Mòstra-me) la meteorologia setmanièra (a|de) {location}.
 (Lo temps|Meteorologia|Temps) de la setmana (a|de) {location}.
 de la meteorologia (actual|ara) (a|de) {location}.
 Diga-me lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
-(Cossí|cossí) es lo temps a {location}?
 (Cossí|cossí) es la meteorologia a {location}?
-(De Condicions|Estat) del temps ara meteis .
 (De Condicions|Estat) del temps ara meteis .
 (Nevarà|Plourà) après deman a {location}?
 (Actualizacion|Prevision) meteorologica de dissabte e dimenge?
@@ -72,10 +65,8 @@ Cossí es lo temps (ara|uèi) a {location}?
 I aurà tempèsta (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Qué me mecal esperar (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
-Cossí es lo temps (ara|uèi) ?
 Cossí es la meteorologia (ara|uèi) ?
 Me pòdes dire lo temps (a l'ora d'ara|ara) ?
-del temps ara meteis (a|de) {location}.
 del temps ara meteis (a|de) {location}.
 Qualque avís del temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Qualqu'una alèrta del temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
@@ -86,49 +77,37 @@ Lo temps pendent la setmana (a|de) {location}.
 Prevision del temps setmanièr (a|de) {location}.
 Quin temps farà a {location} (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge?|divendres)
 Cossí es lo temps ara meteis ?
-Cossí pinta lo temps a {location}?
 Cossí pinta la meteorologia a {location}?
 Dona-me la darrièra actualizacion de la temps .
 Dona-me la darrièra actualizacion del temps .
-Me pòdes dire lo temps ?
 Me pòdes dire lo temps a {location}?
 Me pòdes dire la meteorologia ?
 de la meteorologia ara meteis .
-Lo temps per la dimenjada.
-Lo temps per dissabte e dimenge.
 La meteorologia per la dimenjada.
 La meteorologia per dissabte e dimenge.
 Plourà dissabte e dimenge a {location}.
 Quin temps farà dissabte e dimenge?
 Quin es lo temps dissabte e dimenge?
 (Diga-me|Explica-me) lo temps (de |per) aquela setmana (a|de) {location}.
-(Diga-me|Explica-me) lo temps (de |per) aquela setmana .
 (Diga-me|Explica-me) la meteorologia (de |per) aquela setmana .
 Cossí (es|penche) lo temps d'aquela setmana (a|de) {location}.
 lo temps dels (prèps|seguents) (2|3|4|5|6|7) de jorns (a|de) {location}.
 (De Condicions|Estat) de la meteorologia (actual|ara) (a|de) {location}.
 Quin es lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Diga-me la (meteorologia|prevision) çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
-Cossí (es|penche) lo temps d'aquela setmana .
 Cossí (es|penche) la meteorologia d'aquela setmana .
 Diga-me lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Lo temps dels (prèps|seguents) (2|3|4|5|6|7) de jorns .
 la meteorologia dels (prèps|seguents) (2|3|4|5|6|7) de jorns .
 (De Condicions|Estat) del temps ara meteis (a|de) {location}.
-(De Condicions|Estat) del temps ara meteis (a|de) {location}.
 Lo temps (de|durant) la setmana (a|de) {location}.
 La meteorologia (de|durant) la setmana (a|de) {location}.
 Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin|miègjorn|ser) ?
 Cossí es lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
-Diga-me lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Prevision per oras de (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) (a|de) {location}.
 (De Condicions|Estat) de la meteorologia ara meteis .
 (Actualizacion|Prevision) del temps de dissabte e dimenge?
 (Actualizacion|Prevision) del temps de la dimenjada?
-(Actualizacion|Prevision) del temps de dissabte e dimenge?
-(Actualizacion|Prevision) del temps de la dimenjada?
-(Diga-me|Explica-me) lo temps de dissabte e dimenge?
-(Diga-me|Explica-me) lo temps de la dimenjada?
 (Diga-me|Explica-me) la meteorologia de dissabte e dimenge?
 (Diga-me|Explica-me) la meteorologia de la dimenjada?
 (Meteorologia|Temps) per la dimenjada a {location}?
@@ -143,7 +122,6 @@ Prevision per (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres)
 Farà bon jorn aquel dimenjada?
 Quin temps farà aquel dimenjada?
 Quin es lo temps aquel dimenjada?
-Cossí es lo temps (ara|uèi) a {location}?
 Cossí es la meteorologia (ara|uèi) a {location}?
 Me pòdes dire lo temps (a l'ora d'ara|ara) a {location}?
 Qualque avís del temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
@@ -151,22 +129,17 @@ Qualqu'una alèrta del temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dim
 Quin temps i aurà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Quin temperatura es previst (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Quin es lo temps per los (prèps|seguents) de jorns ?
-Me pòdes dire lo temps (a l'ora d'ara|ara) ?
 Me pòdes dire la meteorologia (a l'ora d'ara|ara) ?
 de la meteorologia ara meteis (a|de) {location}.
 Quina es la prevision per (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Cossí serà lo temps a {location} (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge?|divendres)
 Quin temps farà dissabte e dimenge (?|que ven?)
 Quin es lo temps dissabte e dimenge (?|que ven?)
-Cossí es lo temps ara meteis ?
 Cossí es lo temps ara meteis a {location}?
 Cossí es la meteorologia ara meteis ?
 Dona-me la darrièra actualizacion de la temps a {location}.
 Dona-me la darrièra actualizacion de la meteorologia .
 Dona-me la darrièra actualizacion del temps a {location}.
-Dona-me la darrièra actualizacion de la temps .
-Dona-me la darrièra actualizacion del temps .
-Me pòdes dire lo temps a {location}?
 Me pòdes dire lo temps ara meteis ?
 Me pòdes dire la meteorologia a {location}?
 I aurà tempèsta après deman ?
@@ -179,33 +152,27 @@ Quin serà lo temps pendent dissabte e dimenge?
 Quin temps farà pendent dissabte e dimenge?
 Quina es la meteorologia dissabte e dimenge?
 Prevision del temps de la setmana .
-(Diga-me|Explica-me) lo temps (de |per) aquela setmana (a|de) {location}.
 (Diga-me|Explica-me) la meteorologia (de |per) aquela setmana (a|de) {location}.
 Quin es la (meteorologia|prevision) çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Quin es lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Diga-me la (meteorologia|prevision) çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
-Cossí (es|penche) lo temps d'aquela setmana (a|de) {location}.
 Cossí (es|penche) la meteorologia d'aquela setmana (a|de) {location}.
 Diga-me lo temps a (la|las) (1|10|11|12|2|3|4|5|6|7|8|9) del (matin|miègjorn|ser) ?
 Lo temps dels (prèps|seguents) (2|3|4|5|6|7) de jorns (a|de) {location}.
 la meteorologia dels (prèps|seguents) (2|3|4|5|6|7) de jorns (a|de) {location}.
-Quin es lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Cossí es la (meteorologia|prevision) çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Farà (bon|calor|sol) aquel dimenjada a {location}?
 Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin|miègjorn|ser) a {location}?
 Cossí es lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
-Diga-me lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Quin temps farà per los (prèps|seguents) (2|3|4|5|6|7) de jorns ?
 Quin es lo temps per los (prèps|seguents) (2|3|4|5|6|7) de jorns ?
 (De Condicions|Estat) de la meteorologia ara meteis (a|de) {location}.
 (Ensenha-me|Mòstra-me) lo temps dels prèps 7 jorns (a|de) {location}.
 (Ensenha-me|Mòstra-me) la prevision del temps setmanièr (a|de) {location}.
 Cossí serà lo temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin|miègjorn|ser) ?
-Cossí es lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Quin temps farà a {location} (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin?|miègjorn?|ser?)
 (Actualizacion|Prevision) meteorologica de dissabte e dimenge a {location}.
 (Actualizacion|Prevision) meteorologica de la dimenjada a {location}.
-(Ensenha-me|Mòstra-me) lo temps dels prèps 7 jorns .
 (Ensenha-me|Mòstra-me) la meteorologia dels prèps 7 jorns .
 Prevision per (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la nuèch a {location}?
 Farà bon aquel dimenjada a {location}.
@@ -213,22 +180,15 @@ Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendr
 Quina es la meteorologia aquel dimenjada?
 Tu organizariás d'activitats exterioras aquel dimenjada?
 Quin es lo temps per los (prèps|seguents) de jorns a {location}?
-Me pòdes dire lo temps (a l'ora d'ara|ara) a {location}?
 Me pòdes dire la meteorologia (a l'ora d'ara|ara) a {location}?
 Quina es la prevision per (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
-Quin es lo temps per los (prèps|seguents) de jorns ?
 Quina es la meteorologia per los (prèps|seguents) de jorns ?
 Prevision del temps de la setmana (a|de) {location}.
 Quin temps farà la dimenjada (?|que ven?)
 Quin es lo temps la dimenjada (?|que ven?)
 Quina es la meteorologia dissabte e dimenge (?|que ven?)
-Cossí es lo temps ara meteis a {location}?
 Cossí es la meteorologia ara meteis a {location}?
 Dona-me la darrièra actualizacion de la meteorologia a {location}.
-Dona-me la darrièra actualizacion de la temps a {location}.
-Dona-me la darrièra actualizacion de la meteorologia .
-Dona-me la darrièra actualizacion del temps a {location}.
-Me pòdes dire lo temps ara meteis ?
 Me pòdes dire lo temps ara meteis a {location}?
 Me pòdes dire la meteorologia ara meteis ?
 Qualque avís del temps après deman ?
@@ -255,13 +215,9 @@ Quin (meteorologia|temps) fa (a l'ora d'ara?|ara?)
 Farà (bon|calor|fred) (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Çò temps d'aquela setmana (.|a{location}.|de{location}.)
 la meteorologia d'aquela setmana (.|a{location}.|de{location}.)
-(Cossí|cossí) es lo temps ?
-(Ensenha-me|Mòstra-me) lo temps setmanièr .
 Quin temps i a?
 del temps (a|de) {location}?
-del temps (a|de) {location}?
 lo temps de la setmana (.|a{location}.|de{location}.)
-Cossí pinta lo temps ?
 Fa bon defòra?
 Fa bon dins la carrièra?
 de la prevision ?
@@ -273,7 +229,6 @@ Diga-me lo temps
 Diga-me la meteorologia
 (Meteorologia|Temps) setmanièr .
 Quin temps fa?
-del temps ?
 del temps ?
 Quin meteorologia fa?
 Quin es la (meteorologia|prevision) çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
@@ -290,22 +245,16 @@ Prevision per (deman|dijòus|diluns|dimars) a (la|las) (7|8|9) del (matin|miègj
 Prevision per (dimècres|dissabte|dimenge|divendres) a (la|las) (4|5|6) del (matin|miègjorn|ser) .
 Prevision per (dimècres|dissabte|dimenge|divendres) a (la|las) (7|8|9) del (matin|miègjorn|ser) .
 Diga-me lo temps a (la|las) (1|10|11|12|2|3|4|5|6|7|8|9) del (matin|miègjorn|ser) a {location}?
-Quin es lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 (Diga-me|Explica-me) la prevision del temps (de |per) aquela setmana .
 Cossí es la (meteorologia|prevision) çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Diga-me lo temps a (la|las) (1|10|11|12|2|3|4|5|6|7|8|9) de la (nuèch|serada) ?
-Diga-me lo temps a (la|las) (1|10|11|12|2|3|4|5|6|7|8|9) del (matin|miègjorn|ser) ?
 Quin temps farà per los (prèps|seguents) (2|3|4|5|6|7) de jorns a {location}?
 Quin es lo temps per los (prèps|seguents) (2|3|4|5|6|7) de jorns a {location}?
 Cossí (es|penche) la prevision del temps d'aquela setmana .
 Cossí serà lo temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin|miègjorn|ser) a {location}?
-Cossí es lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Quina es la meteorologia per los (prèps|seguents) (2|3|4|5|6|7) de jorns ?
-(Ensenha-me|Mòstra-me) lo temps dels prèps 7 jorns (a|de) {location}.
 (Ensenha-me|Mòstra-me) la meteorologia dels prèps 7 jorns (a|de) {location}.
 Cossí serà lo temps a {location} (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin?|miègjorn?|ser?)
-(Actualizacion|Prevision) del temps de dissabte e dimenge a {location}.
-(Actualizacion|Prevision) del temps de la dimenjada a {location}.
 (Actualizacion|Prevision) del temps de dissabte e dimenge a {location}.
 (Actualizacion|Prevision) del temps de la dimenjada a {location}.
 (Diga-me|Explica-me) la prevision del temps de dissabte e dimenge?
@@ -314,11 +263,8 @@ Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendr
 I aurà tempèsta aquel dimenjada a {location}.
 Cossí serà lo temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la serada ?
 Quin temps farà a {location} (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la serada?
-Quin es lo temps per los (prèps|seguents) de jorns a {location}?
 Quina es la meteorologia per los (prèps|seguents) de jorns a {location}?
 Quina es la meteorologia la dimenjada (?|que ven?)
-Dona-me la darrièra actualizacion de la meteorologia a {location}.
-Me pòdes dire lo temps ara meteis a {location}?
 Me pòdes dire la meteorologia ara meteis a {location}?
 Qualque avís del temps après deman a {location}?
 Qualqu'una alèrta del temps après deman a {location}?
@@ -376,11 +322,7 @@ Prevision per (deman|dijòus|diluns|dimars) a (la|las) (7|8|9) de la (nuèch|ser
 Prevision per (dimècres|dissabte|dimenge|divendres) a (la|las) (4|5|6) de la (nuèch|serada) .
 Prevision per (dimècres|dissabte|dimenge|divendres) a (la|las) (7|8|9) de la (nuèch|serada) .
 (Diga-me|Explica-me) la prevision del temps (de |per) aquela setmana (a|de) {location}.
-Cossí (es|penche) lo temps a (la|las) (1|10|11|12|2|3) del (matin|miègjorn|ser) ?
-Cossí (es|penche) lo temps a (la|las) (4|5|6|7|8|9) del (matin|miègjorn|ser) ?
 Diga-me lo temps a (la|las) (1|10|11|12|2|3|4|5|6|7|8|9) de la (nuèch|serada) a {location}?
-Diga-me lo temps a (la|las) (1|10|11|12|2|3|4|5|6|7|8|9) del (matin|miègjorn|ser) a {location}?
-Diga-me lo temps a (la|las) (1|10|11|12|2|3|4|5|6|7|8|9) de la (nuèch|serada) ?
 Cossí (es|penche) la prevision del temps d'aquela setmana (a|de) {location}.
 Quina es la meteorologia per los (prèps|seguents) (2|3|4|5|6|7) de jorns a {location}?
 (Ensenha-me|Mòstra-me) la prevision del temps dels prèps 7 jorns .
@@ -425,11 +367,6 @@ Cossí (es|penche) lo temps a (la|las) (1|10|11|12|2|3) de la (nuèch|serada) a 
 Cossí (es|penche) lo temps a (la|las) (4|5|6|7|8|9) de la (nuèch|serada) a {location}?
 Diga-me la (meteorologia|prevision) a (la|las) (1|10|11|12|2|3) de la (nuèch|serada) a {location}?
 Diga-me la (meteorologia|prevision) a (la|las) (4|5|6|7|8|9) de la (nuèch|serada) a {location}?
-Cossí (es|penche) lo temps a (la|las) (1|10|11|12|2|3) del (matin|miègjorn|ser) a {location}?
-Cossí (es|penche) lo temps a (la|las) (4|5|6|7|8|9) del (matin|miègjorn|ser) a {location}?
-Cossí (es|penche) lo temps a (la|las) (1|10|11|12|2|3) de la (nuèch|serada) ?
-Cossí (es|penche) lo temps a (la|las) (4|5|6|7|8|9) de la (nuèch|serada) ?
-Diga-me lo temps a (la|las) (1|10|11|12|2|3|4|5|6|7|8|9) de la (nuèch|serada) a {location}?
 Quina es la prevision del temps per los (prèps|seguents) (2|3|4|5|6|7) de jorns ?
 (Ensenha-me|Mòstra-me) la prevision del temps dels prèps 7 jorns (a|de) {location}.
 Quina es la prevision del temps per los (prèps|seguents) de jorns a {location}?
@@ -446,8 +383,6 @@ Cossí (es|penche) la (meteorologia|prevision) a (la|las) (1|10|11) de la (nuèc
 Cossí (es|penche) la (meteorologia|prevision) a (la|las) (12|2|3) de la (nuèch|serada) a {location}?
 Cossí (es|penche) la (meteorologia|prevision) a (la|las) (4|5|6) de la (nuèch|serada) a {location}?
 Cossí (es|penche) la (meteorologia|prevision) a (la|las) (7|8|9) de la (nuèch|serada) a {location}?
-Cossí (es|penche) lo temps a (la|las) (1|10|11|12|2|3) de la (nuèch|serada) a {location}?
-Cossí (es|penche) lo temps a (la|las) (4|5|6|7|8|9) de la (nuèch|serada) a {location}?
 Quina es la prevision per (deman|dijòus|diluns|dimars) a (la|las) (1|10|11) del (matin|miègjorn|ser) ?
 Quina es la prevision per (deman|dijòus|diluns|dimars) a (la|las) (12|2|3) del (matin|miègjorn|ser) ?
 Quina es la prevision per (dimècres|dissabte|dimenge|divendres) a (la|las) (1|10|11) del (matin|miègjorn|ser) ?
@@ -461,7 +396,6 @@ Es bona inventa organizar d'activitats a l'aire liure aquel dimenjada?
 Quina es la meteorologia la dimenjada que ven a {location}?
 Quina es la prevision del temps la dimenjada a {location}?
 Quina es la prevision del temps la dimenjada que ven?
-Diga-me lo temps
 Quina es la prevision per (deman|dijòus|diluns|dimars) a (la|las) (1|10|11) del (matin|miègjorn|ser) a {location}?
 Quina es la prevision per (deman|dijòus|diluns|dimars) a (la|las) (12|2|3) del (matin|miègjorn|ser) a {location}?
 Quina es la prevision per (dimècres|dissabte|dimenge|divendres) a (la|las) (1|10|11) del (matin|miègjorn|ser) a {location}?
@@ -490,7 +424,6 @@ Quina es la prevision per (dimècres|dissabte|dimenge|divendres) a (la|las) (4|5
 Quina es la prevision per (dimècres|dissabte|dimenge|divendres) a (la|las) (7|8|9) de la (nuèch|serada) a {location}?
 Es bona inventa organizar d'activitats a l'aire liure aquel dimenjada a {location}?
 Quina es la prevision del temps la dimenjada que ven a {location}?
-Diga-me lo temps (de dissabte e dimenge|de la dimenjada) a {location}.
 Diga-me lo temps (de dissabte e dimenge|de la dimenjada) a {location}.
 Diga-me la meteorologia (de dissabte e dimenge|de la dimenjada) a {location}.
 Diga-me la prevision del temps (de dissabte e dimenge|de la dimenjada) a {location}.

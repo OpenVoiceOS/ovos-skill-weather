@@ -124,8 +124,6 @@ Cómo se (presenta|prevé) el tiempo pasado mañana
 Qué tal se (presenta|prevé) el tiempo mañana 
 Va a hacer (calor|frío) después de mañana 
 Va a hacer (calor|frío) pasado mañana en {location}
-Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía 
-Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde 
 Las condiciones meteorológicas de (esta|la) semana en {location}
 Alguna alerta meteorológica para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 Algún aviso meteorológico para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
@@ -134,7 +132,6 @@ Cuál es el pronóstico para el (domingo|jueves|lunes|martes|miércoles|sábado|
 Cuál es la previsión para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 Qué tal estará el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) 
 Va a hacer buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
-Qué tiempo hará mañana por la (mañana|noche) 
 Cómo estará el tiempo en {location} el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
 Cómo va a estar el tiempo en {location}
 Qué tal está el pronóstico de el tiempo
@@ -278,8 +275,6 @@ Qué tiempo hace hoy en {location}
 Habrá una tormenta mañana en {location}
 Habrá una tormenta pasado mañana 
 Hará buen clima pasado mañana 
-Qué tiempo hará mañana a mediodía
-Qué tiempo hará mañana por tarde
 Hará sol el sábado y domingo?
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (domingo|jueves|lunes) por la (mañana|noche|tarde)
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (martes|miércoles|sábado|viernes) por la (mañana|noche|tarde)
@@ -297,7 +292,6 @@ El (clima|tiempo) en los (próximos|venideros) (2|3|4|5|6|7) días en {location}
 La meteorología en los (próximos|venideros) (2|3|4|5|6|7) días en {location}
 Cómo se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) en {location}
 Qué tal se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) 
-Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|noche) 
 Cómo se (presenta|prevé) el tiempo en {location} el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
 (Cuéntame|Dime) sobre el pronóstico de el tiempo en {location}
 (Dame|Explícame|Muéstrame) la actualización más reciente del tiempo en {location}
