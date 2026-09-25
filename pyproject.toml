@@ -47,7 +47,7 @@ packages = ["ovos_skill_weather", "ovos_skill_weather.weather_helpers"]
 ovos_skill_weather = "."
 
 [tool.setuptools.package-data]
-ovos_skill_weather = ["*.json", "locale/**/*", "gui/**/*", "vocab/**/*", "dialog/**/*", "regex/**/*", "weather_helpers/**/*"]
+ovos_skill_weather = ["*.json", "locale/**/*", "gui/**/*", "vocab/**/*", "dialog/**/*", "weather_helpers/**/*"]
 
 [tool.setuptools.dynamic]
 version = {attr = "ovos_skill_weather.version.__version__"}
