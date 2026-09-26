@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.12a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.12a1) (2026-09-26)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.11a1...1.4.12a1)
+
+**Merged pull requests:**
+
+- fix\(test\): import weather\_helpers by the name the installed package provides [\#292](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/292) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.11a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.11a1) (2026-09-25)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.10a1...1.4.11a1)
@@ -363,18 +371,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.10a2...1.0.10a3)
 
-**Merged pull requests:**
-
-- chore\(ovos-skill-weather\): allow ovos-workshop\<9.0.0 [\#186](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/186) ([JarbasAl](https://github.com/JarbasAl))
-
 ## [1.0.10a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.10a2) (2026-04-04)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.10a1...1.0.10a2)
-
-**Merged pull requests:**
-
-- ci: modernize GitHub workflows [\#184](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/184) ([JarbasAl](https://github.com/JarbasAl))
-- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#183](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/183) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.10a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.10a1) (2026-03-24)
 
