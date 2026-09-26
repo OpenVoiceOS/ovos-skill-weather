@@ -14,12 +14,21 @@
 """Utility functions for the weather skill."""
 from datetime import datetime, timedelta, tzinfo
 from itertools import islice
+from pathlib import Path
 from typing import List
 
 import pytz
 from ovos_date_parser import nice_date, extract_datetime
 from ovos_utils.geolocation import get_geolocation as _get_geo
 from ovos_utils.time import now_local, to_local
+
+from .location import (
+    answer_names_the_place,
+    load_exonyms,
+    location_candidates,
+)
+
+LOCALE_DIR = Path(__file__).resolve().parent.parent / "locale"
 
 
 class LocationNotFoundError(ValueError):
@@ -96,10 +105,26 @@ def get_geolocation(location: str, lang: str = "en"):
     Raises:
         LocationNotFound error if the API returns no results.
     """
-    geolocation = _get_geo(location, lang=lang)
+    geolocation = None
+    refused = []
+    for candidate in location_candidates(
+            location, lang, load_exonyms(LOCALE_DIR, lang)):
+        answer = _get_geo(candidate, lang=lang)
+        if answer is None:
+            continue
+        named = answer["city"]["name"]
+        if not answer_names_the_place(candidate, named):
+            # the service answered, but with a district or an unrelated place:
+            # speaking that forecast would name the wrong city out loud. See
+            # weather_helpers/location.py for the measurements.
+            refused.append(f"{candidate} -> {named}")
+            continue
+        geolocation = answer
+        break
 
     if geolocation is None:
-        raise LocationNotFoundError(f"Location {location} is unknown")
+        detail = f" (refused: {'; '.join(refused)})" if refused else ""
+        raise LocationNotFoundError(f"Location {location} is unknown{detail}")
 
     # convert the dict to a simpler format
     return {
