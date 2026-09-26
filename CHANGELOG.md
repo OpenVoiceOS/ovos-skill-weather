@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.14a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.14a1) (2026-09-26)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.13a1...1.4.14a1)
+
+**Merged pull requests:**
+
+- fix\(sv-SE\): the store examples are measured against this locale's templates [\#290](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/290) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.13a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.13a1) (2026-09-26)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.12a1...1.4.13a1)
@@ -358,10 +366,6 @@
 ## [1.0.12a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a1) (2026-07-03)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.11a1...1.0.12a1)
-
-**Merged pull requests:**
-
-- fix: rewrite en-US intent templates as compact grammar [\#192](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/192) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.11a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.11a1) (2026-06-20)
 
