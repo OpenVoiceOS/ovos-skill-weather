@@ -44,6 +44,17 @@ LOCALE_PHRASES = {
 # is_cloudy.intent, with no weather_condition.intent, no is_clear/is_fog/
 # is_rain/is_snow/is_stormy to migrate. weather_condition.intent for these
 # carries only the cloudy phrasings, and only clouds_report.voc is populated.
+# The Swedish locales resolve fog through
+# vocabulary/weather_condition_intent/fog_report.voc. They also shipped a
+# second file of the same base name, vocabulary/temperature/fog.voc, holding
+# two of the same five words; it is deleted, and these phrases -- lifted
+# verbatim from each locale's own weather_condition.intent -- are what proves
+# the deletion changed no routing.
+SWEDISH_FOG_PHRASES = {
+    "sv-SE": "är det dimmigt",
+    "sv-FI": "är det idag disigt",
+}
+
 CLOUDY_ONLY_LOCALE_PHRASES = {
     "cs-CZ": "je zamračeno",
     "hu-HU": "felhős van",
@@ -82,6 +93,22 @@ class TestWeatherConditionLocaleParity(unittest.TestCase):
                 with patch.object(self.skill, "_report_weather_condition") as report:
                     self.skill.handle_weather_condition(message)
                 report.assert_called_once_with(message, "clouds")
+
+
+    def test_swedish_fog_still_routes_without_the_duplicate_voc(self):
+        """locale/sv-*/vocabulary/temperature/fog.voc is gone.
+
+        condition/fog.voc and weather_condition_intent/fog_report.voc both
+        survive with a superset of its words (dimma, dimmigt, plus dimmig, dis
+        and disigt), and the dispatcher matches on the fog_report filename, so
+        nothing read the deleted file. This is the check that says so.
+        """
+        for lang, phrase in SWEDISH_FOG_PHRASES.items():
+            with self.subTest(lang=lang, phrase=phrase):
+                message = Message("test", {"utterance": phrase}, {"lang": lang})
+                with patch.object(self.skill, "_report_weather_condition") as report:
+                    self.skill.handle_weather_condition(message)
+                report.assert_called_once_with(message, "fog")
 
 
 if __name__ == "__main__":
