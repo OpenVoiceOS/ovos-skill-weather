@@ -1,4 +1,4 @@
-# needs_manual: Finnish translation pending
-Blåser det mycket just nu [i {location}]
-Hur hård är vinden [i {location}]
-Kommer det att blåsa idag [i {location}]
+# unvouched: Finnish draft by the localize lane, awaiting a Finnish speaker. No fi-FI reviewer is on record.
+tuuleeko kovaa juuri nyt [{location}]
+kuinka kova tuuli on [{location}]
+tuuleeko tänään [{location}]
