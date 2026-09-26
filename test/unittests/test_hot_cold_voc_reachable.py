@@ -38,16 +38,18 @@ def test_every_locale_can_reach_the_high_temperature():
     hot branch is asserted: a cold phrasing that matches nothing falls to the
     low temperature, which is the answer it wanted anyway.
     """
-    # These four cannot reach it either, and no phrasing in this repository
-    # tells us which word they should carry: cs-CZ and fi-FI hold words from
-    # another language entirely, and pl-PL and ru-RU hold an adjective where
-    # their sentences use an adverb. fi-FI's `is_hot_or_cold.intent` is a
-    # placeholder copy of the Swedish original awaiting a Finnish
-    # translation, so it cannot match its own Finnish `hot.voc` yet. Naming
-    # them keeps the check strict for every other locale and fails the
-    # moment a fifth appears; each wants a native speaker rather than a
-    # guess.
-    WANTS_A_NATIVE_SPEAKER = {"cs-CZ", "fi-FI", "pl-PL", "ru-RU"}
+    # These three cannot reach it either, and no phrasing in this repository
+    # tells us which word they should carry: cs-CZ holds words from another
+    # language entirely, and pl-PL and ru-RU hold an adjective where their
+    # sentences use an adverb. Naming them keeps the check strict for every
+    # other locale and fails the moment a fourth appears; each wants a
+    # native speaker rather than a guess.
+    #
+    # fi-FI left this set with the Finnish intent files. Its
+    # `is_hot_or_cold.intent` was a placeholder copy of the Swedish
+    # original, so it could not match its own Finnish `hot.voc`; the Finnish
+    # lines use `lämmin` and `kuuma`, which that file carries.
+    WANTS_A_NATIVE_SPEAKER = {"cs-CZ", "pl-PL", "ru-RU"}
 
     unreachable = []
     for locale in sorted(LOCALES.iterdir()):

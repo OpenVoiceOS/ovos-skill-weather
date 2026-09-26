@@ -1,4 +1,4 @@
-# needs_manual: Finnish translation pending
-Hur dags går solen upp (idag|imorgon) [i {location}]
-När är soluppgången idag [i {location}]
-Hur dags blir det ljust imorgon [i {location}]
+# unvouched: Finnish draft by the localize lane, awaiting a Finnish speaker. No fi-FI reviewer is on record.
+mihin aikaan aurinko nousee (tänään|huomenna) [{location}]
+milloin on auringonnousu tänään [{location}]
+mihin aikaan valkenee huomenna [{location}]

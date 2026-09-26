@@ -1,5 +1,5 @@
-# needs_manual: Finnish translation pending
-Vad är luftfuktigheten [just nu] [i {location}]
-Är det fuktigt idag [i {location}]
-Behöver jag en avfuktare idag [i {location}]
-Hur många procents luftfuktighet är det [i {location}]
+# unvouched: Finnish draft by the localize lane, awaiting a Finnish speaker. No fi-FI reviewer is on record.
+mikä on ilmankosteus [juuri nyt] [{location}]
+onko tänään kosteaa [{location}]
+tarvitsenko ilmankuivaimen tänään [{location}]
+montako prosenttia ilmankosteus on [{location}]
