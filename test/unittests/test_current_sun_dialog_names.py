@@ -17,8 +17,8 @@ from unittest.mock import patch
 
 import pytest
 
-from weather_helpers import dialog as dialog_module
-from weather_helpers.dialog import CurrentDialog
+from ovos_skill_weather.weather_helpers import dialog as dialog_module
+from ovos_skill_weather.weather_helpers.dialog import CurrentDialog
 
 LOCALE = Path(__file__).resolve().parents[2] / "locale" / "en-US" / "dialog" / "current"
 
