@@ -1,0 +1,15 @@
+A che ora tramonta il sole (oggi|domani) [a {location}]
+Quando c'è il tramonto oggi [a {location}]
+A che ora fa buio oggi [a {location}]
+A che ora tramonta il sole
+A che ora tramonta il sole a {location}
+A che ora tramonta il sole oggi
+A che ora tramonta il sole oggi a {location}
+A che ora tramonta il sole domani
+A che ora tramonta il sole domani a {location}
+Dimmi l'ora del tramonto
+Dimmi l'ora del tramonto a {location}
+Dimmi l'ora del tramonto oggi
+Dimmi l'ora del tramonto oggi a {location}
+Dimmi l'ora del tramonto domani
+Dimmi l'ora del tramonto domani a {location}

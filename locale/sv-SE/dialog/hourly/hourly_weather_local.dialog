@@ -1,0 +1,4 @@
+Det blir {condition}, med temperaturer nära {temperature}
+Runt {temperature} grader med {condition}
+Senare kommer det att vara {condition} och runt {temperature} grader.
+Senare kommer det att vara {condition} och {temperature} grader.

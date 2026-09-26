@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Počasí",
+  "description": "Zjistěte počasí, předpověď, očekávané srážky a další. Můžete se také zeptat na jiná města po celém světě. Aktuální počasí a předpovědi pocházejí z OpenMeteo.",
+  "examples": [
+    "Jaké je počasí?",
+    "Jaká je teplota?",
+    "Jaká je předpověď na zítra?",
+    "Jaké je počasí v Brně?",
+    "Jaká bude zítra teplota v Paříži ve stupních Celsia?",
+    "Jaká bude zítra nejvyšší teplota?",
+    "Kdy zapadá slunce?",
+    "Bude v Ostravě sněžit?",
+    "Bude sněžit?",
+    "Jaké bude počasí v úterý?",
+    "Jaké bude počasí příští tři dny?",
+    "Jaká je vlhkost?",
+    "Jaké bude počasí o víkendu?",
+    "Jaká je předpověď na zítra v Londýně?",
+    "Jak moc fouká?",
+    "Kdy bude pršet?",
+    "Bude v úterý zima?",
+    "prší?"
+  ],
+  "tags": [
+    "počasí",
+    "předpověď",
+    "déšť",
+    "vlhkost",
+    "sníh",
+    "teplota"
+  ]
+}

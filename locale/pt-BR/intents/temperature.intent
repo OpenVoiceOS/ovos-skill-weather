@@ -1,0 +1,92 @@
+(Qual|qual) é a temperatura
+está (agradável|frio|quente) lá fora
+quão (frio|quente) está agora
+quão (frio|quente) estará hoje
+quão (quente|frio) vai ficar
+vai estar (frio|quente) [hoje]
+preciso de uma (casaco|jaqueta)
+temperatura máxima para (amanhã|domingo|hoje|quarta|quinta|segunda|sexta|sábado|terça)
+devo esperar geada [(amanhã|domingo|quarta-feira|quinta-feira|segunda-feira|sexta-feira|sábado|terça-feira)]
+atualização de temperatura atual
+diga-me a temperatura agora
+estará frio esta noite
+estará abaixo de zero
+previsão de temperatura mínima
+são esperadas temperaturas congelantes
+(Qual|qual) é a temperatura em {location}
+está (agradável|frio|quente) lá fora em {location}
+quão (frio|quente) está em {location} [agora]
+quão (quente|frio) vai ficar em {location}
+preciso de uma (casaco|jaqueta) em {location}
+devo esperar geada [(amanhã|domingo|quarta-feira|quinta-feira|segunda-feira|sexta-feira|sábado|terça-feira)] em {location}
+Qual é a temperatura em (Celsius|Fahrenheit)
+Qual é a temperatura atual (agora|hoje)
+Qual é a temperatura mais (alta|baixa)
+Qual é a temperatura lá fora
+diga-me a temperatura em {location} agora
+quão quente ou frio está [agora]
+estará frio esta noite em {location}
+quão quente estará hoje à noite
+qual é a temperatura máxima esperada
+devo esperar geada hoje à noite
+estará abaixo de zero em {location}
+quão frio estará [hoje] em {location}
+são esperadas temperaturas congelantes em {location}
+quão (quente|frio) vai ficar (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+(Qual|qual) é a temperatura agora
+quão (frio|quente) estará esta noite
+vai estar (frio|quente) esta noite
+preciso de uma (casaco|jaqueta) hoje
+Qual é a temperatura (hoje|atual|máxima|mínima)
+estará abaixo de zero (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+são esperadas temperaturas congelantes (amanhã|domingo|quarta-feira|quinta-feira|segunda-feira|sexta-feira|sábado|terça-feira)
+quão quente estará esta manhã
+quão quente vai ficar hoje
+Qual é a temperatura [(máxima|mínima)] (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+Qual é a temperatura (máxima|mínima) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à noite
+Qual é a temperatura em {location} em (Celsius|Fahrenheit)
+Qual é a temperatura máxima em {location} (amanhã|hoje)
+Qual é a temperatura em {location} lá fora
+quão quente ou frio está em {location} [agora]
+quão quente estará hoje à noite em {location}
+devo esperar geada hoje à noite em {location}
+quão (quente|frio) vai ficar (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+(Qual|qual) é a temperatura em {location} agora
+preciso de uma (casaco|jaqueta) hoje em {location}
+Qual é a temperatura (amanhã|domingo|hoje|quarta|quinta|segunda|sexta|sábado|terça) à noite
+estará abaixo de zero (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+são esperadas temperaturas congelantes (amanhã|domingo|quarta-feira|quinta-feira|segunda-feira|sexta-feira|sábado|terça-feira) em {location}
+Qual é a temperatura atual em (Celsius|Fahrenheit)
+qual é a temperatura máxima esperada (amanhã|domingo|hoje|quarta|quinta|segunda|sexta|sábado|terça)
+Qual é a temperatura atual lá fora
+Qual é a temperatura em {location} hoje
+espera-se que esteja escaldante amanhã à tarde
+previsão de temperatura para amanhã de manhã
+previsão de temperatura para hoje à noite
+quão quente estará esta manhã em {location}
+quão quente vai ficar hoje em {location}
+estará abaixo de zero hoje à noite
+quão frio vai ficar hoje à noite
+são esperadas temperaturas congelantes hoje à noite
+qual é a temperatura às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+Qual é a temperatura mais (alta|baixa) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) de manhã
+Qual é a temperatura mais (alta|baixa) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à noite
+Qual é a temperatura mais (alta|baixa) em {location} (amanhã|hoje)
+Qual é a temperatura atual em {location} em (Celsius|Fahrenheit)
+Qual é a temperatura máxima em {location} na (quarta|quinta|segunda|sexta|terça)
+Qual é a temperatura máxima em {location} no (domingo|sábado)
+qual é a mínima durante a noite para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça)
+Qual é a temperatura hoje à noite em {location}
+espera-se que esteja escaldante amanhã à tarde em {location}
+estará abaixo de zero hoje à noite em {location}
+quão frio vai ficar hoje à noite em {location}
+são esperadas temperaturas congelantes hoje à noite em {location}
+quão (frio|quente) (está|estará)
+qual é a temperatura às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde) (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+Qual é a temperatura mais (alta|baixa) em {location} depois de amanhã
+qual é a mínima durante a noite para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) em {location}
+qual é a mínima durante a noite para hoje à noite
+Qual é a temperatura mais (alta|baixa) em {location} na (quarta|quinta|segunda|sexta|terça)
+Qual é a temperatura mais (alta|baixa) em {location} no (domingo|sábado)
+Qual é a temperatura máxima em {location} depois de amanhã
+qual é a mínima durante a noite para hoje à noite em {location}

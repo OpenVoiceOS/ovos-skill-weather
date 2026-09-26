@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Pogoda",
+  "description": "Sprawdź pogodę, prognozę, spodziewane opady i więcej. Możesz też zapytać o inne miasta na świecie. Aktualna pogoda i prognozy pochodzą z OpenMeteo.",
+  "examples": [
+    "Jaka jest pogoda?",
+    "Jaka jest temperatura?",
+    "Jaka jest prognoza na jutro?",
+    "Jaka jest pogoda w Krakowie?",
+    "Jaka będzie jutro temperatura w Paryżu w stopniach Celsjusza?",
+    "Jaka będzie jutro najwyższa temperatura?",
+    "O której jest zachód słońca?",
+    "Czy w Zakopanem będzie padał śnieg?",
+    "Czy będzie padał śnieg?",
+    "Jaka będzie pogoda we wtorek?",
+    "Jaka będzie pogoda przez najbliższe trzy dni?",
+    "Jaka jest wilgotność?",
+    "Jaka będzie pogoda w ten weekend?",
+    "Jaka jest prognoza na jutro w Londynie?",
+    "Czy mocno wieje?",
+    "Kiedy będzie padać?",
+    "Czy we wtorek będzie zimno?",
+    "czy pada?"
+  ],
+  "tags": [
+    "pogoda",
+    "prognoza",
+    "deszcz",
+    "wilgotność",
+    "śnieg",
+    "temperatura"
+  ]
+}

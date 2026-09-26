@@ -1,6 +1,0 @@
-pytest
-pytest-cov
-pytest-timeout
-ovos-core[skills_lgpl]>=0.0.5a28
-ovos-plugin-manager
-ovos-skills-manager

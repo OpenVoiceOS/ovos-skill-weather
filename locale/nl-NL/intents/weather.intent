@@ -1,0 +1,144 @@
+gaat het (onweren|regenen|sneeuwen) op [(dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)]
+wordt het (heet|koud|warm) op [(dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)]
+(verwachting|weersverwachting) voor zaterdag en zondag
+wat (wordt|is) de verwachting voor
+wordt het (helder|mooi|zonnig) dit weekend
+geef me de (huidige|laatste) weerupdate
+wat is de (weersverwachting|weersvoorspelling) [vandaag]
+zijn er weer (alarmen|waarschuwingen) voor
+toon me de (7-daagse|week) verwachting
+hoe is het weer (nu|dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)
+wat voor weer is [(vandaag|het|voorspeld)]
+wat kan ik verwachten [(dinsdag|donderdag|overmorgen|vrijdag|woensdag|zaterdag|zondag)]
+hoe ziet het weer eruit
+vertel me over het weer
+wat is de temperatuurverwachting voor
+uurlijkse voorspelling voor het weer
+wat is de uur verwachting
+Wat is de verwachting weekend
+gaat het regenen dit weekend
+gaat het (onweren|regenen|sneeuwen) op [(dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)] in {location}
+wordt het (heet|koud|warm) op [(dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)] in {location}
+het weer in de (komende|volgende) (2|3|4|5|6|7|enkele|paar) dagen
+hoe (wordt|is) het weer in {location} [(dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)]
+wat (wordt|is) de het weer volgende (dinsdag|donderdag|maandag|vrijdag|woensdag|zaterdag|zondag)
+(verwachting|weersverwachting) voor zaterdag en zondag in {location}
+wat (wordt|is) de verwachting voor in {location}
+gaat het (onweren|regenen) dit weekend in {location}
+wordt het (helder|warm|zonnig) dit weekend in {location}
+geef me de (huidige|laatste) weerupdate in {location}
+zijn er weer (alarmen|waarschuwingen) voor in {location}
+toon me de (7-daagse|week) verwachting in {location}
+vertel me de (verwachting|weeroverzicht) voor deze week
+hoe is het weer (dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag) in {location}
+wat kan ik verwachten [(dinsdag|donderdag|overmorgen|vrijdag|woensdag|zaterdag|zondag)] in {location}
+hoe is het weer (op|tijdens) het weekend
+wat gebeurt er met het weer [(nu|vandaag)]
+hoe gaat het weer eruit zien [(dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)]
+hoe is het weer op dit moment
+hoe ziet het weer eruit in {location}
+vertel me over het weer in {location}
+wat voor weer is in {location} [vandaag]
+wat voor weer is voorspeld in {location}
+wat is de temperatuurverwachting voor in {location}
+hoe wordt het weer de komende uren
+uurlijkse voorspelling voor het weer in {location}
+wat is de uur tot uur verwachting
+wat is de uur verwachting in {location}
+wat is het weer per uur vandaag
+Wat is de verwachting weekend in {location}
+Wat is de verwachting zaterdag en zondag
+gaat het mooi weer worden dit weekend
+gaat het zonnig zijn zaterdag en zondag
+hoe is het weer zaterdag en zondag
+kan ik buiten plannen maken dit weekend
+vertel me het weer voor het weekend
+hoe ziet het weer eruit deze week
+(verwachting|weersverwachting) voor het weekend
+weer (tijdens|voor) de week
+is het (helder|lekker|mooi) buiten
+hoe is het (buiten|weer)
+huidige weersomstandigheden in {location}
+wat doet het weer
+het weer deze week
+weekverwachting voor het weer
+huidige weersomstandigheden
+wat (wordt|is) de verwachting (volgende|voor) (dinsdag|donderdag|maandag|vrijdag|woensdag|zaterdag|zondag) in {location}
+zijn er weer (alarmen|waarschuwingen) voor (dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag) in {location}
+wat (wordt|is) de verwachting voor overmorgen in {location}
+gaat het (onweren|regenen) zaterdag en zondag in {location}
+zijn er (waarschuwingen|weeralarmen) voor het weekend in {location}
+Wat is de (2|3|4|5|6|7) daagse verwachting in {location}
+hoe is het weer (op|tijdens) zaterdag en zondag
+wat is de temperatuurverwachting voor (dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag) in {location}
+hoe wordt het weer deze (avond|middag|nacht) per uur
+wat is de verwachting voor de (komende|volgende) dagen
+kun je me iets vertellen over het weer
+vertel me iets over het weer in {location}
+wat gebeurt er met het weer in {location}
+wat voor weer is voorspeld in {location} vandaag
+hoe gaat het weer eruit zien in {location}
+wat kan ik verwachten op maandag in {location}
+geef me het weer per uur in {location}
+hoe ziet het weer eruit de komende uren
+Wat is de verwachting volgende weekend in {location}
+Wat is de verwachting volgende zaterdag en zondag
+gaat het mooi weer worden zaterdag en zondag
+hoe is het weer dit weekend in {location}
+vertel me het weer voor zaterdag en zondag
+hoe is het weer [(over|tijdens)] zaterdag en zondag in {location}
+hoe wordt het weer deze (avond|middag|nacht) per uur in {location}
+wat is de verwachting voor de (komende|volgende) dagen in {location}
+kun je me iets vertellen over het weer in {location}
+hoe ziet het weer eruit de komende uren in {location}
+Wat is de verwachting [volgende] zaterdag en zondag in {location}
+gaat het mooi weer worden zaterdag en zondag in {location}
+kan ik in de open lucht plannen maken dit weekend
+vertel me het weer voor zaterdag en zondag in {location}
+het weer in de (komende|volgende) (2|3|4|5|6|7|enkele|paar) dagen in {location}
+wat (wordt|is) de het weer volgende (dinsdag|donderdag|maandag|vrijdag|woensdag|zaterdag|zondag) in {location}
+vertel me de (verwachting|weeroverzicht) voor deze week in {location}
+hoe is het weer (over|tijdens) het weekend in {location}
+wat gebeurt er met het weer (nu|vandaag) in {location}
+hoe gaat het weer eruit zien (dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag) in {location}
+kun je me iets vertellen over het weer nu
+hoe wordt het weer de komende uren in {location}
+wat is de uur tot uur verwachting in {location}
+wat is het weer per uur vandaag in {location}
+gaat het mooi weer worden dit weekend in {location}
+kan ik buiten plannen maken dit weekend in {location}
+vertel me het weer voor het weekend in {location}
+hoe ziet het weer eruit deze week in {location}
+kun je me iets vertellen over het weer nu in {location}
+kun je me iets vertellen over het weer op dit moment
+kun je me iets vertellen over het weer op dit moment in {location}
+wat (wordt|is) de verwachting (volgende|voor) (dinsdag|donderdag|maandag|vrijdag|woensdag|zaterdag|zondag)
+zijn er weer (alarmen|waarschuwingen) voor (dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)
+(verwachting|weersverwachting) voor het weekend in {location}
+wat (wordt|is) de verwachting voor overmorgen
+weer (tijdens|voor) de week in {location}
+zijn er (waarschuwingen|weeralarmen) voor het weekend
+Wat is de (2|3|4|5|6|7) daagse verwachting
+wat is de temperatuurverwachting voor (dinsdag|donderdag|maandag|overmorgen|vrijdag|woensdag|zaterdag|zondag)
+vertel me iets over het weer
+wat voor weer is het nu
+wat voor weer is voorspeld vandaag
+wat kan ik verwachten op maandag
+geef me het weer per uur
+Wat is de verwachting volgende weekend
+gaat het regenen zaterdag en zondag
+gaat het zonnig zijn dit weekend
+hoe is het weer dit weekend
+het weer deze week in {location}
+weekverwachting voor het weer in {location}
+kan ik in de open lucht plannen maken dit weekend in {location}
+Hoe wordt het weer in {location}?
+Wat is het weerbericht voor {location}?
+Hoe wordt het weer vandaag in {location}?
+Hoe wordt het weer morgen in {location}?
+Vertel me het weer in {location}
+Geef me het weerbericht voor {location}
+Weer in {location}
+Weerbericht voor {location}
+hoe is het weer in {unit}
+hoe is het weer in {unit} in {location}

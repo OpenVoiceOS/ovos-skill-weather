@@ -1,0 +1,2 @@
+in {location} werden für {day} Höchstwerte von {high_temperature} und Minimalwerte von {low_temperature} Grad und {condition} erwartet
+{day} wird {condition} in {location} erwartet, mit maximal {high_temperature} und minimal {low_temperature} Grad
