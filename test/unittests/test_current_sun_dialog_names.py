@@ -17,8 +17,13 @@ from unittest.mock import patch
 
 import pytest
 
-from weather_helpers import dialog as dialog_module
-from weather_helpers.dialog import CurrentDialog
+# Through the installed package, never the bare module name. CI runs `pytest`
+# rather than `python -m pytest` precisely so the checkout root is not on
+# sys.path, and `import weather_helpers` then raises ModuleNotFoundError at
+# collection. The package ships it as ovos_skill_weather.weather_helpers
+# (pyproject packages list), which is also how every end2end module patches it.
+from ovos_skill_weather.weather_helpers import dialog as dialog_module
+from ovos_skill_weather.weather_helpers.dialog import CurrentDialog
 
 LOCALE = Path(__file__).resolve().parents[2] / "locale" / "en-US" / "dialog" / "current"
 
