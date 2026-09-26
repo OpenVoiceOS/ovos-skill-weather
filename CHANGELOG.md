@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.13a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.13a1) (2026-09-26)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.12a1...1.4.13a1)
+
+**Merged pull requests:**
+
+- fix\(it-IT\): the store examples are measured against this locale's templates [\#291](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/291) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.12a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.12a1) (2026-09-26)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.11a1...1.4.12a1)
@@ -330,10 +338,6 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a3...1.0.12a4)
 
-**Merged pull requests:**
-
-- chore: add ovoscope end2end intent-routing tests [\#189](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/189) ([JarbasAl](https://github.com/JarbasAl))
-
 ## [1.0.12a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a3) (2026-08-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a2...1.0.12a3)
@@ -362,10 +366,6 @@
 ## [1.0.11a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.11a1) (2026-06-20)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.10a3...1.0.11a1)
-
-**Merged pull requests:**
-
-- refactor: migrate packaging to pyproject.toml [\#190](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/190) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.10a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.10a3) (2026-04-09)
 
