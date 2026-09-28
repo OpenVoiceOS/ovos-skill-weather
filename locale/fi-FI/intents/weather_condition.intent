@@ -1,6 +1,6 @@
-# needs_manual: Finnish translation pending
-(är|blir) det [idag] (soligt|molnigt|disigt) [i {location}]
-Regnar det [just nu] [i {location}]
-Kommer det att snöa (idag|imorgon) [i {location}]
-Är det åska [i {location}]
-Hur ser himlen ut idag [i {location}]
+# unvouched: Finnish draft by the localize lane, awaiting a Finnish speaker. No fi-FI reviewer is on record.
+(onko|tuleeko) [tänään] (aurinkoista|pilvistä|utuista) [{location}]
+sataako [juuri nyt] [{location}]
+tuleeko (tänään|huomenna) lunta [{location}]
+onko ukkosta [{location}]
+miltä taivas näyttää tänään [{location}]
