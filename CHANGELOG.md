@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.1a1) (2026-09-28)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.0a2...1.5.1a1)
+
+**Merged pull requests:**
+
+- fix\(locale\): the Finnish store file moves to fi-FI and sv-FI gets a Swedish one [\#305](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/305) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.0a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.0a2) (2026-09-28)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.0a1...1.5.0a2)
@@ -361,10 +369,6 @@
 ## [1.0.13a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a1) (2026-08-11)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a5...1.0.13a1)
-
-**Merged pull requests:**
-
-- fix: extend en-US intent coverage for golden utterances [\#203](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/203) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.12a5](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a5) (2026-08-11)
 
