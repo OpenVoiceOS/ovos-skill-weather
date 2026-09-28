@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.15a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.15a1) (2026-09-28)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.14a1...1.4.15a1)
+
+**Merged pull requests:**
+
+- fix\(locale\): it-IT tags and skill\_id, and en-US conditions get their subject [\#298](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/298) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.14a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.14a1) (2026-09-26)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.13a1...1.4.14a1)
@@ -358,10 +366,6 @@
 ## [1.0.12a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a2) (2026-07-12)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a1...1.0.12a2)
-
-**Merged pull requests:**
-
-- fix: allow ovos-workshop 9.x [\#195](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/195) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.12a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a1) (2026-07-03)
 
