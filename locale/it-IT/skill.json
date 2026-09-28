@@ -1,5 +1,5 @@
 {
-  "skill_id": "\tovos-skill-weather.openvoiceos",
+  "skill_id": "ovos-skill-weather.openvoiceos",
   "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
   "name": "Che tempo fa?",
   "description": "Condizioni metereologiche da tutto il mondo e previsioni",
@@ -24,11 +24,11 @@
     "è soleggiato"
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "meteo",
+    "previsioni",
+    "pioggia",
+    "umidità",
+    "neve",
+    "temperatura"
   ]
 }

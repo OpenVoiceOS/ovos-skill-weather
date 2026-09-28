@@ -1,4 +1,3 @@
-is (foggy|raining|rainy|snowing|snowy|storming) [(today|outside)]
 (is|will) it cloudy
 is (it|there) clouds
 is (fog|rain|snow) expected
@@ -7,7 +6,6 @@ is there (sunshine|cloudy|fog)
 will it (rain|snow)
 is rain likely
 is a (storm|thunderstorm) (expected|likely|forecasted) [(today|tonight|tomorrow)]
-is (foggy|raining|rainy|snowing|snowy|storming) [(today|outside)] in {location}
 should I (bring|carry|pack) (an|my) umbrella
 (will|is) it be cloudy [(today|tomorrow)]
 will (it|there) be clouds [(today|tomorrow)]
@@ -109,7 +107,6 @@ is (it|there) clouds (today|tomorrow)
 is (fog|rain|snow) expected (today|tonight|tomorrow)
 is it (clear|sunny|overcast|gloomy|gray|foggy|raining|rainy|snowing|snowy|storming) (today|outside)
 will it (rain|snow) (today|tonight|tomorrow)
-is (foggy|raining|rainy|snowing|snowy|storming) right now
 is there (sunshine|cloudy|fog) today
 is rain likely (today|tonight|tomorrow)
 is there cloudy tomorrow
@@ -125,7 +122,6 @@ is (rain|snow) in the forecast (today|tonight|tomorrow)
 should I (bring|carry|pack) a raincoat (today|tomorrow)
 will there be a (storm|thunderstorm) (today|tonight|tomorrow)
 (is|will) it going to be cloudy
-is (foggy|raining|rainy|snowing|snowy|storming) right now in {location}
 is there (sunshine|cloudy|fog) today in {location}
 is visibility (low|reduced) due to fog
 is rain (expected|likely) in the evening
