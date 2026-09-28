@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.0a1) (2026-09-28)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.16a1...1.5.0a1)
+
+**Merged pull requests:**
+
+- feat\(locale\): draft es-CO from es-ES \(copy, unvouched\) [\#301](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/301) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.16a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.16a1) (2026-09-28)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.15a1...1.4.16a1)
@@ -365,10 +373,6 @@
 ## [1.0.12a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a3) (2026-08-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a2...1.0.12a3)
-
-**Merged pull requests:**
-
-- docs: rewrite README in Simplified Technical English [\#198](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/198) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.12a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a2) (2026-07-12)
 
