@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.0a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.0a2) (2026-09-28)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.0a1...1.5.0a2)
+
+**Merged pull requests:**
+
+- locale: draft fa-IR from the en-US reference \(169 files, unvouched\) [\#303](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/303) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.0a1) (2026-09-28)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.16a1...1.5.0a1)
@@ -361,10 +369,6 @@
 ## [1.0.12a5](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a5) (2026-08-11)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.12a4...1.0.12a5)
-
-**Merged pull requests:**
-
-- test: golden-utterance e2e coverage [\#201](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/201) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.12a4](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a4) (2026-08-10)
 
