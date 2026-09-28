@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.4.16a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.16a1) (2026-09-28)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.15a1...1.4.16a1)
+
+**Merged pull requests:**
+
+- fix\(fi-FI\): replace the Swedish placeholder intents with Finnish drafts [\#288](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/288) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.4.15a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.4.15a1) (2026-09-28)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.4.14a1...1.4.15a1)
@@ -361,7 +369,6 @@
 **Merged pull requests:**
 
 - docs: rewrite README in Simplified Technical English [\#198](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/198) ([JarbasAl](https://github.com/JarbasAl))
-- fix\(da-DK\): restore {condition} and {day} placeholder names [\#197](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/197) ([andlo](https://github.com/andlo))
 
 ## [1.0.12a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.12a2) (2026-07-12)
 
