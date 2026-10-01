@@ -1,2 +1,2 @@
-Aḍu ad yeǧhed alamma d {speed} {speed_unit} {day}
+Aḍu ad yeǧhed alamma d {speed} {speed_unit} seg {direction} {day}
 Ad yili waḍu iǧehden seg {direction} n {speed} {speed_unit} {day}

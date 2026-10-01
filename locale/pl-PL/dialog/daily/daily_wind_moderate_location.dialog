@@ -1,3 +1,3 @@
-Możesz spodziewać się wiatru o sile około {speed} {speed_unit} w {location} {day}
+Możesz spodziewać się wiatru o sile około {speed} {speed_unit} z {direction} w {location} {day}
 Prognoza {day} przewiduje, że {location} będzie miał umiarkowany wiatr z {direction} {speed} {speed_unit}
 Wiatr będzie umiarkowany w {location} {day}, około {speed} {speed_unit} z {direction}

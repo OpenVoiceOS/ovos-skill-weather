@@ -1,2 +1,2 @@
 Будет сильный ветер от {direction} из {speed} {speed_unit} {day}
-Ветер будет таким же сильным, как {speed} {speed_unit} {day}
+Ветер будет таким же сильным, как {speed} {speed_unit} от {direction} {day}

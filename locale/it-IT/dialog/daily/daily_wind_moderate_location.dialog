@@ -1,3 +1,3 @@
-Ci si può aspettare un vento di circa {speed} {speed_unit} in {location} {day}
+Ci si può aspettare un vento di circa {speed} {speed_unit} da {direction} in {location} {day}
 Il vento sarà moderato in {location} {day}, circa {speed} {speed_unit} dalla {direction}
 Le previsioni {day} prevedono che {location} avrà vento moderato da {direction} di {speed} {speed_unit}

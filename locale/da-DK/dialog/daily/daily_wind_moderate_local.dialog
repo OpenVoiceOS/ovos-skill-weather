@@ -1,3 +1,3 @@
-Du kan forvente en moderat vind på omkring {speed} {speed_unit} {day}
+Du kan forvente en moderat vind på omkring {speed} {speed_unit} fra {direction} {day}
 Prognosen lyder på en moderat vind fra {direction} ved {speed} {speed_unit} {day}
 Vinden vil være moderat, omkring {speed} {speed_unit} fra {direction} {day}

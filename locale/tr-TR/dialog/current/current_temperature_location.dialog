@@ -1,3 +1,3 @@
-Şu anda 1. katta hava 0 derece.
-Şu anda hava 0 derece, 1'den 2'ye kadar.
-Şu anda, {location}'de 0 derece.
+Şu anda {location}'de hava {temperature} derece {temperature_unit}.
+{location}'de hava şu anda {temperature} derece {temperature_unit}.
+Şu anda, {location}'de {temperature} derece {temperature_unit}.

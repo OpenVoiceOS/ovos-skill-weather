@@ -1,3 +1,3 @@
-{location} сегодня будут сильные ветра, {speed} {speed_unit}
+{location} сегодня будут сильные ветра, {speed} {speed_unit} от {direction}
 В настоящее время ветер от {direction} в {speed} {speed_unit} в {location}, хороший день, чтобы оставаться внутри.
 Ветер очень сильный от {direction} в {location} сегодня, {speed} {speed_unit}

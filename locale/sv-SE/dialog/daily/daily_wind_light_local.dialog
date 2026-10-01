@@ -1,2 +1,2 @@
 Det kommer att blåsa en svag vind från {direction} {day} vid {speed} {speed_unit}.
-Det kommer inte att blåsa särskilt mycket {day}
+Det kommer inte att blåsa särskilt mycket {day}, bara {speed} {speed_unit} från {direction}

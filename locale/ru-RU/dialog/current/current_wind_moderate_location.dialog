@@ -1,2 +1,2 @@
 В настоящее время ветер умеренный {speed} {speed_unit} от {direction} в {location}
-Сегодня в {location} немного ветрено, в настоящее время {speed} {speed_unit}.
+Сегодня в {location} немного ветрено, в настоящее время {speed} {speed_unit} от {direction}.

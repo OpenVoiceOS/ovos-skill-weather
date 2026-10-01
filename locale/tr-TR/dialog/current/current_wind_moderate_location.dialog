@@ -1,2 +1,2 @@
-Bugün {location}'da hava biraz rüzgarlı, şu anda {speed} {speed_unit}
+Bugün {location}'da hava biraz rüzgarlı, şu anda {speed} {speed_unit}, {direction} yönünden
 Şu anda rüzgar {direction}'den {location}'e doğru ılımlı bir {speed} {speed_unit} şeklinde esiyor

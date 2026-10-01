@@ -1,3 +1,3 @@
-Bugün hava çok rüzgarlı, {speed} {speed_unit}
+Bugün hava çok rüzgarlı, {speed} {speed_unit}, {direction} yönünden
 Rüzgar bugün {direction} yönünden çok kuvvetli, {speed} {speed_unit}
 Şu anda rüzgar {direction} yönünden {speed} {speed_unit} yönüne doğru esiyor, bugün içeride kalmak iyi olabilir

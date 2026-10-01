@@ -1,2 +1,2 @@
 Ci sarà un vento leggero proveniente da {direction} {day} a {speed} {speed_unit}
-Non ci sarà molto vento {day}
+Non ci sarà molto vento {day}, solo {speed} {speed_unit} da {direction}

@@ -1,2 +1,2 @@
-A szél olyan erős lesz, mint {speed} {speed_unit} a {location} {day}-ban {speed_unit} {location} {day}
-A {speed} {speed_unit} {location} {day} {direction} felől erős szél fog fújni a {speed} {speed_unit} {location} {day} felől
+A szél olyan erős lesz, mint {speed} {speed_unit}, a {direction} felől a {location} {day}-ban
+A {speed} {speed_unit} {location} {day} {direction} felől erős szél fog fújni

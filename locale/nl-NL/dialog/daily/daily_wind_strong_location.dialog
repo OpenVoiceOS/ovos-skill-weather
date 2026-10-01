@@ -1,2 +1,2 @@
-De wind zal zo sterk zijn als {speed} {speed_unit} in {location} {day}
+De wind zal zo sterk zijn als {speed} {speed_unit} uit de {direction} in {location} {day}
 Er komt een sterke wind uit de {direction} van {speed} {speed_unit} in {location} {day}

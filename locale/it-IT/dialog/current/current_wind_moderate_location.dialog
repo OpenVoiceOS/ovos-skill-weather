@@ -1,2 +1,2 @@
 Attualmente il vento è moderato {speed} {speed_unit} da {direction} in {location}
-Oggi c'è un po' di vento in {location}, attualmente {speed} {speed_unit}
+Oggi c'è un po' di vento in {location}, attualmente {speed} {speed_unit} da {direction}

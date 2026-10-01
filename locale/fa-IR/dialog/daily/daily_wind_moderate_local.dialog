@@ -1,3 +1,3 @@
 پیش بینی می شود که یک باد معتدل از {direction} در {speed} {speed_unit} {day}
 باد به اندازه کافی خنثی خواهد بود. {speed} {speed_unit} از سوی {direction} {day}
-شما می توانید انتظار باد متوسط در حدود {speed} {speed_unit} {day}
+شما می توانید انتظار باد متوسط در حدود {speed} {speed_unit} از سوی {direction} {day}

@@ -1,2 +1,2 @@
-0'da çok rüzgarlı olmayacak {day}
-1'de {direction}'dan {day}'de {speed}'te {speed_unit}'ten gelen hafif bir rüzgar olacak
+{location}'da çok rüzgarlı olmayacak {day}, {direction} yönünden sadece {speed} {speed_unit}
+{location}'de {direction}'dan {day}'de {speed}'te {speed_unit}'ten gelen hafif bir rüzgar olacak
