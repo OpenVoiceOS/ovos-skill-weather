@@ -1,0 +1,2 @@
+# needs_manual: Finnish translation pending
+.*\b(i|på|vid|till) (?P<Location>(?!\bcelsius\b|\bfahrenheit\b) *.+)

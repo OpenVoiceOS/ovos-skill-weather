@@ -1,0 +1,9 @@
+# unvouched: Finnish draft by the localize lane, awaiting a Finnish speaker. No fi-FI reviewer is on record.
+tuleeko (tänään|huomenna|{day}) kylmä [{location}]
+onko ulkona kylmä nyt [{location}]
+tuleeko (tänään|huomenna) viileä [{location}]
+tarvitsenko takin tänään [{location}]
+tuleeko (tänään|huomenna|{day}) lämmin [{location}]
+onko ulkona lämmin nyt [{location}]
+tuleeko tänään todella kuuma [{location}]
+tarvitsenko aurinkovoidetta tänään [{location}]

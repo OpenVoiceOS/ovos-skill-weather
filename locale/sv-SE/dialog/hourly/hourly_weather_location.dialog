@@ -1,0 +1,4 @@
+Senare blir det {condition} i {location}, med temperaturer runt {temperature}.
+{location} kommer att vara runt {temperature} med {condition}
+{location} kommer att vara ungefär {temperature} grader med {condition}
+{location} vädret i de närmaste timmarna kommer att vara {condition} och {temperature} grader.

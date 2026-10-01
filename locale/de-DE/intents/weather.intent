@@ -1,0 +1,236 @@
+(aktuelle|aktuelles) (Wetter|Wetterbedingungen|Wetterlage)
+(aktuelle|aktuelles) (Wetter|Wetterbedingungen|Wetterlage) ({location}|in)
+(Vorhersage|Wetter) nächsten (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag)
+Wochenende Wetter (Update|Vorhersage)
+(Vorhersage|Wetter) um (1|10|11|12|2|3|4|5|6|7|8|9) (nachmittags|vormittags)
+(aktuelle|aktuelles) (Wetter|Wetterbedingungen|Wetterlage) in {location}
+Wetter (für|während) (der|die) Woche
+(Prognose|Vorhersage) für das Wochenende
+ist es (gut|klar|schön) draußen
+das Wetter (diese|dieser) Woche
+was erwartet mich (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Samstag|Sonntag)
+Stündliche Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)
+zeig mir die (7-Tage-Vorhersage|wöchentlicheVorhersage)
+gib mir die Wettervorhersage
+wie ist das Wetter
+was macht das wetter
+wie ist die Wettervorhersage
+wie ist es draußen
+sag mir die Wochend-Wettervorhersage
+wird es (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag) (heiß|kalt|warm) sein
+wie (ist|wird) das Wetter (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag)
+gib es (Warnungen|Wetterwarnungen) für (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag)
+wird es (regnen|schneien|stürmen) am (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag)
+Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) um (Mittag|Mitternacht|Nacht)
+(Prognose|Vorhersage) für Samstag und Sonntag
+(Vorhersage|Wetter|Wettervorhersage) für {location} das Wochenende
+wöchentliche (Vorhersage|Aussicht) für das Wetter
+gib mir das (aktuelle|neueste) Wetterupdate
+das Wetter in (diese|dieser) Woche
+gib mir die Wettervorhersage (für|in)
+wie ist das Wetter (aktuell|derzeit|jetzt)
+Samstag und Sonntag Wetter (Update|Vorhersage)
+wird es dieses Wochenende (regnen|klar|schön|sonnig)
+wie sieht es draußen aus
+was erwartet mich am Montag
+was erwartet mich nach morgen
+(was|wie) ist die (Vorhersage|Wetter) um (1|10|11|12|2|3|4|5|6|7|8|9) (nachmittags|vormittags)
+gib es (Warnungen|Wetterwarnungen) für (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag) (für|in) {location}
+sag mir die (Vorhersage|Wetter) um (1|10|11|12|2|3|4|5|6|7|8|9) (nachmittags|vormittags)
+wie (ist|wird) das Wetter (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag) in {location}
+wie (ist|wird) das Wetter (am|während) dem Wochenende
+wird es (regnen|schneien|stürmen) am (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag) in {location}
+Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) um (Mittag|Mitternacht|Nacht) in {location}
+wird es (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag) in {location} (heiß|kalt|warm) sein
+(was|wie) ist das Wetter in {location} (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag)
+(Vorhersage|Wetter|Wettervorhersage) für {location} [am] Samstag und Sonntag
+wöchentliche (Vorhersage|Aussicht) für das Wetter in {location}
+gib mir das (aktuelle|neueste) Wetterupdate in {location}
+wie ist die (Temperaturprognose|Vorhersage) für nach morgen
+Sag mir die (Wettervorhersage|Vorhersage) für diese Woche
+das Wetter [in] (diese|dieser) Woche in {location}
+kannst du mir was [(aktuelle|zum)] Wetter sagen
+wie ist das Wetter (vorhergesagt|voraussichtlich) diese Woche
+was erwartet mich am Montag (für|in) {location}
+was erwartet mich nach morgen (für|in) {location}
+irgendwelche Wetterwarnungen für das Wochenende (für|in) {location}
+wird es Samstag und Sonntag (schön|sonnig) sein
+wird es dieses Wochenende in {location} (klar|regnen|sonnig|stürmen|warm)
+wie ist das Wetter aktuell in {location}
+Prognose für Samstag und Sonntag in {location}
+gibt es irgendwelche Wetterwarnungen für das Wochenende
+sollte ich dieses Wochenende Aktivitäten draußen planen
+wie wird das Wetter Samstag und Sonntag
+(Vorhersage|Wetter) um (1|10|11|12|2|3|4|5|6|7|8|9) (nachmittags|vormittags) (für|in) {location}
+(was|wie) ist der/die/das (Vorhersage|Wetter) nächsten (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag)
+Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) um (1|10|11|12|2|3|4|5|6|7|8|9) (am|pm)
+Wetter (für|während) (der|die) Woche in {location}
+wie ist die (Vorhersage|Wetterprognose) (für|in) {location}
+was erwartet mich (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Samstag|Sonntag) (für|in) {location}
+Stündliche Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) (für|in) {location}
+Wetter in den (kommenden|nächsten) (2|3|4|5|6|7|paar|wenigen) Tagen
+sag mir den/die/das (Vorhersage|Wetter) nächsten (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag)
+wie ist die (Temperaturprognose|Vorhersage) für (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag)
+Sag mir das Wetter (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) (Abend|Morgen|Nacht)
+wie ist das Wetter (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) (Abend|Mittag|Morgen)
+(Vorhersage|Wetter|Wettervorhersage) für {location} am das Wochenende
+wie (ist|wird) das Wetter nach morgen
+gib es (Warnungen|Wetterwarnungen) für nach morgen
+wird es (regnen|schneien|stürmen) am nach morgen
+Wie ist die (2|3|4|5|6|7) Tage Vorhersage
+zeig mir die (7-Tage-Vorhersage|wöchentlicheVorhersage) für {location}
+wie ist das Wetter (für|in) {location}
+wird es über morgen (heiß|kalt|warm) sein
+sollte ich dieses Wochenende (Aktivitäten|Outdooraktivitäten) planen
+wird es dieses Wochenende (schön|sonnig) sein
+wie ist das Wetter im Moment
+Prognose für das Wochenende in {location}
+Wie ist die Wettervorhersage für Wochenende
+wie wird das Wetter dieses Wochenende
+wird es Samstag und Sonntag regnen
+Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) um (1|10|11|12|2|3|4|5|6|7|8|9) (am|pm) in {location}
+wie ist die (Temperaturprognose|Vorhersage) für (morgen|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag) (für|in) {location}
+(was|wie) ist das Wetter in {location} (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag) (abend|mittag)
+(gib|sag) mir die (Vorhersage|Wettervorhersage) für {location} das Wochenende
+wie (ist|wird) das Wetter (am|während) Samstag und Sonntag
+Wetter in den (kommenden|nächsten) (2|3|4|5|6|7|paar|wenigen) Tagen in {location}
+Sag mir das Wetter (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) (Abend|Morgen|Nacht) für {location}
+wie ist das Wetter (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) (Abend|Mittag|Morgen) in {location}
+(was|wie) ist das Wetter in {location} (nach|dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag) morgen
+gib es (Warnungen|Wetterwarnungen) für nach morgen (für|in) {location}
+Wie ist (Vorhersage|Wettervorhersage) für die nächsten (2|3|4|5|6|7) Tage
+wie ist die (Prognose|Vorhersage|Wettervorhersage) für die (kommenden|nächsten) Tage
+(gib|sag) mir das Wetter für {location} das Wochenende
+wie (ist|wird) das Wetter nach morgen in {location}
+wie (ist|wird) das Wetter dieses Wochenende in {location}
+wird es (regnen|schneien|stürmen) am nach morgen in {location}
+Wie ist die (2|3|4|5|6|7) Tage Vorhersage in {location}
+wird es über morgen in {location} (heiß|kalt|warm) sein
+wird es Samstag und Sonntag in {location} (regnen|stürmen)
+kannst du mir was Wetter in {location} sagen
+kannst du mir was zum aktuelle Wetter sagen
+kannst du mir was über das Wetter sagen
+wie ist das Wetter im Moment in {location}
+Wie ist die Wettervorhersage für Samstag und Sonntag
+Wie ist die Wettervorhersage für das nächste Wochenende
+Wie ist die Wettervorhersage für den nächsten Wochenende
+sollte ich dieses Wochenende Outdoor-Aktivitäten in {location} planen
+wird es dieses Wochenende in {location} schön sein
+(was|wie) ist die (Vorhersage|Wetter) um (1|10|11|12|2|3|4|5|6|7|8|9) (nachmittags|vormittags) (für|in) {location}
+sag mir die (Vorhersage|Wetter) um (1|10|11|12|2|3|4|5|6|7|8|9) (nachmittags|vormittags) (für|in) {location}
+wie (ist|wird) das Wetter (am|während) dem Wochenende (für|in) {location}
+Wie ist die Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) um (1|10|11|12|2|3|4|5|6|7|8|9) (am|pm)
+(gib|sag) mir die (Vorhersage|Wettervorhersage) für {location} Samstag und Sonntag
+(gib|sag) mir die (Vorhersage|Wettervorhersage) für {location} am das Wochenende
+wie ist die (Temperaturprognose|Vorhersage) für nach morgen (für|in) {location}
+(gib|sag) mir das Wetter für {location} Samstag und Sonntag
+(gib|sag) mir das Wetter für {location} am das Wochenende
+wie (ist|wird) das Wetter Samstag und Sonntag in {location}
+Sag mir die (Wettervorhersage|Vorhersage) für diese Woche in {location}
+kannst du mir was (aktuelle|zum) Wetter in {location} sagen
+wie ist das Wetter (vorhergesagt|voraussichtlich) diese Woche in {location}
+Wie ist die Wettervorhersage für (das|den) Wochenende in {location}
+kannst du mir was über das aktuelle Wetter sagen
+wird es Samstag und Sonntag in {location} schön sein
+wie (ist|wird) das Wetter (am|während) Samstag und Sonntag (für|in) {location}
+(gib|sag) mir die (Vorhersage|Wettervorhersage) für {location} am Samstag und Sonntag
+wie ist die (Prognose|Vorhersage|Wettervorhersage) für die (kommenden|nächsten) Tage in {location}
+Wie ist die Wettervorhersage für (das|den) (nächste|nächsten) Wochenende in {location}
+Wie ist (Vorhersage|Wettervorhersage) in {location} für die nächsten (2|3|4|5|6|7) Tage
+(gib|sag) mir das Wetter für {location} am Samstag und Sonntag
+kannst du mir was zum aktuelle Wetter in {location} sagen
+kannst du mir was über das Wetter in {location} sagen
+Wie ist die Wettervorhersage für das nächste Samstag und Sonntag
+Wie ist die Wettervorhersage für den nächsten Samstag und Sonntag
+Wie ist die Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) um (1|10|11|12|2|3) (am|pm) (für|in) {location}
+Wie ist die Vorhersage für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) um (4|5|6|7|8|9) (am|pm) (für|in) {location}
+Wie ist die Wettervorhersage für (das|den) Samstag und Sonntag in {location}
+kannst du mir was über das aktuelle Wetter in {location} sagen
+Wie ist die Wettervorhersage für (das|den) (nächste|nächsten) Samstag und Sonntag in {location}
+gib mir die Wettervorhersage {location}
+gib mir die Wettervorhersage für {location}
+gib mir die Wettervorhersage in {location}
+Vorhersage nächsten Dienstag in {location}
+Vorhersage nächsten Donnerstag in {location}
+Vorhersage nächsten Freitag in {location}
+Vorhersage nächsten Mittwoch in {location}
+Vorhersage nächsten Montag in {location}
+Vorhersage nächsten Samstag in {location}
+Vorhersage nächsten Sonntag in {location}
+Wetter nächsten Dienstag in {location}
+Wetter nächsten Donnerstag in {location}
+Wetter nächsten Freitag in {location}
+Wetter nächsten Mittwoch in {location}
+Wetter nächsten Montag in {location}
+Wetter nächsten Samstag in {location}
+Wetter nächsten Sonntag in {location}
+sag mir den/die/das Vorhersage nächsten Dienstag in {location}
+sag mir den/die/das Vorhersage nächsten Donnerstag in {location}
+sag mir den/die/das Vorhersage nächsten Freitag in {location}
+sag mir den/die/das Vorhersage nächsten Mittwoch in {location}
+sag mir den/die/das Vorhersage nächsten Montag in {location}
+sag mir den/die/das Vorhersage nächsten Samstag in {location}
+sag mir den/die/das Vorhersage nächsten Sonntag in {location}
+sag mir den/die/das Wetter nächsten Dienstag in {location}
+sag mir den/die/das Wetter nächsten Donnerstag in {location}
+sag mir den/die/das Wetter nächsten Freitag in {location}
+sag mir den/die/das Wetter nächsten Mittwoch in {location}
+sag mir den/die/das Wetter nächsten Montag in {location}
+sag mir den/die/das Wetter nächsten Samstag in {location}
+sag mir den/die/das Wetter nächsten Sonntag in {location}
+was ist der/die/das Vorhersage nächsten Dienstag in {location}
+was ist der/die/das Vorhersage nächsten Donnerstag in {location}
+was ist der/die/das Vorhersage nächsten Freitag in {location}
+was ist der/die/das Vorhersage nächsten Mittwoch in {location}
+was ist der/die/das Vorhersage nächsten Montag in {location}
+was ist der/die/das Vorhersage nächsten Samstag in {location}
+was ist der/die/das Vorhersage nächsten Sonntag in {location}
+was ist der/die/das Wetter nächsten Dienstag in {location}
+was ist der/die/das Wetter nächsten Donnerstag in {location}
+was ist der/die/das Wetter nächsten Freitag in {location}
+was ist der/die/das Wetter nächsten Mittwoch in {location}
+was ist der/die/das Wetter nächsten Montag in {location}
+was ist der/die/das Wetter nächsten Samstag in {location}
+was ist der/die/das Wetter nächsten Sonntag in {location}
+wie ist der/die/das Vorhersage nächsten Dienstag in {location}
+wie ist der/die/das Vorhersage nächsten Donnerstag in {location}
+wie ist der/die/das Vorhersage nächsten Freitag in {location}
+wie ist der/die/das Vorhersage nächsten Mittwoch in {location}
+wie ist der/die/das Vorhersage nächsten Montag in {location}
+wie ist der/die/das Vorhersage nächsten Samstag in {location}
+wie ist der/die/das Vorhersage nächsten Sonntag in {location}
+wie ist der/die/das Wetter nächsten Dienstag in {location}
+wie ist der/die/das Wetter nächsten Donnerstag in {location}
+wie ist der/die/das Wetter nächsten Freitag in {location}
+wie ist der/die/das Wetter nächsten Mittwoch in {location}
+wie ist der/die/das Wetter nächsten Montag in {location}
+wie ist der/die/das Wetter nächsten Samstag in {location}
+wie ist der/die/das Wetter nächsten Sonntag in {location}
+wie wird das Wetter morgen für {location}
+wie wird das Wetter morgen in {location}
+wie wird das Wetter Dienstag für {location}
+wie wird das Wetter Dienstag in {location}
+wie wird das Wetter Donnerstag für {location}
+wie wird das Wetter Donnerstag in {location}
+wie wird das Wetter Freitag für {location}
+wie wird das Wetter Freitag in {location}
+wie wird das Wetter Mittwoch für {location}
+wie wird das Wetter Mittwoch in {location}
+wie wird das Wetter Montag für {location}
+wie wird das Wetter Montag in {location}
+wie wird das Wetter Samstag für {location}
+wie wird das Wetter Samstag in {location}
+wie wird das Wetter Sonntag für {location}
+wie wird das Wetter Sonntag in {location}
+wie wird das Wetter nach morgen für {location}
+wie wird das Wetter nach morgen in {location}
+Wie wird das Wetter in {location}?
+Wie ist die Wettervorhersage für {location}?
+Wie wird das Wetter heute in {location}?
+Wie wird das Wetter morgen in {location}?
+Sag mir das Wetter in {location}
+Gib mir die Wettervorhersage für {location}
+Wetter in {location}
+Wettervorhersage für {location}
+wie ist das Wetter in {unit}
+wie ist das Wetter in {unit} in {location}

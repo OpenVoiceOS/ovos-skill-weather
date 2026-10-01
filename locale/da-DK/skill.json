@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Vejr",
+  "description": "Få vejrforhold, prognoser, forventet nedbør og meget mere! Du kan også spørge efter andre byer rundt om i verden. Aktuelle forhold og vejrudsigter kommer fra OpenMeteo",
+  "examples": [
+    "Er luften tør eller fugtig",
+    "Bliver det koldt i København?",
+    "Skal jeg sikre udendørs genstande på grund af vind",
+    "fortæl mig, hvornår det vil regne",
+    "hvad er daggrytid",
+    "hvad er skumringstidspunktet",
+    "hvor hedt er det",
+    "eventuelle advarsler i weekenden",
+    "Er det dystert udenfor",
+    "Har jeg brug for en luftfugter i dag",
+    "Skal jeg tage en jakke på i København?",
+    "er det blæsende i dag",
+    "hvornår er den næste nedbør",
+    "hvad tid står solen op",
+    "hvad tid går solen ned",
+    "Skal jeg forvente frost lørdag",
+    "hvad er vejret vejrudsigt kl. 11 eftermiddag i København",
+    "forventes tyk tåge i nat i København"
+  ],
+  "tags": [
+    "vejr",
+    "vejrudsigt",
+    "regn",
+    "fugtighed",
+    "sne",
+    "temperatur"
+  ]
+}

@@ -1,3 +1,0 @@
-Actualmente hay {condition} y {temperature} grados {temperature_unit} en {location}.
-Ahora mismo, hay {condition} y {temperature} grados en {location}.
-{location} tiene {condition} y actualmente está a {temperature} grados.

@@ -1,0 +1,2 @@
+{day} it will be {condition}, with a high of {high_temperature} and a low of {low_temperature} in {location}
+{day}, {location} will have a high of {high_temperature} and a low of {low_temperature}, with {condition}

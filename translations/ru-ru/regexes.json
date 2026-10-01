@@ -1,5 +1,0 @@
-{
-    "/regex/location.rx": [
-        "(\u0432|\u0443) (?P<Location>.*)"
-    ]
-}

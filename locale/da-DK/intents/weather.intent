@@ -1,0 +1,185 @@
+eventuelle (advarsler|vejrvarsler) i weekenden
+ugentlig (prognose|udsigt) for vejret
+Er det (godt|klart|pænt) udenfor
+aktuelt vejr (i|på) {location}
+fortæl mig om (vejret|vejrudsigten)
+hvordan er vejret (nu|fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+hvordan er det udenfor
+timeprognose for i morgen
+Fortæl mig weekenden vejrudsigten
+(hvad|hvordan) er (vejret|vejrudsigten) (i|på) {location}
+(vejret|vejrudsigt) næste (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+aktuelt vejr (forhold|status) (i|på) {location}
+Hvad er (temperaturprognosen|vejrudsigten) for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+vil det (regne|sne|storme) på (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+Vejrudsigt for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) kl. (middag|midnat|nat)
+Fortæl mig vejret (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) (aften|morgen|nat)
+hvordan er vejret (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) (aften|middag)
+(den|denne) uges vejr i {location}
+timeprognose for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+Vejr weekend (opdatering|prognose) i {location}
+bliver det (klart|pænt|solrigt) i weekenden
+Giv mig den (aktuelle|seneste) vejropdatering
+hvordan ser vejret (i|på) {location}
+hvordan er vejret (i|fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) morgen
+vis mig den (7-dages|ugentlige) vejrudsigt
+hvad skal jeg forvente (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+hvordan er vejret som (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+hvordan ser vejret ud (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+Lørdag og søndag vejr (opdatering|prognose)
+Kan du fortælle mig vejret
+hvad sker der med vejret
+hvordan er vejret i øjeblikket
+Hvad er den weekend vejrudsigt
+Hvordan er vejret denne weekend
+Vejrudsigt for weekenden i {location}
+vejrudsigt for lørdag og søndag
+vejret for ugen i {location}
+vejret i løbet af ugen
+(hvad|hvordan) er vejret (vejret|vejrudsigt) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag)
+(hvad|hvordan) er vejret i {location} (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) [(aften|middag)]
+fortæl mig det (vejret|vejrudsigt) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag)
+Hvad er (temperaturprognosen|vejrudsigten) for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+vil det (regne|sne|storme) på (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+Vejrudsigt for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) kl. (middag|midnat|nat) i {location}
+Fortæl mig vejret (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) (aften|morgen|nat) i {location}
+hvordan er vejret (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) [(aften|middag)] i {location}
+(hvad|hvordan) er vejret i {location} (i|fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) morgen
+Giv mig den (aktuelle|seneste) vejropdatering (i|på) {location}
+(hvad|hvordan) er vejret i {location} som (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+Vil det være (koldt|lunt|varmt) i morgen (mandag|fredag|lørdag|onsdag|søndag|tirsdag|torsdag)
+Vejrudsigt for i morgen kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag)
+Hvad er (temperaturprognosen|vejrudsigten) for [efter] i morgen
+vil det (regne|sne|storme) på [efter] i morgen
+Vil det (regne|storme) denne weekend i {location}
+al slags vejr (advarsler|alarmer) for i morgen
+hvordan er vejret (i|fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) morgen i {location}
+vil det blive (dejligt|solrigt) i denne weekend
+vil det blive (dejligt|solrigt) lørdag og søndag
+vejret i de (kommende|næste) et par dage
+vis mig den (7-dages|ugentlige) vejrudsigt i {location}
+hvad skal jeg forvente (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+hvordan er vejret som (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+hvordan ser vejret ud (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+Vejr lørdag og søndag (opdatering|prognose) i {location}
+Kan du fortælle mig vejret (i|på) {location}
+hvad sker der med vejret (i|på) {location}
+hvordan er vejret [som] i morgen (aften|middag|morgen)
+Kan du fortælle mig vejret i øjeblikket
+Kan du fortælle mig vejret lige nu
+hvad sker der med vejret i dag
+hvad sker der med vejret lige nu
+hvad skal jeg forvente [efter] i morgen
+hvordan er vejret som efter i morgen
+hvordan ser vejret ud efter i morgen
+Hvad er den lørdag og søndag vejrudsigt
+Hvad er den weekend vejrudsigt i {location}
+Hvordan er vejret denne weekend i {location}
+Hvordan er vejret i løbet af weekenden
+Vejrudsigt for lørdag og søndag i {location}
+Hvad er vejrudsigten for de kommende dage
+vejret i løbet af ugen i {location}
+(hvad|hvordan) er vejret (vejret|vejrudsigt) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
+fortæl mig det (vejret|vejrudsigt) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
+Vil det være (koldt|lunt|varmt) i morgen (mandag|fredag|lørdag|onsdag|søndag|tirsdag|torsdag) i {location}
+Vejrudsigt for i morgen kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
+(hvad|hvordan) er vejret i {location} [som] i morgen (aften|middag|morgen)
+Hvad er vejrudsigten for i morgen kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag)
+(hvad|hvordan) er vejret i {location} som efter i morgen
+Hvad er (temperaturprognosen|vejrudsigten) for [efter] i morgen i {location}
+vil det (regne|sne|storme) på [efter] i morgen i {location}
+al slags vejr (advarsler|alarmer) for i morgen i {location}
+vejret i de (kommende|næste) et par dage i {location}
+hvordan er vejret [som] i morgen (aften|middag|morgen) i {location}
+Kan du fortælle mig vejret i øjeblikket (i|på) {location}
+Kan du fortælle mig vejret lige nu (i|på) {location}
+hvad sker der med vejret i dag (i|på) {location}
+hvad sker der med vejret lige nu (i|på) {location}
+hvad skal jeg forvente [efter] i morgen i {location}
+hvordan er vejret som efter i morgen i {location}
+hvordan ser vejret ud efter i morgen i {location}
+Hvad er den lørdag og søndag vejrudsigt i {location}
+Hvordan er vejret i løbet af lørdag og søndag
+Vil det blive dejligt lørdag og søndag i {location}
+Hvad er vejrudsigten for de kommende dage i {location}
+(hvad|hvordan) er vejret (vejret|vejrudsigt) næste (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+Vejrudsigt for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag)
+fortæl mig om (vejret|vejrudsigten) (i|på) {location}
+vejret i de (kommende|næste) (2|3|4|5|6|7) dage
+al slags vejr (advarsler|alarmer) for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+fortæl mig det (vejret|vejrudsigt) næste (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+hvordan er vejret som (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) (aften|middag|morgen)
+eventuelle (advarsler|vejrvarsler) i weekenden i {location}
+ugentlig (prognose|udsigt) for vejret i {location}
+hvordan er vejret (efter|som) i morgen
+Hvad er vejrudsigten for (2|3|4|5|6|7) dage
+Fortæl mig vejret i morgen (aften|morgen|nat)
+Vejrudsigt for i morgen kl. (middag|midnat|nat)
+Kan du fortælle mig om vejret
+timeprognose for i morgen i {location}
+Fortæl mig lørdag og søndag vejrudsigten
+Fortæl mig weekenden vejrudsigten i {location}
+Hvad er den næste weekend vejrudsigt
+Hvordan er vejret lørdag og søndag
+Skal jeg planlægge udendørsaktiviteter i weekenden
+vil det regne i denne weekend
+vil det regne lørdag og søndag
+Fortæl mig vejrudsigten for denne uge
+(hvad|hvordan) er vejret (vejret|vejrudsigt) næste (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+Vejrudsigt for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
+(hvad|hvordan) er vejret i {location} som (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) (aften|middag|morgen)
+Hvad er vejrudsigten for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag)
+vejret i de (kommende|næste) (2|3|4|5|6|7) dage i {location}
+(hvad|hvordan) er vejret i {location} (efter|som) i morgen
+al slags vejr (advarsler|alarmer) for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+fortæl mig det (vejret|vejrudsigt) næste (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+hvordan er vejret som (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) (aften|middag|morgen) i {location}
+Vil det (regne|storme) lørdag og søndag i {location}
+Vil det være (koldt|lunt|varmt) i morgen efter mandag
+al slags vejr (advarsler|alarmer) for efter i morgen
+hvordan er vejret (efter|som) i morgen i {location}
+Vil det være (klart|solrigt|varmt) denne weekend i {location}
+Hvad er vejrudsigten for (2|3|4|5|6|7) dage i {location}
+Fortæl mig vejret i morgen (aften|morgen|nat) i {location}
+Vejrudsigt for i morgen kl. (middag|midnat|nat) i {location}
+Kan du fortælle mig om vejret (i|på) {location}
+Kan du fortælle mig om vejret i øjeblikket
+Kan du fortælle mig om vejret lige nu
+Fortæl mig lørdag og søndag vejrudsigten i {location}
+Hvad er den næste lørdag og søndag vejrudsigt
+Hvad er den næste weekend vejrudsigt i {location}
+Hvordan er vejret lørdag og søndag i {location}
+Skal jeg planlægge udendørsaktiviteter i weekenden i {location}
+Vil det blive dejligt denne weekend i {location}
+Fortæl mig vejrudsigten for denne uge i {location}
+Hvordan er vejret ud fra vejrudsigten denne uge
+Hvad er vejrudsigten for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
+Vil det være (koldt|lunt|varmt) i morgen efter mandag i {location}
+al slags vejr (advarsler|alarmer) for efter i morgen i {location}
+Kan du fortælle mig om vejret i øjeblikket (i|på) {location}
+Kan du fortælle mig om vejret lige nu (i|på) {location}
+Hvad er den næste lørdag og søndag vejrudsigt i {location}
+Hvordan er vejret ud fra vejrudsigten denne uge i {location}
+aktuelt vejr
+(hvad|hvordan|hvordan/hvad) er (vejret|vejrudsigten)
+(vejret|vejrudsigt) næste (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+(den|denne) uges vejr
+aktuelt vejr (forhold|status)
+timeprognose for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+weekend vejr (opdatering|prognose)
+hvordan er vejret?
+hvordan ser vejret
+vejrudsigt for weekenden
+vejret for ugen
+Hvad er vejrudsigten for i morgen kl. (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i {location}
+Hvordan er vejret i løbet af lørdag og søndag i weekenden i {location}
+Hvordan bliver vejret i {location}?
+Hvad er vejrudsigten for {location}?
+Hvordan bliver vejret i dag i {location}?
+Hvordan bliver vejret i morgen i {location}?
+Fortæl mig vejret i {location}
+Giv mig vejrudsigten for {location}
+Vejret i {location}
+Vejrudsigt for {location}
+hvad er vejret i {unit}
+hvad er vejret i {unit} i {location}

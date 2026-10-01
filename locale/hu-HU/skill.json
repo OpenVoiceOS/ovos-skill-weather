@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Időjárás",
+  "description": "Kérdezd le az időjárást, az előrejelzést, a várható csapadékot és még többet. A világ más városairól is kérdezhetsz. Az aktuális időjárás és az előrejelzések az OpenMeteo adatai.",
+  "examples": [
+    "Mennyi most a páratartalom Budapest városban",
+    "Hideg lesz ma Budapest városban",
+    "Szeles most az idő Budapest városban",
+    "Mikor fog legközelebb esni az eső Budapest városban",
+    "Hánykor kel fel a nap ma Budapest városban",
+    "Hánykor nyugszik le a nap ma Budapest városban",
+    "Mennyi most a hőmérséklet Budapest városban",
+    "Milyen az időjárás-előrejelzés két napra Budapest városban",
+    "felhős van",
+    "Mennyi a páratartalom",
+    "Hűvös lesz ma Budapest városban",
+    "Milyen erős a szél Budapest városban",
+    "Mikor kezd el esni Budapest városban",
+    "Hánykor kel fel a nap ma",
+    "Hánykor nyugszik le a nap ma",
+    "Hány fok lesz maximum holnap Budapest városban",
+    "Milyen lesz az időjárás holnapután Budapest városban",
+    "lesznek felhők ma"
+  ],
+  "tags": [
+    "időjárás",
+    "előrejelzés",
+    "eső",
+    "páratartalom",
+    "hó",
+    "hőmérséklet"
+  ]
+}

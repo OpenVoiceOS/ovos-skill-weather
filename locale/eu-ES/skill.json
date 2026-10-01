@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Eguraldia",
+  "description": "Galdetu eguraldia, iragarpena, espero den euria eta gehiago. Munduko beste hiri batzuei buruz ere galde dezakezu. Datuak OpenMeteo zerbitzutik datoz.",
+  "examples": [
+    "Zein da orain hezetasun maila Bilbon",
+    "Hotza egingo du gaur Bilbon",
+    "Haizea dago orain Bilbon",
+    "Noiz egingo du euria berriro Bilbon",
+    "Zer ordutan atera da eguzkia gaur Bilbon",
+    "Zer ordutan sartuko da eguzkia gaur Bilbon",
+    "Zenbat gradu daude orain Bilbon",
+    "Zein da eguraldiaren iragarpena hurrengo bi egunetarako Bilbon",
+    "dago eguzkitsu gaur Bilbon",
+    "Hezegailu bat behar dut gaur",
+    "Beroa dago kanpoan orain Bilbon",
+    "Haizea izango da",
+    "Zenbat denbora falta da euria hasteko",
+    "Zer ordutan argituko du bihar Bilbon",
+    "Noiz da ilunabarra gaur",
+    "Zenbateko beroa egingo du bihar",
+    "Nolako eguraldia egingo du asteazkenean Bilbon",
+    "izotza egongo da"
+  ],
+  "tags": [
+    "eguraldia",
+    "iragarpena",
+    "euria",
+    "hezetasuna",
+    "elurra",
+    "tenperatura"
+  ]
+}

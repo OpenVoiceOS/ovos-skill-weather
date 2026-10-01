@@ -1,0 +1,3 @@
+Det är mycket blåsigt idag, {speed} {speed_unit}
+För närvarande blåser vinden från {direction} vid {speed} {speed_unit}, det kan vara bra att stanna inomhus idag.
+Vinden är mycket stark från {direction} idag, {speed} {speed_unit}

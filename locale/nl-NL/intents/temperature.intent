@@ -1,0 +1,53 @@
+wat is de temperatuur (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag) (avond|ochtend)
+hoe (heet|koud) wordt het deze avond
+is het (heet|koud|warm) buiten in {location}
+heb ik een jas nodig vandaag
+vertel me de temperatuur in {location}
+wordt het fris vanavond in {location}
+wat is de koudste temperatuur vandaag
+heb ik een jas nodig vandaag in {location}
+wat is de koudste temperatuur vandaag in {location}
+hoe (heet|koud|warm) wordt het (vanavond|vandaag)
+hoe (warm|koud) wordt het (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag)
+hoe (fris|koud|warm) is het nu
+wordt het (heet|koud) deze avond
+wat is de (hoogste|maximale|laagste|minimum) temperatuur
+hoe warm is het (buiten|vandaag)
+wat is de temperatuur (buiten|nu|vandaag|vanavond)
+wordt er vorst verwacht (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag)
+wordt het onder nul (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag)
+hoe warm wordt het vanmorgen
+wordt het erg warm morgenmiddag
+wat is de (hoogste|maximale|laagste|minimum) temperatuur (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag) (avond|ochtend)
+hoe (warm|koud) wordt het (vanavond|dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag) in {location}
+hoe (fris|koud|warm) is het op dit moment
+hoe (fris|koud|warm) is het in {location} nu
+wat is de (hoogste|maximale|laagste) temperatuur in {location}
+hoe warm wordt het (vanmorgen|vandaag) in {location}
+wordt er vorst verwacht (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag) in {location}
+wordt het onder nul (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag) in {location}
+wat is de huidige temperatuur in (Celsius|Fahrenheit)
+wat is de temperatuur in {location} (buiten|nu|vandaag)
+moet ik rekening houden met vorst (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag)
+wat is de temperatuur vanavond in {location}
+wordt het erg warm morgenmiddag in {location}
+wat is de (hoogste|maximale|laagste) temperatuur in {location} (deze|op|volgende) (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag)
+wat is de temperatuur om (1|10|11|12|2|3|4|5|6|7|8|9) 's avonds (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag)
+hoe (fris|koud|warm) is het in {location} op dit moment
+moet ik rekening houden met vorst (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag) in {location}
+wat is de huidige temperatuur in {location} in (Celsius|Fahrenheit)
+wat is de hoogste temperatuur die verwacht wordt (dinsdag|donderdag|maandag|morgen|vandaag|vrijdag|woensdag|zaterdag|zondag)
+wat is de minimum temperatuur 's nachts voor (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag)
+huidige temperatuur update
+temperatuurverwachting voor vanavond
+minimum temperatuur verwachting
+is het (heet|koud|warm) buiten
+wordt het (fris|heet|koud) vanavond
+wordt het (heet|koud) vandaag
+top temperatuur voor (dinsdag|donderdag|maandag|morgen|vandaag|vrijdag|woensdag|zaterdag|zondag)
+vertel me de temperatuur
+temperatuurverwachting voor morgen ochtend
+wat is de temperatuur om (1|10|11|12|2|3|4|5|6|7|8|9) 's avonds (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag) in {location}
+wat is de minimum temperatuur 's nachts voor (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag) in {location}
+wat is de temperatuur om (1|10|11|12|2|3|4|5|6|7|8|9) uur 's ochtends (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag)
+wat is de temperatuur om (1|10|11|12|2|3|4|5|6|7|8|9) uur 's ochtends (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag) in {location}

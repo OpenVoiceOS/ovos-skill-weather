@@ -1,0 +1,56 @@
+Va-t-il faire froid à {location}?
+Fait-il froid à {location}?
+Va-t-il faire froid aujourd'hui à {location}?
+Va-t-il faire froid demain à {location}?
+Quel froid va-t-il faire à {location}?
+Y aura-t-il du gel à {location}?
+Dois-je prendre une veste à {location}?
+Fait-il frais dehors à {location}?
+Va-t-il faire froid ce soir à {location}?
+Va-t-il faire chaud à {location}?
+Fait-il chaud à {location}?
+Va-t-il faire chaud aujourd'hui à {location}?
+Va-t-il faire chaud demain à {location}?
+Quelle chaleur va-t-il faire à {location}?
+Y aura-t-il une canicule à {location}?
+Dois-je mettre de la crème solaire à {location}?
+Fait-il chaud dehors à {location}?
+Va-t-il faire chaud ce soir à {location}?
+fera-t-il chaud
+fera-t-il chaud à {location}
+fera-t-il chaud aujourd'hui
+fera-t-il chaud aujourd'hui à {location}
+fera-t-il chaud demain
+fera-t-il chaud demain à {location}
+fait-il chaud
+fait-il chaud à {location}
+fait-il chaud aujourd'hui
+fait-il chaud aujourd'hui à {location}
+fait-il chaud demain
+fait-il chaud demain à {location}
+aura-t-on du chaud
+aura-t-on du chaud à {location}
+aura-t-on du chaud aujourd'hui
+aura-t-on du chaud aujourd'hui à {location}
+aura-t-on du chaud demain
+aura-t-on du chaud demain à {location}
+fera-t-il froid
+fera-t-il froid à {location}
+fera-t-il froid aujourd'hui
+fera-t-il froid aujourd'hui à {location}
+fera-t-il froid demain
+fera-t-il froid demain à {location}
+fait-il froid
+fait-il froid à {location}
+fait-il froid aujourd'hui
+fait-il froid aujourd'hui à {location}
+fait-il froid demain
+fait-il froid demain à {location}
+aura-t-on du froid
+aura-t-on du froid à {location}
+aura-t-on du froid aujourd'hui
+aura-t-on du froid aujourd'hui à {location}
+aura-t-on du froid demain
+aura-t-on du froid demain à {location}
+Fera-t-il chaud {day} à {location}?
+Fera-t-il froid {day} à {location}?

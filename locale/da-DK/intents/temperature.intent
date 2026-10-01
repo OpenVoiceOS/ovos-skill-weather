@@ -1,0 +1,89 @@
+hvor (hedt|koldt|varmt) er det
+hvor (varmt|koldt) bliver det
+Hvad er (den|højeste|maksimum) temperatur
+er det (koldt|lunt|varmt) udenfor
+Hvad er temperaturen [(nu|udenfor)]
+maksimal temperatur for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+forventes der frost [(fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)]
+Fortæl mig temperaturen nu
+Temperaturprognose for i aften
+Skal jeg forvente frost
+Hvad er (højeste|maksimum) temperatur (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) (morgen|nat)
+hvor (koldt|varmt) bliver det i (aften|dag)
+hvor (varmt|koldt) bliver det i (nat|{location}|morgen)
+hvor (hedt|koldt|varmt) er det lige nu
+hvor (hedt|koldt|varmt) er det på {location}
+er det (koldt|lunt|varmt) udenfor i {location}
+forventes der frost (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+Har jeg brug for en (frakke|jakke)
+Hvad er den temperatur i (Celsius|Fahrenheit|dag)
+Hvad er den [nuværende] temperatur (nu|udenfor)
+Hvad er temperaturen i {location} (nu|udenfor)
+Hvad er temperaturen i morgen (morgen|nat)
+Skal jeg forvente frost i ({location}|morgen|nat)
+vil det være under frysepunktet [(fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)]
+Fortæl mig temperaturen i {location} nu
+hvor varmt eller koldt er det
+hvor varmt bliver det i morges
+Hvad er den højeste forventede temperatur
+hvad er det koldeste, det bliver
+hvor (varmt|koldt) bliver det i (nat|morgen) i {location}
+Hvad er temperaturen klokken (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i morgen
+Hvad er den (laveste|minimums) temperatur i morgen (morgen|nat)
+Har jeg brug for en (frakke|jakke) i ({location}|dag)
+hvor (hedt|koldt|varmt) er det på {location} lige nu
+hvor varmt bliver det i (morges|dag) i {location}
+Skal jeg forvente frost i (morgen|nat) i {location}
+vil det være under frysepunktet (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+Hvad er den temperatur i {location} i (Celsius|Fahrenheit)
+Hvad er den højeste forventede temperatur i (dag|morgen)
+hvor varmt eller koldt er det lige nu
+hvor varmt eller koldt er det på {location}
+hvad er det koldeste, det bliver på {location}
+hvad er det koldeste, det bliver i dag
+Hvad er temperaturen klokken (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) i morgen i {location}
+Hvad er den (højeste|maksimale|laveste) temperatur i {location} (næste|på) i morgen
+Hvad er den (højeste|maksimale) temperatur i {location} denne i morgen
+Har jeg brug for en (frakke|jakke) i dag i {location}
+Hvad er den laveste pris natten over for i (morgen|nat)
+hvor varmt eller koldt er det på {location} lige nu
+Hvad er den laveste temperatur i {location} dette i morgen
+hvad er det koldeste, det bliver i dag på {location}
+hvor (varmt|koldt) bliver det (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+bliver det (koldt|køligt|varmt) i aften
+bliver det (koldt|varmt) i dag
+Hvad er den (nuværende|laveste|minimums) temperatur
+Hvad er temperaturen (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) morgen
+Hvad er temperaturen (fredag|i|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) nat
+Hvad er temperaturen i (dag|{location})
+maksimal temperatur for i (dag|morgen)
+Skal jeg forvente frost (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+forventes der frost i ({location}|morgen|nat)
+Temperaturprognose for i morgen tidlig
+Hvad er den (laveste|minimums) temperatur (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) (morgen|nat)
+Hvad er temperaturen klokken (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+hvor (varmt|koldt) bliver det (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+Hvad er (højeste|maksimum) temperatur i morgen (morgen|nat)
+Hvad er den (højeste|maksimale|laveste) temperatur i {location}
+Skal jeg forvente frost (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+forventes der frost i (morgen|nat) i {location}
+Hvad er den nuværende temperatur i (Celsius|Fahrenheit|dag)
+Hvad er den højeste forventede temperatur (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+vil det være under frysepunktet i ({location}|morgen|nat)
+Hvad er temperaturen i {location} i dag
+Hvad er temperaturen i nat i {location}
+bliver det køligt i aften i {location}
+Hvad er temperaturen klokken (1|10|11|12|2|3|4|5|6|7|8|9) (eftermiddag|formiddag) (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+Hvad er den (højeste|maksimale|laveste) temperatur i {location} (næste|på) (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+Hvad er den (højeste|maksimale) temperatur i {location} denne (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+vil det være under frysepunktet i (morgen|nat) i {location}
+Hvad er den nuværende temperatur i {location} i (Celsius|Fahrenheit)
+Hvad er den laveste pris natten over for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+Hvad er den laveste temperatur i {location} dette (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag)
+forventes det at blive brændende varmt i morgen eftermiddag
+bliver det (koldt|varmt)
+aktuel temperaturopdatering
+Hvad er den laveste pris natten over for (fredag|lørdag|mandag|onsdag|søndag|tirsdag|torsdag) i {location}
+forventes det at blive brændende varmt i morgen eftermiddag i {location}
+Hvad er den laveste pris natten over for i (morgen|nat) i {location}
+minimumstemperaturprognose
