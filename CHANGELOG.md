@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.1a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.1a2) (2026-10-01)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.1a1...1.5.1a2)
+
+**Merged pull requests:**
+
+- fix\(fa-IR\): strip the terminal question mark from the intent templates [\#308](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/308) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.1a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.1a1) (2026-09-28)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.0a2...1.5.1a1)
@@ -361,10 +369,6 @@
 ## [1.0.13a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a2) (2026-08-11)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.13a1...1.0.13a2)
-
-**Merged pull requests:**
-
-- test: curate golden corpus rows [\#205](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/205) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.13a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a1) (2026-08-11)
 
