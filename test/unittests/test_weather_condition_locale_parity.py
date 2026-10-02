@@ -38,6 +38,17 @@ LOCALE_PHRASES = {
         ("is er mist buiten", "fog"),
         ("is de lucht helder vandaag", "clear"),
     ],
+    # guards OPE-46: locale/sv-SE and sv-FI each shipped a
+    # vocabulary/temperature/fog.voc that duplicated the (role, base name)
+    # of their own vocabulary/condition/fog.voc (OVOS-INTENT-2 §2). Both
+    # phrases are lifted verbatim from each locale's weather_condition.intent
+    # and must still resolve to "fog" with the duplicate gone.
+    "sv-SE": [
+        ("är det dimmigt", "fog"),
+    ],
+    "sv-FI": [
+        ("är det idag disigt", "fog"),
+    ],
 }
 
 # locales that never got past "cloudy": they only ever shipped
