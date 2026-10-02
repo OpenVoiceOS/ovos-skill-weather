@@ -1,3 +1,4 @@
 В настоящее время ветер от {direction} при {speed} {speed_unit}, возможно, сегодня стоит остаться дома.
-Сегодня очень ветрено, {speed} {speed_unit}
+# machine translation, not reviewed. Reviewer on record: putnik.
+Сегодня очень ветрено, {speed} {speed_unit} от {direction}
 Сегодня очень сильный ветер от {direction}, {speed} {speed_unit}.

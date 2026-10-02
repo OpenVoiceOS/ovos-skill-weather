@@ -1,2 +1,3 @@
 Haverá um vento fraco vindo do {direction} no {day}, à uma velocidade de {speed} {speed_unit}
-Não haverá vento forte no {day}
+# machine translation, not reviewed. Reviewer on record: femelo.
+Não haverá vento forte no {day}, apenas uma brisa do {direction}

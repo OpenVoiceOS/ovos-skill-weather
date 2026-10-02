@@ -1,2 +1,3 @@
 В настоящее время ветер умеренный {speed} {speed_unit} от {direction} в {location}
-Сегодня в {location} немного ветрено, в настоящее время {speed} {speed_unit}.
+# machine translation, not reviewed. Reviewer on record: putnik.
+Сегодня в {location} немного ветрено, в настоящее время {speed} {speed_unit} от {direction}.

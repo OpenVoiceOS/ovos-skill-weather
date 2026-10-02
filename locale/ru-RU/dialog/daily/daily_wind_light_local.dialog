@@ -1,2 +1,3 @@
 Будет легкий ветер, идущий от {direction} {day} в {speed} {speed_unit}.
-Будет не очень ветрено {day}
+# machine translation, not reviewed. Reviewer on record: putnik.
+Будет не очень ветрено {day}, лёгкий ветер от {direction}

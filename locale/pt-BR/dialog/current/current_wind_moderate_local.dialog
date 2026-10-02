@@ -1,2 +1,3 @@
 Atualmente o vento é moderado {speed} {speed_unit} vindo do {direction}
-Está ventando um pouco hoje, no momento {speed} {speed_unit}
+# machine translation, not reviewed. Reviewer on record: femelo.
+Está ventando um pouco hoje, no momento {speed} {speed_unit} vindo do {direction}

@@ -1,2 +1,4 @@
-Em {location} {day} não haverá vento algum
-{day} não será um dia com muitos ventos em {location}
+# machine translation, not reviewed. Reviewer on record: femelo.
+Em {location} {day} não haverá vento algum, apenas uma brisa do {direction}
+# machine translation, not reviewed. Reviewer on record: femelo.
+{day} não será um dia com muitos ventos em {location}, apenas uma brisa do {direction}

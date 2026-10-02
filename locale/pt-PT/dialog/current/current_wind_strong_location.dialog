@@ -1,3 +1,4 @@
 Actualmente, o vento vem de {direction} a {speed} {speed_unit} em {location}, um bom dia para ficar dentro de casa
 O vento é muito forte de {direction} em {location} hoje, {speed} {speed_unit}
-{location} terá ventos fortes hoje, {speed} {speed_unit}
+# machine translation, not reviewed. Reviewer on record: jarbasal.
+{location} terá ventos fortes hoje, {speed} {speed_unit} de {direction}

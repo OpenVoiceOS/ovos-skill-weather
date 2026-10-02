@@ -1,2 +1,3 @@
 Haverá um vento forte do {direction} à velocidade de {speed} {speed_unit} em {location} no {day}
-O vento será tão forte quanto {speed} {speed_unit} em {location} no {day}
+# machine translation, not reviewed. Reviewer on record: femelo.
+O vento será tão forte quanto {speed} {speed_unit} do {direction} em {location} no {day}

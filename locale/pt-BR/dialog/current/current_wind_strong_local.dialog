@@ -1,3 +1,4 @@
 Atualmente, o vento sopra do {direction} a {speed} {speed_unit}, talvez seja bom ficar em casa hoje
-Está ventando bem hoje, {speed} {speed_unit}
+# machine translation, not reviewed. Reviewer on record: femelo.
+Está ventando bem hoje, {speed} {speed_unit} vindo do {direction}
 O vento do {direction} está muito forte hoje, {speed} {speed_unit}
