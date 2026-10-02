@@ -1,2 +1,2 @@
-0'da {time}'te {precipitation} için {percent} şans vardır
+{location}'da {time}'te {precipitation} için {percent} şans vardır
 Tahminlere göre {time}'te {location}'de {precipitation} ihtimal var.

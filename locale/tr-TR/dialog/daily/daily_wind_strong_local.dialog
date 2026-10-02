@@ -1,2 +1,2 @@
-0'dan {speed}'e {speed_unit}'den {day}'e kuvvetli rüzgar olacak
+{direction}'dan {speed}'e {speed_unit}'den {day}'e kuvvetli rüzgar olacak
 Rüzgar {speed} {speed_unit} {day} kadar güçlü olacak

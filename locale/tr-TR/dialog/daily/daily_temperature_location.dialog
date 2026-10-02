@@ -1,2 +1,2 @@
-0'da {temperature} derece olacak {location}'de
-0, {location} {temperature} derecelik bir sıcaklığa sahip olacaktır
+{day}'da {temperature} derece olacak {location}'de
+{day}, {location} {temperature} derecelik bir sıcaklığa sahip olacaktır

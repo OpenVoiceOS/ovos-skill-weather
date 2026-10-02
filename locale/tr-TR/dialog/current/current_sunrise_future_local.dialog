@@ -1,2 +1,2 @@
-Güneş bugün saat 0'da doğacak.
-gün doğumu bugün saat 0'da olacak
+Güneş bugün saat {time}'da doğacak.
+gün doğumu bugün saat {time}'da olacak

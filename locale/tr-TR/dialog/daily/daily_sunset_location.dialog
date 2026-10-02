@@ -1,3 +1,3 @@
-0 güneş {location}'de {time}'de batacak
-0'da gün batımı {time} {day}'de olacak
+{day} güneş {location}'de {time}'de batacak
+{location}'da gün batımı {time} {day}'de olacak
 güneş {location}'de {time} {day}'de batacak

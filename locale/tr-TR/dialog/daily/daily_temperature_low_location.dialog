@@ -1,2 +1,2 @@
-0'da {temperature} dereceye kadar düşecek {location}'de
-0, {location}, {temperature} derece kadar düşük olacaktır
+{day}'da {temperature} dereceye kadar düşecek {location}'de
+{day}, {location}, {temperature} derece kadar düşük olacaktır

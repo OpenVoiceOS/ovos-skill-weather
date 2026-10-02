@@ -1,2 +1,2 @@
-0 en yüksek {temperature} derece {day} olacak
-1'de {day}'de {temperature} derece kadar yüksek olacaktır.
+{location} en yüksek {temperature} derece {day} olacak
+{location}'de {day}'de {temperature} derece kadar yüksek olacaktır.

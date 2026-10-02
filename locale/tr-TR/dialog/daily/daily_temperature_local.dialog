@@ -1,2 +1,2 @@
-0 olacak {temperature} olacak
-0 olduğunda sıcaklık {temperature} derece olacaktır.
+{day} olacak {temperature} olacak
+{day} olduğunda sıcaklık {temperature} derece olacaktır.
