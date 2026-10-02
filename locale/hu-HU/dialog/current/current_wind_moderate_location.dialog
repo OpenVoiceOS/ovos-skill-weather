@@ -1,2 +1,3 @@
 Jelenleg a szél mérsékelt {speed} {speed_unit} a {direction} és {location} között.
-Ma egy kicsit szeles az {location}-ban, jelenleg {speed} {speed_unit}
+# machine translation, unvouched by a native speaker
+Ma egy kicsit szeles az {location}-ban a {direction} felől, jelenleg {speed} {speed_unit}

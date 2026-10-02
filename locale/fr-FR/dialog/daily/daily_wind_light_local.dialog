@@ -1,2 +1,3 @@
-Il n'y aura pas beaucoup de vent {day}
+# machine translation, unvouched by a native speaker
+Il n'y aura pas beaucoup de vent {day}, il viendra du {direction}
 Il y aura un vent léger venant du {direction} {day} au {speed} {speed_unit}

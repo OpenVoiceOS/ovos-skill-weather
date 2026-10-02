@@ -1,3 +1,4 @@
 Nestes momentos, o vento sopra do {direction} a {speed} {speed_unit} en {location}. O mellor é ficar na casa
 O vento sopra hoxe moi forte do {direction} en {location}, {speed} {speed_unit}
-{location} terá ventos fortes hoxe, {speed} {speed_unit}
+# machine translation, unvouched by a native speaker
+{location} terá ventos fortes do {direction} hoxe, {speed} {speed_unit}

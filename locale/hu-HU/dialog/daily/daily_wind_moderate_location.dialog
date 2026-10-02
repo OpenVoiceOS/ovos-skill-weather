@@ -1,3 +1,4 @@
 A szél mérsékelt lesz {location} {day}, kb. {speed} {speed_unit} a {direction}
 Az előrejelzés {day} szerint {location} mérsékelt szél lesz {direction} felől {speed} {speed_unit} {speed} {speed_unit}
-Számíthatsz a szél körülbelül {speed} {speed_unit} {location} {day}-ban {speed_unit} {location} {day}
+# machine translation, unvouched by a native speaker
+Számíthatsz a szél a {direction} felől körülbelül {speed} {speed_unit} {location} {day}-ban {speed_unit} {location} {day}

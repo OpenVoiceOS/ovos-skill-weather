@@ -1,2 +1,3 @@
 Jelenleg a szél mérsékelt {speed} {speed_unit} {direction} irányból fúj.
-Kicsit szeles a mai nap, jelenleg {speed} {speed_unit}
+# machine translation, unvouched by a native speaker
+Kicsit szeles a mai nap a {direction} felől, jelenleg {speed} {speed_unit}

@@ -1,3 +1,4 @@
 Tuuli on erittäin voimakas {direction} tänään, {speed} {speed} {speed_unit}
 Tällä hetkellä tuuli puhaltaa {direction}:sta {speed} {speed_unit}:ssa, ehkä on hyvä pysyä sisällä tänään.
-Tänään on hyvin tuulista, {speed} {speed_unit}
+# machine translation, unvouched by a native speaker
+Tänään on hyvin tuulista {direction}:sta, {speed} {speed_unit}

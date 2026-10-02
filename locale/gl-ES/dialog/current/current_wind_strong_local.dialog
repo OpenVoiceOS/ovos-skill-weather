@@ -1,3 +1,4 @@
-Hoxe vai moito vento, {speed} {speed_unit}
+# machine translation, unvouched by a native speaker
+Hoxe vai moito vento do {direction}, {speed} {speed_unit}
 Nestes momentos, o vento sopra do {direction} a {speed} {speed_unit}. Se cadra é mellor ficar hoxe na casa.
 O vento sopra hoxe moi forte do {direction}, {speed} {speed_unit}
