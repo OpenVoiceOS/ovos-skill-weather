@@ -1,2 +1,3 @@
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. sv-SE has a contact (forslund) but no vouch on this change.
 Det kommer att blåsa stark vind från {direction} i {speed} {speed_unit} {day}
-Vinden kommer att vara lika stark som {speed} {speed_unit} {day}
+Vinden kommer att vara lika stark som {speed} {speed_unit} från {direction} {day}

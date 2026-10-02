@@ -1,3 +1,4 @@
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. No en-US reviewer is on record (knowledge/wiki/concepts/native-reviewers.md).
 Currently, the wind is from the {direction} at {speed} {speed_unit}, might be good to stay inside today
-It's very windy today, {speed} {speed_unit}
+It's very windy today, from the {direction} at {speed} {speed_unit}
 The wind is very strong from the {direction} today, {speed} {speed_unit}

@@ -1,2 +1,3 @@
-0'dan {speed}'e {speed_unit}'den {location}'e {day}'e kuvvetli bir rüzgar olacak
-Rüzgar {location} {day} içinde {speed} {speed_unit} kadar güçlü olacak
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. No tr-TR reviewer is on record (knowledge/wiki/concepts/native-reviewers.md).
+{direction}'dan {speed}'e {speed_unit}'den {location}'e {day}'e kuvvetli bir rüzgar olacak
+Rüzgar {location} {day} içinde {direction}'dan {speed} {speed_unit} kadar güçlü olacak

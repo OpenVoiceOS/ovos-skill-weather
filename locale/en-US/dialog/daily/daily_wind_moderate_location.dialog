@@ -1,3 +1,4 @@
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. No en-US reviewer is on record (knowledge/wiki/concepts/native-reviewers.md).
 The forecast {day} predicts {location} will have moderate wind from the {direction} of {speed} {speed_unit}
 The wind will be moderate in {location} {day}, about {speed} {speed_unit} from the {direction}
-You can expect a wind of about {speed} {speed_unit} in {location} {day}
+You can expect a wind from the {direction} of about {speed} {speed_unit} in {location} {day}

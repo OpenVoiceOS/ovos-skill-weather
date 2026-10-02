@@ -1,3 +1,4 @@
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. No sv-FI reviewer is on record (knowledge/wiki/concepts/native-reviewers.md).
 För närvarande blåser vinden från {direction} vid {speed} {speed_unit} i {location}, en bra dag att stanna inomhus.
 Vinden är mycket stark från {direction} i {location} idag, {speed} {speed_unit}
-{location} kommer att ha starka vindar idag, {speed} {speed_unit}
+{location} kommer att ha starka vindar från {direction} idag, {speed} {speed_unit}

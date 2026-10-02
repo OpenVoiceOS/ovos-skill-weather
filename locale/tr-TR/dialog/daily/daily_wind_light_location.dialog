@@ -1,2 +1,3 @@
-0'da çok rüzgarlı olmayacak {day}
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. No tr-TR reviewer is on record (knowledge/wiki/concepts/native-reviewers.md).
+{location}'da {direction}'dan çok rüzgarlı olmayacak {day}
 1'de {direction}'dan {day}'de {speed}'te {speed_unit}'ten gelen hafif bir rüzgar olacak

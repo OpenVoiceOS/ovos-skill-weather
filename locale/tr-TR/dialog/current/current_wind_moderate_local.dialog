@@ -1,2 +1,3 @@
-Bugün hava biraz rüzgarlı, şu anda {speed} {speed_unit}
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. No tr-TR reviewer is on record (knowledge/wiki/concepts/native-reviewers.md).
+Bugün hava biraz rüzgarlı, şu anda {direction} yönünden {speed} {speed_unit}
 Şu anda rüzgar {direction} yönünden orta şiddette {speed} {speed_unit}

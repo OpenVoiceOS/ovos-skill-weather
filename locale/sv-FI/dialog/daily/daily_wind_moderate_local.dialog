@@ -1,3 +1,4 @@
-Du kan förvänta dig en måttlig vind på cirka {speed} {speed_unit} {day}
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. No sv-FI reviewer is on record (knowledge/wiki/concepts/native-reviewers.md).
+Du kan förvänta dig en måttlig vind från {direction} på cirka {speed} {speed_unit} {day}
 Enligt prognosen kommer det att blåsa en måttlig vind från {direction} vid {speed} {speed_unit} {day}
 Vinden kommer att vara måttlig, ungefär {speed} {speed_unit} från {direction} {day}

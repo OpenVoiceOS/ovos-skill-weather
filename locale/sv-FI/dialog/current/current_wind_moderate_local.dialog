@@ -1,2 +1,3 @@
-Det är lite blåsigt idag, för närvarande {speed} {speed_unit}
+# unvouched: direction added by the localize lane from this file's own existing direction phrasing. No sv-FI reviewer is on record (knowledge/wiki/concepts/native-reviewers.md).
+Det är lite blåsigt idag, för närvarande {speed} {speed_unit} från {direction}
 För närvarande är vinden måttlig {speed} {speed_unit} från {direction}
