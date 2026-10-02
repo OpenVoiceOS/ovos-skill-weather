@@ -1,3 +1,4 @@
 Uèi lo vent es fòrça fòrt en direccion {direction} en {location}, {speed} {speed_unit}
 En aqueles moments, lo vent es de direccion {direction} a {speed} {speed_unit} en {location}, un bon jorn per se demorar a cobèrt
-{location} aurà de vents fòrts uèi, {speed} {speed_unit}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting Mejans review
+{location} aurà de vents fòrts de {direction} uèi, {speed} {speed_unit}

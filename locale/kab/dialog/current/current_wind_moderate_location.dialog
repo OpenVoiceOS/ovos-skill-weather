@@ -1,2 +1,3 @@
 Tura aḍu d alemmas, {speed} {speed_unit} seg {direction} di {location}
-Yella cwiṭ n waḍu di {location} ass-a, tura {speed} {speed_unit}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting athmanemokraoui review
+Yella cwiṭ n waḍu seg {direction} di {location} ass-a, tura {speed} {speed_unit}

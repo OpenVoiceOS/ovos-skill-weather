@@ -1,3 +1,4 @@
 De voorspelling is een matige wind van de {direction} op {speed} {speed_unit} {day}
 De wind zal matig zijn, ongeveer {speed} {speed_unit} uit de {direction} {day}
-U kunt een matige wind verwachten van ongeveer {speed} {speed_unit} {day}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting timonvanhasselt review
+U kunt een matige wind uit de {direction} verwachten van ongeveer {speed} {speed_unit} {day}

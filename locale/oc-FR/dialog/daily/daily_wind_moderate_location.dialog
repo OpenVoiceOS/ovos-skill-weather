@@ -1,3 +1,4 @@
-Se prevegèt un vent d'aperaquí {speed} {speed_unit} a {location} çò {day}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting Mejans review
+Se prevegèt un vent de {direction} d'aperaquí {speed} {speed_unit} a {location} çò {day}
 La prevision {day} se que que {location} aurà vent moderat dempuèi lo {direction} de {speed} {speed_unit}
 {day} lo vent serà moderat a {location}, amb una velocitat de {speed} {speed_unit} dempuèi lo {direction}

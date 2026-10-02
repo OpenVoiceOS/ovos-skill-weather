@@ -1,3 +1,4 @@
-Ci si può aspettare un vento di circa {speed} {speed_unit} in {location} {day}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting denics review
+Ci si può aspettare un vento da {direction} di circa {speed} {speed_unit} in {location} {day}
 Il vento sarà moderato in {location} {day}, circa {speed} {speed_unit} dalla {direction}
 Le previsioni {day} prevedono che {location} avrà vento moderato da {direction} di {speed} {speed_unit}

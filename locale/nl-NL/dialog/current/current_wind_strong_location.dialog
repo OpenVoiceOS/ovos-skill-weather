@@ -1,3 +1,4 @@
 De wind is zeer sterk van de {direction} in {location} vandaag, {speed} {speed_unit}
 Momenteel komt de wind uit de {direction} op {speed} {speed_unit} in {location}, een goede dag om binnen te blijven.
-{location} zal vandaag harde wind hebben, {speed} {speed_unit}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting timonvanhasselt review
+{location} zal vandaag harde wind uit de {direction} hebben, {speed} {speed_unit}

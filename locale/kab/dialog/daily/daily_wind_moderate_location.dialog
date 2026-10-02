@@ -1,3 +1,4 @@
 Asanay {day} yenna-d belli {location} ad tesɛu aḍu alemmas seg {direction} n {speed} {speed_unit}
 Aḍu ad yili d alemmas di {location} {day}, azal n {speed} {speed_unit} seg {direction}
-Tzemreḍ ad tṛǧuḍ aḍu n wazal n {speed} {speed_unit} di {location} {day}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting athmanemokraoui review
+Tzemreḍ ad tṛǧuḍ aḍu seg {direction} n wazal n {speed} {speed_unit} di {location} {day}

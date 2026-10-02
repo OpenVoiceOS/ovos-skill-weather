@@ -1,2 +1,3 @@
 Attualmente il vento è moderato {speed} {speed_unit} da {direction} in {location}
-Oggi c'è un po' di vento in {location}, attualmente {speed} {speed_unit}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting denics review
+Oggi c'è un po' di vento da {direction} in {location}, attualmente {speed} {speed_unit}

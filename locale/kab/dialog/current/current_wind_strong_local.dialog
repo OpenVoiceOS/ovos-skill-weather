@@ -1,3 +1,4 @@
 Tura aḍu yekka-d seg {direction} s {speed} {speed_unit}, ahat yelha ad teqqimeḍ deg wexxam ass-a
-Yella waṭas n waḍu ass-a, {speed} {speed_unit}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting athmanemokraoui review
+Yella waṭas n waḍu seg {direction} ass-a, {speed} {speed_unit}
 Aḍu yeǧhed aṭas seg {direction} ass-a, {speed} {speed_unit}

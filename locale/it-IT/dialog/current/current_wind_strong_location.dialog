@@ -1,3 +1,4 @@
 Attualmente il vento proviene da {direction} a {speed} {speed_unit} a {location}, una buona giornata per stare in casa.
 Il vento è molto forte da {direction} a {location} oggi, {speed} {speed_unit}
-{location} avrà venti forti oggi, {speed} {speed_unit}
+# unvouched machine draft: direction added for OVOS-INTENT-2 4.2; awaiting denics review
+{location} avrà venti forti da {direction} oggi, {speed} {speed_unit}
