@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.2a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.2a1) (2026-10-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.1a2...1.5.2a1)
+
+**Merged pull requests:**
+
+- fix\(fi-FI\): drop six Swedish temperature vocab rows [\#312](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/312) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.1a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.1a2) (2026-10-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.1a1...1.5.1a2)
@@ -364,7 +372,6 @@
 **Merged pull requests:**
 
 - translate\(kab\): update current-sunrise-future-local.dialog [\#208](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/208) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
-- translate\(kab\): update afternoon.dialog [\#207](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/207) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
 
 ## [1.0.13a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a2) (2026-08-11)
 
