@@ -1,3 +1,3 @@
 A szél ma nagyon erős a {direction} felől a {location}-ben, {speed}-ben {speed_unit}-ban.
 Jelenleg a szél a {direction} felől fúj {speed} {speed_unit} {location}-ban, jó nap a bent maradásra.
-{location} erős szél lesz ma, {speed} {speed_unit}
+{location} erős szél lesz ma, {speed} {speed_unit}, a {direction} felől

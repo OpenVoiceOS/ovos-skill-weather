@@ -1,9 +1,14 @@
 """Multilingual golden-utterance end-to-end coverage for ovos-skill-weather.
 
 Every locale ships all 9 intents (locale/<lang>/intents/*.intent) with full
-parity with en-US. Every row expands an existing template line from that
-locale's own file. {location} is filled with an obvious placeholder city
-name (London / Paris); {unit} with a value from that locale's own
+parity with en-US. Every golden_utterances_<lang>.jsonl file beside this
+module is collected, except en-US, which has its own runner. Rows marked
+needs_manual run too: the flag means no native speaker vouched for the
+sentence, not that the row is exempt from routing.
+
+Every row expands an existing template line from that locale's own file.
+{location} is filled with a city name (London / Paris, or a value from the
+locale's own location.voc); {unit} with a value from that locale's own
 unit.entity (fahrenheit / celsius); lines carrying an unresolvable {day}
 slot are skipped in favor of a slot-free/simpler sibling line in the same
 file.
@@ -43,11 +48,11 @@ _IGNORE = [
 
 END2END_DIR = Path(__file__).parent
 
-LANGS = [
-    "ca-ES", "cs-CZ", "da-DK", "de-DE", "es-ES", "eu-ES", "fi-FI",
-    "fr-FR", "gl-ES", "hu-HU", "it-IT", "kab", "nl-NL", "oc-FR",
-    "pl-PL", "pt-BR", "pt-PT", "ru-RU", "sv-FI", "sv-SE", "tr-TR",
-]
+LANGS = sorted(
+    p.stem.removeprefix("golden_utterances_")
+    for p in END2END_DIR.glob("golden_utterances_*.jsonl")
+    if p.stem != "golden_utterances_en-US"
+)
 
 _FAKE_GEOLOCATION = {
     "city": "London",
@@ -81,10 +86,7 @@ def _load_rows(lang):
             line = line.strip()
             if not line:
                 continue
-            row = json.loads(line)
-            if row.get("needs_manual"):
-                continue
-            rows.append(row)
+            rows.append(json.loads(line))
     return rows
 
 
@@ -168,3 +170,10 @@ def test_golden_utterance_multilang(mc_factory, row):
     assert matched, (
         f"[{row['lang']}] {row['utterance']!r}: expected {SKILL_ID}:{row['intent_label']}, got {types!r}"
     )
+
+
+def test_every_shipping_locale_has_a_golden_file():
+    golden = {p.stem.split("_", 2)[2] for p in END2END_DIR.glob("golden_utterances_*.jsonl")}
+    locale_root = END2END_DIR.parents[1] / "locale"
+    shipping = {d.name for d in locale_root.iterdir() if d.is_dir() and any(d.rglob("*.intent"))}
+    assert golden == shipping, f"golden files {sorted(golden ^ shipping)} differ from shipping locales"

@@ -1,2 +1,2 @@
-Nebude příliš větrno {day}
+Nebude příliš větrno {day}, jen {speed} {speed_unit} od {direction}
 Z {direction} {day} na {speed} {speed_unit} bude foukat slabý vítr.

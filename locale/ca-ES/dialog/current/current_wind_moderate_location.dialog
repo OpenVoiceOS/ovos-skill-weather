@@ -1,2 +1,2 @@
-Avui fa una mica de vent a {location}, ara mateix bufa a {speed} {speed_unit}
+Avui fa una mica de vent a {location}, ara mateix bufa a {speed} {speed_unit} des del {direction}
 En aquests moments, en {location}, el vent és moderat, {speed} {speed_unit}, amb component {direction}

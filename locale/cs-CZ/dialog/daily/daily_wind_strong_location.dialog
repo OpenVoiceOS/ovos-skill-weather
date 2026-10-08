@@ -1,2 +1,2 @@
 V {direction} z {speed} {speed_unit} v {location} {day} bude foukat silný vítr.
-Vítr bude silný jako {speed} {speed_unit} v {location} {day}
+Vítr bude silný jako {speed} {speed_unit} od {direction} v {location} {day}

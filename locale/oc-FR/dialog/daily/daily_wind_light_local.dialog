@@ -1,2 +1,2 @@
 I aurà un vent doç dempuèi {direction} a {speed} {speed_unit} {day}
-I aurà pas gaire vent {day}
+I aurà pas gaire vent {day}, sonque {speed} {speed_unit} dempuèi lo {direction}

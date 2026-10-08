@@ -1,2 +1,2 @@
-0'da {temperature} derece olacaktır
-1'de yaklaşık 0 derece olacak
+{time}'da {temperature} derece olacaktır
+{time}'de yaklaşık {temperature} derece olacak

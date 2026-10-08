@@ -1,3 +1,3 @@
 Attualmente il vento proviene da {direction} a {speed} {speed_unit} a {location}, una buona giornata per stare in casa.
 Il vento è molto forte da {direction} a {location} oggi, {speed} {speed_unit}
-{location} avrà venti forti oggi, {speed} {speed_unit}
+{location} avrà venti forti oggi, {speed} {speed_unit} da {direction}

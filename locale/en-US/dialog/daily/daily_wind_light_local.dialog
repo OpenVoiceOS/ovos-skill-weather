@@ -1,2 +1,2 @@
-It will not be very windy {day}
+It will not be very windy {day}, only {speed} {speed_unit} from the {direction}
 There will be a light wind coming from the {direction} {day} at {speed} {speed_unit}

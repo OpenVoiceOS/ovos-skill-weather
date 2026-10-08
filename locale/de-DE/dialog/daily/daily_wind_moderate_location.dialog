@@ -1,3 +1,3 @@
-Es könnte {day} moderaten Wind bis zu {speed} {speed_unit} in {location} geben.
-laut Vorhersage von {day} weht moderater Wind in {location} mit {speed} {speed_unit}.
+Es könnte {day} moderaten Wind bis zu {speed} {speed_unit} von {direction} in {location} geben.
+laut Vorhersage von {day} weht moderater Wind in {location} mit {speed} {speed_unit} von {direction}.
 {day} wird in {location} moderater Wind erwartet, etwa {speed} {speed_unit} von {direction}.
