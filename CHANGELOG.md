@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.3a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.3a2) (2026-10-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.3a1...1.5.3a2)
+
+**Merged pull requests:**
+
+- test: gate natural golden rows for every locale on m2v [\#316](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/316) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.3a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.3a1) (2026-10-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.2a2...1.5.3a1)
@@ -345,17 +353,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a3...1.0.15a4)
 
-**Merged pull requests:**
-
-- translate\(kab\): update few.voc [\#213](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/213) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
-
 ## [1.0.15a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a3) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a2...1.0.15a3)
-
-**Merged pull requests:**
-
-- translate\(kab\): update current-sunset-past-local.dialog [\#212](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/212) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
 
 ## [1.0.15a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a2) (2026-09-01)
 
