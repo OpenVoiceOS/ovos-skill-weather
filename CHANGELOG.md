@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.3a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.3a1) (2026-10-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.2a2...1.5.3a1)
+
+**Merged pull requests:**
+
+- test\(locale\): guard that the Swedish fog phrases resolve to fog [\#311](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/311) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.2a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.2a2) (2026-10-08)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.2a1...1.5.2a2)
@@ -353,17 +361,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a1...1.0.15a2)
 
-**Merged pull requests:**
-
-- Migrate is\_cloudy Adapt intent to a .intent file [\#210](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/210) ([JarbasAl](https://github.com/JarbasAl))
-
 ## [1.0.15a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a1) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.14a1...1.0.15a1)
-
-**Merged pull requests:**
-
-- fix: stop is\_clear from claiming cloudiness questions [\#211](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/211) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.14a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.14a1) (2026-09-01)
 
