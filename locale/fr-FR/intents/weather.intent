@@ -68,3 +68,12 @@ Météo à {location}
 Prévisions météo pour {location}
 quel temps fait-il en {unit}
 quelle est la météo en {unit} à {location}
+il fera quel temps (demain|ce week-end|aujourd'hui)
+quel temps il va faire (demain|ce week-end)
+quel temps fera-t-il (demain|ce week-end|cette semaine) [à {location}]
+donne-moi la météo [à {location}]
+c'est quoi la météo [à {location}]
+quel temps fait-il (maintenant|en ce moment|dehors) [à {location}]
+dis-moi le temps qu'il fait [à {location}]
+quelle est la météo en ce moment [à {location}]
+il fait beau dehors [à {location}]

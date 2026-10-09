@@ -299,3 +299,8 @@ va a piovere
 devo prendere il giaccone?
 devo prendere l'ombrello?
 piove?
+sta piovendo [a {location}]
+ci sono nuvole in cielo (oggi|adesso) [a {location}]
+avremo cielo sereno (oggi|domani) [a {location}]
+nevicherà [a {location}]
+serve l'ombrello

@@ -6,3 +6,8 @@ at what time does it get dark [today|tomorrow] [in {location}]
 when does evening light end [today|tomorrow] [in {location}]
 sunset schedule for (today|tomorrow) [in {location}]
 how long until (sunset|dusk) [in {location}]
+how many hours of daylight (are left|do we have left)
+when is dusk [today] [in {location}]
+what time will the sun set [today] [in {location}]
+what time is nightfall [in {location}]
+when does the sun go down [today] [in {location}]

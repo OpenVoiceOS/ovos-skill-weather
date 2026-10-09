@@ -345,3 +345,8 @@ pleuvra-t-il aujourd'hui
 pleuvra-t-il demain
 pleuvra-t-il pendant le week-end
 sera-t-il un jour de pluie
+est-ce qu'il pleut [à {location}]
+il y a des nuages [à {location}]
+va-t-il neiger [à {location}]
+faut-il prendre un parapluie
+est-ce que le ciel est (dégagé|nuageux) [à {location}]

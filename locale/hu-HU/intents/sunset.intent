@@ -1,3 +1,7 @@
 Hánykor nyugszik le a nap (ma|holnap) [{location} városban]
 Mikor van ma napnyugta [{location} városban]
 Hánykor sötétedik ma [{location} városban]
+mikor megy le a nap (ma|holnap)
+mikor megy le a nap [{location} városban]
+hánykor van napnyugta [{location} városban]
+mikor sötétedik [{location} városban]

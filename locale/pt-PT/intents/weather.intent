@@ -62,3 +62,7 @@ Preciso de saber a previsão hoje
 Preciso de saber a previsão hoje em {location}
 Preciso de saber a previsão amanhã
 Preciso de saber a previsão amanhã em {location}
+que tempo (faz|está) (agora|hoje|neste momento) [em {location}]
+que tempo vai fazer (amanhã|no fim de semana|esta semana) [em {location}]
+dá-me a previsão do tempo [para {location}]
+como está o tempo [em {location}]

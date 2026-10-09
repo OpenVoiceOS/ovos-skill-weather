@@ -87,3 +87,33 @@ Hvad er den laveste pris natten over for (fredag|lørdag|mandag|onsdag|søndag|t
 forventes det at blive brændende varmt i morgen eftermiddag i {location}
 Hvad er den laveste pris natten over for i (morgen|nat) i {location}
 minimumstemperaturprognose
+hvor mange grader er der [i {location}]
+hvad bliver den (højeste|laveste) temperatur [i {location}]
+hvor varmt bliver det (i morgen|i aften) [i {location}]
+hvad er temperaturen lige nu [i {location}]
+hvor varmt er det [i {location}]
+Bliver det koldt i {location}?
+Er det koldt i {location}?
+Bliver det koldt i dag i {location}?
+Bliver det koldt i morgen i {location}?
+Hvor koldt bliver det i {location}?
+Bliver der frost i {location}?
+Skal jeg tage en jakke på i {location}?
+Er det køligt udenfor i {location}?
+Bliver det koldt i aften i {location}?
+Bliver det varmt i {location}?
+Er det varmt i {location}?
+Bliver det varmt i dag i {location}?
+Bliver det varmt i morgen i {location}?
+Hvor varmt bliver det i {location}?
+Bliver der en hedebølge i {location}?
+Skal jeg tage solcreme på i {location}?
+Er det hedt udenfor i {location}?
+Bliver det varmt i aften i {location}?
+Bliver det varmt på {day} i {location}?
+Bliver det koldt på {day} i {location}?
+bliver det (koldt|varmt) (i dag|i morgen|i aften) [i {location}]
+skal jeg tage en jakke på
+er det varmt udenfor [i {location}]
+bliver det koldt [i {location}]
+er det koldt lige nu [i {location}]

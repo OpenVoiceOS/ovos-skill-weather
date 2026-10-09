@@ -13,3 +13,12 @@ Zenbat haize espero da gaur
 Zenbat haize espero da gaur {location}
 Zenbat haize espero da bihar
 Zenbat haize espero da bihar {location}
+haize boladak (izango dira|egongo dira) (gaur|bihar)
+haizea dabil [{location}]
+zenbat haize dago [{location}]
+haize handia egingo du (gaur|bihar) [{location}]
+haizerik dabil [{location}]
+haize handia dabil [{location}]
+haizea dabil kanpoan [{location}]
+haizerik ba al dabil [{location}]
+haize asko dago [{location}]

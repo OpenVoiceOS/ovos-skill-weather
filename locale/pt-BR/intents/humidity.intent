@@ -20,3 +20,6 @@ qual é o nível de umidade em {location}
 quão úmido está
 quão úmido está em {location}
 umidade atual
+qual é a umidade do ar [em {location}]
+o tempo está úmido [em {location}]
+quanto está a umidade [em {location}]

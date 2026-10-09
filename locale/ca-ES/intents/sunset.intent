@@ -46,3 +46,10 @@ Quan és la posta de sol?
 Quan és marxa el sol?
 Quan és s'amaga el sol?
 Quan és se'n va el sol?
+quan es pon el sol (avui|demà) [a {location}]
+a quina hora es fa fosc [a {location}]
+quan és la posta de sol [a {location}]
+a quina hora es pon el sol [a {location}]
+quan es farà de nit [a {location}]
+a quina hora es fa de nit [a {location}]
+cap a quina hora es farà fosc [a {location}]

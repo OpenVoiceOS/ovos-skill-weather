@@ -1,3 +1,11 @@
 Blåser det mycket just nu [i {location}]
 Hur hård är vinden [i {location}]
 Kommer det att blåsa idag [i {location}]
+blir det (vindbyar|hård vind) (i dag|i kväll|i morgon)
+blåser det [i {location}]
+hur hårt blåser det [i {location}]
+blir det blåsigt i morgon [i {location}]
+blåser det mycket [i {location}]
+är det blåsigt [i {location}]
+blåser det mycket ute [i {location}]
+är det mycket blåst [i {location}]

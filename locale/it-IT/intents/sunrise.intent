@@ -13,3 +13,9 @@ Dimmi l'ora dell'alba oggi
 Dimmi l'ora dell'alba oggi a {location}
 Dimmi l'ora dell'alba domani
 Dimmi l'ora dell'alba domani a {location}
+alba [a {location}]
+quando fa giorno [a {location}]
+a che ora si alza il sole [a {location}]
+a che ora sorge il sole [a {location}]
+a che ora spunta il sole [a {location}]
+quando spunta il sole [a {location}]

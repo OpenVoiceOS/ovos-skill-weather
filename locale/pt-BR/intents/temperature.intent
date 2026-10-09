@@ -90,3 +90,36 @@ Qual é a temperatura mais (alta|baixa) em {location} na (quarta|quinta|segunda|
 Qual é a temperatura mais (alta|baixa) em {location} no (domingo|sábado)
 Qual é a temperatura máxima em {location} depois de amanhã
 qual é a mínima durante a noite para hoje à noite em {location}
+quantos graus (está fazendo|faz|tá fazendo) (agora|hoje|aqui)
+quantos graus está fazendo [em {location}]
+qual vai ser a temperatura (máxima|mínima) [em {location}]
+qual é a temperatura [em {location}]
+Vai fazer frio em {location}?
+Está frio em {location}?
+Vai fazer frio hoje em {location}?
+Vai fazer frio amanhã em {location}?
+Quanto frio vai fazer em {location}?
+Vai ter geada em {location}?
+Preciso de casaco em {location}?
+Está fresco lá fora em {location}?
+Vai fazer frio hoje à noite em {location}?
+Vai fazer calor em {location}?
+Está calor em {location}?
+Vai fazer calor hoje em {location}?
+Vai fazer calor amanhã em {location}?
+Quanto calor vai fazer em {location}?
+Vai ter uma onda de calor em {location}?
+Preciso de protetor solar em {location}?
+Está quente lá fora em {location}?
+Vai fazer calor hoje à noite em {location}?
+Vai fazer calor no {day} em {location}?
+Vai fazer frio no {day} em {location}?
+(preciso de|devo levar) (casaco|blusa|agasalho) (amanhã|hoje à noite|pra sair)
+tá (frio|calor) demais (pra sair|lá fora)
+está (frio|calor) lá fora [em {location}]
+vai fazer (frio|calor) amanhã [em {location}]
+preciso de casaco
+vai esfriar [em {location}]
+está fazendo frio [em {location}]
+vai fazer frio [em {location}]
+está frio agora [em {location}]

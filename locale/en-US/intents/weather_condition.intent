@@ -1,32 +1,28 @@
-(is|will) it cloudy
-is (it|there) clouds
+are there clouds
 is (fog|rain|snow) expected
 is it (clear|sunny|overcast|gloomy|gray|foggy|raining|rainy|snowing|snowy|storming)
-is there (sunshine|cloudy|fog)
+is there (sunshine|cloud cover|fog)
 will it (rain|snow)
 is rain likely
 is a (storm|thunderstorm) (expected|likely|forecasted) [(today|tonight|tomorrow)]
 should I (bring|carry|pack) (an|my) umbrella
-(will|is) it be cloudy [(today|tomorrow)]
+will it be cloudy [(today|tomorrow)]
 will (it|there) be clouds [(today|tomorrow)]
 is (dense|thick) fog expected [(today|tonight|tomorrow)]
 is the sky (clear|sunny|overcast|gloomy|gray) [(today|outside)]
 will it be (sunny|clear|raining|rainy) [(today|tomorrow)]
 will it be (raining|rainy) (tonight|heavily)
-(is|will) it cloudy in {location}
-(is|will) it going to cloudy
+is it going to be cloudy
 how (clear|cloudy) is it [today]
-is (it|there) clouds in {location}
 is (fog|rain|snow) expected in {location}
 is (rain|snow) in the forecast
 is it (clear|sunny|overcast|gloomy|gray|foggy|raining|rainy|snowing|snowy|storming) in {location}
 is it (clear|sunny|overcast|gloomy|gray|foggy|raining|rainy|snowing|snowy|storming) right now
-is there (sunshine|cloudy|fog) in {location}
 will it (rain|snow) in {location}
 will it (rain|snow) this weekend
 should I (bring|carry|pack) a raincoat
-will there be (cloudy|rain|showers|precipitation|snowfall) today
-will there be (cloudy|fog|rain|showers|precipitation|snowfall) [tomorrow]
+will there be (clouds|rain|showers|precipitation|snowfall) today
+will there be (clouds|fog|rain|showers|precipitation|snowfall) [tomorrow]
 will there be (fog|rain|showers|precipitation|snowfall) tonight
 can I expect sunshine [(today|tomorrow)]
 how cloudy is it (tomorrow|tonight)
@@ -249,3 +245,19 @@ do I need a rain jacket for (my|the) commute (today|tomorrow) in {location}
 do I need to bring an umbrella to the event in {location}
 do I need to bring a raincoat to the event in {location}
 do I need to bring a rain jacket to the event in {location}
+will the sun (come out|peek out) [later|today]
+is it (pouring|drizzling|hailing) (right now|out there)
+is the sky (cloudy|clear|overcast) [in {location}]
+is there (fog|snow|rain) outside [in {location}]
+should I take an umbrella [today|tomorrow]
+is it going to (rain|snow|be foggy|be cloudy) [today|tonight|tomorrow] [in {location}]
+are (storms|thunderstorms|snow showers|fog patches) expected [in {location}]
+do I need (an umbrella|a raincoat|rain gear) [today|tomorrow]
+will the roads be (icy|snowy|slippery) [in {location}]
+is there a (storm|fog|snow) (warning|advisory) [for {location}]
+will there be (ice|snow) on the roads [in {location}]
+is there a (fog|storm) alert [for {location}]
+should I (bring|take) an umbrella (to work|to the event|with me)
+will the sky be clear [tonight] [in {location}]
+is it cloudy [in {location}]
+is there (sunshine|fog) in {location}

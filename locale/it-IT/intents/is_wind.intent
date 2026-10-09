@@ -13,3 +13,6 @@ Quanto vento è previsto oggi
 Quanto vento è previsto oggi a {location}
 Quanto vento è previsto domani
 Quanto vento è previsto domani a {location}
+(ci sarà|ci saranno) (vento forte|raffiche di vento) (domani|stasera|oggi)
+tira vento oggi [a {location}]
+ci saranno raffiche (oggi|domani) [a {location}]

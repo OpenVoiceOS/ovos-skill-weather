@@ -62,3 +62,6 @@ Vorrei sapere le previsioni oggi
 Vorrei sapere le previsioni oggi a {location}
 Vorrei sapere le previsioni domani
 Vorrei sapere le previsioni domani a {location}
+che tempo fa [a {location}]
+come sarà il tempo (domani|nel fine settimana|questa settimana) [a {location}]
+dammi le previsioni del tempo [per {location}]

@@ -466,3 +466,7 @@ Tiempo en {location}
 Pronóstico del tiempo en {location}
 qué tiempo hace en {unit}
 cuál es el clima en {unit} en {location}
+qué tiempo va a hacer (mañana|este fin de semana|esta semana) [en {location}]
+dame el pronóstico del tiempo [para {location}]
+cómo está el clima [en {location}]
+cómo va a estar el tiempo pasado mañana [en {location}]

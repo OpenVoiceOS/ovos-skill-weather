@@ -15,3 +15,8 @@ wanneer wordt het donker  in {location}
 wanneer wordt het donker vandaag
 wanneer wordt het donker vandaag in {location}
 zonsondergang voor vandaag
+wanneer gaat de zon onder [in {location}]
+hoe laat is de zonsondergang [in {location}]
+wanneer wordt het donker [in {location}]
+hoe laat wordt het donker [in {location}]
+hoe laat is het donker [in {location}]

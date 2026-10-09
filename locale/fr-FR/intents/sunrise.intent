@@ -17,3 +17,7 @@ dans combien de temps le soleil se lève aujourd'hui
 dans combien de temps le soleil se lève aujourd'hui à {location}
 dans combien de temps le soleil se lève demain
 dans combien de temps le soleil se lève demain à {location}
+quand le soleil se lève-t-il [à {location}]
+à quelle heure est le lever du soleil [à {location}]
+quand fait-il jour [à {location}]
+le lever du soleil est à quelle heure [à {location}]

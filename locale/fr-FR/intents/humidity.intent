@@ -6,3 +6,6 @@ y a-t-il beaucoup d'humidité en {location}
 y a-t-il beaucoup d'humidité au {location}
 y a-t-il beaucoup d'humidité aux {location}
 y a-t-il beaucoup d'humidité dans {location}
+quel est le taux d'humidité [à {location}]
+l'air est-il humide [à {location}]
+combien d'humidité y a-t-il [à {location}]

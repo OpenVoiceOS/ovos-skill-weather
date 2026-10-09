@@ -62,3 +62,6 @@ Qué intensidad tienen los vientos
 Se espera viento esta noche 
 Se espera viento hoy en {location}
 Se espera viento más tarde 
+hace viento [en {location}]
+qué tan fuerte sopla el viento [en {location}]
+va a haber viento (hoy|mañana) [en {location}]

@@ -58,3 +58,8 @@ Czy wieczorem spodziewany jest deszcz
 czy będzie mocno padać
 czy deszcz jest spodziewany później
 czy to będzie deszczowy dzień
+czy świeci (teraz|jutro) słońce
+czy pada deszcz [w {location}]
+czy będzie (pochmurno|słonecznie|mgliście) [w {location}]
+czy pada śnieg [w {location}]
+czy potrzebuję parasola

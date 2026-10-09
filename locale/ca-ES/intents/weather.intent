@@ -505,3 +505,14 @@ Previsió del temps a {location}
 Temps a {location}
 quin temps fa en {unit}
 quin temps fa en {unit} a {location}
+quin temps farà (demà|aquest cap de setmana|els propers dies) [a {location}]
+com està el temps [a {location}]
+dona'm la previsió del temps [per a {location}]
+(em pots dir|saps) quin temps fa [a {location}]
+com serà el temps (demà|aquesta setmana) [a {location}]
+quin temps fa ara [a {location}]
+com són les condicions del temps [a {location}]
+quin oratge fa [a {location}]
+quin temps fa (ara|ara mateix|en aquest moment) a {location}
+digues-me (quin temps fa|com està el temps) (ara|avui) [a {location}]
+com està el temps (ara|ara mateix|en aquest moment) a {location}

@@ -51,3 +51,38 @@ wat is de temperatuur om (1|10|11|12|2|3|4|5|6|7|8|9) 's avonds (dinsdag|donderd
 wat is de minimum temperatuur 's nachts voor (dinsdag|donderdag|maandag|morgen|vanavond|vrijdag|woensdag|zaterdag|zondag) in {location}
 wat is de temperatuur om (1|10|11|12|2|3|4|5|6|7|8|9) uur 's ochtends (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag)
 wat is de temperatuur om (1|10|11|12|2|3|4|5|6|7|8|9) uur 's ochtends (dinsdag|donderdag|maandag|morgen|vrijdag|woensdag|zaterdag|zondag) in {location}
+temperatuur buiten [in {location}]
+wat wordt de (hoogste|laagste) temperatuur [in {location}]
+hoe warm wordt het [in {location}]
+hoeveel graden wordt het (vanavond|dinsdag|morgen) [in {location}]
+hoe koud wordt het vanavond [in {location}]
+Wordt het koud in {location}?
+Is het koud in {location}?
+Wordt het vandaag koud in {location}?
+Wordt het morgen koud in {location}?
+Hoe koud wordt het in {location}?
+Komt er vorst in {location}?
+Moet ik een jas aan in {location}?
+Is het fris buiten in {location}?
+Wordt het vanavond koud in {location}?
+Wordt het warm in {location}?
+Is het warm in {location}?
+Wordt het vandaag warm in {location}?
+Wordt het morgen warm in {location}?
+Hoe warm wordt het in {location}?
+Komt er een hittegolf in {location}?
+Moet ik zonnebrand gebruiken in {location}?
+Is het heet buiten in {location}?
+Wordt het vanavond warm in {location}?
+Wordt het {day} heet in {location}?
+Wordt het {day} koud in {location}?
+heb ik (een jas|een trui|warme kleren) nodig (vanavond|morgen)
+is het (te koud|te warm) (om naar buiten te gaan|voor een t-shirt)
+is het (koud|warm) buiten [in {location}]
+wordt het (koud|warm) (vandaag|morgen) [in {location}]
+heb ik een jas nodig
+wordt het koud [in {location}]
+is het koud [in {location}]
+gaat het kouder worden [in {location}]
+wordt het koud vandaag [in {location}]
+is het buiten koud [in {location}]

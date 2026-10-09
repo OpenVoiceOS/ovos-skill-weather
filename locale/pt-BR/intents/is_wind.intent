@@ -38,3 +38,6 @@ qual é a velocidade do vento
 qual é a velocidade do vento em {location}
 quão fortes são os ventos
 quão fortes são os ventos em {location}
+está ventando [em {location}]
+o vento está forte [em {location}]
+vai ventar amanhã [em {location}]

@@ -1,3 +1,7 @@
 V kolik hodin vychází slunce (dnes|zítra) [v {location}]
 Kdy je dnes východ slunce [v {location}]
 V kolik je zítra svítání [v {location}]
+kdy se (rozední|rozednívá) (dnes|ráno)
+východ slunce [v {location}]
+v kolik je východ slunce [v {location}]
+v kolik hodin bude svítat [v {location}]

@@ -156,3 +156,38 @@ Quina temperatura hi haurà a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprad
 Quina temperatura hi haurà a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) ?
 Quina temperatura hi haurà a (la|les) (1|10|11|12|2|3) de la (nit|tarda|vesprada) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) a {location}?
 Quina temperatura hi haurà a (la|les) (4|5|6|7|8|9) de la (nit|tarda|vesprada) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divenders) a {location}?
+quants graus farà (avui|demà|aquesta nit) [a {location}]
+quina és la temperatura (màxima|mínima) [a {location}]
+a quina temperatura estem [a {location}]
+Farà fred a {location}?
+Fa fred a {location}?
+Farà fred avui a {location}?
+Farà fred demà a {location}?
+Quant fred farà a {location}?
+Hi haurà glaçada a {location}?
+Necessito abric a {location}?
+Estarà gèlid a {location}?
+Fa fresc a {location}?
+Farà fred aquesta nit a {location}?
+Farà calor a {location}?
+Fa calor a {location}?
+Farà calor avui a {location}?
+Farà calor demà a {location}?
+Quanta calor farà a {location}?
+Hi haurà onada de calor a {location}?
+Estarà calent a {location}?
+Farà xafogor a {location}?
+Fa calor ara mateix a {location}?
+Necessito protecció solar a {location}?
+Farà calor el {day} a {location}?
+Farà fred el {day} a {location}?
+fa (fred|calor) a fora [a {location}]
+farà (fred|calor) (avui|demà|aquesta nit) [a {location}]
+cal abrigar-se (avui|demà)
+(creus que|saps si) farà (fred|calor) [a {location}]
+fa (molt de fred|molta calor) ara [a {location}]
+tindrem fred (avui|demà) [a {location}]
+farà fred [a {location}]
+fa fred [a {location}]
+hi farà fred més endavant [a {location}]
+creus que farà fred

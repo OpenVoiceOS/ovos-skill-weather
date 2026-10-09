@@ -216,3 +216,9 @@ devo levar um casaco de chuva
 devo levar um guarda-chuva
 preciso de um guarda-chuva
 preciso de uma capa de chuva
+está chovendo [em {location}]
+o céu está (nublado|limpo) [em {location}]
+tem neblina [em {location}]
+preciso de guarda-chuva
+vai fazer sol hoje [em {location}]
+o céu está cinzento [em {location}]

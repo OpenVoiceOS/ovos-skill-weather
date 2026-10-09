@@ -183,3 +183,10 @@ Vejret i {location}
 Vejrudsigt for {location}
 hvad er vejret i {unit}
 hvad er vejret i {unit} i {location}
+hvordan bliver vejret (i morgen|i weekenden|i denne uge) [i {location}]
+giv mig vejrudsigten [for {location}]
+hvad siger vejrudsigten [for {location}]
+hvordan er vejret (i dag|i aften|i weekenden) [i {location}]
+er der vejrvarsler [for {location}]
+hvordan bliver vejret [i {location}]
+er der udsendt varsler om vejret [for {location}]

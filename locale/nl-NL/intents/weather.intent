@@ -142,3 +142,11 @@ Weer in {location}
 Weerbericht voor {location}
 hoe is het weer in {unit}
 hoe is het weer in {unit} in {location}
+wat voor weer wordt het (morgen|dit weekend|deze week) [in {location}]
+geef me de weersverwachting [voor {location}]
+hoe is het weer [in {location}]
+gaat het onweren [in {location}]
+wordt het onweer (vandaag|morgen|dinsdag) [in {location}]
+wat is de verwachting voor het weekend [in {location}]
+komt er onweer [in {location}]
+wat wordt het weer zaterdag en zondag [in {location}]

@@ -17,3 +17,8 @@ quelle force fait le vent aujourd'hui
 quelle force fait le vent aujourd'hui à {location}
 quelle force fait le vent demain
 quelle force fait le vent demain à {location}
+(y aura-t-il|est-ce qu'il y aura) (des rafales|du vent fort) (demain|ce soir|cet après-midi)
+le vent souffle-t-il fort [à {location}]
+y aura-t-il des rafales (aujourd'hui|demain) [à {location}]
+quelle est la vitesse du vent [à {location}]
+y a-t-il beaucoup de vent [à {location}]

@@ -35,3 +35,11 @@ yağmurlu bir gün olacak mı
 yağmurlu hava için giyinmem gerekiyor mu
 Çantamda şemsiye taşımalı mıyım
 çok yağmur yağacak mı
+yağmur yağıyor mu [{location} için]
+hava (bulutlu|açık|sisli) mı [{location} için]
+kar yağacak mı [{location} için]
+şemsiye almam gerekir mi
+güneş açacak mı [{location} için]
+bugün güneşli mi [{location} için]
+güneş var mı [{location} için]
+hava güneşli olacak mı [{location} için]

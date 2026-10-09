@@ -58,3 +58,11 @@ vigyek magammal esőkabátot
 vigyek-e esernyőt a parkba
 várható-e eső este
 várható-e eső később
+esik az eső (most|kint)
+esik az eső [{location} városban]
+felhős lesz (ma|holnap) [{location} városban]
+ködös az idő [{location} városban]
+kell esernyő
+be van borulva az ég [{location} városban]
+felhős az ég [{location} városban]
+felhők vannak az égen [{location} városban]

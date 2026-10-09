@@ -73,3 +73,6 @@ Cuándo será el atardecer?
 Cuándo será el atardecer? en {location}
 Cuándo termina la luz de la tarde 
 Cuándo termina la luz de la tarde en {location}
+a qué horas se pone el sol [en {location}]
+a qué horas anochece [en {location}]
+cuándo es el atardecer [en {location}]

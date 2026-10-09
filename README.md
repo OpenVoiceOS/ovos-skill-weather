@@ -48,6 +48,7 @@ An [OVOS](https://github.com/OpenVoiceOS) instance loads it automatically throug
 * "What's the temperature in Paris tomorrow in Celsius?"
 * "What's the high temperature tomorrow?"
 * "Will it be cold on Tuesday?"
+* "Is it hot outside?"
 
 ### Specific conditions
 

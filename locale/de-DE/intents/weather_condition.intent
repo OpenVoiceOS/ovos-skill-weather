@@ -165,3 +165,7 @@ wird es heute regnen
 wird es morgen regnen
 wird es stark regnen
 wird es später regen geben
+regnet es [in {location}]
+wird es (heute|morgen) (bewölkt|neblig|sonnig) [in {location}]
+schneit es [in {location}]
+brauche ich einen Regenschirm

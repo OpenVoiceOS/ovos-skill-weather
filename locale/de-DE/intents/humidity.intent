@@ -18,3 +18,6 @@ wie feucht ist es
 wie feucht ist es in {location}
 wie hoch ist die Luftfeuchtigkeit
 wie hoch ist die Luftfeuchtigkeit in {location}
+wie hoch ist die Luftfeuchtigkeit [in {location}]
+wie feucht ist die Luft [in {location}]
+ist die Luft (trocken|feucht) [in {location}]

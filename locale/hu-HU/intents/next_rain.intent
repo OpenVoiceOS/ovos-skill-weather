@@ -1,3 +1,8 @@
 Mikor fog legközelebb esni az eső [{location} városban]
 Mikor kezd el esni [{location} városban]
 Mikor jön a következő eső [{location} városban]
+mikor várható (eső|csapadék) (ma|holnap)
+mikor esik az eső [{location} városban]
+mikor jön az eső [{location} városban]
+mennyi idő múlva esik [{location} városban]
+mikor fog esni [{location} városban]

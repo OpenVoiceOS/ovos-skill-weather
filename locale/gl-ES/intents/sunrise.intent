@@ -21,3 +21,8 @@ hora do amencer
 hora do amencer hoxe
 horario da saída do sol para hoxe
 horario do amencer para hoxe
+cando sae o sol [en {location}]
+a que hora amence [en {location}]
+cando é o amencer [en {location}]
+a que hora sae o sol [en {location}]
+a que hora clarea [en {location}]

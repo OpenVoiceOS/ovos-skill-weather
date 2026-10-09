@@ -96,3 +96,35 @@ cal é a temperatura á 1 da (mañá|noite|tarde) (domingo|luns|martes|mañá|m�
 Cal é a temperatura máis (alta|elevada|baixa) en {location} o próximo (domingo|luns|martes|mañá|mércores|sábado|venres|xoves)
 cal será a mínima durante a noite de (domingo|hoxe|luns|martes|mañá|mércores|sábado|venres|xoves) en {location}
 Cal é a temperatura máxima prevista en {location} o próximo (domingo|luns|martes|mañá|mércores|sábado|venres|xoves)
+temperatura actual [en {location}]
+cal será a temperatura (máxima|mínima) [en {location}]
+a que temperatura estamos [en {location}]
+cantos graus hai agora [en {location}]
+Vai facer frío en {location}?
+Fai frío en {location}?
+Vai facer frío hoxe en {location}?
+Vai facer frío mañá en {location}?
+Canto frío vai facer en {location}?
+Haberá xeada en {location}?
+Necesito abrigo en {location}?
+Fai fresco fóra en {location}?
+Vai facer frío esta noite en {location}?
+Vai facer calor en {location}?
+Fai calor en {location}?
+Vai facer calor hoxe en {location}?
+Vai facer calor mañá en {location}?
+Canta calor vai facer en {location}?
+Haberá unha onda de calor en {location}?
+Necesito protector solar en {location}?
+Está quente fóra en {location}?
+Vai facer calor esta noite en {location}?
+Vai facer calor o {day} en {location}?
+Vai facer frío o {day} en {location}?
+(fai falta|necesito) (chaqueta|abrigo|xersei) (para saír|esta noite|mañá)
+vai facer (frío|calor) (hoxe|mañá) [en {location}]
+fai frío fóra [en {location}]
+necesito abrigo
+vai facer frío [en {location}]
+fai frío agora [en {location}]
+fará frío (hoxe|mañá|esta noite) [en {location}]
+fai frío [en {location}]
