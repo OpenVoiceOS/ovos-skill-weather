@@ -438,3 +438,6 @@ Prevision del temps a {location}
 Temps a {location}
 Quin temps fa en {unit}?
 Quina temperatura fa en {unit}?
+quin temps farà (deman|aquesta setmana) [a {location}]
+dona-me la previsión del temps [a {location}]
+cossí es lo temps [a {location}]

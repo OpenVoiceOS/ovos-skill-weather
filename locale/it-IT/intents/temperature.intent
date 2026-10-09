@@ -29,3 +29,56 @@ Che temperatura avremo oggi
 Che temperatura avremo oggi a {location}
 Che temperatura avremo domani
 Che temperatura avremo domani a {location}
+temperatura attuale [a {location}]
+quale sarà la temperatura (massima|minima) [a {location}]
+che temperatura c'è [a {location}]
+quanti gradi ci sono [a {location}]
+Farà freddo (oggi|domani|{day}) [a {location}]
+Fa freddo adesso fuori [a {location}]
+Farà fresco (oggi|domani) [a {location}]
+Devo prendere una giacca oggi [a {location}]
+Farà caldo (oggi|domani|{day}) [a {location}]
+Fa caldo adesso fuori [a {location}]
+Farà molto caldo oggi [a {location}]
+Mi serve la crema solare oggi [a {location}]
+Farà caldo
+Farà caldo a {location}
+Farà caldo oggi
+Farà caldo oggi a {location}
+Farà caldo domani
+Farà caldo domani a {location}
+Fa caldo
+Fa caldo a {location}
+Fa caldo oggi
+Fa caldo oggi a {location}
+Fa caldo domani
+Fa caldo domani a {location}
+Ci sarà caldo
+Ci sarà caldo a {location}
+Ci sarà caldo oggi
+Ci sarà caldo oggi a {location}
+Ci sarà caldo domani
+Ci sarà caldo domani a {location}
+Farà freddo
+Farà freddo a {location}
+Farà freddo oggi
+Farà freddo oggi a {location}
+Farà freddo domani
+Farà freddo domani a {location}
+Fa freddo
+Fa freddo a {location}
+Fa freddo oggi
+Fa freddo oggi a {location}
+Fa freddo domani
+Fa freddo domani a {location}
+Ci sarà freddo
+Ci sarà freddo a {location}
+Ci sarà freddo oggi
+Ci sarà freddo oggi a {location}
+Ci sarà freddo domani
+Ci sarà freddo domani a {location}
+fa (freddo|caldo) [a {location}]
+farà (freddo|caldo) stasera [a {location}]
+mi serve il cappotto
+fa freddo fuori [a {location}]
+fa freddo adesso [a {location}]

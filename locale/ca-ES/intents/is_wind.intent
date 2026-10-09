@@ -52,3 +52,6 @@ S'esperen ràfegues ?
 S'esperen ràfegues a {location}?
 S'esperen vents ?
 S'esperen vents a {location}?
+fa vent [a {location}]
+bufarà fort el vent (avui|demà) [a {location}]
+quina força té el vent [a {location}]

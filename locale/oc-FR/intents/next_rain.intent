@@ -7,3 +7,7 @@ Plourà lèu a {location}?
 Quand i tornarà aver de precipitacions ?
 Quand i tornarà aver de precipitacions a {location}?
 Quand tornarà plòure?
+quand (tornarà|arribarà) la pluèja
+quand plourà [a {location}]
+quand tornarà plòure [a {location}]
+quant de temps abans la pluèja [a {location}]

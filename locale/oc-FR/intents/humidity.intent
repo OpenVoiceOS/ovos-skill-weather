@@ -25,3 +25,9 @@ Quin nivèl d'umiditat ambientala i a a {location}?
 Quin nivèl d'umiditat avèm ?
 Quin nivèl d'umiditat avèm a {location}?
 Tant per cent d'umiditat actuala.
+l'aire es (umid|sec) (uèi|ara|defòra)
+quina umiditat i a [a {location}]
+l'aire es umid [a {location}]
+quin percentatge d'umiditat [a {location}]
+me cal un umidificador [a {location}]
+l'aire es sec [a {location}]

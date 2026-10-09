@@ -13,3 +13,9 @@ Dimmi quando pioverà oggi
 Dimmi quando pioverà oggi a {location}
 Dimmi quando pioverà domani
 Dimmi quando pioverà domani a {location}
+quanto (manca|ci vuole) (alla pioggia|prima della pioggia|perché piova)
+quando pioverà [a {location}]
+quando comincia a piovere [a {location}]
+fra quanto piove [a {location}]
+quando tornerà a piovere [a {location}]
+fra quanto tempo pioverà [a {location}]

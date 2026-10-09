@@ -13,3 +13,6 @@ Diz-me a hora do nascer do sol hoje
 Diz-me a hora do nascer do sol hoje em {location}
 Diz-me a hora do nascer do sol amanhã
 Diz-me a hora do nascer do sol amanhã em {location}
+quando é o nascer do sol [em {location}]
+quando amanhece [em {location}]
+a que horas é o nascer do sol [em {location}]

@@ -1,8 +1,9 @@
 """Every hot-or-cold phrasing must reach the branch it asks for.
 
-`handle_is_it_hot_or_cold` picks the temperature it reports with
-`voc_match(utterance, "hot")`, so a locale line that asks about heat in a word
-absent from that locale's `hot.voc` is answered with the LOW temperature. The
+`handle_temperature` picks the temperature it reports with `voc_match` against
+`high.voc`, `low.voc`, `hot.voc` and `cold.voc`, so a locale line that asks
+about heat in a word absent from those files is answered with the CURRENT
+temperature instead of the high. The
 line parses, the intent matches, the skill replies, and the reply is wrong --
 no parity or expansion check can see it.
 
@@ -35,8 +36,8 @@ def test_every_locale_can_reach_the_high_temperature():
 
     A locale whose file asks about heat in words its `hot.voc` does not carry
     can never report the high temperature, whatever the user says. Only the
-    hot branch is asserted: a cold phrasing that matches nothing falls to the
-    low temperature, which is the answer it wanted anyway.
+    hot branch is asserted: a cold phrasing that matches nothing gets the
+    current temperature, which still answers whether it is cold.
     """
     # These three cannot reach it either, and no phrasing in this repository
     # tells us which word they should carry: cs-CZ holds words from another
@@ -45,17 +46,15 @@ def test_every_locale_can_reach_the_high_temperature():
     # other locale and fails the moment a fourth appears; each wants a
     # native speaker rather than a guess.
     #
-    # fi-FI left this set with the Finnish intent files. Its
-    # `is_hot_or_cold.intent` was a placeholder copy of the Swedish
-    # original, so it could not match its own Finnish `hot.voc`; the Finnish
-    # lines use `lämmin` and `kuuma`, which that file carries.
+    # fi-FI is not in this set: its Finnish lines use `lämmin` and `kuuma`,
+    # which its `hot.voc` carries.
     WANTS_A_NATIVE_SPEAKER = {"cs-CZ", "pl-PL", "ru-RU"}
 
     unreachable = []
     for locale in sorted(LOCALES.iterdir()):
         if locale.name in WANTS_A_NATIVE_SPEAKER:
             continue
-        intent = locale / "intents" / "is_hot_or_cold.intent"
+        intent = locale / "intents" / "temperature.intent"
         hot = voc_words(locale, "hot")
         if not intent.is_file() or not hot:
             continue
@@ -85,5 +84,5 @@ def test_the_added_heat_phrasings_report_the_high_temperature():
              if not matches(sentence, voc_words(LOCALES / loc, "hot"))]
     assert not wrong, (
         "these ask about heat and match no word in their locale's hot.voc, so "
-        "`handle_is_it_hot_or_cold` answers with the low temperature:\n  "
+        "`handle_temperature` does not answer with the high temperature:\n  "
         + "\n  ".join(wrong))

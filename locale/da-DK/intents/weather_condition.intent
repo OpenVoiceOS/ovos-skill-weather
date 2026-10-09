@@ -241,3 +241,10 @@ vil det blive regnfuldt udenfor
 vil det regne i dag
 vil det regne i løbet af weekenden
 vil det regne i morgen
+regner det [i {location}]
+bliver det (overskyet|klart|tåget) (i dag|i morgen) [i {location}]
+skal jeg bruge en paraply
+sner det [i {location}]
+er vejret gråt og trist [i {location}]
+er himlen grå [i {location}]
+er det mørkt og trist vejr [i {location}]

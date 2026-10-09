@@ -13,3 +13,6 @@ Diz-me quando vai chover hoje
 Diz-me quando vai chover hoje em {location}
 Diz-me quando vai chover amanhã
 Diz-me quando vai chover amanhã em {location}
+quando vai chover [em {location}]
+quando começa a chover [em {location}]
+quanto tempo falta para chover [em {location}]

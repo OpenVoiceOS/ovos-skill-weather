@@ -13,3 +13,7 @@ Dimmi l'ora del tramonto oggi
 Dimmi l'ora del tramonto oggi a {location}
 Dimmi l'ora del tramonto domani
 Dimmi l'ora del tramonto domani a {location}
+tramonto [a {location}]
+a che ora è il tramonto [a {location}]
+quando fa buio [a {location}]
+a che ora tramonta il sole [a {location}]

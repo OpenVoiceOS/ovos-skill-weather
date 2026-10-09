@@ -31,3 +31,6 @@ Quin nivell d'humitat ambiental hi ha a {location}?
 Quin nivell d'humitat tenim ?
 Quin nivell d'humitat tenim a {location}?
 Tant per cent d'humitat actual.
+quina humitat fa [a {location}]
+quin percentatge d'humitat hi ha [a {location}]
+l'aire és humit o sec [a {location}]

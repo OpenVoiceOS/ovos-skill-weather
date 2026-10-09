@@ -62,3 +62,7 @@ Jag vill veta prognosen idag
 Jag vill veta prognosen idag i {location}
 Jag vill veta prognosen imorgon
 Jag vill veta prognosen imorgon i {location}
+hur blir vädret (i morgon|i helgen|den här veckan) [i {location}]
+ge mig väderprognosen [för {location}]
+hur är vädret [i {location}]
+vad blir det för väder [i {location}]

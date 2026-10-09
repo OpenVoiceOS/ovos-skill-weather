@@ -271,3 +271,7 @@ debo llevar un chubasquero
 debo llevar un paraguas
 necesito un chubasquero
 necesito un paraguas
+está lloviendo [en {location}]
+va a estar (nublado|despejado|soleado) (hoy|mañana) [en {location}]
+hay neblina [en {location}]
+necesito llevar paraguas

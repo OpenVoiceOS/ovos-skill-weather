@@ -26,3 +26,13 @@ Lloverá pronto?
 Lloverá pronto? en {location}
 Va a llover pronto? 
 Va a llover pronto? en {location}
+cuándo va a llover [en {location}]
+cuándo vuelve a llover [en {location}]
+cuánto falta para que llueva [en {location}]
+cuándo llueve [en {location}]
+va a llover pronto [en {location}]
+dime cuándo va a llover [en {location}]
+falta mucho para que llueva [en {location}]
+cuándo (va a caer|cae) (agua|un aguacero) [en {location}]
+a qué hora (empieza|arranca) (la lluvia|a llover) [en {location}]
+(en cuánto tiempo|dentro de cuánto) empieza a llover [en {location}]

@@ -4,3 +4,9 @@ sataako [juuri nyt] [{location}]
 tuleeko (tänään|huomenna) lunta [{location}]
 onko ukkosta [{location}]
 miltä taivas näyttää tänään [{location}]
+(sataako|onko sadetta) (ulkona|tällä hetkellä)
+tarvitsenko sateenvarjoa (tänään|huomenna)
+sataako [{location}]
+onko (pilvistä|sumuista|selkeää) [{location}]
+sataako lunta [{location}]
+tarvitsenko sateenvarjon

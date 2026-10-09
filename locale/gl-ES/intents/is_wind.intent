@@ -60,3 +60,7 @@ vai vento forte agora mesmo
 vai vento forte agora mesmo en {location}
 vai vento hoxe
 vai vento hoxe en {location}
+(haberá|vai haber) refachos (hoxe|mañá|esta noite)
+vai vento [en {location}]
+sopra forte o vento [en {location}]
+vai haber refachos (hoxe|mañá) [en {location}]

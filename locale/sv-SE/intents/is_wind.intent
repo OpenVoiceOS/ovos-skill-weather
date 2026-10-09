@@ -13,3 +13,11 @@ Hur mycket vind väntas idag
 Hur mycket vind väntas idag i {location}
 Hur mycket vind väntas imorgon
 Hur mycket vind väntas imorgon i {location}
+är vinden (stark|kraftig) (i dag|ute|i kväll)
+blir det (vindbyar|hård vind|blåsigt) (i dag|i kväll|i morgon)
+blåser det [i {location}]
+hur hårt blåser det [i {location}]
+blir det blåsigt i morgon [i {location}]
+blåser det mycket [i {location}]
+blåser det kraftigt [i {location}]
+är det blåsigt [i {location}]

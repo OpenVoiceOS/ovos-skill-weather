@@ -52,3 +52,6 @@ Quan és la sortida del sol avui ?
 Quan és la sortida del sol avui a {location}?
 Quan és la sortida del sol hui ?
 Quan és la sortida del sol hui a {location}?
+quan surt el sol (avui|demà) [a {location}]
+a quina hora es fa de dia [a {location}]
+quan és l'alba [a {location}]

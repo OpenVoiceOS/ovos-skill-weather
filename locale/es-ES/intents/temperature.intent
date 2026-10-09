@@ -156,3 +156,34 @@ Se (espera|prevé|pronostica) que haga un calor intenso mañana por la tarde
 Cuál será la temperatura mínima durante la noche de (domingo|hoy|mañana|sábado|viernes) en {location}
 Cuál será la temperatura mínima durante la noche del (jueves|lunes|martes|miércoles) en {location}
 Se (espera|prevé|pronostica) que haga un calor intenso mañana por la tarde en {location}
+cuántos grados (marca el termómetro|tenemos) (hoy|ahora)
+cuántos grados hace [en {location}]
+cuál será la temperatura (máxima|mínima) [en {location}]
+a qué temperatura estamos [en {location}]
+qué temperatura hace ahora [en {location}]
+Hará frío en {location}
+Hace frío en {location}
+Hará frío hoy en {location}
+Hará frío mañana en {location}
+Cuánto frío hará en {location}
+Habrá heladas en {location}
+Necesito abrigo en {location}
+Hace fresco en {location}
+Hará frío esta noche en {location}
+Hará calor en {location}
+Hace calor en {location}
+Hará calor hoy en {location}
+Hará calor mañana en {location}
+Cuánto calor hará en {location}
+Habrá una ola de calor en {location}
+Necesito protector solar en {location}
+Está caliente afuera en {location}
+Hará calor esta noche en {location}
+Hará calor el {day} en {location}
+Hará frío el {day} en {location}
+va a hacer (calor|frío) (por la tarde|esta noche|mañana)
+va a hacer (frío|calor) (hoy|mañana|esta noche) [en {location}]
+necesito abrigo
+hace (frío|calor) fuera [en {location}]
+hace frío ahora [en {location}]
+crees que hará frío [en {location}]

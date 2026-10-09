@@ -1,3 +1,7 @@
 V kolik hodin zapadá slunce (dnes|zítra) [v {location}]
 Kdy je dnes západ slunce [v {location}]
 V kolik dnes bude tma [v {location}]
+kdy se (setmí|stmívá) (zítra|večer)
+západ slunce [v {location}]
+v kolik je západ slunce [v {location}]
+v kolik hodin bude tma [v {location}]

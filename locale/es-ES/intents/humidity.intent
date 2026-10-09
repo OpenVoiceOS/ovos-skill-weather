@@ -28,3 +28,6 @@ Necesito un humidificador
 Necesito un humidificador  en {location}
 Necesito un humidificador hoy 
 Necesito un humidificador hoy en {location}
+nivel de humedad [en {location}]
+está húmedo el ambiente [en {location}]
+está el aire (seco|húmedo) [en {location}]

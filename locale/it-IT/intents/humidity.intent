@@ -14,3 +14,7 @@ Dimmi il livello di umidità oggi
 Dimmi il livello di umidità oggi a {location}
 Dimmi il livello di umidità domani
 Dimmi il livello di umidità domani a {location}
+(com'è|quanto è) umida l'aria (oggi|adesso)
+quanta umidità c'è [a {location}]
+qual è il tasso di umidità [a {location}]
+l'aria è (secca|umida) [a {location}]

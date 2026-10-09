@@ -236,3 +236,11 @@ Tempo en {location}
 Previsión do tempo en {location}
 que tempo fai en {unit}
 que tempo fai en {unit} en {location}
+que tempo vai facer (mañá|esta fin de semana|esta semana) [en {location}]
+dime a previsión do tempo [en {location}]
+como está o tempo [en {location}]
+que tempo fará (mañá|o domingo) [en {location}]
+vai facer calor mañá [en {location}]
+cal é a previsión do tempo [en {location}]
+vai ir calor mañá [en {location}]
+que tempo fai [en {location}]

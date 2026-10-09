@@ -42,3 +42,11 @@ vil det være blæsende i dag
 vil det være blæsende i dag i {location}
 vil det være blæsende senere
 vil det være blæsende senere i {location}
+er vinden (stærk|kraftig) (i dag|i aften)
+blæser det [i {location}]
+hvor kraftig er vinden [i {location}]
+bliver det blæsende (i dag|i morgen) [i {location}]
+blæser det meget [i {location}]
+er der varsel om storm [i {location}]
+skal jeg sikre havemøblerne mod vinden
+blæser det så meget at jeg skal sikre ting udenfor

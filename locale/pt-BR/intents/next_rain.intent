@@ -7,3 +7,6 @@ quando vai chover de novo
 quando vai chover próximo
 que horas vai começar a chover
 que horas vai começar a chover em {location}
+quando vai chover [em {location}]
+quando a chuva começa [em {location}]
+quanto tempo falta para chover [em {location}]

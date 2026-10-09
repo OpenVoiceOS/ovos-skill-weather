@@ -24,3 +24,7 @@ Jaká je předpověď na víkend [v {location}]
 Bude o víkendu hezky [v {location}]
 Jaké bude počasí v sobotu a v neděli [v {location}]
 Mám si o víkendu plánovat výlet [v {location}]
+jaké bude počasí (o víkendu|v sobotu|v neděli)
+jaké bude počasí (zítra|o víkendu|tento týden) [v {location}]
+jak je venku [v {location}]
+předpověď počasí [pro {location}]

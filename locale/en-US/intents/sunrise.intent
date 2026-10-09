@@ -6,3 +6,6 @@ at what time does (daylight|morning light) (begin|start) [today|tomorrow] [in {l
 sunrise schedule for (today|tomorrow) [in {location}]
 how long until (sunrise|sunup) [in {location}]
 tell me the (sunrise|dawn) time [today|tomorrow] [in {location}]
+when is (dawn|daybreak) [tomorrow] [in {location}]
+what time will the sun rise [tomorrow] [in {location}]
+what time is first light [in {location}]

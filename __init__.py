@@ -183,39 +183,36 @@ class WeatherSkill(OVOSSkill):
     @intent_handler("temperature.intent")
     def handle_temperature(self, message: Message):
         """Handle requests for a temperature: current, at a relative time,
-        or the high/low for a day.
+        the high/low for a day, or whether it is hot or cold.
 
         Examples:
             "What is the temperature in Celsius?"
-            "What is the temperature tonight?"
             "What is the high temperature tomorrow?"
             "What is the low temperature in London on Tuesday?"
+            "Is it going to be hot today?" (the high)
+            "Will it be cold tonight?" (the low)
+
+        ``voc_match`` against the utterance picks the temperature: a ``high``
+        or ``low`` word first, then a ``hot`` or ``cold`` word when only one
+        of the two is present, else the current temperature.
 
         Args:
             message: Message Bus event information from the intent parser
         """
         utterance = message.data["utterance"]
+        hot = self.voc_match(utterance, "hot")
+        cold = self.voc_match(utterance, "cold")
         if self.voc_match(utterance, "high"):
             temperature_type = "high"
         elif self.voc_match(utterance, "low"):
             temperature_type = "low"
+        elif hot and not cold:
+            temperature_type = "high"
+        elif cold and not hot:
+            temperature_type = "low"
         else:
             temperature_type = "current"
         self._report_temperature(message, temperature_type=temperature_type)
-
-    @intent_handler("is_hot_or_cold.intent")
-    def handle_is_it_hot_or_cold(self, message: Message):
-        """Handler for temperature requests such as: is it going to be hot today?
-
-        The handler distinguishes "hot" from "cold" phrasings with
-        ``voc_match`` against the captured utterance, not the intent name.
-
-        Args:
-            message: Message Bus event information from the intent parser
-        """
-        utterance = message.data["utterance"]
-        temperature_type = "high" if self.voc_match(utterance, "hot") else "low"
-        self._report_temperature(message, temperature_type)
 
     @intent_handler("is_wind.intent")
     def handle_is_it_windy(self, message: Message):
@@ -235,7 +232,7 @@ class WeatherSkill(OVOSSkill):
         locale, each one carrying its condition word inline (no free
         slot to capture it with). The condition itself is resolved by
         ``voc_match``-ing the whole utterance against each condition's own
-        vocabulary group, the same dispatch ``handle_is_it_hot_or_cold``
+        vocabulary group, the same dispatch ``handle_temperature``
         uses to tell "hot" from "cold" - matching the vocabulary filename,
         not the matched text, keeps this lang-agnostic.
 

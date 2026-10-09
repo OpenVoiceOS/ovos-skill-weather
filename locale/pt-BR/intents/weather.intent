@@ -242,3 +242,12 @@ Tempo em {location}
 Previsão do tempo para {location}
 como está o tempo em {unit}
 qual é o clima em {unit} em {location}
+como (está|tá) o tempo (agora|hoje|lá fora)
+como vai ser o tempo (amanhã|no fim de semana|nesta semana) [em {location}]
+qual é a previsão do tempo [para {location}]
+como está o clima [em {location}]
+como está o tempo agora [em {location}]
+como está o tempo neste momento [em {location}]
+qual é a situação do tempo (agora|hoje) [em {location}]
+como está o tempo (agora|neste momento) (em|lá em) {location}
+você sabe como está o tempo [hoje] [em {location}]

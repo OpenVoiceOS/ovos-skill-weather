@@ -2,3 +2,7 @@
 mihin aikaan aurinko nousee (tänään|huomenna) [{location}]
 milloin on auringonnousu tänään [{location}]
 mihin aikaan valkenee huomenna [{location}]
+milloin (valkenee|tulee valoisaa) (aamulla|tänään)
+milloin aurinko nousee [{location}]
+mihin aikaan on auringonnousu [{location}]
+milloin tulee valoisaa [{location}]

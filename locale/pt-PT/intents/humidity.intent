@@ -14,3 +14,6 @@ Diz-me a humidade do ar hoje
 Diz-me a humidade do ar hoje em {location}
 Diz-me a humidade do ar amanhã
 Diz-me a humidade do ar amanhã em {location}
+qual é a humidade [em {location}]
+o ar está húmido [em {location}]
+nível de humidade [em {location}]

@@ -68,3 +68,9 @@ mám si vzít klobouk do deště
 očekává se večer déšť
 potřebuji zítra deštník
 potřebuji zítra pláštěnku
+bude pršet (dnes|zítra) [v {location}]
+je (jasno|mlha|oblačno) [v {location}]
+bude sněžit [v {location}]
+potřebuju deštník
+je obloha (zatažená|jasná) [v {location}]
+jsou na obloze mraky [v {location}]

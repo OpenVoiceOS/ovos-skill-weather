@@ -33,6 +33,15 @@ from ovoscope import CaptureSession, get_minicroft
 
 SKILL_ID = "ovos-skill-weather.openvoiceos"
 LANG = "en-US"
+# The MiniCroft loads only these matchers, so padatious and m2v neither train
+# nor answer in this suite.
+PIPELINE = [
+    "ovos-adapt-pipeline-plugin-high",
+    "ovos-padacioso-pipeline-plugin-high",
+    "ovos-adapt-pipeline-plugin-medium",
+    "ovos-padacioso-pipeline-plugin-medium",
+    "ovos-adapt-pipeline-plugin-low",
+]
 
 
 def _matches_intent(msg_type: str, skill_id: str, intent_file: str) -> bool:
@@ -75,7 +84,7 @@ def _raise_no_network(*_args, **_kwargs):
 class TestWeatherIntentsEnUS(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.minicroft = get_minicroft([SKILL_ID])
+        cls.minicroft = get_minicroft([SKILL_ID], default_pipeline=PIPELINE)
         # Patch the two network boundaries so handlers run offline and
         # deterministically: geolocation returns a fixed dict (never raises,
         # never hits the network), and the weather report call fails fast so the
@@ -100,13 +109,7 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
     def _run(self, text):
         session = Session("test-session")
         session.lang = LANG
-        session.pipeline = [
-            "ovos-adapt-pipeline-plugin-high",
-            "ovos-padacioso-pipeline-plugin-high",
-            "ovos-adapt-pipeline-plugin-medium",
-            "ovos-padacioso-pipeline-plugin-medium",
-            "ovos-adapt-pipeline-plugin-low",
-        ]
+        session.pipeline = list(PIPELINE)
         utterance = Message(
             "recognizer_loop:utterance",
             {"utterances": [text], "lang": LANG},
@@ -176,13 +179,13 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         self._assert_intent("is it cloudy", "weather_condition.intent")
 
     def test_is_it_hot(self):
-        self._assert_intent("is it hot", "is_hot_or_cold.intent")
+        self._assert_intent("is it hot", "temperature.intent")
 
-    def test_is_it_hot_or_cold_with_location(self):
-        self._assert_intent("is it hot today in Lawrence kansas", "is_hot_or_cold.intent")
+    def test_is_it_hot_with_location(self):
+        self._assert_intent("is it hot today in Lawrence kansas", "temperature.intent")
 
     def test_will_it_be_cold(self):
-        self._assert_intent("will it be cold tomorrow", "is_hot_or_cold.intent")
+        self._assert_intent("will it be cold tomorrow", "temperature.intent")
 
     def test_general_weather(self):
         self._assert_intent(
