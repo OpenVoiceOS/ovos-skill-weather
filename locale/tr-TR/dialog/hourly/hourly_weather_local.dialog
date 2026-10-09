@@ -1,0 +1,4 @@
+{condition} ile {temperature} derece civarında
+Daha sonra {condition} ve {temperature} derece civarında olacak
+Daha sonra {condition} ve {temperature} derece olacak
+Sıcaklık {temperature}'e yakınken hava {condition} olacak.

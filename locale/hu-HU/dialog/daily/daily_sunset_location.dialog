@@ -1,0 +1,3 @@
+a nap {time} {day} {location}-ben fog lemenni
+{day} a nap {location}-ben {time}-kor fog lemenni
+{location}-ban a naplemente {time}-ben lesz {day}-ben

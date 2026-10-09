@@ -1,0 +1,3 @@
+Actuellement, le vent est de {direction} à {speed} {speed_unit}, il serait bon de rester à l'intérieur aujourd'hui.
+Il y a beaucoup de vent aujourd'hui, {speed} {speed_unit} du {direction}
+Le vent est très fort du {direction} aujourd'hui, {speed} {speed_unit}

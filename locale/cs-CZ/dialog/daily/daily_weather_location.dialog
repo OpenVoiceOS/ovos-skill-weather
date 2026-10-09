@@ -1,0 +1,2 @@
+{day} to bude {condition}, s maximem {high_temperature} a minimem {low_temperature} v {location}
+{day}, {location} bude mít nejvyšší hodnotu {high_temperature} a nejnižší hodnotu {low_temperature}, přičemž {condition}.

@@ -1,0 +1,3 @@
+a nap {time} {day} {location}-ben fog felkelni
+{day} a nap {time}-ben {location}-ben kel fel
+{location}-ban a napfelkelte {time} {day}-ben lesz

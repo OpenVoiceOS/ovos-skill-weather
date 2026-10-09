@@ -1,0 +1,3 @@
+De wind is zeer sterk van de {direction} in {location} vandaag, {speed} {speed_unit}
+Momenteel komt de wind uit de {direction} op {speed} {speed_unit} in {location}, een goede dag om binnen te blijven.
+{location} zal vandaag harde wind hebben, {speed} {speed_unit} uit de {direction}

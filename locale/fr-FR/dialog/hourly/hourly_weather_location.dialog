@@ -1,0 +1,4 @@
+Dans {location}, il fera {condition} et autour de {temperature} degrés dans les prochaines heures.
+Dans {location}, on attend {condition} et environ {temperature} degrés.
+Plus tard, il fera {condition} à {location}, avec une température autour de {temperature} degrés.
+À {location}, il fera autour de {temperature} degrés avec {condition}.

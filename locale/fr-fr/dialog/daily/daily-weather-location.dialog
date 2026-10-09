@@ -1,3 +1,0 @@
-Les prévisions {day} sont {high_temperature} pour un maximum et {low_temperature} pour un minimum en {location}
-{day} il sera {condition}, avec un maximum de {high_temperature} et un minimum de {low_temperature} en {location}
-{day}, {location} aura un maximum de {high_temperature} et un minimum de {low_temperature}, avec {condition}
