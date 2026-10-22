@@ -142,7 +142,7 @@ como vai estar o tempo durante sábado e domingo
 dime o prognóstico do tempo para sábado e domingo
 dime o tempo para sábado e domingo en {location}
 vai haber treboada esta fin de semana en {location}
-vai (chover|nevar) (mañá|domingo|luns|martes|mércores|sábado|venres|xoves) en {location}
+vai nevar (mañá|domingo|luns|martes|mércores|sábado|venres|xoves) en {location}
 vai (ir|vir) (calor|frío) pasado mañá
 vai (ir|vir) bo tempo (mañá|domingo|luns|martes|mércores|sábado|venres|xoves)
 previsión ás (10|11|12|2|3|4|5|6|7|8|9) da (mañá|tarde)
@@ -201,7 +201,7 @@ dime o prognóstico do tempo para a fin de semana
 dime o tempo para a fin de semana en {location}
 vai estar bo tempo esta fin de semana en {location}
 dime a tendencia do tempo para esta semana en {location}
-vai (chover|nevar) (mañá|domingo|luns|martes|mércores|sábado|venres|xoves)
+vai nevar (mañá|domingo|luns|martes|mércores|sábado|venres|xoves)
 vai (bo|sol) fóra
 dime a información do tempo ás (10|11|12|2|3|4|5|6|7|8|9) da (mañá|tarde) en {location}
 hai (algunha|algún) alerta meteorolóxica para a fin de semana en {location}
@@ -240,7 +240,7 @@ que tempo vai facer (mañá|esta fin de semana|esta semana) [en {location}]
 dime a previsión do tempo [en {location}]
 como está o tempo [en {location}]
 que tempo fará (mañá|o domingo) [en {location}]
-vai facer calor mañá [en {location}]
 cal é a previsión do tempo [en {location}]
 vai ir calor mañá [en {location}]
 que tempo fai [en {location}]
+vai bo tempo fóra en {location}

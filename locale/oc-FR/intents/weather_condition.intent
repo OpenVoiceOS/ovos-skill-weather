@@ -265,3 +265,19 @@ plòu [a {location}]
 lo cèl es (nivolós|clar) [a {location}]
 i a de bruma [a {location}]
 me cal la parapluèja
+Plourà (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) [a {location}]?
+(Nevarà|Plourà) après deman ?
+Plourà aquel dimenjada?
+(Nevarà|Plourà) après deman a {location}?
+Plourà dissabte e dimenge a {location}.
+Plourà aquel dimenjada a {location}.
+Nevarà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
+Plourà dissabte e dimenge?
+Nevarà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
+Plourà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
+I aurà tempèsta (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
+I aurà tempèsta (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
+I aurà tempèsta après deman ?
+I aurà tempèsta après deman a {location}?
+I aurà tempèsta dissabte e dimenge a {location}.
+I aurà tempèsta aquel dimenjada a {location}.

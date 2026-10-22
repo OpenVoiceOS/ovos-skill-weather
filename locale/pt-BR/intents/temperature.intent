@@ -1,5 +1,5 @@
 (Qual|qual) é a temperatura
-está (agradável|frio|quente) lá fora
+está (frio|quente) lá fora
 quão (frio|quente) está agora
 quão (frio|quente) estará hoje
 quão (quente|frio) vai ficar
@@ -14,7 +14,7 @@ estará abaixo de zero
 previsão de temperatura mínima
 são esperadas temperaturas congelantes
 (Qual|qual) é a temperatura em {location}
-está (agradável|frio|quente) lá fora em {location}
+está (frio|quente) lá fora em {location}
 quão (frio|quente) está em {location} [agora]
 quão (quente|frio) vai ficar em {location}
 preciso de uma (casaco|jaqueta) em {location}

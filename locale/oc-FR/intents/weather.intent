@@ -2,7 +2,7 @@
 Quin (meteorologia|temps) i a (a l'ora d'ara?|ara?)
 Quin (meteorologia|temps) fa ara meteis?
 (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin|ser) a {location}?
-Farà (bon|calor|fred) (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
+Farà bon (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 [(de Condicions|Estat)] del temps (actual|ara) .
 (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la (nuèch|serada) ?
 (Ensenha-me|Mòstra-me) lo temps setmanièr (a|de) {location}.
@@ -10,18 +10,15 @@ del temps (actual|ara) (a|de) {location}.
 (Cossí|cossí) es lo temps ?
 (Cossí|cossí) es lo temps a {location}?
 (Cossí|cossí) es la meteorologia ?
-(Nevarà|Plourà) après deman ?
 (Ensenha-me|Mòstra-me) lo temps setmanièr .
 (Ensenha-me|Mòstra-me) la meteorologia setmanièra .
 (Lo temps|Meteorologia|Temps) de la setmana .
 Farà (bon|sol) dissabte e dimenge?
-Plourà aquel dimenjada?
 Fa bon (jorn|temps) defòra?
 Fa bon (jorn|temps) dins la carrièra?
 Cossí es lo temps (ara|uèi) ?
 de la prevision (a|de) {location}?
 de la meteorologia (actual|ara) .
-I aurà tempèsta (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Qué me mecal esperar (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Lo temps de la setmana (.|a{location}.|de{location}.)
@@ -51,7 +48,6 @@ de la meteorologia (actual|ara) (a|de) {location}.
 Diga-me lo temps çò (prèp|seguent) (dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 (Cossí|cossí) es la meteorologia a {location}?
 (De Condicions|Estat) del temps ara meteis .
-(Nevarà|Plourà) après deman a {location}?
 (Actualizacion|Prevision) meteorologica de dissabte e dimenge?
 (Actualizacion|Prevision) meteorologica de la dimenjada?
 (Diga-me|Explica-me) lo temps de dissabte e dimenge?
@@ -62,7 +58,6 @@ Prevision per (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres)
 Lo temps (de|durant) la setmana .
 La meteorologia (de|durant) la setmana .
 Cossí es lo temps (ara|uèi) a {location}?
-I aurà tempèsta (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Qué me mecal esperar (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 Cossí es la meteorologia (ara|uèi) ?
@@ -85,7 +80,6 @@ Me pòdes dire la meteorologia ?
 de la meteorologia ara meteis .
 La meteorologia per la dimenjada.
 La meteorologia per dissabte e dimenge.
-Plourà dissabte e dimenge a {location}.
 Quin temps farà dissabte e dimenge?
 Quin es lo temps dissabte e dimenge?
 (Diga-me|Explica-me) lo temps (de |per) aquela setmana (a|de) {location}.
@@ -115,7 +109,6 @@ Prevision per oras de (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|di
 (Ensenha-me|Mòstra-me) lo temps dels prèps 7 jorns .
 (Ensenha-me|Mòstra-me) la prevision del temps setmanièr .
 Farà (bon|calor|fred) après deman a {location}?
-Plourà aquel dimenjada a {location}.
 Prevision per (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la nuèch ?
 Prevision per (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a miejanet a {location}?
 Prevision per (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al miègjorn a {location}?
@@ -142,7 +135,6 @@ Dona-me la darrièra actualizacion de la meteorologia .
 Dona-me la darrièra actualizacion del temps a {location}.
 Me pòdes dire lo temps ara meteis ?
 Me pòdes dire la meteorologia a {location}?
-I aurà tempèsta après deman ?
 Quin temps farà après deman ?
 Qué me mecal esperar après deman ?
 Farà bon dissabte e dimenge a {location}.
@@ -193,13 +185,11 @@ Me pòdes dire lo temps ara meteis a {location}?
 Me pòdes dire la meteorologia ara meteis ?
 Qualque avís del temps après deman ?
 Qualqu'una alèrta del temps après deman ?
-I aurà tempèsta après deman a {location}?
 Quin temps farà a {location} après deman
 Quin temps farà après deman a {location}?
 Quin temps i aurà après deman ?
 Quin temperatura es previst après deman ?
 Qué me mecal esperar après deman a {location}?
-I aurà tempèsta dissabte e dimenge a {location}.
 Quin serà lo temps dissabte e dimenge a {location}?
 Quin serà lo temps pendent la dimenjada?
 Quin temps farà dissabte e dimenge a {location}?
@@ -209,10 +199,9 @@ Quin es lo temps dissabte e dimenge que ven?
 Quina es la meteorologia pendent dissabte e dimenge?
 Quin (meteorologia|temps) fa (a l'ora d'ara?|ara?)
 (Cossí|Quin) es [(çò|lo |la)] (temps?|prevision?)
-(Nevarà|Plourà) (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a {location}?
 (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) al (matin|ser) ?
 (Meteorologia|Temps) setmanièr (a|de) {location}.
-Farà (bon|calor|fred) (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
+Farà bon (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 Çò temps d'aquela setmana (.|a{location}.|de{location}.)
 la meteorologia d'aquela setmana (.|a{location}.|de{location}.)
 Quin temps i a?
@@ -222,8 +211,6 @@ Fa bon defòra?
 Fa bon dins la carrièra?
 de la prevision ?
 Quin meteorologia i a?
-Plourà dissabte e dimenge?
-(Nevarà|Plourà) (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) ?
 lo temps d'aquela setmana (.|a{location}.|de{location}.)
 Diga-me lo temps
 Diga-me la meteorologia
@@ -260,7 +247,6 @@ Cossí serà lo temps a {location} (deman|dijòus|diluns|dimars|dimècres|dissab
 (Diga-me|Explica-me) la prevision del temps de dissabte e dimenge?
 (Diga-me|Explica-me) la prevision del temps de la dimenjada?
 Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la serada a {location}?
-I aurà tempèsta aquel dimenjada a {location}.
 Cossí serà lo temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la serada ?
 Quin temps farà a {location} (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) a la serada?
 Quina es la meteorologia per los (prèps|seguents) de jorns a {location}?
@@ -441,3 +427,5 @@ Quina temperatura fa en {unit}?
 quin temps farà (deman|aquesta setmana) [a {location}]
 dona-me la previsión del temps [a {location}]
 cossí es lo temps [a {location}]
+Farà bon temps (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) [a {location}]?
+Quin temps farà (deman|dijòus|diluns|dimars|dimècres|dissabte|dimenge|divendres) [a {location}]?

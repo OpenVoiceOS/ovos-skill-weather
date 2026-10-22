@@ -270,3 +270,18 @@ està (núvol|ennuvolat|serè) [a {location}]
 plourà (avui|demà) [a {location}]
 hi ha boira [a {location}]
 cal agafar el paraigua
+(Nevarà|Plourà) després de demà ?
+Plourà (aquest|este) cap de setmana?
+(Nevarà|Plourà) després de demà a {location}?
+Plourà dissabte i diumenge a {location}.
+Plourà (aquest|este) cap de setmana a {location}.
+(Nevarà|Plourà) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Plourà dissabte i diumenge?
+(Nevarà|Plourà) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Plourà (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Hi haurà tempesta (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) ?
+Hi haurà tempesta (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) a {location}?
+Hi haurà tempesta després de demà ?
+Hi haurà tempesta després de demà a {location}?
+Hi haurà tempesta dissabte i diumenge a {location}.
+Hi haurà tempesta (aquest|este) cap de setmana a {location}.

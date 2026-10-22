@@ -1,34 +1,22 @@
 (Condición|Estado)
-(Lloverá|Nevará) mañana 
 actual del (clima|tiempo)
 Está despejado afuera
-(Lloverá|Nevará) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 (Previsión|Pronóstico) por (hora|horas) para mañana
 El (clima|tiempo) (de|durante|para) la semana
-Hará (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 (Cuéntame|Dime) acerca de el tiempo
-(Lloverá|Nevará) después de mañana 
-(Lloverá|Nevará) [pasado] mañana en {location}
 (Previsión|Pronóstico) para mañana a medianoche
 Cómo (está|va) el tiempo 
-Hará (calor|frío) mañana en {location}
 Hará (calor|frío) [pasado] mañana 
 Qué (debería|debo|puedo) esperar mañana 
 El (clima|tiempo) de esta semana
 actual del (clima|tiempo) en {location}
 Qué tal (está|pinta|va) el tiempo
 La meteorología (de|durante|para) la semana
-Habrá tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 Cómo está el día afuera
 Hace un buen día afuera
 Qué tiempo hace en {location}
 Qué tiempo hace hoy 
-Habrá tormenta mañana en {location}
-Habrá tormenta [pasado] mañana 
-Habrá una tormenta mañana 
 Hará buen clima mañana 
-Lloverá el sábado y domingo
-Lloverá este fin de semana
 La meteorología de esta semana
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a (la|las) 13
 El (clima|tiempo) en los (próximos|venideros) (2|3|4|5|6|7) días
@@ -42,7 +30,6 @@ El (clima|tiempo) en los (próximos|venideros) (2|3|4|5|6|7) días
 El (clima|tiempo) (de|durante|para) la semana en {location}
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a la 1
 Qué (debería|debo|puedo) esperar el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
-Va a hacer (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 La meteorología en los (próximos|venideros) (2|3|4|5|6|7) días
 (Cuéntame|Dime) acerca de el tiempo en {location}
 (Cuéntame|Dime) sobre el pronóstico de el tiempo
@@ -56,9 +43,7 @@ El (clima|tiempo) de esta semana en {location}
 Qué tal (está|va) el tiempo en {location}
 Cómo se (presenta|prevé) el tiempo mañana 
 La meteorología (de|durante|para) la semana en {location}
-Va a hacer (calor|frío) mañana en {location}
-Va a hacer (calor|frío) [pasado] mañana 
-Habrá [una] tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Va a hacer (calor|frío) pasado mañana 
 Hará buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a mediodía
 Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por tarde
@@ -81,9 +66,6 @@ Cuál es la previsión para mañana
 Cómo estará el tiempo mañana en {location}
 Cómo estará el tiempo en {location} mañana
 Cómo estará el tiempo [pasado] mañana 
-Habrá tormenta después de mañana en {location}
-Habrá [una] tormenta después de mañana 
-Habrá [una] tormenta pasado mañana en {location}
 Hará buen clima después de mañana 
 Hará buen clima [pasado] mañana en {location}
 Qué tal estará el tiempo mañana 
@@ -91,7 +73,6 @@ Va a hacer buen clima mañana
 Qué tiempo hará mañana a mediodía 
 Qué tiempo hará mañana por tarde 
 Hará buen tiempo el sábado y domingo?
-Lloverá el fin de semana en {location}
 La meteorología de esta semana en {location}
 (Previsión|Pronóstico) por (hora|horas) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 (Dime|Explícame|Muéstrame) el tiempo (de|para) mañana por la (mañana|noche|tarde)
@@ -102,7 +83,6 @@ La meteorología de esta semana en {location}
 (Previsión|Pronóstico) para mañana a (la|las) 13 en {location}
 (Previsión|Pronóstico) para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9) en {location}
 (Previsión|Pronóstico) para mañana por la (mañana|tarde) en {location}
-Va a hacer (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 Cómo se (presenta|prevé) el tiempo el (martes|domingo|jueves|lunes|miércoles|sábado|viernes) 
 Las condiciones meteorológicas en los (próximos|venideros) (2|3|4|5|6|7) días
 Qué tiempo hará el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) por la (mañana|noche)
@@ -149,7 +129,6 @@ Cuál es la previsión para pasado mañana
 Cómo estará el tiempo después de mañana 
 Cómo estará el tiempo en {location} pasado mañana
 Cómo estará el tiempo pasado mañana en {location}
-Habrá una tormenta después de mañana en {location}
 Hará buen clima después de mañana en {location}
 Qué tal estará el tiempo mañana en {location}
 Qué tal estará el tiempo en {location} mañana
@@ -167,7 +146,6 @@ Cómo está el tiempo este fin de semana
 Cómo está la meteo el sábado y domingo
 Cómo está la meteo este fin de semana
 Hará bueno el fin de semana en {location}
-Lloverá el sábado y el domingo en {location}
 La meteorología a lo largo de la semana
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) el (domingo|jueves|lunes) por la (mañana|noche|tarde)
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) el (martes|miércoles|sábado|viernes) por la (mañana|noche|tarde)
@@ -230,12 +208,9 @@ Cuál es el pronóstico para el [próximo] sábado y domingo
 Cuál es la previsión para el [próximo] fin de semana
 Cuál es la previsión para el [próximo] sábado y domingo
 Debería planificar actividades al aire libre este fin de semana
-Va a llover el sábado y el domingo en {location}
 La meteorología a lo largo de la semana en {location}
-(Lloverá|Nevará) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 (Previsión|Pronóstico) semanal del (clima|tiempo)
 (Cuéntame|Dime) sobre el tiempo
-(Lloverá|Nevará) pasado mañana 
 (Enséñame|Muéstrame) el pronóstico semanal
 (Enséñame|Muéstrame) la previsión semanal
 Cómo (está|pinta|va) el tiempo
@@ -244,14 +219,12 @@ Hace buen tiempo afuera
 (Previsión|Pronóstico) por (hora|horas) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes)
 (Previsión|Pronóstico) para el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) a medianoche
 (Previsión|Pronóstico) semanal del (clima|tiempo) en {location}
-Hará (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
 (Previsión|Pronóstico) para mañana a (la|las) 13
 Qué (debería|debo|puedo) esperar el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 (Previsión|Pronóstico) para mañana a las (10|11|12|14|15|16|17|18|19|2|20|21|22|23|24|3|4|5|6|7|8|9)
 (Previsión|Pronóstico) para mañana por la (mañana|tarde)
 (Cuéntame|Dime) sobre el tiempo en {location}
 (Dame|Explícame|Muéstrame) la actualización actual del tiempo
-(Lloverá|Nevará) después de mañana en {location}
 (Previsión|Pronóstico) para mañana a la 1
 (Hará|Hará) sol este fin de semana
 (Panorama|Previsión|Pronóstico) para el fin de semana
@@ -264,7 +237,6 @@ Hará (calor|frío) pasado mañana en {location}
 Qué (debería|debo|puedo) esperar pasado mañana 
 Estará (despejado|soleado) este fin de semana
 Qué tal (está|va) el tiempo 
-Habrá una tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 Hará buen clima el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
 Las condiciones meteorológicas de (esta|la) semana
 Cómo se presenta el tiempo 
@@ -272,8 +244,6 @@ Qué tal está el día afuera
 Qué tiempo hace ahora mismo 
 Qué tiempo hace en este instante
 Qué tiempo hace hoy en {location}
-Habrá una tormenta mañana en {location}
-Habrá una tormenta pasado mañana 
 Hará buen clima pasado mañana 
 Hará sol el sábado y domingo?
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (domingo|jueves|lunes) por la (mañana|noche|tarde)
@@ -340,7 +310,6 @@ Va a hacer buen clima pasado mañana en {location}
 Caerá un chaparrón el fin de semana en {location}
 Debería planificar actividades de exterior este fin de semana
 Hará bueno el sábado y el domingo en {location}
-Va a llover el fin de semana en {location}
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (domingo|jueves|lunes) por la (mañana|noche|tarde) en {location}
 (Dime|Explícame|Muéstrame) el tiempo (de|para) el (martes|miércoles|sábado|viernes) por la (mañana|noche|tarde) en {location}
 (Dime|Explícame|Muéstrame) las condiciones meteorológicas (de|para) mañana por la (mañana|noche|tarde) en {location}

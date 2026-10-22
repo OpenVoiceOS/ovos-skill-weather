@@ -5,7 +5,6 @@ temperatura máxima para (domingo|hoxe|luns|martes|mañá|mércores|sábado|venr
 debo esperar xeadas [(domingo|luns|martes|mañá|mércores|sábado|venres|xoves)]
 actualización da temperatura actual
 dime a temperatura agora
-vai bo tempo fóra
 irá frío esta tarde
 espéranse temperaturas baixo cero
 previsión da temperatura mínima
@@ -21,7 +20,6 @@ Cal é a temperatura actual (agora|fóra|hoxe)
 que tan cálido será esta (mañá|noite)
 Cal é a temperatura máis (alta|elevada|baixa)
 dime a temperatura en {location} agora
-vai bo tempo fóra en {location}
 Cal é a temperatura esta noite
 espérase moita calor mañá pola tarde
 irá frío esta tarde en {location}

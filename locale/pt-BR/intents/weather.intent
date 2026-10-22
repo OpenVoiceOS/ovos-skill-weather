@@ -16,7 +16,7 @@ como (estará|está) o tempo (amanhã|domingo|quarta|quinta|segunda|sexta|sábad
 vai estar (agradável|frio|quente) na (quarta|quinta|segunda|sexta|terça)
 vai estar (agradável|frio|quente) no (domingo|sábado)
 previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) à (meia-noite|noite)
-vai (chover|nevar) amanhã em {location}
+vai nevar amanhã em {location}
 vai (chover|nevar) depois de amanhã
 previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) ao meio-dia
 clima nos próximos (2|3|4|5|6|7) dias
@@ -64,7 +64,7 @@ diga-me a previsão para esta semana
 mostre-me a previsão de 7 dias
 mostre-me a previsão semanal em {location}
 o clima da semana em {location}
-vai (chover|nevar) amanhã
+vai nevar amanhã
 condições climáticas atuais
 previsão para (amanhã|domingo|quarta|quinta|segunda|sexta|sábado|terça) às (1|10|11|12|2|3|4|5|6|7|8|9) da (manhã|tarde)
 algum (alerta|aviso) para a (quarta|quinta|segunda|sexta|terça) em {location}
@@ -251,3 +251,4 @@ como está o tempo neste momento [em {location}]
 qual é a situação do tempo (agora|hoje) [em {location}]
 como está o tempo (agora|neste momento) (em|lá em) {location}
 você sabe como está o tempo [hoje] [em {location}]
+está agradável lá fora em {location}

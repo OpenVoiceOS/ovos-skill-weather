@@ -191,3 +191,4 @@ farà fred [a {location}]
 fa fred [a {location}]
 hi farà fred més endavant [a {location}]
 creus que farà fred
+Farà (calor|fred) (demà|dijous|dilluns|dimarts|dimecres|dissabte|diumenge|divendres) [a {location}]?
