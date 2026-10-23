@@ -16,6 +16,8 @@ SKILL_ID = "ovos-skill-weather.openvoiceos"
 LOCALE_PHRASES = {
     "es-ES": [
         ("va a llover", "rain"),
+        ("¿Lloverá mañana?", "rain"),
+        ("Es probable que llueva", "rain"),
         ("va a nevar hoy en {location}", "snow"),
         ("está nublado", "clouds"),
         ("habrá una tormenta", "thunderstorm"),

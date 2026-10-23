@@ -275,3 +275,29 @@ está lloviendo [en {location}]
 va a estar (nublado|despejado|soleado) (hoy|mañana) [en {location}]
 hay neblina [en {location}]
 necesito llevar paraguas
+Nevará mañana en {location}
+Nevará mañana 
+(Lloverá|Nevará) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+(Lloverá|Nevará) después de mañana 
+(Lloverá|Nevará) pasado mañana en {location}
+Habrá tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Habrá tormenta mañana en {location}
+Habrá tormenta [pasado] mañana 
+Habrá una tormenta mañana 
+Lloverá el sábado y domingo
+Lloverá este fin de semana
+Habrá [una] tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) en {location}
+Habrá tormenta después de mañana en {location}
+Habrá [una] tormenta después de mañana 
+Habrá [una] tormenta pasado mañana en {location}
+Lloverá el fin de semana en {location}
+Habrá una tormenta después de mañana en {location}
+Lloverá el sábado y el domingo en {location}
+Va a llover el sábado y el domingo en {location}
+(Lloverá|Nevará) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+(Lloverá|Nevará) pasado mañana 
+(Lloverá|Nevará) después de mañana en {location}
+Habrá una tormenta el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
+Habrá una tormenta mañana en {location}
+Habrá una tormenta pasado mañana 
+Va a llover el fin de semana en {location}

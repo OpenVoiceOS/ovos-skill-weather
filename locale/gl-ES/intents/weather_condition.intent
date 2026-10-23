@@ -168,3 +168,4 @@ necesito o paraugas
 hai sol [en {location}]
 está o ceo nubrado [en {location}]
 está nubrado [en {location}]
+vai chover (domingo|luns|martes|mércores|sábado|venres|xoves) [en {location}]

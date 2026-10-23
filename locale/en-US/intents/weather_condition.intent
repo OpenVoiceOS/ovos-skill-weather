@@ -261,3 +261,6 @@ should I (bring|take) an umbrella (to work|to the event|with me)
 will the sky be clear [tonight] [in {location}]
 is it cloudy [in {location}]
 is there (sunshine|fog) in {location}
+will it (rain|snow|storm) [on] (monday|tuesday|wednesday|thursday|friday|saturday|sunday)
+is it going to (storm|rain) (this weekend|saturday and sunday)
+will it storm (today|tomorrow)

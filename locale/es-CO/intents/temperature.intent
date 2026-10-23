@@ -6,7 +6,7 @@ Va a hacer (calor|frío) (|hoy)
 (Debería|Debo) esperar heladas [mañana] 
 Hace (calor|frío) afuera en {location}
 Se (esperan|prevén) temperaturas gélidas 
-Hace mucho (bochorno|calor|fresco|frío) ahora mismo
+Hace mucho (calor|fresco|frío) ahora mismo
 Hará mucho (calor|frío) en {location}
 Hará mucho (calor|frío) mañana 
 Hará fresco esta (noche|tarde) 
@@ -17,7 +17,7 @@ Hará mucho calor hoy
 Habrá temperaturas bajo cero 
 (Hace|Hará) mucho (calor|frío) 
 Hace (calor|frío) afuera 
-Hace mucho (bochorno|fresco) 
+Hace mucho fresco 
 Hará mucho (calor|frío) hoy
 (Necesitaría|Necesito) una (abrigo|chaqueta) hoy en {location}
 (Debería|Debo) esperar heladas el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
@@ -33,7 +33,7 @@ Hay (previsión|pronóstico) de temperaturas gélidas
 Se (esperan|prevén) temperaturas bajo cero 
 Se (esperan|prevén) temperaturas gélidas en {location}
 Se (esperan|prevén) temperaturas gélidas mañana 
-Hace mucho (bochorno|calor|fresco|frío) en {location} 
+Hace mucho (calor|fresco|frío) en {location} 
 Hará mucho (calor|frío) esta noche 
 Hará mucho (calor|frío) mañana en {location}
 Hará fresco esta (noche|tarde) en {location}
@@ -60,7 +60,7 @@ Se (esperan|prevén) temperaturas bajo cero en {location}
 Se (esperan|prevén) temperaturas bajo cero mañana 
 Se (esperan|prevén) temperaturas gélidas esta noche 
 Se (esperan|prevén) temperaturas gélidas mañana en {location}
-Hace mucho (bochorno|calor|fresco|frío) en {location} ahora mismo
+Hace mucho (calor|fresco|frío) en {location} ahora mismo
 Hará mucho (calor|frío) esta noche en {location}
 Cuál es la temperatura (afuera|ahora|hoy) en {location}
 Habrá temperaturas bajo cero el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) 
@@ -189,3 +189,4 @@ va a haber heladas [en {location}]
 se viene calor (esta noche|mañana) [en {location}]
 va a hacer calor esta noche [en {location}]
 va a estar frío [en {location}]
+(Hará|Va a hacer) (calor|frío) el (domingo|jueves|lunes|martes|miércoles|sábado|viernes) [en {location}]
