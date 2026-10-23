@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.5a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.5a1) (2026-10-23)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.4a1...1.5.5a1)
+
+**Merged pull requests:**
+
+- fix\(locale\): drop dead vocabulary files [\#320](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/320) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.4a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.4a1) (2026-10-23)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.3a2...1.5.4a1)
@@ -329,17 +337,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a7...1.0.15a8)
 
-**Merged pull requests:**
-
-- translate\(kab\): update now.voc [\#217](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/217) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
-
 ## [1.0.15a7](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a7) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a6...1.0.15a7)
-
-**Merged pull requests:**
-
-- translate\(kab\): update later.voc [\#216](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/216) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
 
 ## [1.0.15a6](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a6) (2026-09-01)
 
