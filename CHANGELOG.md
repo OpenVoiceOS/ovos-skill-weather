@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.4a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.4a1) (2026-10-23)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.3a2...1.5.4a1)
+
+**Merged pull requests:**
+
+- fix: give each weather phrasing one owning intent [\#318](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/318) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [1.5.3a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.3a2) (2026-10-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.3a1...1.5.3a2)
@@ -337,17 +345,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a5...1.0.15a6)
 
-**Merged pull requests:**
-
-- translate\(kab\): update hot.voc [\#215](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/215) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
-
 ## [1.0.15a5](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a5) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a4...1.0.15a5)
-
-**Merged pull requests:**
-
-- translate\(kab\): update when.voc [\#214](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/214) ([ovos-localize[bot]](https://github.com/apps/ovos-localize))
 
 ## [1.0.15a4](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a4) (2026-09-01)
 
