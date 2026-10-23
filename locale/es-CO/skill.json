@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "El tiempo",
+  "description": "Información sobre las condiciones meteorológicas, las previsiones, las precipitaciones y mucho más. También puedes preguntar sobre otras ciudades del mundo. Las condiciones actuales y las previsiones provienen de OpenMeteo",
+  "examples": [
+    "Humedad actual",
+    "Hará frío en Madrid",
+    "Se esperan condiciones de viento en Madrid",
+    "Dime cuándo lloverá",
+    "Hora de el amanecer de hoy",
+    "Hora de el atardecer de hoy",
+    "Hará mucho calor esta noche",
+    "Condición",
+    "está nublado hoy en Madrid",
+    "El aire está seco o húmedo hoy",
+    "Necesito abrigo en Madrid",
+    "Debería guardar los objetos que tengo al aire libre a causa del viento en Madrid",
+    "A qué hora empezará a llover en Madrid",
+    "A qué hora empieza el amanecer",
+    "A qué hora es el atardecer",
+    "Cuál será la temperatura mínima hoy por la mañana",
+    "Dime la previsión de el tiempo a las 19",
+    "Lloverá durante el fin de semana"
+  ],
+  "tags": [
+    "meteorología",
+    "previsión",
+    "lluvia",
+    "humedad",
+    "nieve",
+    "temperatura"
+  ]
+}

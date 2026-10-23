@@ -1,0 +1,3 @@
+Şu anda {location}'de hava {temperature} derece {temperature_unit}.
+{location}'de hava şu anda {temperature} derece {temperature_unit}.
+Şu anda, {location}'de {temperature} derece {temperature_unit}.

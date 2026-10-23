@@ -1,0 +1,3 @@
+De voorspelling {day} voorspelt dat {location} matige wind zal hebben van de {direction} van {speed} {speed_unit}
+De wind zal matig zijn in {location} {day}, ongeveer {speed} {speed_unit} uit de {direction}
+U kunt een wind verwachten van ongeveer {speed} {speed_unit} uit de {direction} in {location} {day}

@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Tignawt",
+  "description": "Steqsi ɣef tignawt, ɣef usanay, ɣef ugeffur i d-iteddun d wugar. Tzemreḍ ad testeqsiḍ daɣen ɣef temdinin nniḍen n umaḍal. Isefka-agi d ay d-yekkan seg OpenMeteo.",
+  "examples": [
+    "Acḥal i d lambubya n waḍu tura di Tizi Wezzu",
+    "Ad yili usemmiḍ ass-a di Tizi Wezzu",
+    "Yella waḍu tura di Tizi Wezzu",
+    "Melmi ara d-yeɣli ugeffur nnig-i di Tizi Wezzu",
+    "D melmi ara d-yeffeɣ yiṭij ass-a di Tizi Wezzu",
+    "D melmi ara yeɣli yiṭij ass-a di Tizi Wezzu",
+    "Acḥal i d ddrejat tura di Tizi Wezzu",
+    "D acu i d lexbaṛ n waman i sin wussan di Tizi Wezzu",
+    "tella lḥala ifaz ass-a di Tizi Wezzu",
+    "Acḥal i d lambubya s ubadu di Tizi Wezzu",
+    "Ad yili ṛṛeḍ ass n arim",
+    "Ad yili waḍu ass-a",
+    "Acḥal i d-yeqqimen i ugeffur",
+    "D melmi ara d-yali wass azekka di Tizi Wezzu",
+    "D melmi ara yeḍlem wass ass-a di Tizi Wezzu",
+    "Acḥal ara yiɣ ṛṛeḍ azekka",
+    "Amek ara tili lḥala deg wass n larebɛa di Tizi Wezzu",
+    "ad d-yeɣli udfel"
+  ],
+  "tags": [
+    "tignawt",
+    "asanay",
+    "ageffur",
+    "tamagert",
+    "adfel",
+    "tafesna"
+  ]
+}

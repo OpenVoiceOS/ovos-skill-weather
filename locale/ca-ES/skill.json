@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Temps",
+  "description": "Obteniu les condicions meteorològiques, les previsions, les precipitacions esperades i molt més! També podeu demanar per altres ciutats del món. Les condicions actuals i les previsions meteorològiques provenen d'OpenMeteo",
+  "examples": [
+    "Em fa falta humidificador ?",
+    "Farà fred a Barcelona?",
+    "A quanta velocitat bufa el vent ?",
+    "A quina hora començarà a ploure ?",
+    "A quina hora comença a haver-hi llum ?",
+    "A quina hora es fa de nit ?",
+    "Farà calor aquesta nit?",
+    "Com és oratge a Barcelona?",
+    "S'espera boira densa per aquesta nit ?",
+    "Hi ha humitat a Barcelona?",
+    "Estarà gèlid a Barcelona?",
+    "Fa vent hui ?",
+    "Digues-me quan plourà.",
+    "Horari de l'albada d'avui.",
+    "Hora de la posta de sol d'hui.",
+    "Quina temperatura hi haurà a la 9 del matí dilluns ?",
+    "Previsió per dimarts a la 3 del vespre a Barcelona.",
+    "hi ha núvols a Barcelona"
+  ],
+  "tags": [
+    "meteorologia",
+    "previsió",
+    "pluja",
+    "humitat",
+    "neu",
+    "temperatura"
+  ]
+}

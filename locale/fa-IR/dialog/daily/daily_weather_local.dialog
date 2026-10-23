@@ -1,0 +1,5 @@
+انتظار {condition} در حالی که با یک سطح بالا از {high_temperature} و کمی از {low_temperature} {day}
+پیش بینی {day} این است {condition} با یک سطح بالا از {high_temperature} و کمی از {low_temperature}
+{day} انتظار {condition} در حالی که با یک سطح بالا از {high_temperature} و کمی از {low_temperature}
+{day} خواهد بود {condition} با یک سطح بالا از {high_temperature} و کمی از {low_temperature}
+{day} بالا خواهد بود {high_temperature} و کم {low_temperature} با {condition}

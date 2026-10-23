@@ -1,0 +1,3 @@
+A previsão {day} prevê que {location} terá vento moderado de {direction} de {speed} {speed_unit}
+O vento será moderado em {location} {day}, cerca de {speed} {speed_unit} de {direction}
+Pode esperar um vento de cerca de {speed} {speed_unit} de {direction} em {location} {day}

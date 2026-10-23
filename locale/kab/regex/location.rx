@@ -1,0 +1,1 @@
+.*\b(di|deg|g) (?P<Location>(?!\bcelsius\b|\bfahrenheit\b) *.+)

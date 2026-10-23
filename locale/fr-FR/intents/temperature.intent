@@ -1,0 +1,116 @@
+quelle est la température
+quelle est la température actuelle
+quelle est la température dehors
+quelle est la température à {location}
+quelle est la température en {location}
+quelle est la température au {location}
+quelle est la température aux {location}
+quelle est la température dans {location}
+combien fait-il
+combien fait-il à {location}
+combien fait-il en {location}
+combien fait-il au {location}
+combien fait-il aux {location}
+combien fait-il dans {location}
+ai-je besoin d'un manteau
+ai-je besoin d'une veste à {location}
+ai-je besoin d'une veste en {location}
+ai-je besoin d'une veste au {location}
+ai-je besoin d'une veste aux {location}
+ai-je besoin d'une veste dans {location}
+quelle température fera-t-il dans une heure
+quelle température est prévue cet après-midi
+quelle température est prévue ce soir à {location}
+quelle température est prévue ce soir en {location}
+quelle température est prévue ce soir au {location}
+quelle température est prévue ce soir aux {location}
+quelle température est prévue ce soir dans {location}
+quelle sera la température maximale
+quelle sera la température maximale demain
+quelle sera la température maximale à {location}
+quelle sera la température maximale en {location}
+quelle sera la température maximale au {location}
+quelle sera la température maximale aux {location}
+quelle sera la température maximale dans {location}
+quel sera le maximum demain à {location}
+quel sera le maximum demain en {location}
+quel sera le maximum demain au {location}
+quel sera le maximum demain aux {location}
+quel sera le maximum demain dans {location}
+quelle sera la température minimale
+quelle sera la température minimale demain
+quel sera le minimum à {location}
+quel sera le minimum en {location}
+quel sera le minimum au {location}
+quel sera le minimum aux {location}
+quel sera le minimum dans {location}
+fera-t-il froid cette nuit
+combien de degrés (il fait|fait-il) (dehors|maintenant|aujourd'hui)
+combien de degrés fait-il [à {location}]
+quelle sera la température (maximale|minimale) [à {location}]
+il fait combien [à {location}]
+Va-t-il faire froid à {location}?
+Fait-il froid à {location}?
+Va-t-il faire froid aujourd'hui à {location}?
+Va-t-il faire froid demain à {location}?
+Quel froid va-t-il faire à {location}?
+Y aura-t-il du gel à {location}?
+Dois-je prendre une veste à {location}?
+Fait-il frais dehors à {location}?
+Va-t-il faire froid ce soir à {location}?
+Va-t-il faire chaud à {location}?
+Fait-il chaud à {location}?
+Va-t-il faire chaud aujourd'hui à {location}?
+Va-t-il faire chaud demain à {location}?
+Quelle chaleur va-t-il faire à {location}?
+Y aura-t-il une canicule à {location}?
+Dois-je mettre de la crème solaire à {location}?
+Fait-il chaud dehors à {location}?
+Va-t-il faire chaud ce soir à {location}?
+fera-t-il chaud
+fera-t-il chaud à {location}
+fera-t-il chaud aujourd'hui
+fera-t-il chaud aujourd'hui à {location}
+fera-t-il chaud demain
+fera-t-il chaud demain à {location}
+fait-il chaud
+fait-il chaud à {location}
+fait-il chaud aujourd'hui
+fait-il chaud aujourd'hui à {location}
+fait-il chaud demain
+fait-il chaud demain à {location}
+aura-t-on du chaud
+aura-t-on du chaud à {location}
+aura-t-on du chaud aujourd'hui
+aura-t-on du chaud aujourd'hui à {location}
+aura-t-on du chaud demain
+aura-t-on du chaud demain à {location}
+fera-t-il froid
+fera-t-il froid à {location}
+fera-t-il froid aujourd'hui
+fera-t-il froid aujourd'hui à {location}
+fera-t-il froid demain
+fera-t-il froid demain à {location}
+fait-il froid
+fait-il froid à {location}
+fait-il froid aujourd'hui
+fait-il froid aujourd'hui à {location}
+fait-il froid demain
+fait-il froid demain à {location}
+aura-t-on du froid
+aura-t-on du froid à {location}
+aura-t-on du froid aujourd'hui
+aura-t-on du froid aujourd'hui à {location}
+aura-t-on du froid demain
+aura-t-on du froid demain à {location}
+Fera-t-il chaud {day} à {location}?
+Fera-t-il froid {day} à {location}?
+(faut-il|est-ce qu'il faut) (prendre|mettre) (un manteau|une veste|un pull) [aujourd'hui|ce soir]
+va-t-il faire (chaud|froid) (ce soir|demain après-midi|cet après-midi)
+il fait (froid|chaud) dehors [à {location}]
+va-t-il faire (froid|chaud) (demain|ce soir) [à {location}]
+dois-je prendre un manteau
+va-t-il faire froid [à {location}]
+fait-il froid [à {location}]
+fait-il froid en ce moment [à {location}]
+il va faire froid [à {location}]

@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Pogoda",
+  "description": "Sprawdź pogodę, prognozę, spodziewane opady i więcej. Możesz też zapytać o inne miasta na świecie. Aktualna pogoda i prognozy pochodzą z OpenMeteo.",
+  "examples": [
+    "Jaka jest teraz wilgotność powietrza w Krakowie",
+    "Będzie dziś zimno w Krakowie",
+    "Czy jest dziś wietrznie w Krakowie",
+    "Kiedy znowu będzie padać w Krakowie",
+    "O której wschodzi słońce dziś w Krakowie",
+    "O której zachodzi słońce dziś w Krakowie",
+    "Jaka jest teraz temperatura w Krakowie",
+    "Jaka jest prognoza pogody na dwa dni w Krakowie",
+    "jest pochmurno",
+    "Jaka jest wilgotność powietrza",
+    "Będzie chłodno dziś w Krakowie",
+    "Jak silny jest wiatr w Krakowie",
+    "Kiedy zacznie padać w Krakowie",
+    "O której wschodzi słońce dziś",
+    "O której zachodzi słońce dziś",
+    "Ile stopni maksymalnie będzie jutro w Krakowie",
+    "Jaka będzie pogoda pojutrze w Krakowie",
+    "będą chmury dzisiaj"
+  ],
+  "tags": [
+    "pogoda",
+    "prognoza",
+    "deszcz",
+    "wilgotność",
+    "śnieg",
+    "temperatura"
+  ]
+}

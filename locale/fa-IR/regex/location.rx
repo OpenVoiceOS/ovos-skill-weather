@@ -1,0 +1,1 @@
+.*\b(در|توی) (?P<Location>(?!\bسلسیوس\b|\bفارنهایت\b|\bcelsius\b|\bfahrenheit\b) *.+)
