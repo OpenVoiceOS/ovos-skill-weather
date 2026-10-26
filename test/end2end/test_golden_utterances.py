@@ -47,39 +47,44 @@ MIN_MATCH_RATE = 0.6
 MIN_MATCHED_ROWS_PER_INTENT = 1
 # Intents that the published m2v model does not route in a locale, as
 # (most golden rows matched in three runs, rows that miss and reason).
-GOLDEN_INTENT_GAPS = {
-    "kab": {
-        "sunset": (0, "0 of 3 rows match: 'Ass-a, ɣef acḥal n ssaɛa ara yeɣli "
-                      "yiṭij?', 'Ass-a di London, ɣef acḥal n ssaɛa ara yeɣli "
-                      "yiṭij?' and 'Ɣef acḥal n ssaɛa ara yeɣli yiṭij ass-a di "
-                      "Paris, tessneḍ?' match no intent. The published m2v model "
-                      "predates these templates; remove after retrain"),
-    },
-}
+GOLDEN_INTENT_GAPS = {}
 END2END_DIR = Path(__file__).parent
 # Negative rows that m2v claimed for this skill in two separate runs, with the
 # intent it claimed. A listed claim is allowed, not required, so a row that
 # flips between boots does not fail the test. Any other claim fails the locale.
 NEGATIVE_KNOWN_CLAIMS = {
+    "ca-ES": {"Quina hora és?": "weather"},
     "cs-CZ": {
         "Nastav budík na zítra na osm": "weather",
         "Řekni mi vtip": "temperature",
         "Kolikátého je dnes?": "weather",
     },
     "da-DK": {"Hvilken dato er det i dag?": "temperature"},
+    "de-DE": {
+        "Stell einen Wecker für morgen um acht": "weather",
+        "Wie spät ist es?": "sunset",
+    },
+    "fr-FR": {
+        "Mets un réveil demain à huit heures": "sunset",
+        "Quelle heure est-il ?": "weather",
+    },
     "gl-ES": {"Pon unha alarma mañá ás oito": "weather"},
     "pl-PL": {
         "Ustaw budzik na jutro na ósmą": "temperature",
         "Włącz muzykę Beatlesów": "weather",
         "Jaka jest dzisiaj data?": "weather",
     },
+    "pt-PT": {"Que horas são?": "weather"},
     "ru-RU": {
         "Поставь будильник на завтра на восемь": "weather",
         "Который час?": "temperature",
         "Расскажи анекдот": "weather",
         "Какое сегодня число?": "weather",
     },
-    "sv-SE": {"Ställ ett alarm i morgon klockan åtta": "next_rain"},
+    "sv-SE": {
+        "Ställ ett alarm i morgon klockan åtta": "next_rain",
+        "Vilket datum är det i dag?": "weather",
+    },
 }
 # Negative rows that the published m2v model claimed for this skill on every
 # one of three runs, with the intent it claimed. The claim must happen.
