@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.5a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.5a2) (2026-10-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.5a1...1.5.5a2)
+
+**Merged pull requests:**
+
+- test\(golden\): re-pin model-dependent gaps and claims for the 0.56 prototype low tier [\#323](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/323) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.5a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.5a1) (2026-10-23)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.4a1...1.5.5a1)
@@ -368,10 +376,6 @@
 ## [1.0.14a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.14a1) (2026-09-01)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.13a3...1.0.14a1)
-
-**Merged pull requests:**
-
-- fix: cover dropped padacioso phrasings and make golden xfails honest [\#218](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/218) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.13a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.13a3) (2026-08-26)
 
