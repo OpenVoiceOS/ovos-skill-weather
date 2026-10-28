@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Sää",
+  "description": "Kysy säätä, ennustetta, odotettua sademäärää ja paljon muuta. Voit kysyä myös muista kaupungeista ympäri maailmaa. Nykyinen sää ja ennusteet tulevat OpenMeteosta.",
+  "examples": [
+    "mikä on ilmankosteus juuri nyt Helsingissä",
+    "onko tänään kosteaa",
+    "tuleeko tänään kylmä Helsingissä",
+    "tarvitsenko takin tänään",
+    "tuuleeko kovaa juuri nyt Helsingissä",
+    "kuinka kova tuuli on",
+    "milloin alkaa taas sataa Helsingissä",
+    "milloin sade alkaa",
+    "mihin aikaan aurinko nousee tänään Helsingissä",
+    "milloin on auringonnousu tänään Helsingissä",
+    "mihin aikaan aurinko laskee tänään Helsingissä",
+    "milloin on auringonlasku tänään Helsingissä",
+    "mikä on lämpötila juuri nyt Helsingissä",
+    "mikä on lämpötila tänä iltana Helsingissä",
+    "mikä on sääennuste seuraaville kahdelle päivälle Helsingissä",
+    "millainen sää on tiistaina Helsingissä",
+    "onko tänään aurinkoista Helsingissä",
+    "onko pilvistä"
+  ],
+  "tags": [
+    "sää",
+    "ennuste",
+    "sade",
+    "ilmankosteus",
+    "lumi",
+    "lämpötila"
+  ]
+}

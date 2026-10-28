@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Počasí",
+  "description": "Zjistěte počasí, předpověď, očekávané srážky a další. Můžete se také zeptat na jiná města po celém světě. Aktuální počasí a předpovědi pocházejí z OpenMeteo.",
+  "examples": [
+    "Jaká je teď vlhkost vzduchu v Praze",
+    "Bude dnes zima v Praze",
+    "Je dnes venku větrno v Praze",
+    "Kdy bude příště pršet v Praze",
+    "V kolik hodin vychází slunce dnes v Praze",
+    "V kolik hodin zapadá slunce dnes v Praze",
+    "Jaká je aktuální teplota v Praze",
+    "Jaká je předpověď počasí na dva dní v Praze",
+    "je zamračeno",
+    "Jaká je vlhkost vzduchu",
+    "Bude chladno dnes v Praze",
+    "Jak silný je vítr v Praze",
+    "Kdy začne pršet v Praze",
+    "V kolik hodin vychází slunce dnes",
+    "V kolik hodin zapadá slunce dnes",
+    "Kolik stupňů bude maximálně dnes",
+    "Jaké bude počasí dnes v Praze",
+    "jsou tam mraky zítra v Praze"
+  ],
+  "tags": [
+    "počasí",
+    "předpověď",
+    "déšť",
+    "vlhkost",
+    "sníh",
+    "teplota"
+  ]
+}

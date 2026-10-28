@@ -1,0 +1,3 @@
+aurinko nousee {time} {day} {location}:ssa
+vuonna {location} auringonnousu on {time} {day}
+{day} aurinko nousee {time}:ssä {location}:ssa

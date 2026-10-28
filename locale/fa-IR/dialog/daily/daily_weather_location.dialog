@@ -1,0 +1,2 @@
+{day} خواهد بود {condition} در حالی که با یک سطح بالا از {high_temperature} و کمی از {low_temperature} در {location}
+{day}, {location} در این صورت، یک سطح بالایی از {high_temperature} و کمی از {low_temperature} با {condition}

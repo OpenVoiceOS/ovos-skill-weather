@@ -1,0 +1,121 @@
+(Wie|wie) ist die Temperatur
+wie (heiß|kalt|kühl|warm) ist es
+wie (heiß|kalt) wird es
+ist es (heiß|kalt|warm) draußen
+wird es (heiß|kalt) sein
+Sag mir die Temperatur
+brauche ich eine Jacke
+Temperaturvorhersage für heute Abend
+Temperaturvorhersage für morgen früh
+welche Höchsttemperatur wird erwartet
+wird es heute [(Abend|Nacht)] (heiß|kalt) sein
+(Wie|wie) ist die Temperatur in {location}
+wie (heiß|kalt|kühl|warm) ist es gerade jetzt
+wie (heiß|kalt|kühl|warm) ist es in {location}
+wie (heiß|kalt) wird es heute sein
+wie (warm|kalt) wird es heute Nacht
+wie (heiß|kalt) wird es in {location}
+ist es (heiß|kalt|warm) draußen in {location}
+muss ich [(Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)] mit Frost rechnen
+Wie ist die Temperatur (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) Morgen
+Wie ist die Temperatur (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen) Nacht
+Wie hoch ist die (höchste|maximale|minimale|niedrigste) Temperatur
+Wie ist die aktuelle Temperatur [(draußen|heute|jetzt)]
+Sag mir die Temperatur in {location}
+brauche ich in {location} eine Jacke
+brauche ich [heute] eine einen Mantel
+wie heiß oder kalt ist es
+wie warm wird es heute Morgen
+wird es heute Abend kühl sein
+werden Temperaturen unter dem Gefrierpunkt erwartet
+wird es unter den Gefrierpunkt fallen
+wie (heiß|kalt) wird es (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen) in {location}
+wie (heiß|kalt) wird es heute (Abend|Nacht) sein
+wie ist die Temperatur um (1|10|11|12|2|3|4|5|6|7|8|9) (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag)
+(Wie|wie) ist die Temperatur in {location} jetzt
+werden (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) Temperaturen unter dem Gefrierpunkt erwartet
+wird es (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) unter den Gefrierpunkt fallen
+Wie hoch ist die Temperatur in (Celsius|Fahrenheit)
+Wie ist die Temperatur in {location} (draußen|heute)
+was ist die nächtliche Tiefsttemperatur für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)
+brauche ich in {location} eine einen Mantel
+brauche ich heute in {location} eine Jacke
+wird es morgen Nachmittag voraussichtlich brütend heiß
+muss ich in {location} mit Frost rechnen
+muss ich heute Nacht mit Frost rechnen
+wie ist die Temperatur um (1|10|11|12|2|3|4|5|6|7|8|9) (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag) in {location}
+werden [(Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)] in {location} Temperaturen unter dem Gefrierpunkt erwartet
+wird es [(Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen)] in {location} unter den Gefrierpunkt fallen
+was ist die nächtliche Tiefsttemperatur für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) in {location}
+Wie hoch ist die Temperatur in {location} in (Celsius|Fahrenheit)
+wird es morgen Nachmittag in {location} voraussichtlich brütend heiß
+muss ich heute Nacht in {location} mit Frost rechnen
+Wie hoch ist die (höchste|maximale|minimale|niedrigste) Temperatur (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag) (Morgen|Nacht)
+wie (heiß|kalt|kühl|warm) ist es in {location} gerade jetzt
+wie (warm|kalt) wird es heute Nacht in {location}
+muss ich (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|morgen) in {location} mit Frost rechnen
+Wie hoch ist die (höchste|maximale|oberste) Höchsttempertur in {location}
+Wie hoch ist die (höchste|maximale|oberste|niedrigste) Temperatur in {location}
+Wie hoch ist die aktuelle Temperatur in (Celsius|Fahrenheit)
+brauche ich heute in {location} eine einen Mantel
+wie heiß oder kalt ist es gerade jetzt
+wie heiß oder kalt ist es in {location}
+Wie ist die Temperatur heute Nacht in {location}
+wie warm wird es heute Morgen in {location}
+wird es heute Abend in {location} kühl sein
+was ist die nächtliche Tiefsttemperatur für heute Nacht
+werden heute Nacht Temperaturen unter dem Gefrierpunkt erwartet
+wird es heute Nacht unter den Gefrierpunkt fallen
+Wie hoch ist die (höchste|maximale|oberste) (Höchsttempertur|Temperatur) in {location} (am|dieses|nächstes) (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag)
+Wie hoch ist die niedrigste Temperatur in {location} (dienstag|donnerstag|freitag|mittwoch|montag|morgen|samstag|sonntag) (Morgen|Nacht)
+Wie hoch ist die aktuelle Temperatur in {location} in (Celsius|Fahrenheit)
+wie heiß oder kalt ist es in {location} gerade jetzt
+was ist die nächtliche Tiefsttemperatur für heute Nacht in {location}
+werden heute Nacht in {location} Temperaturen unter dem Gefrierpunkt erwartet
+wird es heute Nacht in {location} unter den Gefrierpunkt fallen
+wie (heiß|kalt) wird es (sein|Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen)
+(Wie|wie) ist die Temperatur jetzt
+Wie ist die Temperatur (draußen|heute)
+welche Höchsttemperatur wird erwartet (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen)
+brauche ich heute eine Jacke
+aktuelle Temperatur
+Spitzentemperatur für (Dienstag|Donnerstag|Freitag|Mittwoch|Montag|Samstag|Sonntag|heute|morgen)
+Vorhersage der Mindesttemperatur
+wie viel grad (hat es|ist es) (gerade|jetzt|draußen|heute)
+wie viele grad (sind|hat) es in {location} (heute|gerade)
+wie viel Grad (sind es|werden es) [in {location}]
+wie hoch ist die (Höchsttemperatur|Tiefsttemperatur) [in {location}]
+welche Temperatur haben wir [in {location}]
+wie warm wird es (heute|heute Abend|morgen) [in {location}]
+wie heiß wird es [in {location}]
+wie heiß wird es heute Abend [in {location}]
+auf wie viel Grad steigt die Temperatur [in {location}]
+wie viel Grad hat es [in {location}]
+Wird es kalt in {location}?
+Ist es kalt in {location}?
+Wird es heute kalt in {location}?
+Wird es morgen kalt in {location}?
+Wie kalt wird es in {location}?
+Gibt es Frost in {location}?
+Brauche ich eine Jacke in {location}?
+Ist es kühl draußen in {location}?
+Wird es heute Nacht kalt in {location}?
+Wird es heiß in {location}?
+Ist es heiß in {location}?
+Wird es heute heiß in {location}?
+Wird es morgen heiß in {location}?
+Wie heiß wird es in {location}?
+Gibt es eine Hitzewelle in {location}?
+Brauche ich Sonnencreme in {location}?
+Ist es warm draußen in {location}?
+Wird es heute Nacht heiß in {location}?
+Wird es am {day} heiß in {location}?
+Wird es am {day} kalt in {location}?
+soll ich (heute|morgen) (eine jacke|einen mantel|einen pullover) anziehen
+brauche ich (heute|morgen) (einen mantel|einen pullover)
+wird es (heute|morgen) (kalt|warm) [in {location}]
+ist es draußen (kalt|warm) [in {location}]
+wird es kalt [in {location}]
+ist es gerade kalt [in {location}]
+bekommen wir (heute|morgen) kaltes Wetter [in {location}]
+ist es kalt draußen [in {location}]

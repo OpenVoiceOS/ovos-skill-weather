@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "O tempo",
+  "description": "Obtén as condicións meteorolóxicas, previsións, precipitacións esperadas e moito máis! Tamén podes consultar o tempo noutras cidades do mundo. As condicións actuais e as previsións meteorolóxicas proveñen de OpenMeteo",
+  "examples": [
+    "cal é o nivel de humidade",
+    "Vai facer frío en Vigo?",
+    "cal é a velocidade do vento",
+    "a que hora comeza a chover",
+    "a que hora sae o sol",
+    "a que hora anoitece",
+    "vai ir calor hoxe",
+    "vai ir calor mañá en Vigo",
+    "hai sol",
+    "hai humidade en Vigo",
+    "Necesito abrigo en Vigo?",
+    "hai algunha alerta por vento",
+    "cando vai chover novamente",
+    "cal é a hora do amencer en Vigo",
+    "cal é a hora do anoitecer hoxe",
+    "cal é a temperatura ás 8 da mañá martes",
+    "previsión para mércores á 1 da tarde",
+    "está a nevar en Vigo"
+  ],
+  "tags": [
+    "tempo",
+    "previsión",
+    "(chuvia|choiva)",
+    "humidade",
+    "neve",
+    "temperatura"
+  ]
+}

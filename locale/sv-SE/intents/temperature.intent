@@ -1,0 +1,83 @@
+Vad är temperaturen just nu [i {location}]
+Hur många grader är det just nu [i {location}]
+Vad är det för temperatur ute nu [i {location}]
+Är det varmt eller kallt ute just nu [i {location}]
+Vad blir högsta temperaturen (idag|imorgon) [i {location}]
+Hur många grader blir det som mest (idag|imorgon) [i {location}]
+Hur varmt blir det (idag|imorgon) [i {location}]
+Vad blir temperaturen (i kväll|i natt|imorgon bitti) [i {location}]
+Hur många grader blir det (i kväll|i natt) [i {location}]
+Vilken temperatur väntas på eftermiddagen [i {location}]
+Vad blir lägsta temperaturen (idag|i natt) [i {location}]
+Hur kallt blir det på natten [i {location}]
+Blir det frost i natt [i {location}]
+Hur många grader väntas
+Hur många grader väntas i {location}
+Hur många grader väntas idag
+Hur många grader väntas idag i {location}
+Hur många grader väntas imorgon
+Hur många grader väntas imorgon i {location}
+Berätta temperaturen
+Berätta temperaturen i {location}
+Berätta temperaturen idag
+Berätta temperaturen idag i {location}
+Berätta temperaturen imorgon
+Berätta temperaturen imorgon i {location}
+Vilken temperatur får vi
+Vilken temperatur får vi i {location}
+Vilken temperatur får vi idag
+Vilken temperatur får vi idag i {location}
+Vilken temperatur får vi imorgon
+Vilken temperatur får vi imorgon i {location}
+hur många grader är det [i {location}]
+vad blir (högsta|lägsta) temperaturen [i {location}]
+temperaturen ute [i {location}]
+Blir det kallt (idag|imorgon|på {day}) [i {location}]
+Är det kallt ute nu [i {location}]
+Blir det svalt (idag|imorgon) [i {location}]
+Behöver jag jacka idag [i {location}]
+Blir det varmt (idag|imorgon|på {day}) [i {location}]
+Är det varmt ute nu [i {location}]
+Blir det riktigt varmt idag [i {location}]
+Behöver jag solkräm idag [i {location}]
+Blir det varmt
+Blir det varmt i {location}
+Blir det varmt idag
+Blir det varmt idag i {location}
+Blir det varmt imorgon
+Blir det varmt imorgon i {location}
+Är det varmt
+Är det varmt i {location}
+Är det varmt idag
+Är det varmt idag i {location}
+Är det varmt imorgon
+Är det varmt imorgon i {location}
+Väntas det varmt
+Väntas det varmt i {location}
+Väntas det varmt idag
+Väntas det varmt idag i {location}
+Väntas det varmt imorgon
+Väntas det varmt imorgon i {location}
+Blir det kallt
+Blir det kallt i {location}
+Blir det kallt idag
+Blir det kallt idag i {location}
+Blir det kallt imorgon
+Blir det kallt imorgon i {location}
+Är det kallt
+Är det kallt i {location}
+Är det kallt idag
+Är det kallt idag i {location}
+Är det kallt imorgon
+Är det kallt imorgon i {location}
+Väntas det kallt
+Väntas det kallt i {location}
+Väntas det kallt idag
+Väntas det kallt idag i {location}
+Väntas det kallt imorgon
+Väntas det kallt imorgon i {location}
+är det (kallt|varmt) [i {location}]
+blir det (kallt|varmt) i kväll [i {location}]
+behöver jag jacka
+är det kallt ute [i {location}]
+är det kallt just nu [i {location}]

@@ -1,0 +1,2 @@
+{day} estará {condition}, cunha máxima de {high_temperature} e unha mínima de {low_temperature} en {location}
+{day}, {location} rexistrará unha máxima de {high_temperature} e unha mínima de {low_temperature}. estará {condition}

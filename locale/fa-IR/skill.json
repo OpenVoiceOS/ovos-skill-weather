@@ -1,0 +1,25 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "آب و هوا",
+  "description": "شرایط آب و هوا، پیش بینی، بارش مورد انتظار و بیشتر. می توانید آب و هوای شهرهای دیگر جهان را هم بپرسید. شرایط فعلی و پیش بینی از OpenMeteo می آید.",
+  "examples": [
+    "رطوبت فعلی",
+    "آیا داغ است",
+    "آیا باد است",
+    "چه زمانی باران بعدی می بارد؟",
+    "زمان طلوع خورشید چیست",
+    "زمان غروب آفتاب",
+    "درجه حرارت چیست",
+    "پیش بینی امروز چیست",
+    "آیا ابر است"
+  ],
+  "tags": [
+    "weather",
+    "forecast",
+    "rain",
+    "humidity",
+    "snow",
+    "temperature"
+  ]
+}

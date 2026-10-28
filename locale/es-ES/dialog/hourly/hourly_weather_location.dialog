@@ -1,0 +1,4 @@
+En {location} el tiempo en las próximas horas será {condition} y {temperature} grados
+Más tarde habrá {condition} en {location}, con temperaturas alrededor de {temperature}
+{location} estará alrededor de {temperature} con {condition}
+{location} será de aproximadamente {temperature} grados con {condition}

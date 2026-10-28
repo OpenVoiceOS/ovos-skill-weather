@@ -1,0 +1,4 @@
+a nap {time} {day}
+a nap {time} {day}-kor megy le
+naplemente lesz {time} {day}
+{day} a nap {time}-kor megy le
