@@ -1,9 +1,7 @@
 """Every intent the en-US locale defines exists in every shipped locale.
 
-A locale without an intent file cannot answer that intent at all, and the
-golden runner cannot see it: an intent with no file has no prototype, so its
-rows simply miss. ``GOLDEN_INTENT_GAPS`` exempts an intent from the golden
-floor, never from this check.
+A locale without an intent file cannot answer that intent at all: an intent
+with no file has no prototype, so its golden rows miss.
 """
 from pathlib import Path
 

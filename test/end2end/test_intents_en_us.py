@@ -19,47 +19,20 @@ speaks, so routing is fully exercised without depending on -- or hanging on --
 live API responses. A ``pytest-timeout`` safety net fails any future hang fast
 instead of stalling the whole job.
 
-Every intent here is a padacioso ``.intent`` file; the skill carries no
-adapt ``IntentBuilder`` registrations.
+Every intent here is a ``.intent`` file; the skill carries no adapt
+``IntentBuilder`` registrations.
 """
-import re
 import unittest
 from unittest.mock import patch
 
 import pytest
 from ovos_bus_client.message import Message
 from ovos_bus_client.session import Session
-from ovoscope import CaptureSession, get_minicroft
+from ovoscope import CaptureSession
+from ovoscope.routing import PIPELINE, TALLY, get_prototype_minicroft
 
 SKILL_ID = "ovos-skill-weather.openvoiceos"
 LANG = "en-US"
-# The MiniCroft loads only these matchers, so padatious and m2v neither train
-# nor answer in this suite.
-PIPELINE = [
-    "ovos-adapt-pipeline-plugin-high",
-    "ovos-padacioso-pipeline-plugin-high",
-    "ovos-adapt-pipeline-plugin-medium",
-    "ovos-padacioso-pipeline-plugin-medium",
-    "ovos-adapt-pipeline-plugin-low",
-]
-
-
-def _matches_intent(msg_type: str, skill_id: str, intent_file: str) -> bool:
-    """Check whether ``msg_type`` is the matched-intent event for
-    ``intent_file`` (eg. ``weather.intent``), tolerant of which
-    pipeline tier matched it.
-
-    Compare case-insensitively against the basename with the ``.intent``
-    extension stripped from both sides, rather than pinning one wire format.
-    """
-    prefix = f"{skill_id}:"
-    if not msg_type.startswith(prefix):
-        return False
-    observed = msg_type[len(prefix):]
-    observed_base = observed.rsplit(".", 1)[0] if observed.endswith(".intent") else observed
-    expected_base = intent_file.rsplit(".", 1)[0]
-    norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
-    return norm(observed_base) == norm(expected_base)
 
 # Per-test hard ceiling: any live-network regression or hang fails the test
 # instead of stalling until the CI job is cancelled.
@@ -84,7 +57,7 @@ def _raise_no_network(*_args, **_kwargs):
 class TestWeatherIntentsEnUS(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
-        cls.minicroft = get_minicroft([SKILL_ID], default_pipeline=PIPELINE)
+        cls.minicroft = get_prototype_minicroft([SKILL_ID])
         # Patch the two network boundaries so handlers run offline and
         # deterministically: geolocation returns a fixed dict (never raises,
         # never hits the network), and the weather report call fails fast so the
@@ -120,18 +93,11 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         return capture.finish()
 
     def _assert_intent(self, text, intent):
-        self._assert_intent_any(text, [intent])
-
-    def _assert_intent_any(self, text, intents):
-        messages = self._run(text)
-        types = [m.msg_type for m in messages]
-        self.assertTrue(
-            any(_matches_intent(t, SKILL_ID, intent) for t in types for intent in intents),
-            f"no message routed to {SKILL_ID}:{intents} ({types})",
-        )
+        types = [m.msg_type for m in self._run(text)]
+        TALLY.assert_routed(text, f"{SKILL_ID}:{intent}", types)
         self.assertTrue(any("speak" in t for t in types))
 
-    # -- padacioso intents (.intent files) --------------------------------
+    # -- .intent files -----------------------------------------------------
 
     def test_tell_me_the_weather(self):
         self._assert_intent("can you tell me the weather", "weather.intent")
@@ -170,12 +136,8 @@ class TestWeatherIntentsEnUS(unittest.TestCase):
         self._assert_intent("will it be cloudy tomorrow in Paris", "weather_condition.intent")
 
     def test_is_it_cloudy_no_longer_ties_with_is_clear(self):
-        """``is_clear`` and ``is_cloudy`` used to be separate padacioso
-        intents whose alternatives briefly overlapped on 'cloudy', making
-        this phrase's routing unstable. Merging both into a single
-        ``weather_condition.intent`` (with the actual condition captured in
-        its ``{condition}`` slot) removes the tie entirely.
-        """
+        """'is it cloudy' routes to ``weather_condition.intent``, which holds
+        the condition in its ``{condition}`` slot."""
         self._assert_intent("is it cloudy", "weather_condition.intent")
 
     def test_is_it_hot(self):
