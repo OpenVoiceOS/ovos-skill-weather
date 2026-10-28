@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.5a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.5a3) (2026-10-28)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.5a2...1.5.5a3)
+
+**Merged pull requests:**
+
+- test: run the end2end suite on the m2v prototype pipeline [\#322](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/322) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.5a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.5a2) (2026-10-27)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.5a1...1.5.5a2)
