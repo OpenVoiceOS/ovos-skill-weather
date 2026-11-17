@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.6a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.6a1) (2026-11-17)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.5a3...1.5.6a1)
+
+**Merged pull requests:**
+
+- fix: read the forecast time and day count with chronologia and numtag [\#326](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/326) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.5a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.5a3) (2026-10-28)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.5a2...1.5.5a3)
