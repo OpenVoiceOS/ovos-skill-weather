@@ -7,6 +7,7 @@ name = "ovos-skill-weather"
 dynamic = ["version"]
 description = "ovos weather skill plugin"
 readme = "README.md"
+requires-python = ">=3.11"
 license = {text = "Apache-2.0"}
 authors = [{name = "JarbasAi", email = "jarbasai@mailfence.com"}]
 keywords = ["ovos", "skill", "plugin"]
@@ -15,7 +16,8 @@ dependencies = [
     "pytz",
     "ovos-utils>=0.4.0,<1.0.0",
     "ovos-workshop>=2.2.0,<10.0.0",
-    "ovos-number-parser>=0.0.1,<1.0.0",
+    "chronologia>=0.32.7a1",
+    "numtag>=0.13.6a1",
     "ovos-date-parser>=0.0.2,<1.0.0",
     "ovos-utterance-normalizer>=0.0.1,<1.0.0",
     "timezonefinder",
