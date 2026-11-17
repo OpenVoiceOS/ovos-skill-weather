@@ -9,7 +9,8 @@ from ovos_bus_client.message import Message
 from ovos_utils.fakebus import FakeBus
 
 from ovos_skill_weather import WeatherSkill
-from ovos_skill_weather.weather_helpers import util
+from ovos_skill_weather.weather_helpers import intent, util
+from ovos_skill_weather.weather_helpers.weather import CURRENT
 
 LISBON = ZoneInfo("Europe/Lisbon")
 #: a Tuesday afternoon
@@ -103,3 +104,23 @@ def test_a_counted_number_of_days_is_a_multi_day_forecast(skill, lang, utterance
 ])
 def test_a_day_word_without_a_count_is_the_week(skill, lang, utterance):
     assert days_asked(skill, lang, utterance) == (False, ["week"])
+
+
+@pytest.mark.parametrize("zone, wall_clock, utterance", [
+    ("Europe/Lisbon", (20, 35), "what's the weather this evening"),
+    ("America/New_York", (15, 35), "what's the weather this afternoon"),
+])
+def test_a_part_of_the_day_that_holds_now_is_the_current_weather(
+        skill, monkeypatch, zone, wall_clock, utterance):
+    # the skill reads the clock more than once while it handles one question,
+    # and every read is a little later than the one before
+    reads = iter(range(1000))
+    start = datetime.datetime(2017, 6, 27, *wall_clock, tzinfo=ZoneInfo(zone))
+
+    def ticking_clock(tz=None):
+        return start + datetime.timedelta(milliseconds=250 * next(reads))
+
+    monkeypatch.setattr(util, "now_local", ticking_clock)
+    monkeypatch.setattr(intent, "now_local", ticking_clock)
+    intent_data = skill._get_intent_data(Message("test", {"utterance": utterance}))
+    assert intent_data.timeframe == CURRENT

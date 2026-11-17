@@ -56,7 +56,8 @@ def get_utterance_datetime(
     the midnight of its first day that is not over, which asks for a daily
     forecast. A part of the day ("tonight", "friday evening") answers its
     middle, and a shorter time ("at 9 pm") its start, which ask for an hourly
-    forecast. A time that has begun answers from now.
+    forecast. A shorter time that holds the present moment ("this evening"
+    said in the evening) answers None, which asks for the current weather.
 
     Args:
         utterance: the words spoken by the user
@@ -65,7 +66,8 @@ def get_utterance_datetime(
 
     Returns:
         The date and time represented in the utterance in the specified
-        timezone, or None when the utterance names no time.
+        timezone, or None when the utterance names no time or a time that
+        holds the present moment.
     """
     anchor = now_local() if timezone is None else datetime.now(ZoneInfo(timezone))
     found = extract_timespan(utterance, language, anchor)
@@ -83,7 +85,7 @@ def get_utterance_datetime(
         end = min(end, start.replace(hour=0, minute=0, second=0, microsecond=0)
                   + timedelta(days=1))
         start = start + (end - start) / 2
-    return anchor if start < anchor < end else start
+    return None if start < anchor < end else start
 
 
 def _is_part_of_day(start: datetime, end: datetime, language: str) -> bool:
