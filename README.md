@@ -62,8 +62,9 @@ An [OVOS](https://github.com/OpenVoiceOS) instance loads it automatically throug
 ## Related projects
 
 * [OpenVoiceOS/ovos-workshop](https://github.com/OpenVoiceOS/ovos-workshop) — the skill framework this skill builds on.
-* [OpenVoiceOS/ovos-date-parser](https://github.com/OpenVoiceOS/ovos-date-parser) — parses the dates and times used in forecast requests.
-* [OpenVoiceOS/ovos-number-parser](https://github.com/OpenVoiceOS/ovos-number-parser) — parses the numbers used in temperature and forecast requests.
+* [TigreGotico/chronologia](https://github.com/TigreGotico/chronologia) — reads the day, the part of the day and the number of days a forecast request asks about.
+* [TigreGotico/numtag](https://github.com/TigreGotico/numtag) — finds the number of days said in a multi-day forecast request.
+* [OpenVoiceOS/ovos-date-parser](https://github.com/OpenVoiceOS/ovos-date-parser) — speaks the dates and times in forecast answers.
 * [OpenVoiceOS/ovos-utterance-normalizer](https://github.com/OpenVoiceOS/ovos-utterance-normalizer) — normalizes utterances before intent matching.
 
 ## Credits

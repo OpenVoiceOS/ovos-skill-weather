@@ -14,10 +14,12 @@
 """Utility functions for the weather skill."""
 from datetime import datetime, timedelta, tzinfo
 from itertools import islice
-from typing import List
+from typing import List, Optional
+from zoneinfo import ZoneInfo
 
 import pytz
-from ovos_date_parser import nice_date, extract_datetime
+from chronologia import DAY_PARTS, extract_timespan
+from ovos_date_parser import nice_date
 from ovos_utils.geolocation import get_geolocation as _get_geo
 from ovos_utils.time import now_local, to_local
 
@@ -47,8 +49,14 @@ def convert_to_local_datetime(isodate: str, timezone: str) -> datetime:
 
 def get_utterance_datetime(
         utterance: str, timezone: str = None, language: str = None
-) -> datetime:
+) -> Optional[datetime]:
     """Get a datetime representation of a date or time concept in an utterance.
+
+    A time of a day or more ("tomorrow", "in 3 days", "this weekend") answers
+    the midnight of its first day that is not over, which asks for a daily
+    forecast. A part of the day ("tonight", "friday evening") answers its
+    middle, and a shorter time ("at 9 pm") its start, which ask for an hourly
+    forecast. A time that has begun answers from now.
 
     Args:
         utterance: the words spoken by the user
@@ -56,18 +64,37 @@ def get_utterance_datetime(
         language: the language configured on the device
 
     Returns:
-        The date and time represented in the utterance in the specified timezone.
+        The date and time represented in the utterance in the specified
+        timezone, or None when the utterance names no time.
     """
-    utterance_datetime = None
-    if timezone is None:
-        anchor_date = None
-    else:
-        intent_timezone = get_tz_info(timezone)
-        anchor_date = datetime.now(intent_timezone)
-    extract = extract_datetime(utterance, anchorDate=anchor_date, lang=language)
-    if extract is not None:
-        utterance_datetime, _ = extract
-    return utterance_datetime
+    anchor = now_local() if timezone is None else datetime.now(ZoneInfo(timezone))
+    found = extract_timespan(utterance, language, anchor)
+    if found is None or None in (found.span.start_datetime, found.span.end_datetime):
+        return None
+    # chronologia answers in the anchor's wall clock without a zone
+    start, end = (moment.replace(tzinfo=anchor.tzinfo) for moment in
+                  (found.span.start_datetime, found.span.end_datetime))
+    if found.span.width >= timedelta(days=1):
+        return max(start, anchor).replace(hour=0, minute=0, second=0, microsecond=0) \
+            if anchor < end else start
+    if _is_part_of_day(start, end, language):
+        # a night is the night of the day it opens on, so the band is cut at
+        # midnight before its middle is taken
+        end = min(end, start.replace(hour=0, minute=0, second=0, microsecond=0)
+                  + timedelta(days=1))
+        start = start + (end - start) / 2
+    return anchor if start < anchor < end else start
+
+
+def _is_part_of_day(start: datetime, end: datetime, language: str) -> bool:
+    """Whether the span is exactly one of the language's parts of the day.
+
+    A language with no bands of its own reads chronologia's default bands.
+    """
+    code = language.split("-")[0]
+    bands = {(part.start, part.end) for part in DAY_PARTS.values() if part.lang == code} \
+        or {(part.start, part.end) for part in DAY_PARTS.values() if part.lang is None}
+    return (start.time(), end.time()) in bands
 
 
 def get_tz_info(timezone: str) -> tzinfo:

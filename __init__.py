@@ -19,12 +19,14 @@ proxies its calls to the API through Mycroft's officially supported API,
 Selene.  The Selene API is also used to get geographical information about the
 city name provided in the request.
 """
-import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from time import sleep
-from typing import List
+from typing import List, Optional
 
-from ovos_number_parser import extract_number
+from fractions import Fraction
+
+from chronologia import extract_duration
+from numtag import Kind, Reason, tag_numbers
 from ovos_date_parser import (
     nice_time,
     nice_weekday,
@@ -124,11 +126,11 @@ class WeatherSkill(OVOSSkill):
         "the weekly forecast", "the coming few days") apart from a request
         for a single timeframe.
 
-        A bare mention of a number is not enough: a hint word ("day"/"days")
-        or one of the standing day-count vocabularies must also be present,
-        otherwise phrases like "the forecast for friday 9 pm" (a weekday
-        name ending in the substring "day", plus an hour number) would be
-        misread as a day count.
+        A bare mention of a number is not enough: the number must count
+        days ("3 days", "cinco dias"), or one of the standing day-count
+        vocabularies must be present, otherwise phrases like "the forecast
+        for friday 9 pm" (a weekday name ending in the substring "day", plus
+        an hour number) would be misread as a day count.
 
         Args:
             utterance: the captured utterance
@@ -143,12 +145,26 @@ class WeatherSkill(OVOSSkill):
             or self.voc_match(utterance, "number_days")
         ):
             return True
-        if re.search(r"\bdays?\b", utterance.lower()):
-            try:
-                return bool(extract_number(utterance, lang=self.lang))
-            except Exception:
-                return False
-        return False
+        found = extract_duration(utterance, self.lang)
+        count = self._spoken_count(utterance)
+        return found is not None and count is not None \
+            and found.duration == timedelta(days=count)
+
+    def _spoken_count(self, utterance: str) -> Optional[int]:
+        """The first whole number said in the utterance, or None.
+
+        An article alone ("the day after tomorrow", "um dia de sol") is no
+        count.
+
+        Args:
+            utterance: the captured utterance
+        """
+        for mention in tag_numbers(utterance, self.lang):
+            if mention.kind == Kind.CARDINAL and Reason.ARTICLE not in mention.reasons:
+                value = Fraction(mention.value)
+                if value.denominator == 1:
+                    return int(value)
+        return None
 
     def _dispatch_multi_day_forecast(self, message: Message):
         """Handle a multi-day forecast request, either a specific number of
@@ -170,10 +186,7 @@ class WeatherSkill(OVOSSkill):
         elif self.voc_match(utt, "few"):
             days = 3
         else:
-            try:
-                days = int(extract_number(utt, lang=self.lang))
-            except:
-                pass
+            days = self._spoken_count(utt)
 
         if not days:
             self._report_week_summary(message)
