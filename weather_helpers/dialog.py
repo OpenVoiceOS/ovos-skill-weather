@@ -16,10 +16,10 @@
 There are A LOT of dialog files in this skill.  All the permutations of timeframe,
 weather condition and location add up fast.  To help with discoverability, a naming
 convention was applied to the dialog files:
-    <timeframe>-<weather info>-<qualifier>-<locale>.dialog
+    <timeframe>_<weather info>_<qualifier>_<locale>.dialog
 
     Example:
-         daily-temperature-high-local.dialog
+         daily_temperature_high_local.dialog
 
     * Timeframe: the date or time applicable to the forecast.  This skill supports
         current, hourly and daily weather.
@@ -81,9 +81,9 @@ class WeatherDialog:
     def _add_location(self):
         """Add location information to the dialog."""
         if self.intent_data.location is None:
-            self.name += "-local"
+            self.name += "_local"
         else:
-            self.name += "-location"
+            self.name += "_location"
             if self.intent_data.config.country == self.intent_data.geolocation["country"]:
                 spoken_location = ", ".join(
                     [
@@ -111,7 +111,7 @@ class CurrentDialog(WeatherDialog):
 
     def build_weather_dialog(self):
         """Build the components necessary to speak current weather."""
-        self.name += "-weather"
+        self.name += "_weather"
         self.data = dict(
             condition=self.translate(self.weather.condition.description),
             temperature=self.weather.temperature,
@@ -124,12 +124,12 @@ class CurrentDialog(WeatherDialog):
 
         :param temperature_type: indicates if temperature is current, high or low
         """
-        self.name += "-temperature"
+        self.name += "_temperature"
         if temperature_type == "high":
-            self.name += "-high"
+            self.name += "_high"
             self.data = dict(temperature=self.weather.temperature_high)
         elif temperature_type == "low":
-            self.name += "-low"
+            self.name += "_low"
             self.data = dict(temperature=self.weather.temperature_low)
         else:
             self.data = dict(temperature=self.weather.temperature)
@@ -149,10 +149,10 @@ class CurrentDialog(WeatherDialog):
             self.weather.condition.description)
         )
         if intent_match:
-            self.name += "-condition-expected"
+            self.name += "_condition_expected"
         else:
             # TODO nothing to format
-            self.name += "-condition-not-expected".format(
+            self.name += "_condition_not_expected".format(
                 self.weather.condition.category.lower()
             )
         self._add_location()
@@ -164,9 +164,9 @@ class CurrentDialog(WeatherDialog):
         else:
             now = now_local(tz=self.intent_data.geolocation["timezone"])
         if now < self.weather.sunrise:
-            self.name += "-sunrise-future"
+            self.name += "_sunrise_future"
         else:
-            self.name += "-sunrise-past"
+            self.name += "_sunrise_past"
         self.data = dict(time=nice_time(self.weather.sunrise, lang=self.lang))
         self._add_location()
 
@@ -177,9 +177,9 @@ class CurrentDialog(WeatherDialog):
         else:
             now = now_local(tz=self.intent_data.geolocation["timezone"])
         if now < self.weather.sunset:
-            self.name += "-sunset-future"
+            self.name += "_sunset_future"
         else:
-            self.name = "-sunset-past"
+            self.name += "_sunset_past"
         self.data = dict(time=nice_time(self.weather.sunset, lang=self.lang))
         self._add_location()
 
@@ -191,16 +191,16 @@ class CurrentDialog(WeatherDialog):
             speed_unit=self.translate(self.config.speed_unit),
             direction=self.translate(self.weather.wind_direction.lower()),
         )
-        self.name += "-wind-" + wind_strength
+        self.name += "_wind_" + wind_strength
         self._add_location()
 
     def build_humidity_dialog(self):
         """Build the components necessary to speak the percentage humidity."""
         self.data = dict(
-            percent=self.translate("percentage-number",
+            percent=self.translate("percentage_number",
                                    {"number": self.weather.humidity})
         )
-        self.name += "-humidity"
+        self.name += "_humidity"
         self._add_location()
 
 
@@ -214,7 +214,7 @@ class HourlyDialog(WeatherDialog):
 
     def build_weather_dialog(self):
         """Build the components necessary to speak the forecast for a hour."""
-        self.name += "-weather"
+        self.name += "_weather"
         self.data = dict(
             condition=self.translate(self.weather.condition.description),
             time=nice_time(self.weather.date_time, lang=self.lang),
@@ -224,7 +224,7 @@ class HourlyDialog(WeatherDialog):
 
     def build_temperature_dialog(self, _=None):
         """Build the components necessary to speak the hourly temperature."""
-        self.name += "-temperature"
+        self.name += "_temperature"
         self.data = dict(
             temperature=self.weather.temperature,
             time=self.translate(get_time_period(self.weather.date_time)),
@@ -244,10 +244,10 @@ class HourlyDialog(WeatherDialog):
             time=nice_time(self.weather.date_time, lang=self.lang),
         )
         if intent_match:
-            self.name += "-condition-expected"
+            self.name += "_condition_expected"
         else:
             # TODO nothing to format
-            self.name += "-condition-not-expected".format(
+            self.name += "_condition_not_expected".format(
                 self.weather.condition.category.lower()
             )
         self._add_location()
@@ -261,18 +261,18 @@ class HourlyDialog(WeatherDialog):
             direction=self.translate(self.weather.wind_direction.lower()),
             time=nice_time(self.weather.date_time, lang=self.lang),
         )
-        self.name += "-wind-" + wind_strength
+        self.name += "_wind_" + wind_strength
         self._add_location()
 
     def build_next_precipitation_dialog(self):
         """Build the components necessary to speak the next chance of rain."""
         if self.weather is None:
-            self.name += "-precipitation-next-none"
+            self.name += "_precipitation_next_none"
             self.data = dict()
         else:
-            self.name += "-precipitation-next"
+            self.name += "_precipitation_next"
             self.data = dict(
-                percent=self.translate("percentage-number",
+                percent=self.translate("percentage_number",
                                        {"number": self.weather.chance_of_precipitation}),
                 precipitation=self.translate(self.weather.condition.description),
                 day=get_speakable_day_of_week(self.weather.date_time, self.lang),
@@ -291,7 +291,7 @@ class DailyDialog(WeatherDialog):
 
     def build_weather_dialog(self):
         """Build the components necessary to speak the forecast for a day."""
-        self.name += "-weather"
+        self.name += "_weather"
         self.data = dict(
             condition=self.translate(self.weather.condition.description),
             day=get_speakable_day_of_week(self.weather.date_time, self.lang),
@@ -305,15 +305,15 @@ class DailyDialog(WeatherDialog):
 
         :param temperature_type: indicates if temperature is day, high or low
         """
-        self.name += "-temperature"
+        self.name += "_temperature"
         if temperature_type == "high":
-            self.name += "-high"
+            self.name += "_high"
             self.data = dict(temperature=self.weather.temperature_high)
         elif temperature_type == "low":
-            self.name += "-low"
+            self.name += "_low"
             self.data = dict(temperature=self.weather.temperature_low)
         else:
-            self.name += "-high-low"
+            self.name += "_high_low"
             self.data = dict(high_temperature=self.weather.temperature_high,
                              low_temperature=self.weather.temperature_low)
         self.data.update(
@@ -334,24 +334,24 @@ class DailyDialog(WeatherDialog):
             day=get_speakable_day_of_week(self.weather.date_time, self.lang),
         )
         if intent_match:
-            self.name += "-condition-expected"
+            self.name += "_condition_expected"
         else:
             # TODO nothing to format
-            self.name += "-condition-not-expected".format(
+            self.name += "_condition_not_expected".format(
                 self.weather.condition.category.lower()
             )
         self._add_location()
 
     def build_sunrise_dialog(self):
         """Build the components necessary to speak the sunrise time."""
-        self.name += "-sunrise"
+        self.name += "_sunrise"
         self.data = dict(time=nice_time(self.weather.sunrise, lang=self.lang))
         self.data.update(day=get_speakable_day_of_week(self.weather.date_time, self.lang))
         self._add_location()
 
     def build_sunset_dialog(self):
         """Build the components necessary to speak the sunset time."""
-        self.name += "-sunset"
+        self.name += "_sunset"
         self.data = dict(time=nice_time(self.weather.sunset, lang=self.lang))
         self.data.update(day=get_speakable_day_of_week(self.weather.date_time, self.lang))
         self._add_location()
@@ -365,28 +365,28 @@ class DailyDialog(WeatherDialog):
             speed_unit=self.translate(self.config.speed_unit),
             direction=self.translate(self.weather.wind_direction.lower()),
         )
-        self.name += "-wind-" + wind_strength
+        self.name += "_wind_" + wind_strength
         self._add_location()
 
     def build_humidity_dialog(self):
         """Build the components necessary to speak the percentage humidity."""
         self.data = dict(
-            percent=self.translate("percentage-number",
+            percent=self.translate("percentage_number",
                                    {"number": self.weather.humidity}),
             day=get_speakable_day_of_week(self.weather.date_time, self.lang)
         )
-        self.name += "-humidity"
+        self.name += "_humidity"
         self._add_location()
 
     def build_next_precipitation_dialog(self):
         """Build the components necessary to speak the next chance of rain."""
         if self.weather is None:
-            self.name += "-precipitation-next-none"
+            self.name += "_precipitation_next_none"
             self.data = dict()
         else:
-            self.name += "-precipitation-next"
+            self.name += "_precipitation_next"
             self.data = dict(
-                percent=self.translate("percentage-number",
+                percent=self.translate("percentage_number",
                                        {"number": self.weather.chance_of_precipitation}),
                 precipitation=self.translate(self.weather.condition.description),
                 day=get_speakable_day_of_week(self.weather.date_time, self.lang),
@@ -410,7 +410,7 @@ class WeeklyDialog(WeatherDialog):
         """Build the components necessary to temperature ranges for a week."""
         low_temperatures = [daily.temperature_low for daily in self.forecast]
         high_temperatures = [daily.temperature_high for daily in self.forecast]
-        self.name += "-temperature"
+        self.name += "_temperature"
         self.data = dict(
             low_min=min(low_temperatures),
             low_max=max(low_temperatures),
@@ -420,7 +420,7 @@ class WeeklyDialog(WeatherDialog):
 
     def build_condition_dialog(self, condition: str):
         """Build the components necessary to speak the days of week for a condition."""
-        self.name += "-condition"
+        self.name += "_condition"
         self.data = dict(condition=self.translate(condition))
         days_with_condition = []
         for daily in self.forecast:

@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Météo",
+  "description": "Consultez la météo actuelle, les prévisions, l'humidité et les prochaines pluies. Vous pouvez aussi demander la météo d'une autre ville. Les données proviennent d'Open-Meteo.",
+  "examples": [
+    "quel est le taux d'humidité",
+    "Va-t-il faire froid à Lyon?",
+    "y a-t-il du vent",
+    "quand pleuvra-t-il",
+    "à quelle heure est le lever du soleil",
+    "à quelle heure est le coucher du soleil",
+    "quelle est la température",
+    "quel temps fait-il",
+    "est-ce que le ciel est dégagé",
+    "l'air est-il humide",
+    "fera-t-il chaud",
+    "est-ce venteux dans Lyon",
+    "à quelle heure commencera la pluie",
+    "quelle est l'heure du lever du soleil dans Lyon",
+    "quelle est l'heure du coucher du soleil dans Lyon",
+    "ai-je besoin d'une veste à Lyon",
+    "quel temps fera-t-il dimanche",
+    "est-ce qu'il neige demain à Lyon"
+  ],
+  "tags": [
+    "météo",
+    "prévisions",
+    "pluie",
+    "humidité",
+    "neige",
+    "température"
+  ]
+}

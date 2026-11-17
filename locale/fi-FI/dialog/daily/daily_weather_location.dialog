@@ -1,0 +1,2 @@
+{day} se on {condition}, korkeimmillaan {high_temperature} ja matalimmillaan {low_temperature} {location}:ssä.
+{day}, {location} on korkeimmillaan {high_temperature} ja alhaisimmillaan {low_temperature}, ja {condition}

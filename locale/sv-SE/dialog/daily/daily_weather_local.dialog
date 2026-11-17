@@ -1,0 +1,5 @@
+Förvänta dig {condition}, med en högsta nivå på {high_temperature} och en lägsta nivå på {low_temperature} {day}
+Prognosen {day} är {condition} med en toppnotering på {high_temperature} och en bottennotering på {low_temperature}.
+{day} den högsta nivån kommer att vara {high_temperature} och den lägsta {low_temperature}, med {condition}
+{day} det kommer att vara {condition} med en hög av {high_temperature} och en låg av {low_temperature}
+{day} förväntar sig {condition}, med en toppnotering på {high_temperature} och en bottennotering på {low_temperature}
