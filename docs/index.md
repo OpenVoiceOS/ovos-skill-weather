@@ -15,11 +15,13 @@ The skill speaks the current weather and the forecast for your location or for a
 uv pip install --prerelease=allow ovos-skill-weather
 ```
 
-Say "what's the temperature". The skill answers with this fixed part. The forecast fills the slots:
+Say "when is the sunset". The skill answers with one of three sentences, for example:
 
 ```text
-It's currently <temperature> degrees <unit>.
+the sun will set at <time> today
 ```
+
+The forecast fills `<time>`.
 
 ## Pages
 

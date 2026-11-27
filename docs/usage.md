@@ -27,7 +27,7 @@ A phrase with a number of days ("the next three days") or "this weekend" gives a
 - "What's the high temperature tomorrow?"
 - "Will it be cold on Tuesday?"
 - "Is it hot outside?"
-- "How hot or cold is it right now?"
+- "How hot or cold is it outside?"
 
 "Hot" asks for the high and "cold" asks for the low.
 
@@ -51,7 +51,7 @@ The skill answers yes or no for the condition that you name.
 
 - "How humid is it?"
 - "Is it muggy outside?"
-- "What's the humidity level right now?"
+- "What's the humidity level?"
 
 ## Next rain: `next_rain`
 

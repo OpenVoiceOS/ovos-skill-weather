@@ -20,11 +20,10 @@ OVOS loads the skill through the `opm.skill` entry point `ovos-skill-weather.ope
 ## Quickstart
 
 ```text
-"what's the temperature" -> It's currently <temperature> degrees <unit>.
-"what is the weather"    -> It's currently <condition> and <temperature> degrees <unit>.
+"when is the sunset" -> the sun will set at <time> today
 ```
 
-The forecast fills the parts in angle brackets.
+The skill selects one of three sentences for this answer. The forecast fills `<time>`.
 
 ## Documentation
 
