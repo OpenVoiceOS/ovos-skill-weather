@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.9a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.9a2) (2026-11-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.9a1...1.5.9a2)
+
+**Merged pull requests:**
+
+- test: assert the da-DK sunset answer, chronologia\>=0.47.1a1 [\#356](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/356) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.9a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.9a1) (2026-11-27)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.8a1...1.5.9a1)
@@ -368,10 +376,6 @@
 ## [1.2.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.2.0a1) (2026-09-04)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.1.0a1...1.2.0a1)
-
-**Merged pull requests:**
-
-- feat: complete lang-agnostic migration by removing the last adapt bridges [\#235](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/235) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.1.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.1.0a1) (2026-09-03)
 
