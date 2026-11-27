@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.9a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.9a3) (2026-11-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.9a2...1.5.9a3)
+
+**Merged pull requests:**
+
+- test: golden rows for every intent in the leader locales [\#354](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/354) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.9a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.9a2) (2026-11-27)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.9a1...1.5.9a2)
