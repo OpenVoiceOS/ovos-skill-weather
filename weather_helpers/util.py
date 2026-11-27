@@ -175,12 +175,9 @@ def get_speakable_day_of_week(date_to_speak: datetime, lang: str):
         in the letter case of nice_date for that language.
     """
     now = now_local()
-    try:
-        if (now.date() - date_to_speak.date()).days in (0, 1):
-            return nice_date(date_to_speak, now=now, lang=lang)
-        date_case = nice_date(date_to_speak, lang=lang)
-    except KeyError:  # nice_date has no date format for this language
-        date_case = ""
+    if (now.date() - date_to_speak.date()).days in (0, 1):
+        return nice_date(date_to_speak, now=now, lang=lang)
+    date_case = nice_date(date_to_speak, lang=lang)
     day = nice_weekday(date_to_speak, lang=lang)
     if date_case[:1].isupper():
         return day[:1].upper() + day[1:]
