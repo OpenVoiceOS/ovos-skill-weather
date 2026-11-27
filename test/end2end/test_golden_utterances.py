@@ -93,3 +93,9 @@ def test_every_shipping_locale_has_a_golden_file():
     locale_root = END2END_DIR.parents[1] / "locale"
     shipping = {d.name for d in locale_root.iterdir() if d.is_dir() and any(d.rglob("*.intent"))}
     assert golden == shipping, f"golden files {sorted(golden ^ shipping)} differ from shipping locales"
+
+
+def test_da_population_question_is_not_weather_condition(engine_for):
+    # ovos-m2v-pipeline#360: weather_condition.required keeps it out
+    row = {"utterance": "hvor mange bor der i københavn", "lang": "da-DK"}
+    assert f"{SKILL_ID}:weather_condition" not in _routed(engine_for("da-DK"), row)
