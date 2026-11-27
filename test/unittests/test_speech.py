@@ -1,7 +1,7 @@
 import datetime
 import unittest
 
-from weather_helpers.speech import spoken_time
+from ovos_skill_weather.weather_helpers.speech import spoken_time
 
 
 class TestSpokenTimePtPT(unittest.TestCase):
