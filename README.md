@@ -21,6 +21,7 @@ OVOS loads the skill through the `opm.skill` entry point `ovos-skill-weather.ope
 
 ```text
 "when is the sunset" -> the sun will set at <time> today
+"when is the sunset" -> the sun set at <time> today   (after the sunset)
 ```
 
 The skill selects one of three sentences for this answer. The forecast fills `<time>`.

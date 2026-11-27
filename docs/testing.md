@@ -22,8 +22,9 @@ CI runs `test/unittests` in `coverage.yml` and `test/end2end/` in `ovoscope.yml`
 A weather answer changes with the clock and with the live forecast. The end-to-end tests that check spoken text remove both:
 
 1. They freeze `now_local` at Wednesday 4 March 2026, 14:35, Europe/Lisbon. The patch goes on `weather_helpers.intent`, `weather_helpers.util` and `weather_helpers.dialog`.
-2. They replace `requests.get` in `weather_helpers.openmeteo` with a fixed seven-day report.
-3. They send each utterance through the m2v intent pipeline of ovoscope and read the `speak` messages.
+2. They patch `weather_helpers.weather.convert_to_local_datetime`, so that it reads each forecast time as a local time in the timezone of the location.
+3. They replace `requests.get` in `weather_helpers.openmeteo` with a fixed seven-day report.
+4. They send each utterance through the m2v intent pipeline of ovoscope and read the `speak` messages.
 
 `test/end2end/test_spoken_day_name.py` and `test/end2end/test_spoken_writers.py` use this method. Run one file:
 

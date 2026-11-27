@@ -3,7 +3,7 @@
 covers: the Open-Meteo request, the cache, the forecast range and the error answers
 source: weather_helpers/openmeteo.py, __init__.py (_get_weather, _handle_api_error)
 generated: no
-verify: grep -n 'api.open-meteo.com/v1/forecast' weather_helpers/openmeteo.py && grep -n 'seconds=60 \* 15' weather_helpers/openmeteo.py
+verify: (p=$(grep -o 'keeps each result for [0-9]* minutes' docs/openmeteo.md | grep -o '[0-9]*'); c=$(( $(grep -o 'timed_lru_cache(seconds=[0-9 *]*' weather_helpers/openmeteo.py | cut -d= -f2) / 60 )); [ "$p" = "$c" ] || { echo "cache: page $p min, code $c min"; exit 1; }; p=$(grep -o 'https://api.open-meteo.com/v1/forecast' docs/openmeteo.md | head -1); grep -q "\"$p\"" weather_helpers/openmeteo.py || { echo "url: $p not in code"; exit 1; }; echo OK)
 see: settings.md
 -->
 
@@ -39,9 +39,11 @@ When an hourly request asks for more hours than the report holds, the skill says
 
 | Problem | Answer |
 | :--- | :--- |
-| HTTP status 401 | the skill sends `mycroft.not.paired` on the bus |
-| other HTTP error, or any other exception | a line from `cant_get_forecast.dialog` |
+| any HTTP error status, 401 included | a line from `cant_get_forecast.dialog` |
+| any other exception | a line from `cant_get_forecast.dialog` |
 | the city is not found | a line from `location_not_found.dialog` |
+
+`get_report` does not call `raise_for_status`. An error response goes to the report parser, which fails, so the skill never gets an `HTTPError`. The `mycroft.not.paired` branch in `_handle_api_error` does not run.
 
 The skill needs the network. Its runtime requirements tell OVOS to load it only when the internet is available.
 

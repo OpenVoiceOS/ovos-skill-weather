@@ -21,7 +21,7 @@ Say "when is the sunset". The skill answers with one of three sentences, for exa
 the sun will set at <time> today
 ```
 
-The forecast fills `<time>`.
+The forecast fills `<time>`. After the sunset, the skill uses `current_sunset_past_local.dialog` instead, for example "the sun set at <time> today".
 
 ## Pages
 
