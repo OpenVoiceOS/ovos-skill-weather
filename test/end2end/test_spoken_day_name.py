@@ -4,7 +4,8 @@ Each row sends one utterance through the m2v pipeline with the clock frozen
 at Wednesday 2026-03-04 14:35 Europe/Lisbon and Open-Meteo stubbed with a
 fixed report. The test checks the day slot of the speak message
 metadata. The expected weekday names are written by hand from the locale
-grammar, not read back from ovos-date-parser. Day names compare without case.
+grammar, not read back from ovos-date-parser. Today is the relative word.
+The letter case is the case that ovos-date-parser nice_date gives each locale.
 """
 import datetime
 from unittest import mock
@@ -24,6 +25,7 @@ HELPERS = "ovos_skill_weather.weather_helpers"
 # (case, utterance, dialog, slot, expected)
 ROWS = {
     "pt-PT": [
+        ("sunrise_today", "a que horas nasce o sol hoje", "daily_sunrise", "day", "hoje"),
         ("sunrise_tomorrow", "a que horas nasce o sol amanhã", "daily_sunrise", "day", "quinta-feira"),
         ("weekday", "como vai estar o tempo na sexta-feira", "daily", "day", "sexta-feira"),
     ],
@@ -52,6 +54,7 @@ ROWS = {
         ("weekday", "hvordan bliver vejret på fredag", "daily", "day", "fredag"),
     ],
     "en-US": [
+        ("sunrise_today", "when is sunrise today", "daily_sunrise", "day", "today"),
         ("sunrise_tomorrow", "when is sunrise tomorrow", "daily_sunrise", "day", "thursday"),
         ("weekday", "what's the forecast for friday", "daily", "day", "friday"),
     ],
@@ -146,7 +149,4 @@ def test_spoken_slot(minicroft_factory, lang, case, utterance, dialog, slot, exp
               if m.data.get("meta", {}).get("dialog", "").startswith(dialog)
               and slot in m.data["meta"].get("data", {})]
     assert values, f"{utterance!r}: spoke {[m.data.get('meta') for m in speaks]!r}"
-    value = values[0]
-    if slot == "day":
-        value, expected = value.casefold(), expected.casefold()
-    assert value == expected
+    assert values[0] == expected

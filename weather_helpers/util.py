@@ -19,7 +19,7 @@ from zoneinfo import ZoneInfo
 
 import pytz
 from chronologia import DAY_PARTS, extract_timespan
-from ovos_date_parser import nice_weekday
+from ovos_date_parser import nice_date, nice_weekday
 from ovos_utils.geolocation import get_geolocation as _get_geo
 from ovos_utils.time import now_local, to_local
 
@@ -171,9 +171,20 @@ def get_speakable_day_of_week(date_to_speak: datetime, lang: str):
         date_to_speak: The date/time for the forecast being reported.
 
     Returns:
-        The day of the week in the device's configured language
+        "today" or "yesterday" as a relative word, else the day of the week
+        in the letter case of nice_date for that language.
     """
-    return nice_weekday(date_to_speak, lang=lang)
+    now = now_local()
+    try:
+        if (now.date() - date_to_speak.date()).days in (0, 1):
+            return nice_date(date_to_speak, now=now, lang=lang)
+        date_case = nice_date(date_to_speak, lang=lang)
+    except KeyError:  # nice_date has no date format for this language
+        date_case = ""
+    day = nice_weekday(date_to_speak, lang=lang)
+    if date_case[:1].isupper():
+        return day[:1].upper() + day[1:]
+    return day[:1].lower() + day[1:]
 
 
 def chunk_list(it: list, size: int) -> List[tuple]:
