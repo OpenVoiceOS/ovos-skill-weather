@@ -21,6 +21,27 @@ class TestSpokenTimePtPT(unittest.TestCase):
         self.assertEqual(self._say(0, 0), "meia-noite em ponto")
 
 
+class TestSpokenTimePtBR(unittest.TestCase):
+    """Gold from chronologia test/test_spoken_pt_br.py (Cunha & Cintra 2017
+    p. 385)."""
+
+    def _say(self, hour, minute):
+        return spoken_time(datetime.datetime(2026, 3, 4, hour, minute), "pt-BR")
+
+    def test_half_past_noon(self):
+        self.assertEqual(self._say(12, 30), "meio-dia e meio")
+
+    def test_half_past_midnight(self):
+        self.assertEqual(self._say(0, 30), "meia-noite e meia")
+
+    def test_minutes_past_noon(self):
+        self.assertEqual(self._say(12, 10), "meio-dia e dez")
+
+    def test_whole_hour_falls_back_to_nice_time(self):
+        # chronologia refuses the pt-BR whole hour in the phrase style
+        self.assertEqual(self._say(7, 0), "sete em ponto")
+
+
 class TestSpokenTimeOtherLocales(unittest.TestCase):
     def test_en_us_keeps_nice_time(self):
         dt = datetime.datetime(2026, 3, 4, 7, 5)
