@@ -25,3 +25,37 @@
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Om welke tijd zakt de zon onder de horizon?", "lang": "nl-NL", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "hoe laat gaat de zon onder"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Om welke tijd verdwijnt de zon in Londen achter de horizon?", "lang": "nl-NL", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "hoe laat gaat de zon onder in London"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Vanaf welk tijdstip is het buiten donker?", "lang": "nl-NL", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "hoe laat wordt het donker"}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wat voor weer is het vandaag?", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wat is de weersverwachting voor morgen?", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wat voor weer wordt het dit weekend?", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wat voor weer wordt het vanmiddag in Utrecht?", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Geef me de weersvoorspelling voor Amsterdam", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe is het weer buiten?", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wat voor weer wordt het vrijdag?", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wat is de verwachting voor deze week?", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wat voor weer wordt het morgenochtend in Rotterdam?", "lang": "nl-NL", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe warm is het buiten?", "lang": "nl-NL", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoeveel graden wordt het morgen?", "lang": "nl-NL", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wat wordt vandaag de maximumtemperatuur?", "lang": "nl-NL", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe koud wordt het vannacht?", "lang": "nl-NL", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wordt het morgen warm in Maastricht?", "lang": "nl-NL", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe warm is het nu in Groningen?", "lang": "nl-NL", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Gaat het vandaag regenen?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Gaat het morgen sneeuwen in Den Haag?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Is er morgenochtend mist?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Moet ik vandaag een paraplu meenemen?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Schijnt zaterdag de zon?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Is het vannacht helder?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Komt er vanmiddag onweer?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Regent het nu in Amsterdam?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Heb ik morgen een regenjas nodig?", "lang": "nl-NL", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Gaat het morgen hard waaien?", "lang": "nl-NL", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Waait het vandaag hard buiten?", "lang": "nl-NL", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wanneer gaat het weer regenen?", "lang": "nl-NL", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wanneer valt de volgende bui in Utrecht?", "lang": "nl-NL", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe hoog is de luchtvochtigheid vandaag?", "lang": "nl-NL", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Is de lucht erg vochtig in Rotterdam?", "lang": "nl-NL", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe laat komt de zon morgen op?", "lang": "nl-NL", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe laat is de zonsopkomst in Eindhoven?", "lang": "nl-NL", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe laat is de zonsondergang vandaag?", "lang": "nl-NL", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hoe laat gaat de zon morgen onder in Amsterdam?", "lang": "nl-NL", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}

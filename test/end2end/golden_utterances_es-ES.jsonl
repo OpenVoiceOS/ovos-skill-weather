@@ -25,3 +25,37 @@
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Sabes a qué hora va a empezar a atardecer hoy?", "lang": "es-ES", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "Hora de el atardecer de hoy"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Hoy el sol a qué hora se va a poner?", "lang": "es-ES", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "Hora de el atardecer hoy"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Dime a qué hora se pone hoy el sol por la tarde", "lang": "es-ES", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "Hora de el atardecer para hoy"}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué tiempo hace hoy?", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál es la previsión del tiempo para mañana?", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué tiempo va a hacer el fin de semana?", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué tiempo hará esta tarde en Sevilla?", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Dime el pronóstico del tiempo para Madrid", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué tal está el tiempo ahí fuera?", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué tiempo hará el viernes?", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál es la previsión para esta semana?", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué tiempo hará mañana por la mañana en Bilbao?", "lang": "es-ES", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué temperatura hace fuera?", "lang": "es-ES", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuántos grados va a hacer mañana?", "lang": "es-ES", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál será la máxima hoy?", "lang": "es-ES", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál será la mínima esta noche?", "lang": "es-ES", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a hacer calor mañana en Valencia?", "lang": "es-ES", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué temperatura hace ahora en Zaragoza?", "lang": "es-ES", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a llover hoy?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a nevar mañana en Granada?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Habrá niebla mañana por la mañana?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Me llevo el paraguas hoy?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Hará sol el sábado?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Estará el cielo despejado esta noche?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a haber tormenta esta tarde?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Está lloviendo en Barcelona?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Necesito el chubasquero mañana?", "lang": "es-ES", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a hacer mucho viento mañana?", "lang": "es-ES", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Hace mucho viento hoy ahí fuera?", "lang": "es-ES", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuándo va a volver a llover?", "lang": "es-ES", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuándo es la próxima lluvia en Santiago?", "lang": "es-ES", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál es la humedad relativa hoy?", "lang": "es-ES", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Hay mucha humedad en Valencia?", "lang": "es-ES", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿A qué hora sale el sol mañana?", "lang": "es-ES", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿A qué hora amanece en Madrid?", "lang": "es-ES", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿A qué hora es la puesta de sol hoy?", "lang": "es-ES", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿A qué hora anochece mañana en Sevilla?", "lang": "es-ES", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
