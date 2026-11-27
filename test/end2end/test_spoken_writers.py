@@ -37,7 +37,7 @@ ROWS = {
     ],
     "pt-BR": [
         ("sunrise", "a que horas nasce o sol hoje", "daily_sunrise", "time", "sete e cinco"),
-        ("sunset", "a que horas o sol se põe hoje", "daily_sunset", "time", "sete menos vinte"),
+        ("sunset", "a que horas o sol se põe hoje", "daily_sunset", "time", "seis e quarenta"),
         ("sunrise_tomorrow", "a que horas nasce o sol amanhã", "daily_sunrise", "day", "quinta-feira"),
         ("weekday", "como vai estar o tempo na sexta-feira", "daily", "day", "sexta-feira"),
     ],
