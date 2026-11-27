@@ -25,3 +25,37 @@
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿El cielo está todo gris y nublado?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true, "rewritten_from": "Está el cielo apagado"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Hoy el cielo está despejado, sin una nube?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true, "rewritten_from": "Está el cielo sin nubes hoy"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Será que me toca salir de la casa con paraguas?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true, "rewritten_from": "necesito un paraguas"}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cómo está el clima hoy?", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál es el pronóstico del clima para mañana?", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cómo va a estar el clima el fin de semana?", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cómo va a estar el clima esta tarde en Medellín?", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Dime el pronóstico del clima para Bogotá", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cómo está el clima allá afuera?", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cómo va a estar el clima el viernes?", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál es el pronóstico para esta semana?", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cómo va a estar el clima mañana en la mañana en Cali?", "lang": "es-CO", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué temperatura hace afuera?", "lang": "es-CO", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuántos grados va a hacer mañana?", "lang": "es-CO", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál va a ser la temperatura máxima hoy?", "lang": "es-CO", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál va a ser la mínima esta noche?", "lang": "es-CO", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a hacer calor mañana en Barranquilla?", "lang": "es-CO", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Qué temperatura hay ahora en Cartagena?", "lang": "es-CO", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a llover hoy?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a granizar mañana en Bogotá?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a haber neblina mañana temprano?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Llevo sombrilla hoy?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a hacer sol el sábado?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿El cielo va a estar despejado esta noche?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a haber tormenta esta tarde?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Está lloviendo en Medellín?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Necesito impermeable mañana?", "lang": "es-CO", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Va a hacer mucho viento mañana?", "lang": "es-CO", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Está haciendo mucho viento hoy?", "lang": "es-CO", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuándo va a volver a llover?", "lang": "es-CO", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuándo es la próxima lluvia en Bogotá?", "lang": "es-CO", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Cuál es la humedad hoy?", "lang": "es-CO", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿Hay mucha humedad en Barranquilla?", "lang": "es-CO", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿A qué hora sale el sol mañana?", "lang": "es-CO", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿A qué hora amanece en Cali?", "lang": "es-CO", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿A qué hora se oculta el sol hoy?", "lang": "es-CO", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "¿A qué hora se pone el sol mañana en Bogotá?", "lang": "es-CO", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}

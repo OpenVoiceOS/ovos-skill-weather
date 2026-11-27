@@ -25,3 +25,37 @@
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvad tid om aftenen falder skumringen på?", "lang": "da-DK", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "hvad er skumringstidspunktet"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvornår falder skumringen på i London?", "lang": "da-DK", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "hvad er skumringstidspunktet i London"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvornår falder skumringen på i dag?", "lang": "da-DK", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "hvad er skumringstidspunktet i dag"}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvordan er vejret i dag?", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvad er vejrudsigten for i morgen?", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvordan bliver vejret i weekenden?", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvordan bliver vejret i eftermiddag i Aarhus?", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Giv mig vejrudsigten for København", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvordan er vejret udenfor?", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvordan bliver vejret på fredag?", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvad er vejrudsigten for denne uge?", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvordan bliver vejret i morgen tidlig i Odense?", "lang": "da-DK", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvor varmt er det udenfor?", "lang": "da-DK", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvor mange grader bliver det i morgen?", "lang": "da-DK", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvad bliver dagens højeste temperatur?", "lang": "da-DK", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvor koldt bliver det i nat?", "lang": "da-DK", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Bliver det varmt i morgen i Aalborg?", "lang": "da-DK", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvor varmt er det lige nu i Esbjerg?", "lang": "da-DK", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Kommer det til at regne i dag?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Kommer der sne i morgen i Aarhus?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Bliver der tåge i morgen tidlig?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Skal jeg tage en paraply med i dag?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Skinner solen på lørdag?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Bliver himlen klar i nat?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Kommer der torden i eftermiddag?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Regner det i København lige nu?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Har jeg brug for en regnjakke i morgen?", "lang": "da-DK", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Bliver det meget blæsende i morgen?", "lang": "da-DK", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Blæser det meget udenfor i dag?", "lang": "da-DK", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvornår begynder det at regne igen?", "lang": "da-DK", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvornår kommer den næste regn i Odense?", "lang": "da-DK", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvad er luftfugtigheden i dag?", "lang": "da-DK", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Er luften meget fugtig i København?", "lang": "da-DK", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvornår står solen op i morgen?", "lang": "da-DK", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvornår er solopgang i Aarhus?", "lang": "da-DK", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvornår er solnedgang i dag?", "lang": "da-DK", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Hvornår går solen ned i morgen i Aalborg?", "lang": "da-DK", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}

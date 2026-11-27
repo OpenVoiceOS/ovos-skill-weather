@@ -25,3 +25,37 @@
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Um welche Uhrzeit geht heute die Sonne unter?", "lang": "de-DE", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "Sonnenuntergang für heute"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Zu welcher Uhrzeit geht die Sonne unter?", "lang": "de-DE", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "Sonnenuntergangszeit"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wann verschwindet heute Abend die Sonne hinter dem Horizont?", "lang": "de-DE", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "Sonnenuntergangszeit heute"}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie ist das Wetter heute?", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie wird das Wetter morgen?", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie wird das Wetter am Wochenende?", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie wird das Wetter heute Nachmittag in München?", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Sag mir die Wettervorhersage für Berlin", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie ist das Wetter draußen?", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie wird das Wetter am Freitag?", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie ist die Vorhersage für diese Woche?", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie wird das Wetter morgen früh in Hamburg?", "lang": "de-DE", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie warm ist es draußen?", "lang": "de-DE", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie viel Grad wird es morgen?", "lang": "de-DE", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie hoch ist heute die Höchsttemperatur?", "lang": "de-DE", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie kalt wird es heute Nacht?", "lang": "de-DE", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wird es morgen in Köln heiß?", "lang": "de-DE", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie warm ist es gerade in Frankfurt?", "lang": "de-DE", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Regnet es heute?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Schneit es morgen in Garmisch?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Gibt es morgen früh Nebel?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Brauche ich heute einen Regenschirm?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Scheint am Samstag die Sonne?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Ist der Himmel heute Nacht klar?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Gibt es heute Nachmittag ein Gewitter?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Regnet es gerade in Berlin?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Brauche ich morgen eine Regenjacke?", "lang": "de-DE", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wird es morgen sehr windig?", "lang": "de-DE", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Ist es heute draußen windig?", "lang": "de-DE", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wann regnet es wieder?", "lang": "de-DE", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wann kommt der nächste Regen in Hamburg?", "lang": "de-DE", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wie hoch ist die Luftfeuchtigkeit heute?", "lang": "de-DE", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Ist die Luft in München gerade sehr feucht?", "lang": "de-DE", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wann geht morgen die Sonne auf?", "lang": "de-DE", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wann ist Sonnenaufgang in Berlin?", "lang": "de-DE", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wann ist heute Sonnenuntergang?", "lang": "de-DE", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Wann geht morgen in Köln die Sonne unter?", "lang": "de-DE", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}

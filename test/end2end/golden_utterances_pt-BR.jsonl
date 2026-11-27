@@ -25,3 +25,37 @@
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Que horas começa a ficar escuro?", "lang": "pt-BR", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "a que horas escurece"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Em Londres que horas começa a ficar escuro?", "lang": "pt-BR", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "a que horas escurece em London"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Me diz que horas o sol vai se pôr", "lang": "pt-BR", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "hora do pôr do sol"}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Como está o tempo hoje?", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Qual é a previsão do tempo para amanhã?", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Como vai ficar o tempo no fim de semana?", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Como vai estar o tempo hoje à tarde em São Paulo?", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Me fala a previsão do tempo pro Rio de Janeiro", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Como tá o tempo lá fora?", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Como vai estar o tempo na sexta-feira?", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Qual a previsão pra essa semana?", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Como vai estar o tempo amanhã de manhã em Curitiba?", "lang": "pt-BR", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Qual é a temperatura lá fora?", "lang": "pt-BR", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quantos graus vai fazer amanhã?", "lang": "pt-BR", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Qual vai ser a máxima hoje?", "lang": "pt-BR", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Qual vai ser a mínima hoje à noite?", "lang": "pt-BR", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Vai fazer calor amanhã em Salvador?", "lang": "pt-BR", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Qual a temperatura agora em Belo Horizonte?", "lang": "pt-BR", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Vai chover hoje?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Vai nevar amanhã em Gramado?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Vai ter neblina amanhã cedo?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Preciso levar guarda-chuva hoje?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Vai fazer sol no sábado?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "O céu vai estar limpo hoje à noite?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Vai ter tempestade hoje à tarde?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Tá chovendo em São Paulo?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Devo levar capa de chuva amanhã?", "lang": "pt-BR", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Vai ventar muito amanhã?", "lang": "pt-BR", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Tá ventando muito lá fora hoje?", "lang": "pt-BR", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quando é que vai chover de novo?", "lang": "pt-BR", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quando é a próxima chuva em Recife?", "lang": "pt-BR", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Qual é a umidade do ar hoje?", "lang": "pt-BR", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "O ar está muito úmido em Manaus?", "lang": "pt-BR", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Que horas o sol nasce amanhã?", "lang": "pt-BR", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Que horas é o nascer do sol em Fortaleza?", "lang": "pt-BR", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Que horas é o pôr do sol hoje?", "lang": "pt-BR", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Que horas o sol se põe amanhã no Rio?", "lang": "pt-BR", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}

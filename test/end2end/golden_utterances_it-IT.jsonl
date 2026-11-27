@@ -25,3 +25,37 @@
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Stasera a che ora va giù il sole?", "lang": "it-IT", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "A che ora tramonta il sole oggi"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "A Londra a che ora va giù il sole oggi?", "lang": "it-IT", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "A che ora tramonta il sole oggi a London"}
 {"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Dimmi quando tramonta il sole oggi a Parigi", "lang": "it-IT", "intent_label": "sunset", "needs_manual": true, "machine_generated": true, "rewritten_from": "A che ora tramonta il sole oggi a Paris"}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Che tempo fa oggi?", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quali sono le previsioni del tempo per domani?", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Che tempo farà nel fine settimana?", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Che tempo farà oggi pomeriggio a Milano?", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Dimmi le previsioni del tempo per Roma", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Che tempo fa fuori?", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Che tempo farà venerdì?", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quali sono le previsioni per questa settimana?", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Che tempo farà domattina a Torino?", "lang": "it-IT", "intent_label": "weather", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Che temperatura c'è fuori?", "lang": "it-IT", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quanti gradi ci saranno domani?", "lang": "it-IT", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quale sarà la temperatura massima oggi?", "lang": "it-IT", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quale sarà la minima stanotte?", "lang": "it-IT", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Farà caldo domani a Napoli?", "lang": "it-IT", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quanti gradi ci sono adesso a Firenze?", "lang": "it-IT", "intent_label": "temperature", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Pioverà oggi?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Nevicherà domani a Bolzano?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Ci sarà nebbia domattina?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Devo prendere l'ombrello oggi?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Ci sarà il sole sabato?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Il cielo sarà sereno stasera?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Ci sarà un temporale oggi pomeriggio?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Sta piovendo a Milano?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Mi serve l'impermeabile domani?", "lang": "it-IT", "intent_label": "weather_condition", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Ci sarà molto vento domani?", "lang": "it-IT", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "C'è tanto vento fuori oggi?", "lang": "it-IT", "intent_label": "is_wind", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quando tornerà a piovere?", "lang": "it-IT", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Quando è la prossima pioggia a Genova?", "lang": "it-IT", "intent_label": "next_rain", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "Qual è l'umidità oggi?", "lang": "it-IT", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "C'è molta umidità a Venezia?", "lang": "it-IT", "intent_label": "humidity", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "A che ora sorge il sole domani?", "lang": "it-IT", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "A che ora è l'alba a Roma?", "lang": "it-IT", "intent_label": "sunrise", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "A che ora è il tramonto oggi?", "lang": "it-IT", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
+{"skill_id": "ovos-skill-weather.openvoiceos", "utterance": "A che ora tramonta il sole domani a Palermo?", "lang": "it-IT", "intent_label": "sunset", "needs_manual": true, "machine_generated": true}
