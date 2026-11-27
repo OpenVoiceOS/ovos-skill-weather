@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Weather",
+  "description": "Get weather conditions, forecasts, expected precipitation and more! You can also ask for other cities around the world. Current conditions and weather forecasts come from OpenMeteo",
+  "examples": [
+    "current humidity level right now in Chicago",
+    "is it hot",
+    "is it windy right now in Chicago",
+    "when will it rain next in Chicago",
+    "when is the sunrise today in Chicago",
+    "when is the sunset today in Chicago",
+    "what is the current temperature right now in celsius in Chicago",
+    "what is the weather like in celsius",
+    "is it foggy today",
+    "humidity percentage right now",
+    "is it chilly",
+    "how strong are the winds",
+    "when is the next rainfall",
+    "what time does the sun rise today in Chicago",
+    "when is the sun set tomorrow",
+    "what's the highest temp",
+    "hourly weather for this morning",
+    "is the sky gray in Chicago"
+  ],
+  "tags": [
+    "weather",
+    "forecast",
+    "rain",
+    "humidity",
+    "snow",
+    "temperature"
+  ]
+}

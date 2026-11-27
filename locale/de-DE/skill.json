@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Wetter",
+  "description": "Erhalte Wetterbedingungen, Prognosen, erwartete Niederschläge und mehr! Du kannst auch nach anderen Städten auf der ganzen Welt fragen. Aktuelle Bedingungen und Wettervorhersagen stammen von OpenMeteo",
+  "examples": [
+    "Luftfeuchtigkeit in Prozent",
+    "Wird es kalt in Berlin?",
+    "gibt es starke Windböen",
+    "Sag mir, wann es regnen wird",
+    "Sonnenaufgang für heute",
+    "Sonnenuntergang für heute",
+    "Wie ist die Temperatur",
+    "aktuelle Wetter",
+    "ist es bewölkt heute",
+    "ist die Luft trocken oder feucht",
+    "Brauche ich eine Jacke in Berlin?",
+    "ist es jetzt in Berlin windig",
+    "um wie viel Uhr wird es anfangen zu regnen",
+    "wann geht die Sonne auf in Berlin",
+    "wann endet das Abendlicht in Berlin",
+    "Wie ist die Temperatur in Berlin draußen",
+    "Vorhersage für Sonntag um 12 pm",
+    "wird in Berlin ein Sturm erwartet"
+  ],
+  "tags": [
+    "Wetter",
+    "Vorhersage",
+    "Regen",
+    "Luftfeuchtigkeit",
+    "Schnee",
+    "Temperatur"
+  ]
+}

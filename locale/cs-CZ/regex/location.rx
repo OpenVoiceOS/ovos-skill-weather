@@ -1,0 +1,1 @@
+.*\b(v|ve|na|u|do) (?P<Location>(?!\bcelsius\b|\bfahrenheit\b) *.+)

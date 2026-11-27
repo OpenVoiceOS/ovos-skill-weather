@@ -1,0 +1,8 @@
+Je dnes venku větrno [v {location}]
+Jak silný je vítr [v {location}]
+Bude dnes foukat vítr [v {location}]
+Musím dnes zajistit věci na balkoně kvůli větru [v {location}]
+je (teď|dnes) silný vítr [v {location}]
+budou (nárazy větru|silné poryvy) (dnes|zítra)
+bude větrno (dnes|zítra) [v {location}]
+bude foukat (dnes|zítra) [v {location}]

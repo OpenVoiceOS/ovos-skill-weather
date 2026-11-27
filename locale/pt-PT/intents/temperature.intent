@@ -1,0 +1,82 @@
+Qual é a temperatura atual [em {location}]
+Quantos graus estão agora [em {location}]
+Que temperatura está agora [em {location}]
+Está calor ou frio lá fora agora [em {location}]
+Qual é a temperatura máxima (hoje|amanhã) [em {location}]
+Quantos graus no máximo (hoje|amanhã) [em {location}]
+Quanto calor vai fazer (hoje|amanhã) [em {location}]
+Qual vai ser a temperatura (hoje à noite|esta noite|amanhã de manhã) [em {location}]
+Quantos graus vai fazer (à noite|de manhã) [em {location}]
+Que temperatura está prevista à tarde [em {location}]
+Qual é a temperatura mínima (hoje|esta noite) [em {location}]
+Quanto frio vai fazer durante a noite [em {location}]
+Vai gear esta noite [em {location}]
+Quantos graus se esperam
+Quantos graus se esperam em {location}
+Quantos graus se esperam hoje
+Quantos graus se esperam hoje em {location}
+Quantos graus se esperam amanhã
+Quantos graus se esperam amanhã em {location}
+Diz-me a temperatura
+Diz-me a temperatura em {location}
+Diz-me a temperatura hoje
+Diz-me a temperatura hoje em {location}
+Diz-me a temperatura amanhã
+Diz-me a temperatura amanhã em {location}
+Que temperatura vamos ter
+Que temperatura vamos ter em {location}
+Que temperatura vamos ter hoje
+Que temperatura vamos ter hoje em {location}
+Que temperatura vamos ter amanhã
+Que temperatura vamos ter amanhã em {location}
+temperatura lá fora [em {location}]
+qual vai ser a temperatura (máxima|mínima) [em {location}]
+que temperatura está [em {location}]
+Vai estar frio (hoje|amanhã|{day}) [em {location}]
+Está frio lá fora agora [em {location}]
+Vai estar fresco (hoje|amanhã) [em {location}]
+Preciso de casaco hoje [em {location}]
+Vai estar calor (hoje|amanhã|{day}) [em {location}]
+Está calor lá fora agora [em {location}]
+Vai fazer muito calor hoje [em {location}]
+Preciso de protetor solar hoje [em {location}]
+Vai estar quente
+Vai estar quente em {location}
+Vai estar quente hoje
+Vai estar quente hoje em {location}
+Vai estar quente amanhã
+Vai estar quente amanhã em {location}
+Está quente
+Está quente em {location}
+Está quente hoje
+Está quente hoje em {location}
+Está quente amanhã
+Está quente amanhã em {location}
+Fica quente
+Fica quente em {location}
+Fica quente hoje
+Fica quente hoje em {location}
+Fica quente amanhã
+Fica quente amanhã em {location}
+Vai estar frio
+Vai estar frio em {location}
+Vai estar frio hoje
+Vai estar frio hoje em {location}
+Vai estar frio amanhã
+Vai estar frio amanhã em {location}
+Está frio
+Está frio em {location}
+Está frio hoje
+Está frio hoje em {location}
+Está frio amanhã
+Está frio amanhã em {location}
+Fica frio
+Fica frio em {location}
+Fica frio hoje
+Fica frio hoje em {location}
+Fica frio amanhã
+Fica frio amanhã em {location}
+(é preciso|preciso de) (levar casaco|um casaco|uma camisola) (amanhã|esta noite|para sair)
+está (frio|calor) [em {location}]
+vai estar (frio|calor) amanhã [em {location}]
+preciso de casaco

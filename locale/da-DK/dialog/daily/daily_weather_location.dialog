@@ -1,0 +1,2 @@
+{day} det vil være {condition}, med en høj på {high_temperature} og en lav på {low_temperature} i {location}
+{day}, {location} vil have en højeste værdi på {high_temperature} og en laveste værdi på {low_temperature}, med {condition}

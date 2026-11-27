@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Weer",
+  "description": "Ontvang de weersvoorspellingen, verwachte neerslag en meer! Je kunt ook vragen naar het weerbeeld in andere steden over de hele wereld. Huidige weergegevens en voorspellingen komen van OpenMeteo",
+  "examples": [
+    "heb ik een luchtbevochtiger nodig",
+    "Wordt het koud in Utrecht?",
+    "hoe hard waait het",
+    "gaat het regenen",
+    "hoe laat gaat de zon op",
+    "hoe laat gaat de zon onder",
+    "wat is de temperatuur dinsdag avond",
+    "gaat het onweren op dinsdag",
+    "hoe bewolkt of helder is het",
+    "hoe vochtig is het in Utrecht",
+    "Moet ik een jas aan in Utrecht?",
+    "moet ik oppassen voor harde wind",
+    "komt er snel regen aan",
+    "tijd van zonsopgang vandaag",
+    "tijd van zonsondergang vandaag",
+    "wat is de laagste temperatuur in Utrecht op morgen",
+    "hoe is het weer in Utrecht donderdag",
+    "zullen er wolken zijn vandaag"
+  ],
+  "tags": [
+    "weer",
+    "weersvoorspelling",
+    "regen",
+    "vochtigheid",
+    "sneeuw",
+    "temperatuur"
+  ]
+}

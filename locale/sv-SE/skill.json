@@ -1,0 +1,34 @@
+{
+  "skill_id": "ovos-skill-weather.openvoiceos",
+  "source": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "name": "Väder",
+  "description": "Få väderläget, prognoser, väntad nederbörd och mycket mer. Du kan också fråga om andra städer i världen. Aktuellt väder och prognoser kommer från OpenMeteo.",
+  "examples": [
+    "Vad är luftfuktigheten just nu i Göteborg",
+    "Vilken luftfuktighet väntas i Göteborg",
+    "Blir det kallt idag i Göteborg",
+    "Blir det varmt i Göteborg",
+    "Blåser det mycket just nu i Göteborg",
+    "Blir det blåsigt idag i Göteborg",
+    "När kommer det att regna igen i Göteborg",
+    "Hur lång tid tills regnet börjar idag i Göteborg",
+    "Hur dags går solen upp idag i Göteborg",
+    "Hur dags går solen upp",
+    "Hur dags går solen ner idag i Göteborg",
+    "Hur dags går solen ner",
+    "Vad är temperaturen just nu i Göteborg",
+    "Hur många grader blir det i natt",
+    "Vad är väderprognosen för de kommande två dagarna i Göteborg",
+    "Vad är prognosen för i kväll i Göteborg",
+    "är det molnigt",
+    "väntas sol i Göteborg"
+  ],
+  "tags": [
+    "väder",
+    "prognos",
+    "regn",
+    "luftfuktighet",
+    "snö",
+    "temperatur"
+  ]
+}

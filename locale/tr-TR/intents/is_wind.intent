@@ -1,0 +1,7 @@
+Şu anda rüzgar var mı [{location} için]
+Rüzgar ne kadar kuvvetli [{location} için]
+Bugün rüzgarlı olacak mı [{location} için]
+(bugün|yarın) (kuvvetli|sert) rüzgar olacak mı
+rüzgar var mı [{location} için]
+yarın rüzgarlı olacak mı [{location} için]
+rüzgar esiyor mu [{location} için]
