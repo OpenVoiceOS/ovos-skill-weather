@@ -36,7 +36,7 @@ from os.path import dirname
 # TODO - get rid of relative imports as soon as skills can be properly packaged with arbitrary module structures
 from typing import List, Optional
 
-from ovos_date_parser import nice_time
+from .speech import spoken_time
 from ovos_utils.time import now_local
 from ovos_workshop.resource_files import SkillResources
 from ovos_workshop.skills.ovos import join_word_list
@@ -167,7 +167,7 @@ class CurrentDialog(WeatherDialog):
             self.name += "_sunrise_future"
         else:
             self.name += "_sunrise_past"
-        self.data = dict(time=nice_time(self.weather.sunrise, lang=self.lang))
+        self.data = dict(time=spoken_time(self.weather.sunrise, self.lang))
         self._add_location()
 
     def build_sunset_dialog(self):
@@ -180,7 +180,7 @@ class CurrentDialog(WeatherDialog):
             self.name += "_sunset_future"
         else:
             self.name += "_sunset_past"
-        self.data = dict(time=nice_time(self.weather.sunset, lang=self.lang))
+        self.data = dict(time=spoken_time(self.weather.sunset, self.lang))
         self._add_location()
 
     def build_wind_dialog(self):
@@ -217,7 +217,7 @@ class HourlyDialog(WeatherDialog):
         self.name += "_weather"
         self.data = dict(
             condition=self.translate(self.weather.condition.description),
-            time=nice_time(self.weather.date_time, lang=self.lang),
+            time=spoken_time(self.weather.date_time, self.lang),
             temperature=self.weather.temperature,
         )
         self._add_location()
@@ -241,7 +241,7 @@ class HourlyDialog(WeatherDialog):
         """
         self.data = dict(
             condition=self.translate(self.weather.condition.description),
-            time=nice_time(self.weather.date_time, lang=self.lang),
+            time=spoken_time(self.weather.date_time, self.lang),
         )
         if intent_match:
             self.name += "_condition_expected"
@@ -259,7 +259,7 @@ class HourlyDialog(WeatherDialog):
             speed=self.weather.wind_speed,
             speed_unit=self.translate(self.config.speed_unit),
             direction=self.translate(self.weather.wind_direction.lower()),
-            time=nice_time(self.weather.date_time, lang=self.lang),
+            time=spoken_time(self.weather.date_time, self.lang),
         )
         self.name += "_wind_" + wind_strength
         self._add_location()
@@ -345,14 +345,14 @@ class DailyDialog(WeatherDialog):
     def build_sunrise_dialog(self):
         """Build the components necessary to speak the sunrise time."""
         self.name += "_sunrise"
-        self.data = dict(time=nice_time(self.weather.sunrise, lang=self.lang))
+        self.data = dict(time=spoken_time(self.weather.sunrise, self.lang))
         self.data.update(day=get_speakable_day_of_week(self.weather.date_time, self.lang))
         self._add_location()
 
     def build_sunset_dialog(self):
         """Build the components necessary to speak the sunset time."""
         self.name += "_sunset"
-        self.data = dict(time=nice_time(self.weather.sunset, lang=self.lang))
+        self.data = dict(time=spoken_time(self.weather.sunset, self.lang))
         self.data.update(day=get_speakable_day_of_week(self.weather.date_time, self.lang))
         self._add_location()
 
