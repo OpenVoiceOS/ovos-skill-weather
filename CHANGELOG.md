@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.7a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.7a2) (2026-11-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.7a1...1.5.7a2)
+
+**Merged pull requests:**
+
+- docs: README, docs index, navigation and agent hints [\#338](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/338) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.7a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.7a1) (2026-11-27)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.6a2...1.5.7a1)
@@ -361,17 +369,9 @@
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.16a1...1.0.16a2)
 
-**Merged pull requests:**
-
-- Merge six weather condition intents into one [\#230](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/230) ([JarbasAl](https://github.com/JarbasAl))
-
 ## [1.0.16a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.16a1) (2026-09-03)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.15a8...1.0.16a1)
-
-**Merged pull requests:**
-
-- fix: make "it" optional in en-US is-it condition intents [\#229](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/229) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.15a8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.15a8) (2026-09-01)
 
