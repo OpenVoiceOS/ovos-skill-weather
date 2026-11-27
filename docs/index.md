@@ -30,3 +30,13 @@ It's currently <temperature> degrees <unit>.
 | [Units and settings](settings.md) | how the skill selects metric or imperial units |
 | [The Open-Meteo source](openmeteo.md) | what the skill asks Open-Meteo for, and what it says on an error |
 | [Run the tests](testing.md) | the unit tests, the end-to-end tests with the frozen clock, and the phrase check |
+
+## Libraries
+
+| Library | Use in the skill |
+| :--- | :--- |
+| [ovos-workshop](https://github.com/OpenVoiceOS/ovos-workshop) | the skill framework |
+| [chronologia](https://github.com/TigreGotico/chronologia) | reads the day, the part of the day and the number of days of a request |
+| [numtag](https://github.com/TigreGotico/numtag) | finds the number of days in a multi-day request |
+| [ovos-date-parser](https://github.com/OpenVoiceOS/ovos-date-parser) | speaks the dates and times in the answers |
+| [ovos-utterance-normalizer](https://github.com/OpenVoiceOS/ovos-utterance-normalizer) | normalizes the utterance before intent matching |
