@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.6a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.6a2) (2026-11-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.6a1...1.5.6a2)
+
+**Merged pull requests:**
+
+- test: pin the spoken sunrise, sunset and day writer output on m2v [\#329](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/329) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.6a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.6a1) (2026-11-17)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.5a3...1.5.6a1)
@@ -651,15 +659,15 @@
 
 ## [0.1.8](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a2...0.1.8)
-
-## [0.1.8a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a2) (2024-11-19)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a3...0.1.8a2)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a3...0.1.8)
 
 ## [0.1.8a3](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a3) (2024-11-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a3)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a2...0.1.8a3)
+
+## [0.1.8a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a2) (2024-11-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/0.1.8a1...0.1.8a2)
 
 ## [0.1.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/0.1.8a1) (2024-11-19)
 
