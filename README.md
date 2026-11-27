@@ -1,86 +1,42 @@
-[![gitlocalized ](https://gitlocalize.com/repo/9611/whole_project/badge.svg)](https://gitlocalize.com/repo/9662?utm_source=badge) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/OpenVoiceOS/ovos-skill-weather)
-
 # <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/svgs/solid/sun.svg' card_color='#FEE255' width='50' height='50' style='vertical-align:bottom'/> Weather
+<!-- agent-hint
+covers: what the skill does, install, a quickstart and the docs link table
+source: pyproject.toml
+generated: no
+verify: diff <(ls docs/*.md | xargs -n1 basename | sort) <(grep -o '(docs/[a-z0-9-]*\.md)' README.md | sed 's%(docs/%%; s%)%%' | sort -u)
+see: docs/index.md
+-->
 
-An [OVOS](https://github.com/OpenVoiceOS) skill that reports weather conditions and forecasts.
-
-## About
-
-The skill reports current conditions, forecasts, and expected precipitation. By default, it uses your
-device's configured location. You can also ask about other cities around the world.
-
-Current conditions and forecasts come from [Open-Meteo](https://open-meteo.com).
-
-The skill shows temperature in Celsius or Fahrenheit, based on your configuration or skill settings.
-You can also ask for a specific unit that differs from your configuration.
-
-The skill needs no API key and no user account.
+An OVOS skill that speaks the current weather, forecasts, temperatures, wind, humidity, rain, sunrise and sunset. The data comes from [Open-Meteo](https://open-meteo.com). The skill needs no API key and no user account.
 
 ## Install
 
-Install the skill with pip:
-
 ```bash
-pip install ovos-skill-weather
+uv pip install --prerelease=allow ovos-skill-weather
 ```
 
-An [OVOS](https://github.com/OpenVoiceOS) instance loads it automatically through the
-[`opm.skill`](https://github.com/OpenVoiceOS/OVOS-plugin-manager) entry point.
+OVOS loads the skill through the `opm.skill` entry point `ovos-skill-weather.openvoiceos`.
 
-## Usage
+## Quickstart
 
-### Current conditions
+```text
+"what's the temperature" -> It's currently <temperature> degrees <unit>.
+"what is the weather"    -> It's currently <condition> and <temperature> degrees <unit>.
+```
 
-* "What is the weather?"
-* "What is the weather in Houston?"
+The forecast fills the parts in angle brackets.
 
-### Daily forecasts
+## Documentation
 
-* "What is the forecast tomorrow?"
-* "What is the forecast in London tomorrow?"
-* "What is the weather going to be like Tuesday?"
-* "What is the weather for the next three days?"
-* "What is the weather this weekend?"
+| Page | Contents |
+| :--- | :--- |
+| [Docs index](docs/index.md) | the reading order |
+| [Phrases for each intent](docs/usage.md) | example phrases and the intent that each one starts |
+| [How the skill speaks the day](docs/days.md) | today, the weekday, and the letter case |
+| [Units and settings](docs/settings.md) | metric or imperial, the units setting, a unit in the phrase |
+| [The Open-Meteo source](docs/openmeteo.md) | the request, the cache and the errors |
+| [Run the tests](docs/testing.md) | unit tests, end-to-end tests with the frozen clock, the phrase check |
 
-### Temperatures
+## License
 
-* "What's the temperature?"
-* "What's the temperature in Paris tomorrow in Celsius?"
-* "What's the high temperature tomorrow?"
-* "Will it be cold on Tuesday?"
-* "Is it hot outside?"
-
-### Specific conditions
-
-* "When will it rain next?"
-* "How windy is it?"
-* "What's the humidity?"
-* "Is it going to snow?"
-* "Is it going to snow in Baltimore?"
-* "When is the sunset?"
-
-## Related projects
-
-* [OpenVoiceOS/ovos-workshop](https://github.com/OpenVoiceOS/ovos-workshop) — the skill framework this skill builds on.
-* [TigreGotico/chronologia](https://github.com/TigreGotico/chronologia) — reads the day, the part of the day and the number of days a forecast request asks about.
-* [TigreGotico/numtag](https://github.com/TigreGotico/numtag) — finds the number of days said in a multi-day forecast request.
-* [OpenVoiceOS/ovos-date-parser](https://github.com/OpenVoiceOS/ovos-date-parser) — speaks the dates and times in forecast answers.
-* [OpenVoiceOS/ovos-utterance-normalizer](https://github.com/OpenVoiceOS/ovos-utterance-normalizer) — normalizes utterances before intent matching.
-
-## Credits
-
-OpenVoiceOS (@OpenVoiceOS)
-Mycroft AI (@MycroftAI)
-
-## Category
-
-**Daily**
-
-## Tags
-
-#weather
-#forecast
-#rain
-#humidity
-#snow
-#temperature
+[Apache-2.0](./LICENSE). Credits: OpenVoiceOS, Mycroft AI.
