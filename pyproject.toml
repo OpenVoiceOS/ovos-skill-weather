@@ -18,7 +18,7 @@ dependencies = [
     "ovos-workshop>=2.2.0,<10.0.0",
     "chronologia>=0.32.7a1",
     "numtag>=0.13.6a1",
-    "ovos-date-parser>=0.0.2,<1.0.0",
+    "ovos-date-parser>=0.35.15a1,<1.0.0",
     "ovos-utterance-normalizer>=0.0.1,<1.0.0",
     "timezonefinder",
 ]

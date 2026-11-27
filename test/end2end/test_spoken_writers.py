@@ -87,10 +87,6 @@ ROWS = {
 
 # (lang, case) -> the defect, with the form a speaker says.
 KNOWN_DEFECTS = {
-    ("fr-FR", "sunrise_tomorrow"): "fr-FR nice_date puts no comma after the weekday, so the "
-                                   "day slot keeps the day number: 'jeudi cinq', not 'jeudi'",
-    ("fr-FR", "weekday"): "fr-FR nice_date puts no comma after the weekday, so the "
-                          "day slot keeps the day number: 'vendredi six', not 'vendredi'",
     ("it-IT", "sunrise"): "it-IT nice_time says 07:05 as 'sette e zero cinque'; "
                           "Italian says 'sette e cinque'",
     ("da-DK", "sunrise_tomorrow"): "da-DK 'i morgen' fills the location slot and the "
