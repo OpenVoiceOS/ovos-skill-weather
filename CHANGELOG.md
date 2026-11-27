@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.7a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.7a1) (2026-11-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.6a2...1.5.7a1)
+
+**Merged pull requests:**
+
+- fix: speak the forecast day name with nice\_weekday [\#334](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/334) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.6a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.6a2) (2026-11-27)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.6a1...1.5.6a2)
