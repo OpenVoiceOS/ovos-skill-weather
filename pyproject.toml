@@ -16,7 +16,7 @@ dependencies = [
     "pytz",
     "ovos-utils>=0.4.0,<1.0.0",
     "ovos-workshop>=2.2.0,<10.0.0",
-    "chronologia>=0.45.12a1",
+    "chronologia>=0.47.1a1",
     "numtag>=0.13.6a1",
     "ovos-date-parser>=0.35.15a1,<1.0.0",
     "ovos-utterance-normalizer>=0.0.1,<1.0.0",
