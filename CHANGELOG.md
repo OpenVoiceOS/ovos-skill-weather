@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.9a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.9a1) (2026-11-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.8a1...1.5.9a1)
+
+**Merged pull requests:**
+
+- fix: speak pt-BR times through chronologia 0.45.12a1 [\#346](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/346) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.8a1) (2026-11-27)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.7a2...1.5.8a1)
