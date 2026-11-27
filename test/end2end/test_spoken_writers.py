@@ -91,8 +91,6 @@ KNOWN_DEFECTS = {
                           "Italian says 'sette e cinque'",
     ("da-DK", "sunrise_tomorrow"): "da-DK 'i morgen' fills the location slot and the "
                                    "geolocation lookup fails; the answer names 'torsdag'",
-    ("da-DK", "sunset"): "da-DK 'hvad tid går solen ned' reads as a past date and the skill "
-                         "refuses it as historical weather; the answer says 'seks fyrre'",
 }
 
 
