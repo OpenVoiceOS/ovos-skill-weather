@@ -93,3 +93,10 @@ def test_every_shipping_locale_has_a_golden_file():
     locale_root = END2END_DIR.parents[1] / "locale"
     shipping = {d.name for d in locale_root.iterdir() if d.is_dir() and any(d.rglob("*.intent"))}
     assert golden == shipping, f"golden files {sorted(golden ^ shipping)} differ from shipping locales"
+
+
+def test_da_population_question_reaches_no_weather_intent(engine_for):
+    # ovos-m2v-pipeline#360: the da-DK .required files keep it out
+    row = {"utterance": "hvor mange bor der i københavn", "lang": "da-DK"}
+    fired = _routed(engine_for("da-DK"), row)
+    assert [t for t in fired if t.startswith(f"{SKILL_ID}:")] == []
