@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.8a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.8a1) (2026-11-27)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.7a2...1.5.8a1)
+
+**Merged pull requests:**
+
+- fix: speak pt-PT weather times through chronologia [\#344](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/344) ([openvoiceos-bot](https://github.com/openvoiceos-bot))
+
 ## [1.5.7a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.5.7a2) (2026-11-27)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.5.7a1...1.5.7a2)
@@ -360,10 +368,6 @@
 ## [1.1.0a1](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.1.0a1) (2026-09-03)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-weather/compare/1.0.16a2...1.1.0a1)
-
-**Merged pull requests:**
-
-- feat: migrate is\_hot\_cold to a padacioso intent file [\#231](https://github.com/OpenVoiceOS/ovos-skill-weather/pull/231) ([JarbasAl](https://github.com/JarbasAl))
 
 ## [1.0.16a2](https://github.com/OpenVoiceOS/ovos-skill-weather/tree/1.0.16a2) (2026-09-03)
 
